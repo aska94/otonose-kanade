@@ -1,0 +1,346 @@
+{
+  "broadcast": {
+    "id": "m0gb_Xt8AsE",
+    "title": "【 歌枠 / 縦型 】ボイトレ帰りの歌枠！🎵【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+    "date": "2025-04-07",
+    "youtubeUrl": "https://youtube.com/watch?v=m0gb_Xt8AsE",
+    "broadcastUrl": "https://youtube.com/watch?v=m0gb_Xt8AsE",
+    "sources": [
+      "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+    ],
+    "status": "source-confirmed"
+  },
+  "performances": [
+    {
+      "id": "m0gb_Xt8AsE-01",
+      "broadcastId": "m0gb_Xt8AsE",
+      "date": "2025-04-07",
+      "order": 1,
+      "title": "Color Rise Harmony",
+      "normalizedTitle": "Color Rise Harmony",
+      "artist": "hololive IDOL PROJECT",
+      "timestamp": "2:48",
+      "timestampSeconds": 168,
+      "sourceUrl": "https://youtube.com/watch?v=m0gb_Xt8AsE&t=168s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "m0gb_Xt8AsE-02",
+      "broadcastId": "m0gb_Xt8AsE",
+      "date": "2025-04-07",
+      "order": 2,
+      "title": "春を告げる",
+      "normalizedTitle": "春を告げる",
+      "artist": "yama",
+      "timestamp": "9:13",
+      "timestampSeconds": 553,
+      "sourceUrl": "https://youtube.com/watch?v=m0gb_Xt8AsE&t=553s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "m0gb_Xt8AsE-03",
+      "broadcastId": "m0gb_Xt8AsE",
+      "date": "2025-04-07",
+      "order": 3,
+      "title": "メーベル",
+      "normalizedTitle": "メーベル",
+      "artist": "バルーン",
+      "timestamp": "14:15",
+      "timestampSeconds": 855,
+      "sourceUrl": "https://youtube.com/watch?v=m0gb_Xt8AsE&t=855s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "m0gb_Xt8AsE-04",
+      "broadcastId": "m0gb_Xt8AsE",
+      "date": "2025-04-07",
+      "order": 4,
+      "title": "メーベル",
+      "normalizedTitle": "メーベル",
+      "artist": "バルーン",
+      "timestamp": "15:10",
+      "timestampSeconds": 910,
+      "sourceUrl": "https://youtube.com/watch?v=m0gb_Xt8AsE&t=910s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "m0gb_Xt8AsE-05",
+      "broadcastId": "m0gb_Xt8AsE",
+      "date": "2025-04-07",
+      "order": 5,
+      "title": "フォニイ",
+      "normalizedTitle": "フォニイ",
+      "artist": "ツミキ feat. 可不",
+      "timestamp": "19:34",
+      "timestampSeconds": 1174,
+      "sourceUrl": "https://youtube.com/watch?v=m0gb_Xt8AsE&t=1174s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "m0gb_Xt8AsE-06",
+      "broadcastId": "m0gb_Xt8AsE",
+      "date": "2025-04-07",
+      "order": 6,
+      "title": "Catch the Moment",
+      "normalizedTitle": "Catch the Moment",
+      "artist": "",
+      "timestamp": "24:49",
+      "timestampSeconds": 1489,
+      "sourceUrl": "https://youtube.com/watch?v=m0gb_Xt8AsE&t=1489s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "m0gb_Xt8AsE-07",
+      "broadcastId": "m0gb_Xt8AsE",
+      "date": "2025-04-07",
+      "order": 7,
+      "title": "百花繚乱",
+      "normalizedTitle": "百花繚乱",
+      "artist": "幾田りら",
+      "timestamp": "31:07",
+      "timestampSeconds": 1867,
+      "sourceUrl": "https://youtube.com/watch?v=m0gb_Xt8AsE&t=1867s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "m0gb_Xt8AsE-08",
+      "broadcastId": "m0gb_Xt8AsE",
+      "date": "2025-04-07",
+      "order": 8,
+      "title": "薬屋のひとりごと",
+      "normalizedTitle": "薬屋のひとりごと",
+      "artist": "日向夏",
+      "timestamp": "34:30",
+      "timestampSeconds": 2070,
+      "sourceUrl": "https://youtube.com/watch?v=m0gb_Xt8AsE&t=2070s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "m0gb_Xt8AsE-09",
+      "broadcastId": "m0gb_Xt8AsE",
+      "date": "2025-04-07",
+      "order": 9,
+      "title": "薬屋のひとりごと",
+      "normalizedTitle": "薬屋のひとりごと",
+      "artist": "日向夏",
+      "timestamp": "35:40",
+      "timestampSeconds": 2140,
+      "sourceUrl": "https://youtube.com/watch?v=m0gb_Xt8AsE&t=2140s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "m0gb_Xt8AsE-10",
+      "broadcastId": "m0gb_Xt8AsE",
+      "date": "2025-04-07",
+      "order": 10,
+      "title": "さよーならまたいつか！",
+      "normalizedTitle": "さよーならまたいつか！",
+      "artist": "米津玄師",
+      "timestamp": "36:52",
+      "timestampSeconds": 2212,
+      "sourceUrl": "https://youtube.com/watch?v=m0gb_Xt8AsE&t=2212s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "m0gb_Xt8AsE-11",
+      "broadcastId": "m0gb_Xt8AsE",
+      "date": "2025-04-07",
+      "order": 11,
+      "title": "怪獣",
+      "normalizedTitle": "怪獣",
+      "artist": "サカナクション",
+      "timestamp": "42:47",
+      "timestampSeconds": 2567,
+      "sourceUrl": "https://youtube.com/watch?v=m0gb_Xt8AsE&t=2567s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "m0gb_Xt8AsE-12",
+      "broadcastId": "m0gb_Xt8AsE",
+      "date": "2025-04-07",
+      "order": 12,
+      "title": "BOW AND ARROW",
+      "normalizedTitle": "BOW AND ARROW",
+      "artist": "米津玄師",
+      "timestamp": "50:46",
+      "timestampSeconds": 3046,
+      "sourceUrl": "https://youtube.com/watch?v=m0gb_Xt8AsE&t=3046s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "m0gb_Xt8AsE-13",
+      "broadcastId": "m0gb_Xt8AsE",
+      "date": "2025-04-07",
+      "order": 13,
+      "title": "メダリスト",
+      "normalizedTitle": "メダリスト",
+      "artist": "つるの剛士 / 藤本貴則",
+      "timestamp": "54:13",
+      "timestampSeconds": 3253,
+      "sourceUrl": "https://youtube.com/watch?v=m0gb_Xt8AsE&t=3253s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "m0gb_Xt8AsE-14",
+      "broadcastId": "m0gb_Xt8AsE",
+      "date": "2025-04-07",
+      "order": 14,
+      "title": "サクラミラージュ",
+      "normalizedTitle": "サクラミラージュ",
+      "artist": "ReGLOSS",
+      "timestamp": "55:56",
+      "timestampSeconds": 3356,
+      "sourceUrl": "https://youtube.com/watch?v=m0gb_Xt8AsE&t=3356s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "m0gb_Xt8AsE-15",
+      "broadcastId": "m0gb_Xt8AsE",
+      "date": "2025-04-07",
+      "order": 15,
+      "title": "メルト",
+      "normalizedTitle": "メルト",
+      "artist": "ryo",
+      "timestamp": "1:03:44",
+      "timestampSeconds": 3824,
+      "sourceUrl": "https://youtube.com/watch?v=m0gb_Xt8AsE&t=3824s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    }
+  ]
+}
+
