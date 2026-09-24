@@ -2,10 +2,12 @@
 
 ## Runtime data
 
-대시보드가 사용하는 정식 데이터는 다음 두 파일입니다.
+정식 원본 데이터는 방송별 파일입니다.
 
-- `data/karaoke/normalized/broadcasts.json`
-- `data/karaoke/normalized/performances.json`
+- `data/karaoke/normalized/broadcasts/<video-id>.json`
+- `data/karaoke/normalized/index.json`
+
+배포 시 `build_site_data.py`가 임시 aggregate JSON을 생성합니다.
 
 ## Broadcast
 
