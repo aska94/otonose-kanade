@@ -1,0 +1,412 @@
+{
+  "broadcast": {
+    "id": "T4tyP1lqd_E",
+    "title": "【 歌枠 / 縦型 】60万人目指して歌うよー！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+    "date": "2025-01-27",
+    "youtubeUrl": "https://youtube.com/watch?v=T4tyP1lqd_E",
+    "broadcastUrl": "https://youtube.com/watch?v=T4tyP1lqd_E",
+    "sources": [
+      "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+    ],
+    "status": "source-confirmed"
+  },
+  "performances": [
+    {
+      "id": "T4tyP1lqd_E-01",
+      "broadcastId": "T4tyP1lqd_E",
+      "date": "2025-01-27",
+      "order": 1,
+      "title": "気まぐれロマンティック",
+      "normalizedTitle": "気まぐれロマンティック",
+      "artist": "いきものがかり",
+      "timestamp": "7:28",
+      "timestampSeconds": 448,
+      "sourceUrl": "https://youtube.com/watch?v=T4tyP1lqd_E&t=448s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "T4tyP1lqd_E-02",
+      "broadcastId": "T4tyP1lqd_E",
+      "date": "2025-01-27",
+      "order": 2,
+      "title": "花になって",
+      "normalizedTitle": "花になって",
+      "artist": "緑黄色社会",
+      "timestamp": "13:33",
+      "timestampSeconds": 813,
+      "sourceUrl": "https://youtube.com/watch?v=T4tyP1lqd_E&t=813s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "T4tyP1lqd_E-03",
+      "broadcastId": "T4tyP1lqd_E",
+      "date": "2025-01-27",
+      "order": 3,
+      "title": "Mela!",
+      "normalizedTitle": "Mela!",
+      "artist": "緑黄色社会",
+      "timestamp": "18:02",
+      "timestampSeconds": 1082,
+      "sourceUrl": "https://youtube.com/watch?v=T4tyP1lqd_E&t=1082s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "T4tyP1lqd_E-04",
+      "broadcastId": "T4tyP1lqd_E",
+      "date": "2025-01-27",
+      "order": 4,
+      "title": "ビビデバ",
+      "normalizedTitle": "ビビデバ",
+      "artist": "星街すいせい",
+      "timestamp": "24:02",
+      "timestampSeconds": 1442,
+      "sourceUrl": "https://youtube.com/watch?v=T4tyP1lqd_E&t=1442s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "T4tyP1lqd_E-05",
+      "broadcastId": "T4tyP1lqd_E",
+      "date": "2025-01-27",
+      "order": 5,
+      "title": "はいよろこんで",
+      "normalizedTitle": "はいよろこんで",
+      "artist": "こっちのけんと",
+      "timestamp": "28:02",
+      "timestampSeconds": 1682,
+      "sourceUrl": "https://youtube.com/watch?v=T4tyP1lqd_E&t=1682s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "T4tyP1lqd_E-06",
+      "broadcastId": "T4tyP1lqd_E",
+      "date": "2025-01-27",
+      "order": 6,
+      "title": "鱗",
+      "normalizedTitle": "鱗",
+      "artist": "秦 基博",
+      "timestamp": "31:45",
+      "timestampSeconds": 1905,
+      "sourceUrl": "https://youtube.com/watch?v=T4tyP1lqd_E&t=1905s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "T4tyP1lqd_E-07",
+      "broadcastId": "T4tyP1lqd_E",
+      "date": "2025-01-27",
+      "order": 7,
+      "title": "コネクト",
+      "normalizedTitle": "コネクト",
+      "artist": "ClariS",
+      "timestamp": "38:06",
+      "timestampSeconds": 2286,
+      "sourceUrl": "https://youtube.com/watch?v=T4tyP1lqd_E&t=2286s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "T4tyP1lqd_E-08",
+      "broadcastId": "T4tyP1lqd_E",
+      "date": "2025-01-27",
+      "order": 8,
+      "title": "星座になれたら",
+      "normalizedTitle": "星座になれたら",
+      "artist": "結束バンド",
+      "timestamp": "43:30",
+      "timestampSeconds": 2610,
+      "sourceUrl": "https://youtube.com/watch?v=T4tyP1lqd_E&t=2610s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "T4tyP1lqd_E-09",
+      "broadcastId": "T4tyP1lqd_E",
+      "date": "2025-01-27",
+      "order": 9,
+      "title": "それがあなたの幸せとしても",
+      "normalizedTitle": "それがあなたの幸せとしても",
+      "artist": "Heavenz",
+      "timestamp": "55:16",
+      "timestampSeconds": 3316,
+      "sourceUrl": "https://youtube.com/watch?v=T4tyP1lqd_E&t=3316s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "T4tyP1lqd_E-10",
+      "broadcastId": "T4tyP1lqd_E",
+      "date": "2025-01-27",
+      "order": 10,
+      "title": "ベテルギウス",
+      "normalizedTitle": "ベテルギウス",
+      "artist": "優里",
+      "timestamp": "1:00:42",
+      "timestampSeconds": 3642,
+      "sourceUrl": "https://youtube.com/watch?v=T4tyP1lqd_E&t=3642s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "T4tyP1lqd_E-11",
+      "broadcastId": "T4tyP1lqd_E",
+      "date": "2025-01-27",
+      "order": 11,
+      "title": "悪魔の子",
+      "normalizedTitle": "悪魔の子",
+      "artist": "ヒグチアイ",
+      "timestamp": "1:05:38",
+      "timestampSeconds": 3938,
+      "sourceUrl": "https://youtube.com/watch?v=T4tyP1lqd_E&t=3938s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "T4tyP1lqd_E-12",
+      "broadcastId": "T4tyP1lqd_E",
+      "date": "2025-01-27",
+      "order": 12,
+      "title": "人生は夢だらけ",
+      "normalizedTitle": "人生は夢だらけ",
+      "artist": "椎名林檎",
+      "timestamp": "1:11:08",
+      "timestampSeconds": 4268,
+      "sourceUrl": "https://youtube.com/watch?v=T4tyP1lqd_E&t=4268s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "T4tyP1lqd_E-13",
+      "broadcastId": "T4tyP1lqd_E",
+      "date": "2025-01-27",
+      "order": 13,
+      "title": "Our Bright Parade",
+      "normalizedTitle": "Our Bright Parade",
+      "artist": "hololive IDOL PROJECT",
+      "timestamp": "1:15:45",
+      "timestampSeconds": 4545,
+      "sourceUrl": "https://youtube.com/watch?v=T4tyP1lqd_E&t=4545s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "T4tyP1lqd_E-14",
+      "broadcastId": "T4tyP1lqd_E",
+      "date": "2025-01-27",
+      "order": 14,
+      "title": "フィーリングラデーション",
+      "normalizedTitle": "フィーリングラデーション",
+      "artist": "ReGLOSS",
+      "timestamp": "1:24:45",
+      "timestampSeconds": 5085,
+      "sourceUrl": "https://youtube.com/watch?v=T4tyP1lqd_E&t=5085s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "T4tyP1lqd_E-15",
+      "broadcastId": "T4tyP1lqd_E",
+      "date": "2025-01-27",
+      "order": 15,
+      "title": "FG ROADSTER",
+      "normalizedTitle": "FG ROADSTER",
+      "artist": "FLOW GLOW",
+      "timestamp": "1:35:40",
+      "timestampSeconds": 5740,
+      "sourceUrl": "https://youtube.com/watch?v=T4tyP1lqd_E&t=5740s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "T4tyP1lqd_E-16",
+      "broadcastId": "T4tyP1lqd_E",
+      "date": "2025-01-27",
+      "order": 16,
+      "title": "モニタリング",
+      "normalizedTitle": "モニタリング",
+      "artist": "DECO*27",
+      "timestamp": "1:42:54",
+      "timestampSeconds": 6174,
+      "sourceUrl": "https://youtube.com/watch?v=T4tyP1lqd_E&t=6174s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "T4tyP1lqd_E-17",
+      "broadcastId": "T4tyP1lqd_E",
+      "date": "2025-01-27",
+      "order": 17,
+      "title": "さよーならまたいつか！",
+      "normalizedTitle": "さよーならまたいつか！",
+      "artist": "米津玄師",
+      "timestamp": "1:50:06",
+      "timestampSeconds": 6606,
+      "sourceUrl": "https://youtube.com/watch?v=T4tyP1lqd_E&t=6606s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "T4tyP1lqd_E-18",
+      "broadcastId": "T4tyP1lqd_E",
+      "date": "2025-01-27",
+      "order": 18,
+      "title": "ファンサ",
+      "normalizedTitle": "ファンサ",
+      "artist": "HoneyWorks",
+      "timestamp": "1:54:07",
+      "timestampSeconds": 6847,
+      "sourceUrl": "https://youtube.com/watch?v=T4tyP1lqd_E&t=6847s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    }
+  ]
+}
+
