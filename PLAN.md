@@ -6,7 +6,7 @@ Build an AI-maintained archive of every karaoke broadcast and set list for Otono
 
 The source of truth is layered:
 
-1. Setlist Index for structured broadcast set lists
+1. Locally uploaded Setlist Index snapshots for structured broadcast set lists
 2. Local raw snapshots for reproducibility
 3. Normalized catalogue for analysis and site generation
 4. Holodex comments and broadcast timelines for conflict resolution
@@ -48,14 +48,15 @@ Genre and mood must not be inferred from play count alone. Frequency produces po
 
 Setlist Index is the primary structured source for matching Kanade karaoke broadcasts. The importer will:
 
-1. Retrieve the channel listing and preserve a dated raw snapshot.
-2. Identify every broadcast entry and its source URL.
-3. Extract title, date, video URL, order, song title, artist, and timestamp.
-4. Store the raw values unchanged.
-5. Normalize values into the analysis model.
-6. Deduplicate broadcasts and performances by stable video ID.
-7. Send missing or conflicting fields to the review queue.
-8. Create a report showing imported, changed, unmatched, and unresolved records.
+1. Download the channel listing locally and preserve a dated raw snapshot.
+2. Upload the snapshot to data/karaoke/raw/setlist-index/latest.html.
+3. Identify every broadcast entry and its source URL.
+4. Extract title, date, video URL, order, song title, artist, and timestamp.
+5. Store the raw values unchanged.
+6. Normalize values into the analysis model.
+7. Deduplicate broadcasts and performances by stable video ID.
+8. Send missing or conflicting fields to the review queue.
+9. Create a report showing imported, changed, unmatched, and unresolved records.
 
 Holodex is a fallback and verification source. It is used only when Setlist Index is missing, incomplete, or inconsistent, and for checking timestamps or song identity.
 
