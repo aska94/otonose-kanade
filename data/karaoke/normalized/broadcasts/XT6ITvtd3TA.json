@@ -1,0 +1,280 @@
+{
+  "broadcast": {
+    "id": "XT6ITvtd3TA",
+    "title": "【歌枠 / Singing】しっとり、歌います【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+    "date": "2023-10-18",
+    "youtubeUrl": "https://youtube.com/watch?v=XT6ITvtd3TA",
+    "broadcastUrl": "https://youtube.com/watch?v=XT6ITvtd3TA",
+    "sources": [
+      "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+    ],
+    "status": "source-confirmed"
+  },
+  "performances": [
+    {
+      "id": "XT6ITvtd3TA-01",
+      "broadcastId": "XT6ITvtd3TA",
+      "date": "2023-10-18",
+      "order": 1,
+      "title": "怪獣の花唄",
+      "normalizedTitle": "怪獣の花唄",
+      "artist": "Vaundy",
+      "timestamp": "5:14",
+      "timestampSeconds": 314,
+      "sourceUrl": "https://youtube.com/watch?v=XT6ITvtd3TA&t=314s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "XT6ITvtd3TA-02",
+      "broadcastId": "XT6ITvtd3TA",
+      "date": "2023-10-18",
+      "order": 2,
+      "title": "灰色と青",
+      "normalizedTitle": "灰色と青",
+      "artist": "米津玄師ｘ菅田将暉",
+      "timestamp": "11:23",
+      "timestampSeconds": 683,
+      "sourceUrl": "https://youtube.com/watch?v=XT6ITvtd3TA&t=683s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "XT6ITvtd3TA-03",
+      "broadcastId": "XT6ITvtd3TA",
+      "date": "2023-10-18",
+      "order": 3,
+      "title": "灰色と青",
+      "normalizedTitle": "灰色と青",
+      "artist": "米津玄師",
+      "timestamp": "13:40",
+      "timestampSeconds": 820,
+      "sourceUrl": "https://youtube.com/watch?v=XT6ITvtd3TA&t=820s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "XT6ITvtd3TA-04",
+      "broadcastId": "XT6ITvtd3TA",
+      "date": "2023-10-18",
+      "order": 4,
+      "title": "灰色と青",
+      "normalizedTitle": "灰色と青",
+      "artist": "米津玄師ｘDAOKO",
+      "timestamp": "13:47",
+      "timestampSeconds": 827,
+      "sourceUrl": "https://youtube.com/watch?v=XT6ITvtd3TA&t=827s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "XT6ITvtd3TA-05",
+      "broadcastId": "XT6ITvtd3TA",
+      "date": "2023-10-18",
+      "order": 5,
+      "title": "藍二乗",
+      "normalizedTitle": "藍二乗",
+      "artist": "ヨルシカ",
+      "timestamp": "22:36",
+      "timestampSeconds": 1356,
+      "sourceUrl": "https://youtube.com/watch?v=XT6ITvtd3TA&t=1356s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "XT6ITvtd3TA-06",
+      "broadcastId": "XT6ITvtd3TA",
+      "date": "2023-10-18",
+      "order": 6,
+      "title": "RAIN",
+      "normalizedTitle": "RAIN",
+      "artist": "SEKAI NO OWARI",
+      "timestamp": "28:37",
+      "timestampSeconds": 1717,
+      "sourceUrl": "https://youtube.com/watch?v=XT6ITvtd3TA&t=1717s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "XT6ITvtd3TA-07",
+      "broadcastId": "XT6ITvtd3TA",
+      "date": "2023-10-18",
+      "order": 7,
+      "title": "マリーゴールド",
+      "normalizedTitle": "マリーゴールド",
+      "artist": "あいみょん",
+      "timestamp": "36:34",
+      "timestampSeconds": 2194,
+      "sourceUrl": "https://youtube.com/watch?v=XT6ITvtd3TA&t=2194s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "XT6ITvtd3TA-08",
+      "broadcastId": "XT6ITvtd3TA",
+      "date": "2023-10-18",
+      "order": 8,
+      "title": "たばこ",
+      "normalizedTitle": "たばこ",
+      "artist": "コレサワ",
+      "timestamp": "42:49",
+      "timestampSeconds": 2569,
+      "sourceUrl": "https://youtube.com/watch?v=XT6ITvtd3TA&t=2569s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "XT6ITvtd3TA-09",
+      "broadcastId": "XT6ITvtd3TA",
+      "date": "2023-10-18",
+      "order": 9,
+      "title": "Tabako",
+      "normalizedTitle": "Tabako",
+      "artist": "Kazik Staszewski / Kult",
+      "timestamp": "42:50",
+      "timestampSeconds": 2570,
+      "sourceUrl": "https://youtube.com/watch?v=XT6ITvtd3TA&t=2570s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "XT6ITvtd3TA-10",
+      "broadcastId": "XT6ITvtd3TA",
+      "date": "2023-10-18",
+      "order": 10,
+      "title": "鱗",
+      "normalizedTitle": "鱗",
+      "artist": "秦基博",
+      "timestamp": "49:41",
+      "timestampSeconds": 2981,
+      "sourceUrl": "https://youtube.com/watch?v=XT6ITvtd3TA&t=2981s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "XT6ITvtd3TA-11",
+      "broadcastId": "XT6ITvtd3TA",
+      "date": "2023-10-18",
+      "order": 11,
+      "title": "ベテルギウス",
+      "normalizedTitle": "ベテルギウス",
+      "artist": "優里",
+      "timestamp": "56:22",
+      "timestampSeconds": 3382,
+      "sourceUrl": "https://youtube.com/watch?v=XT6ITvtd3TA&t=3382s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "XT6ITvtd3TA-12",
+      "broadcastId": "XT6ITvtd3TA",
+      "date": "2023-10-18",
+      "order": 12,
+      "title": "いのちの名前",
+      "normalizedTitle": "いのちの名前",
+      "artist": "木村弓",
+      "timestamp": "1:01:25",
+      "timestampSeconds": 3685,
+      "sourceUrl": "https://youtube.com/watch?v=XT6ITvtd3TA&t=3685s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    }
+  ]
+}
+
