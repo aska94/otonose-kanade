@@ -1,23 +1,732 @@
 {
   "schemaVersion": 1,
-  "source": "data/karaoke/candidates/kanade-oldest-broadcast.json",
   "broadcasts": [
     {
-      "id": "U-Cs4R1yM3g",
-      "title": "〖歌枠 / Singing〗たのしく！〖音乃瀬奏〗",
-      "date": "2023-09-12",
-      "videoUrl": "https://www.youtube.com/watch?v=U-Cs4R1yM3g",
+      "id": "8JNJ8GYgTQk",
+      "title": "【 縦型歌枠 】呼吸！！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2026-08-07",
+      "youtubeUrl": "https://youtube.com/watch?v=8JNJ8GYgTQk",
+      "broadcastUrl": "https://youtube.com/watch?v=8JNJ8GYgTQk",
       "sources": [
-        "https://holodex.net/watch/U-Cs4R1yM3g",
         "https://setlist.kibunya.org/channel/@OtonoseKanade/"
       ],
-      "evidence": [
-        {
-          "type": "setlist-index",
-          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
-        }
+      "status": "source-confirmed"
+    },
+    {
+      "id": "4flP14V9uRI",
+      "title": "【 縦型歌枠 】今日はセンチメンタルな気分・・・【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2026-06-29",
+      "youtubeUrl": "https://youtube.com/watch?v=4flP14V9uRI",
+      "broadcastUrl": "https://youtube.com/watch?v=4flP14V9uRI",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "a8GYotCWqxs",
+      "title": "【 歌枠 】久しぶりの横長歌枠！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2026-05-21",
+      "youtubeUrl": "https://youtube.com/watch?v=a8GYotCWqxs",
+      "broadcastUrl": "https://youtube.com/watch?v=a8GYotCWqxs",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "cM9H5jKzU1g",
+      "title": "【 耐久歌枠 】GW企画！80万人いけるかな？！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2026-05-02",
+      "youtubeUrl": "https://youtube.com/watch?v=cM9H5jKzU1g",
+      "broadcastUrl": "https://youtube.com/watch?v=cM9H5jKzU1g",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "fO2ejfMaS4Q",
+      "title": "【 縦型歌枠 】REC帰りののんびり歌枠【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2026-03-04",
+      "youtubeUrl": "https://youtube.com/watch?v=fO2ejfMaS4Q",
+      "broadcastUrl": "https://youtube.com/watch?v=fO2ejfMaS4Q",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "qF7kD6MbBdk",
+      "title": "【 縦型歌枠 】お昼ののんびり歌枠🎵【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2026-02-11",
+      "youtubeUrl": "https://youtube.com/watch?v=qF7kD6MbBdk",
+      "broadcastUrl": "https://youtube.com/watch?v=qF7kD6MbBdk",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "zi60qBQOoxQ",
+      "title": "【 縦型歌枠 】777,777人目指して歌おうかなって【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2026-01-31",
+      "youtubeUrl": "https://youtube.com/watch?v=zi60qBQOoxQ",
+      "broadcastUrl": "https://youtube.com/watch?v=zi60qBQOoxQ",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "KURAzY1Z7eM",
+      "title": "【 縦型歌枠 】うたうよん【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2026-01-22",
+      "youtubeUrl": "https://youtube.com/watch?v=KURAzY1Z7eM",
+      "broadcastUrl": "https://youtube.com/watch?v=KURAzY1Z7eM",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "bTNx6xRYLrQ",
+      "title": "【 縦型歌枠 】【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2025-12-29",
+      "youtubeUrl": "https://youtube.com/watch?v=bTNx6xRYLrQ",
+      "broadcastUrl": "https://youtube.com/watch?v=bTNx6xRYLrQ",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "GoNEvx4LU7U",
+      "title": "【 #ホロクリスマス歌枠リレー 】【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2025-12-24",
+      "youtubeUrl": "https://youtube.com/watch?v=GoNEvx4LU7U",
+      "broadcastUrl": "https://youtube.com/watch?v=GoNEvx4LU7U",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "KgEDxIOyQ78",
+      "title": "【 縦型歌枠 】とりあえず歌を歌いたいなと思っている【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2025-12-04",
+      "youtubeUrl": "https://youtube.com/watch?v=KgEDxIOyQ78",
+      "broadcastUrl": "https://youtube.com/watch?v=KgEDxIOyQ78",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "VUtZTWnGiKY",
+      "title": "【 縦型歌枠 】お歌を歌っていくんだ？！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2025-11-22",
+      "youtubeUrl": "https://youtube.com/watch?v=VUtZTWnGiKY",
+      "broadcastUrl": "https://youtube.com/watch?v=VUtZTWnGiKY",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "nHu9HRo-wXM",
+      "title": "【 縦型歌枠 】リクエスト募集中！深夜のノリノリゲリラ歌枠【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2025-11-06",
+      "youtubeUrl": "https://youtube.com/watch?v=nHu9HRo-wXM",
+      "broadcastUrl": "https://youtube.com/watch?v=nHu9HRo-wXM",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "CCjz0q-Rbwk",
+      "title": "【 縦型歌枠 】レッスン帰りで超眠い歌枠【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2025-10-06",
+      "youtubeUrl": "https://youtube.com/watch?v=CCjz0q-Rbwk",
+      "broadcastUrl": "https://youtube.com/watch?v=CCjz0q-Rbwk",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "BJCv-gDPdzQ",
+      "title": "【 縦型歌枠 】ノープランだぁ；；【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2025-08-28",
+      "youtubeUrl": "https://youtube.com/watch?v=BJCv-gDPdzQ",
+      "broadcastUrl": "https://youtube.com/watch?v=BJCv-gDPdzQ",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "Wreee0go3s4",
+      "title": "【 縦型歌枠 】楽しく歌いたいなって思っています【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2025-08-17",
+      "youtubeUrl": "https://youtube.com/watch?v=Wreee0go3s4",
+      "broadcastUrl": "https://youtube.com/watch?v=Wreee0go3s4",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "z1bLSEcoo7E",
+      "title": "【 縦型歌枠 】ゆったりしゃべったり歌ったりします【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2025-08-09",
+      "youtubeUrl": "https://youtube.com/watch?v=z1bLSEcoo7E",
+      "broadcastUrl": "https://youtube.com/watch?v=z1bLSEcoo7E",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "6TQEyFUOX1Y",
+      "title": "【 縦型歌枠 】ゲリラをやりたがっている【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2025-08-05",
+      "youtubeUrl": "https://youtube.com/watch?v=6TQEyFUOX1Y",
+      "broadcastUrl": "https://youtube.com/watch?v=6TQEyFUOX1Y",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "FuXiow-eVF8",
+      "title": "【 歌枠 】アニソン多め～このあと上がる動画を待つ歌枠ｿﾜｿﾜ【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2025-08-04",
+      "youtubeUrl": "https://youtube.com/watch?v=FuXiow-eVF8",
+      "broadcastUrl": "https://youtube.com/watch?v=FuXiow-eVF8",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "pfgyOvyp600",
+      "title": "【 縦型歌枠 】ゆるゆる～と歌います【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2025-07-30",
+      "youtubeUrl": "https://youtube.com/watch?v=pfgyOvyp600",
+      "broadcastUrl": "https://youtube.com/watch?v=pfgyOvyp600",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "k0CMRZ5cYO4",
+      "title": "【 #ホロナツ歌枠リレー 】ジャパンの夏アツすぎるよぉ～【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2025-07-25",
+      "youtubeUrl": "https://youtube.com/watch?v=k0CMRZ5cYO4",
+      "broadcastUrl": "https://youtube.com/watch?v=k0CMRZ5cYO4",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "eUkFxmnIIOA",
+      "title": "【 縦型歌枠 】ノープランすぎる歌枠をやりたいと思います【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2025-07-21",
+      "youtubeUrl": "https://youtube.com/watch?v=eUkFxmnIIOA",
+      "broadcastUrl": "https://youtube.com/watch?v=eUkFxmnIIOA",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "vXA6u6L_quw",
+      "title": "【 #ドラマソング歌枠リレー 】たのしく歌います🎵【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2025-07-20",
+      "youtubeUrl": "https://youtube.com/watch?v=vXA6u6L_quw",
+      "broadcastUrl": "https://youtube.com/watch?v=vXA6u6L_quw",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "gT1ARDYPxPs",
+      "title": "【 歌枠 】70万人を目指しましょうの歌枠【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2025-06-07",
+      "youtubeUrl": "https://youtube.com/watch?v=gT1ARDYPxPs",
+      "broadcastUrl": "https://youtube.com/watch?v=gT1ARDYPxPs",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "_Q3feRXFUbI",
+      "title": "【 歌枠 】自己満【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2025-05-30",
+      "youtubeUrl": "https://youtube.com/watch?v=_Q3feRXFUbI",
+      "broadcastUrl": "https://youtube.com/watch?v=_Q3feRXFUbI",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "mt8AyISL9Ig",
+      "title": "【 3D LIVE 】The First Note【 #⁠音乃瀬奏生誕祭2025 】#hololiveDEV_IS #ReGLOSS",
+      "date": "2025-04-20",
+      "youtubeUrl": "https://youtube.com/watch?v=mt8AyISL9Ig",
+      "broadcastUrl": "https://youtube.com/watch?v=mt8AyISL9Ig",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "Qw3m2ysjEkA",
+      "title": "【 歌枠 】ノープラン歌枠だｧ＾＿＾【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2025-04-17",
+      "youtubeUrl": "https://youtube.com/watch?v=Qw3m2ysjEkA",
+      "broadcastUrl": "https://youtube.com/watch?v=Qw3m2ysjEkA",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "iLbRY5jwGoE",
+      "title": "【 重大告知 】歌います！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2025-04-13",
+      "youtubeUrl": "https://youtube.com/watch?v=iLbRY5jwGoE",
+      "broadcastUrl": "https://youtube.com/watch?v=iLbRY5jwGoE",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "m0gb_Xt8AsE",
+      "title": "【 歌枠 / 縦型 】ボイトレ帰りの歌枠！🎵【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2025-04-07",
+      "youtubeUrl": "https://youtube.com/watch?v=m0gb_Xt8AsE",
+      "broadcastUrl": "https://youtube.com/watch?v=m0gb_Xt8AsE",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "9wtCB53TKo4",
+      "title": "【 歌枠 / 縦型 】【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2025-02-21",
+      "youtubeUrl": "https://youtube.com/watch?v=9wtCB53TKo4",
+      "broadcastUrl": "https://youtube.com/watch?v=9wtCB53TKo4",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "T4tyP1lqd_E",
+      "title": "【 歌枠 / 縦型 】60万人目指して歌うよー！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2025-01-27",
+      "youtubeUrl": "https://youtube.com/watch?v=T4tyP1lqd_E",
+      "broadcastUrl": "https://youtube.com/watch?v=T4tyP1lqd_E",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "sjJUx-I2Rro",
+      "title": "【 歌枠 / 縦型 】収録帰りのゆるゆる衝動的歌枠～【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2025-01-16",
+      "youtubeUrl": "https://youtube.com/watch?v=sjJUx-I2Rro",
+      "broadcastUrl": "https://youtube.com/watch?v=sjJUx-I2Rro",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "oc2y-TNCA-g",
+      "title": "【 歌枠 】椎名林檎&東京事変縛りの歌枠【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2025-01-05",
+      "youtubeUrl": "https://youtube.com/watch?v=oc2y-TNCA-g",
+      "broadcastUrl": "https://youtube.com/watch?v=oc2y-TNCA-g",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "3Utxr_XKd4c",
+      "title": "【 #ホロクリスマス歌枠リレー 】クリスマスに全力で失恋ソングを歌います＾＿＾【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2024-12-25",
+      "youtubeUrl": "https://youtube.com/watch?v=3Utxr_XKd4c",
+      "broadcastUrl": "https://youtube.com/watch?v=3Utxr_XKd4c",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "7yd-jMk7lIs",
+      "title": "【縦型 / 歌枠】5曲ホロ曲を歌って去る歌枠！腹から声出せ！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2024-11-15",
+      "youtubeUrl": "https://youtube.com/watch?v=7yd-jMk7lIs",
+      "broadcastUrl": "https://youtube.com/watch?v=7yd-jMk7lIs",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "6MrRFAKM814",
+      "title": "【縦型 / 歌枠】張り切って歌いましょう【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2024-11-13",
+      "youtubeUrl": "https://youtube.com/watch?v=6MrRFAKM814",
+      "broadcastUrl": "https://youtube.com/watch?v=6MrRFAKM814",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "BILMZyLkaKA",
+      "title": "【歌枠】50万人耐久！！歌います！！縦型です！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2024-10-07",
+      "youtubeUrl": "https://youtube.com/watch?v=BILMZyLkaKA",
+      "broadcastUrl": "https://youtube.com/watch?v=BILMZyLkaKA",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "IuoVrIn4OcM",
+      "title": "【 #ReGLOSS歌枠リレー 】七夕記念、リクエスト曲を歌います！リレー最後まで盛り上がって行こ～！🎵【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2024-07-07",
+      "youtubeUrl": "https://youtube.com/watch?v=IuoVrIn4OcM",
+      "broadcastUrl": "https://youtube.com/watch?v=IuoVrIn4OcM",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "CTlYjh1Gy6k",
+      "title": "【歌枠】このあと歌ってみたがあがる歌枠【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2024-06-12",
+      "youtubeUrl": "https://youtube.com/watch?v=CTlYjh1Gy6k",
+      "broadcastUrl": "https://youtube.com/watch?v=CTlYjh1Gy6k",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "IiVnwOy_CP0",
+      "title": "【縦型歌枠】ちょっぴりとおしゃれな曲を歌いたい気持ち【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2024-05-08",
+      "youtubeUrl": "https://youtube.com/watch?v=IiVnwOy_CP0",
+      "broadcastUrl": "https://youtube.com/watch?v=IiVnwOy_CP0",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "0O36pmT9TBw",
+      "title": "【 #ReGLOSS歌枠リレー 】最後まで楽しんでいこう！歌います！✨【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2024-05-05",
+      "youtubeUrl": "https://youtube.com/watch?v=0O36pmT9TBw",
+      "broadcastUrl": "https://youtube.com/watch?v=0O36pmT9TBw",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "OJM1IyrwAbk",
+      "title": "【ハフバ記念歌枠】歌いながらハフアニバーサリーを祝う！🎉🎉【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2024-03-09",
+      "youtubeUrl": "https://youtube.com/watch?v=OJM1IyrwAbk",
+      "broadcastUrl": "https://youtube.com/watch?v=OJM1IyrwAbk",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "14p3fI3IiRU",
+      "title": "【歌枠】春っぽい曲を歌いたい【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2024-02-21",
+      "youtubeUrl": "https://youtube.com/watch?v=14p3fI3IiRU",
+      "broadcastUrl": "https://youtube.com/watch?v=14p3fI3IiRU",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "l8Qp7LVPY0Y",
+      "title": "【歌枠】うそだろ、、、30万人耐久、、、返せ、、、【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2024-02-14",
+      "youtubeUrl": "https://youtube.com/watch?v=l8Qp7LVPY0Y",
+      "broadcastUrl": "https://youtube.com/watch?v=l8Qp7LVPY0Y",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "WQxK0NEam2E",
+      "title": "【歌枠】うたうたう♪【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2024-02-07",
+      "youtubeUrl": "https://youtube.com/watch?v=WQxK0NEam2E",
+      "broadcastUrl": "https://youtube.com/watch?v=WQxK0NEam2E",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "DNeSpgRTzbU",
+      "title": "【歌枠】アニソン縛り🌼【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2024-01-31",
+      "youtubeUrl": "https://youtube.com/watch?v=DNeSpgRTzbU",
+      "broadcastUrl": "https://youtube.com/watch?v=DNeSpgRTzbU",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "yi18oU52mgk",
+      "title": "【歌枠】おまえらのリクエストにこたえていく歌枠【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2024-01-24",
+      "youtubeUrl": "https://youtube.com/watch?v=yi18oU52mgk",
+      "broadcastUrl": "https://youtube.com/watch?v=yi18oU52mgk",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "Y7GEnWttyoo",
+      "title": "【歌枠】うたう♪【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2024-01-17",
+      "youtubeUrl": "https://youtube.com/watch?v=Y7GEnWttyoo",
+      "broadcastUrl": "https://youtube.com/watch?v=Y7GEnWttyoo",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "uzE5rmdBkK0",
+      "title": "【歌枠】歌ってみた公開までドキドキ歌枠！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2024-01-10",
+      "youtubeUrl": "https://youtube.com/watch?v=uzE5rmdBkK0",
+      "broadcastUrl": "https://youtube.com/watch?v=uzE5rmdBkK0",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "d7iaRrAImto",
+      "title": "【歌枠 / Singing】2023年に流行った曲を歌う歌枠【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2024-01-02",
+      "youtubeUrl": "https://youtube.com/watch?v=d7iaRrAImto",
+      "broadcastUrl": "https://youtube.com/watch?v=d7iaRrAImto",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "RO5OaSqjGOc",
+      "title": "【 #ホロクリスマス歌枠リレー 】めりめり～！！🎄 奏のターン！！✨✨【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2023-12-25",
+      "youtubeUrl": "https://youtube.com/watch?v=RO5OaSqjGOc",
+      "broadcastUrl": "https://youtube.com/watch?v=RO5OaSqjGOc",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "gg4-SvzmMBg",
+      "title": "【歌枠 / Singing】リレー、トップバッターでーす！✨ るんるん ReGLOSS歌枠リレー【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2023-12-05",
+      "youtubeUrl": "https://youtube.com/watch?v=gg4-SvzmMBg",
+      "broadcastUrl": "https://youtube.com/watch?v=gg4-SvzmMBg",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "MfIv_g9PYSw",
+      "title": "【歌枠 / Singing】メンバーシップ解禁記念歌枠！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2023-11-29",
+      "youtubeUrl": "https://youtube.com/watch?v=MfIv_g9PYSw",
+      "broadcastUrl": "https://youtube.com/watch?v=MfIv_g9PYSw",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "yPhXfmeiqas",
+      "title": "【歌枠 / Singing】アカペラ有り！歌います！！るん！🎵【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2023-11-22",
+      "youtubeUrl": "https://youtube.com/watch?v=yPhXfmeiqas",
+      "broadcastUrl": "https://youtube.com/watch?v=yPhXfmeiqas",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "vAY6SsOvceU",
+      "title": "【歌枠 / Singing】告知アリの歌枠♪【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2023-11-15",
+      "youtubeUrl": "https://youtube.com/watch?v=vAY6SsOvceU",
+      "broadcastUrl": "https://youtube.com/watch?v=vAY6SsOvceU",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "E5_kcFeb4w8",
+      "title": "【歌枠 / Singing】収録用マイクで歌います【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2023-11-08",
+      "youtubeUrl": "https://youtube.com/watch?v=E5_kcFeb4w8",
+      "broadcastUrl": "https://youtube.com/watch?v=E5_kcFeb4w8",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "HFY3mVm9fPg",
+      "title": "【歌枠 / Singing】11月になったね【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2023-11-01",
+      "youtubeUrl": "https://youtube.com/watch?v=HFY3mVm9fPg",
+      "broadcastUrl": "https://youtube.com/watch?v=HFY3mVm9fPg",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "R7WkWL1zk2g",
+      "title": "【歌枠 / Singing】ボカロ縛り ReGLOSS歌枠リレー【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2023-10-29",
+      "youtubeUrl": "https://youtube.com/watch?v=R7WkWL1zk2g",
+      "broadcastUrl": "https://youtube.com/watch?v=R7WkWL1zk2g",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "4vNBqHltAXs",
+      "title": "【歌枠 / Singing】夜に聞きたい歌【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2023-10-25",
+      "youtubeUrl": "https://youtube.com/watch?v=4vNBqHltAXs",
+      "broadcastUrl": "https://youtube.com/watch?v=4vNBqHltAXs",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "XT6ITvtd3TA",
+      "title": "【歌枠 / Singing】しっとり、歌います【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2023-10-18",
+      "youtubeUrl": "https://youtube.com/watch?v=XT6ITvtd3TA",
+      "broadcastUrl": "https://youtube.com/watch?v=XT6ITvtd3TA",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "r23hvAEALr4",
+      "title": "【歌枠 / Singing】たのしく歌います！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2023-10-11",
+      "youtubeUrl": "https://youtube.com/watch?v=r23hvAEALr4",
+      "broadcastUrl": "https://youtube.com/watch?v=r23hvAEALr4",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "HIIR1KROS9w",
+      "title": "【歌枠 / Singing】ボカロ縛りの歌枠【音乃瀬奏】",
+      "date": "2023-10-04",
+      "youtubeUrl": "https://youtube.com/watch?v=HIIR1KROS9w",
+      "broadcastUrl": "https://youtube.com/watch?v=HIIR1KROS9w",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "gZIS-GATJFw",
+      "title": "【収益化/歌枠】おまえらありがとうございます🙇‍♀️😢【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "date": "2023-09-28",
+      "youtubeUrl": "https://youtube.com/watch?v=gZIS-GATJFw",
+      "broadcastUrl": "https://youtube.com/watch?v=gZIS-GATJFw",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "NIYGzltMSdw",
+      "title": "【歌枠 / Singing】おしとやかな歌枠【音乃瀬奏】",
+      "date": "2023-09-20",
+      "youtubeUrl": "https://youtube.com/watch?v=NIYGzltMSdw",
+      "broadcastUrl": "https://youtube.com/watch?v=NIYGzltMSdw",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "OSnR4RVn99c",
+      "title": "【歌枠 / Singing】歌います！！！ReGLOSS歌枠リレー【音乃瀬奏】",
+      "date": "2023-09-17",
+      "youtubeUrl": "https://youtube.com/watch?v=OSnR4RVn99c",
+      "broadcastUrl": "https://youtube.com/watch?v=OSnR4RVn99c",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "U-Cs4R1yM3g",
+      "title": "【歌枠 / Singing】たのしく！【音乃瀬奏】",
+      "date": "2023-09-12",
+      "youtubeUrl": "https://youtube.com/watch?v=U-Cs4R1yM3g",
+      "broadcastUrl": "https://youtube.com/watch?v=U-Cs4R1yM3g",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
       ],
       "status": "source-confirmed"
     }
   ]
 }
+
