@@ -1,0 +1,214 @@
+{
+  "broadcast": {
+    "id": "FuXiow-eVF8",
+    "title": "【 歌枠 】アニソン多め～このあと上がる動画を待つ歌枠ｿﾜｿﾜ【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+    "date": "2025-08-04",
+    "youtubeUrl": "https://youtube.com/watch?v=FuXiow-eVF8",
+    "broadcastUrl": "https://youtube.com/watch?v=FuXiow-eVF8",
+    "sources": [
+      "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+    ],
+    "status": "source-confirmed"
+  },
+  "performances": [
+    {
+      "id": "FuXiow-eVF8-01",
+      "broadcastId": "FuXiow-eVF8",
+      "date": "2025-08-04",
+      "order": 1,
+      "title": "サインはB",
+      "normalizedTitle": "サインはB",
+      "artist": "B小町",
+      "timestamp": "4:54",
+      "timestampSeconds": 294,
+      "sourceUrl": "https://youtube.com/watch?v=FuXiow-eVF8&t=294s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "FuXiow-eVF8-02",
+      "broadcastId": "FuXiow-eVF8",
+      "date": "2025-08-04",
+      "order": 2,
+      "title": "DADDY ! DADDY ! DO !",
+      "normalizedTitle": "DADDY ! DADDY ! DO !",
+      "artist": "鈴木雅之 feat. 鈴木愛理",
+      "timestamp": "14:30",
+      "timestampSeconds": 870,
+      "sourceUrl": "https://youtube.com/watch?v=FuXiow-eVF8&t=870s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "FuXiow-eVF8-03",
+      "broadcastId": "FuXiow-eVF8",
+      "date": "2025-08-04",
+      "order": 3,
+      "title": "クラクラ",
+      "normalizedTitle": "クラクラ",
+      "artist": "Ado",
+      "timestamp": "19:52",
+      "timestampSeconds": 1192,
+      "sourceUrl": "https://youtube.com/watch?v=FuXiow-eVF8&t=1192s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "FuXiow-eVF8-04",
+      "broadcastId": "FuXiow-eVF8",
+      "date": "2025-08-04",
+      "order": 4,
+      "title": "シュガーソングとビターステップ",
+      "normalizedTitle": "シュガーソングとビターステップ",
+      "artist": "UNISON SQUARE GARDEN",
+      "timestamp": "26:37",
+      "timestampSeconds": 1597,
+      "sourceUrl": "https://youtube.com/watch?v=FuXiow-eVF8&t=1597s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "FuXiow-eVF8-05",
+      "broadcastId": "FuXiow-eVF8",
+      "date": "2025-08-04",
+      "order": 5,
+      "title": "残響散歌",
+      "normalizedTitle": "残響散歌",
+      "artist": "Aimer",
+      "timestamp": "32:28",
+      "timestampSeconds": 1948,
+      "sourceUrl": "https://youtube.com/watch?v=FuXiow-eVF8&t=1948s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "FuXiow-eVF8-06",
+      "broadcastId": "FuXiow-eVF8",
+      "date": "2025-08-04",
+      "order": 6,
+      "title": "コネクト",
+      "normalizedTitle": "コネクト",
+      "artist": "ClariS",
+      "timestamp": "36:37",
+      "timestampSeconds": 2197,
+      "sourceUrl": "https://youtube.com/watch?v=FuXiow-eVF8&t=2197s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "FuXiow-eVF8-07",
+      "broadcastId": "FuXiow-eVF8",
+      "date": "2025-08-04",
+      "order": 7,
+      "title": "Secret Base",
+      "normalizedTitle": "Secret Base",
+      "artist": "",
+      "timestamp": "41:36",
+      "timestampSeconds": 2496,
+      "sourceUrl": "https://youtube.com/watch?v=FuXiow-eVF8&t=2496s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "FuXiow-eVF8-08",
+      "broadcastId": "FuXiow-eVF8",
+      "date": "2025-08-04",
+      "order": 8,
+      "title": "変わらないもの",
+      "normalizedTitle": "変わらないもの",
+      "artist": "奥 華子",
+      "timestamp": "47:38",
+      "timestampSeconds": 2858,
+      "sourceUrl": "https://youtube.com/watch?v=FuXiow-eVF8&t=2858s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "FuXiow-eVF8-09",
+      "broadcastId": "FuXiow-eVF8",
+      "date": "2025-08-04",
+      "order": 9,
+      "title": "青空のラプソディ",
+      "normalizedTitle": "青空のラプソディ",
+      "artist": "fhána",
+      "timestamp": "52:47",
+      "timestampSeconds": 3167,
+      "sourceUrl": "https://youtube.com/watch?v=FuXiow-eVF8&t=3167s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    }
+  ]
+}
+
