@@ -1,10 +1,12 @@
-name: Process local Setlist Index snapshot
+name: Build karaoke artifacts
 
 on:
   workflow_dispatch:
   push:
     paths:
-      - "data/karaoke/raw/setlist-index/**"
+      - "data/karaoke/candidates/**"
+      - "data/karaoke/normalized/**"
+      - "data/karaoke/source-metadata/**"
       - "scripts/karaoke/**"
       - ".github/workflows/import-setlist-index.yml"
 
@@ -12,25 +14,20 @@ permissions:
   contents: read
 
 jobs:
-  import:
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
-      - name: Check local snapshot
-        run: test -f data/karaoke/raw/setlist-index/latest.html
-      - name: Parse local Setlist Index snapshot
-        run: python scripts/karaoke/import_setlist_index.py --input data/karaoke/raw/setlist-index/latest.html
-      - name: Normalize imported candidates
-        run: python scripts/karaoke/normalize_setlist_index.py
+      - name: Validate committed data
+        run: python scripts/validate_karaoke.py
       - name: Build statistics and playlist manifests
         run: python scripts/karaoke/build_stats.py
-      - name: Upload processed artifact
+      - name: Upload generated artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: setlist-index-import
+          name: karaoke-artifacts
           path: |
-            data/karaoke/raw/setlist-index/
-            data/karaoke/candidates/
+            data/karaoke/source-metadata/
             data/karaoke/normalized/
             data/karaoke/playlist/
