@@ -1,105 +1,143 @@
 # Otonose Kanade Fan Activity Archive Plan
 
-## 1. Purpose
+## 1. Objective
 
-This repository is a long-term archive of fan-made research and creative activities related to Otonose Kanade. Multiple activities must remain separated by directory, data model, and documentation. The first activity is a searchable catalogue of Kanade karaoke broadcasts, set lists, original songs, and useful timestamps.
+Build an AI-maintained archive of every karaoke broadcast and set list for Otonose Kanade, then publish searchable statistics and generate reviewed YouTube Music playlist exports.
 
-The repository is designed for AI-agent-assisted maintenance. Agents may discover and prepare changes, but uncertain facts must remain visible for human review.
+The source of truth is layered:
 
-## 2. Repository identity
+1. Setlist Index for structured broadcast set lists
+2. Local raw snapshots for reproducibility
+3. Normalized catalogue for analysis and site generation
+4. Holodex comments and broadcast timelines for conflict resolution
 
-Recommended GitHub repository name:
+## 2. Repository data layout
 
-```text
-otonose-kanade
-```
+The karaoke data area will use:
 
-The repository is public so GitHub Pages can publish the catalogue.
+- data/karaoke/raw/setlist-index/ — retrieved source-shaped snapshots, never silently overwritten
+- data/karaoke/candidates/ — imported but not fully verified records
+- data/karaoke/review/ — conflicts and records needing human decisions
+- data/karaoke/normalized/ — normalized broadcasts, performances, original-song mappings, and tags
+- data/karaoke/playlist/ — generated playlist manifests and unmatched-song reports
+- data/karaoke/broadcasts.json — public catalogue input
+- data/karaoke/songs.json — public performance input
 
-## 3. Target structure
+Each snapshot must record retrieval date, source URL, source identifier, and parser version.
 
-```text
-.
-├─ AGENTS.md
-├─ PLAN.md
-├─ README.md
-├─ CONTRIBUTING.md
-├─ CHANGELOG.md
-├─ data/
-│  └─ karaoke/
-│     ├─ broadcasts.json
-│     ├─ songs.json
-│     ├─ candidates/
-│     └─ review/
-├─ activities/
-│  └─ karaoke/
-├─ scripts/
-│  └─ karaoke/
-├─ site/
-├─ agent-runs/
-└─ .github/
-   └─ workflows/
-```
+## 3. Normalized data model
 
-## 4. Data model
+A broadcast contains its ID, title, date, video URLs, source references, availability, and confidence status.
 
-Keep these entities separate:
+A performance contains broadcast ID, order, displayed title, normalized title, displayed artist, normalized artist, candidate or confirmed timestamp, evidence, and confidence status.
 
-- `broadcast`: the karaoke stream or archive
-- `performance`: Kanade's performance of a song in a broadcast
-- `originalSong`: the original song and artist
-- `evidence`: Setlist Index entry, Holodex comment, broadcast description, video, or other source
+An original-song mapping contains the normalized song identity, preferred original recording, YouTube URL or video ID, mapping status, and review notes.
 
-Each performance should store the broadcast ID and order, source title and artist, normalized title and artist, candidate and confirmed timestamps, original-song URL, evidence URLs and notes, and confidence status.
+A song may also have optional reviewed metadata:
 
-## 5. Set-list collection workflow
+- genre
+- mood
+- language
+- energy
+- source of the tag
+- tag confidence
 
-Setlist Index is the primary structured source when it has a matching Kanade broadcast entry.
+Genre and mood must not be inferred from play count alone. Frequency produces popularity rankings; metadata or human-reviewed tags produce qualitative categories.
 
-1. Find candidate Kanade singing/karaoke broadcasts.
-2. Match each broadcast to the Setlist Index entry.
-3. Import title, date, song order, artists, and timestamps as source-confirmed candidates.
-4. Preserve the Setlist Index URL and original displayed text.
-5. Use Holodex comments and the broadcast timeline where the structured entry is missing, incomplete, or conflicting.
-6. Record conflicts as `needs-review`.
-7. Promote only verified entries to the confirmed catalogue.
+## 4. Source acquisition and import
 
-Setlist Index timestamps are useful candidates but are not automatically exact song-start positions.
+Setlist Index is the primary structured source for matching Kanade karaoke broadcasts. The importer will:
 
-## 6. AI-agent automation
+1. Retrieve the channel listing and preserve a dated raw snapshot.
+2. Identify every broadcast entry and its source URL.
+3. Extract title, date, video URL, order, song title, artist, and timestamp.
+4. Store the raw values unchanged.
+5. Normalize values into the analysis model.
+6. Deduplicate broadcasts and performances by stable video ID.
+7. Send missing or conflicting fields to the review queue.
+8. Create a report showing imported, changed, unmatched, and unresolved records.
 
-Discovery, set-list, original-song, validation, and site-build agents should create reports under `agent-runs/`. Automated collection should propose changes through reviewable pull requests once GitHub Actions is enabled.
+Holodex is a fallback and verification source. It is used only when Setlist Index is missing, incomplete, or inconsistent, and for checking timestamps or song identity.
 
-## 7. GitHub Pages
+## 5. Dashboard output
 
-The site should provide a broadcast list, broadcast detail pages, ordered set lists, song and artist search, YouTube links, verified timestamp links, and evidence/confidence status.
+The GitHub Pages dashboard will provide:
 
-The GitHub Pages site is the catalogue and timestamp index. YouTube Music is the original-song playlist destination.
+- yearly set-list song table
+- song usage count across all broadcasts
+- artist usage count
+- top 50 frequently performed songs
+- yearly song-list export links
+- filters by year, song, artist, status, genre, mood, and language
+- broadcast and timestamp links
+- visible source and confidence status
+- a qualitative section for reviewed genre and mood tags
 
-## 8. YouTube Music integration
+With no reviewed tag data, the dashboard must show that qualitative analysis is unavailable rather than inventing categories.
 
-First create and review an original-song mapping. Then create or update a playlist using authenticated YouTube access. Store playlist IDs and mapping results as metadata, never as credentials.
+## 6. Playlist generation
 
-Automation must avoid duplicate tracks, avoid replacing an existing playlist without a diff, report unmatched songs, and stop safely when authentication or quota fails.
+Generate reviewable manifests before using any YouTube account.
 
-## 9. Execution phases
+Required exports:
 
-1. Project rules
-2. Local repository skeleton
-3. Sample catalogue
-4. Validation and agent reports
-5. GitHub repository and CI
-6. GitHub Pages
-7. Playlist integration
+- one manifest per year containing distinct original recordings used in that year's set lists
+- one manifest containing the 50 most frequently performed original recordings
+- unmatched and ambiguous mappings
+- duplicate removals
+- source performance references
 
-## 10. Human intervention points
+After human review and account authorization, a playlist adapter may create or update YouTube Music-compatible playlists. It must show a diff first, preserve existing playlist items unless explicitly removed, and stop on authentication or quota errors.
 
-Human review is required for ambiguous set-list entries, original-song matches, GitHub authentication, the first production deployment, and playlist mutation.
+## 7. Automation
 
-## 11. Immediate next actions
+Planned agents and scripts:
 
-1. Import additional Setlist Index broadcast records into the candidate area.
-2. Add original-song mappings only after title and artist normalization.
-3. Build the first static catalogue from source-confirmed candidates.
-4. Add GitHub Actions for validation and reviewable collection PRs.
-5. Stop before GitHub or YouTube account mutations that require additional authorization.
+- setlist-index importer
+- normalization and deduplication script
+- dashboard builder
+- statistics and tag report generator
+- original-song matcher
+- playlist manifest generator
+- validation workflow
+- GitHub Pages deployment workflow
+
+Every automated run writes a report under agent-runs/ and proposes reviewable changes.
+
+## 8. Acceptance criteria
+
+Phase A — Source mirror:
+
+- all available Kanade karaoke entries are saved locally
+- every raw record has source URL and retrieval metadata
+- re-running import produces a stable diff
+
+Phase B — Normalized catalogue:
+
+- every performance has a stable broadcast reference
+- duplicates and conflicts are reported
+- source-confirmed and confirmed records are distinct
+
+Phase C — Dashboard:
+
+- yearly lists and usage counts render from normalized data
+- top-50 list is reproducible
+- filters and source links work
+- mood and genre are shown only for tagged records
+
+Phase D — Playlists:
+
+- yearly and top-50 manifests are generated
+- unmatched mappings are reported
+- human review occurs before playlist mutation
+
+## 9. Human intervention points
+
+Human review is required for:
+
+- ambiguous or conflicting set-list records
+- original-song matching
+- genre and mood tags when metadata is unclear
+- approval of the first complete import
+- YouTube account authorization and playlist mutation
+- final public dashboard review
