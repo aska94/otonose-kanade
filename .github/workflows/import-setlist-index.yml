@@ -1,0 +1,28 @@
+name: Import Setlist Index
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 3 * * 1"
+
+permissions:
+  contents: read
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Import Setlist Index
+        run: python scripts/karaoke/import_setlist_index.py
+      - name: Build statistics and playlist manifests
+        run: python scripts/karaoke/build_stats.py
+      - name: Upload collection artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: setlist-index-import
+          path: |
+            data/karaoke/raw/setlist-index/
+            data/karaoke/candidates/
+            data/karaoke/playlist/
