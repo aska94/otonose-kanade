@@ -1,0 +1,258 @@
+{
+  "broadcast": {
+    "id": "gg4-SvzmMBg",
+    "title": "【歌枠 / Singing】リレー、トップバッターでーす！✨ るんるん ReGLOSS歌枠リレー【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+    "date": "2023-12-05",
+    "youtubeUrl": "https://youtube.com/watch?v=gg4-SvzmMBg",
+    "broadcastUrl": "https://youtube.com/watch?v=gg4-SvzmMBg",
+    "sources": [
+      "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+    ],
+    "status": "source-confirmed"
+  },
+  "performances": [
+    {
+      "id": "gg4-SvzmMBg-01",
+      "broadcastId": "gg4-SvzmMBg",
+      "date": "2023-12-05",
+      "order": 1,
+      "title": "Calc.",
+      "normalizedTitle": "Calc.",
+      "artist": "ジミーサムP",
+      "timestamp": "2:42",
+      "timestampSeconds": 162,
+      "sourceUrl": "https://youtube.com/watch?v=gg4-SvzmMBg&t=162s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "gg4-SvzmMBg-02",
+      "broadcastId": "gg4-SvzmMBg",
+      "date": "2023-12-05",
+      "order": 2,
+      "title": "怪獣の花唄",
+      "normalizedTitle": "怪獣の花唄",
+      "artist": "Vaundy",
+      "timestamp": "9:28",
+      "timestampSeconds": 568,
+      "sourceUrl": "https://youtube.com/watch?v=gg4-SvzmMBg&t=568s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "gg4-SvzmMBg-03",
+      "broadcastId": "gg4-SvzmMBg",
+      "date": "2023-12-05",
+      "order": 3,
+      "title": "絶頂讃歌",
+      "normalizedTitle": "絶頂讃歌",
+      "artist": "和ぬか",
+      "timestamp": "14:59",
+      "timestampSeconds": 899,
+      "sourceUrl": "https://youtube.com/watch?v=gg4-SvzmMBg&t=899s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "gg4-SvzmMBg-04",
+      "broadcastId": "gg4-SvzmMBg",
+      "date": "2023-12-05",
+      "order": 4,
+      "title": "Ame",
+      "normalizedTitle": "Ame",
+      "artist": "",
+      "timestamp": "24:29",
+      "timestampSeconds": 1469,
+      "sourceUrl": "https://youtube.com/watch?v=gg4-SvzmMBg&t=1469s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "gg4-SvzmMBg-05",
+      "broadcastId": "gg4-SvzmMBg",
+      "date": "2023-12-05",
+      "order": 5,
+      "title": "雨",
+      "normalizedTitle": "雨",
+      "artist": "",
+      "timestamp": "24:29",
+      "timestampSeconds": 1469,
+      "sourceUrl": "https://youtube.com/watch?v=gg4-SvzmMBg&t=1469s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "gg4-SvzmMBg-06",
+      "broadcastId": "gg4-SvzmMBg",
+      "date": "2023-12-05",
+      "order": 6,
+      "title": "Kabutomushi",
+      "normalizedTitle": "Kabutomushi",
+      "artist": "Mei Semones",
+      "timestamp": "31:55",
+      "timestampSeconds": 1915,
+      "sourceUrl": "https://youtube.com/watch?v=gg4-SvzmMBg&t=1915s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "gg4-SvzmMBg-07",
+      "broadcastId": "gg4-SvzmMBg",
+      "date": "2023-12-05",
+      "order": 7,
+      "title": "カブトムシ",
+      "normalizedTitle": "カブトムシ",
+      "artist": "aiko",
+      "timestamp": "31:55",
+      "timestampSeconds": 1915,
+      "sourceUrl": "https://youtube.com/watch?v=gg4-SvzmMBg&t=1915s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "gg4-SvzmMBg-08",
+      "broadcastId": "gg4-SvzmMBg",
+      "date": "2023-12-05",
+      "order": 8,
+      "title": "佐賀事変",
+      "normalizedTitle": "佐賀事変",
+      "artist": "フランシュシュ",
+      "timestamp": "38:18",
+      "timestampSeconds": 2298,
+      "sourceUrl": "https://youtube.com/watch?v=gg4-SvzmMBg&t=2298s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "gg4-SvzmMBg-09",
+      "broadcastId": "gg4-SvzmMBg",
+      "date": "2023-12-05",
+      "order": 9,
+      "title": "Pool",
+      "normalizedTitle": "Pool",
+      "artist": "",
+      "timestamp": "45:12",
+      "timestampSeconds": 2712,
+      "sourceUrl": "https://youtube.com/watch?v=gg4-SvzmMBg&t=2712s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "gg4-SvzmMBg-10",
+      "broadcastId": "gg4-SvzmMBg",
+      "date": "2023-12-05",
+      "order": 10,
+      "title": "瞬間ハートビート",
+      "normalizedTitle": "瞬間ハートビート",
+      "artist": "ReGLOSS",
+      "timestamp": "50:14",
+      "timestampSeconds": 3014,
+      "sourceUrl": "https://youtube.com/watch?v=gg4-SvzmMBg&t=3014s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "gg4-SvzmMBg-11",
+      "broadcastId": "gg4-SvzmMBg",
+      "date": "2023-12-05",
+      "order": 11,
+      "title": "アイドル",
+      "normalizedTitle": "アイドル",
+      "artist": "YOASOBI",
+      "timestamp": "56:11",
+      "timestampSeconds": 3371,
+      "sourceUrl": "https://youtube.com/watch?v=gg4-SvzmMBg&t=3371s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    }
+  ]
+}
+
