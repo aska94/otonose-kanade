@@ -1,12 +1,52 @@
 <!doctype html>
 <html lang="ko">
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="refresh" content="0; url=./dashboard.html">
-  <link rel="canonical" href="./dashboard.html">
-  <title>Otonose Kanade Dashboard</title>
-</head>
-<body>
-  <p><a href="./dashboard.html">대시보드로 이동</a></p>
-</body>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Otonose Kanade karaoke performance archive" />
+    <title>Kanade's Karaoke Data Board</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="page-shell">
+      <header class="masthead">
+        <div>
+          <p class="eyebrow">Otonose Kanade / Karaoke archive</p>
+          <h1>Kanade's Karaoke<br /><span>Data Board</span></h1>
+        </div>
+        <p class="masthead-note">방송과 셋리스트를<br />가볍게 찾아보는 기록</p>
+      </header>
+
+      <section class="overview" aria-label="Archive overview">
+        <div class="overview-intro">
+          <p class="section-kicker">At a glance</p>
+          <p class="overview-copy">확인된 기록을 바탕으로 자주 불린 곡과 연도별 흐름만 정리했습니다.</p>
+        </div>
+        <div class="stat"><strong id="broadcast-count">–</strong><span>방송</span></div>
+        <div class="stat"><strong id="performance-count">–</strong><span>공연 기록</span></div>
+        <div class="stat"><strong id="song-count">–</strong><span>고유 음원</span></div>
+      </section>
+
+      <section class="content-section top-section">
+        <div class="section-heading">
+          <p class="section-kicker">Most played</p>
+          <h2>사용 횟수</h2>
+          <p>전체 기록에서 가장 많이 등장한 20곡</p>
+        </div>
+        <ol id="top-songs" class="ranking-list" aria-label="Most played songs"></ol>
+      </section>
+
+      <section class="content-section year-section">
+        <div class="section-heading">
+          <p class="section-kicker">By year</p>
+          <h2>연도별 음원 목록</h2>
+          <p>각 연도에서 많이 불린 10곡</p>
+        </div>
+        <div id="year-lists" class="year-grid"></div>
+      </section>
+
+      <footer class="footer-note">Source: normalized karaoke performance records</footer>
+    </main>
+    <script src="dashboard.js"></script>
+  </body>
 </html>

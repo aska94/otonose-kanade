@@ -1,9 +1,8 @@
-name: Deploy GitHub Pages
+name: Deploy karaoke dashboard
 
 on:
   push:
-    branches:
-      - main
+    branches: [main]
   workflow_dispatch:
 
 permissions:
@@ -19,16 +18,16 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out repository
+      - name: Checkout
         uses: actions/checkout@v4
+      - name: Build dashboard data
+        run: python scripts/karaoke/build_dashboard.py
       - name: Configure Pages
         uses: actions/configure-pages@v5
-      - name: Prepare site
-        run: mkdir -p _site && cp -R site/. _site/ && mkdir -p _site/data/karaoke/normalized && python scripts/karaoke/build_site_data.py --input-dir data/karaoke/normalized/broadcasts --output-dir _site/data/karaoke/normalized
-      - name: Upload Pages artifact
+      - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: _site
+          path: site
 
   deploy:
     environment:
