@@ -1,0 +1,192 @@
+{
+  "broadcast": {
+    "id": "Y7GEnWttyoo",
+    "title": "【歌枠】うたう♪【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+    "date": "2024-01-17",
+    "youtubeUrl": "https://youtube.com/watch?v=Y7GEnWttyoo",
+    "broadcastUrl": "https://youtube.com/watch?v=Y7GEnWttyoo",
+    "sources": [
+      "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+    ],
+    "status": "source-confirmed"
+  },
+  "performances": [
+    {
+      "id": "Y7GEnWttyoo-01",
+      "broadcastId": "Y7GEnWttyoo",
+      "date": "2024-01-17",
+      "order": 1,
+      "title": "いかないで",
+      "normalizedTitle": "いかないで",
+      "artist": "想太",
+      "timestamp": "5:51",
+      "timestampSeconds": 351,
+      "sourceUrl": "https://youtube.com/watch?v=Y7GEnWttyoo&t=351s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "Y7GEnWttyoo-02",
+      "broadcastId": "Y7GEnWttyoo",
+      "date": "2024-01-17",
+      "order": 2,
+      "title": "白金ディスコ",
+      "normalizedTitle": "白金ディスコ",
+      "artist": "阿良々木月火",
+      "timestamp": "10:26",
+      "timestampSeconds": 626,
+      "sourceUrl": "https://youtube.com/watch?v=Y7GEnWttyoo&t=626s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "Y7GEnWttyoo-03",
+      "broadcastId": "Y7GEnWttyoo",
+      "date": "2024-01-17",
+      "order": 3,
+      "title": "勇者",
+      "normalizedTitle": "勇者",
+      "artist": "YOASOBI",
+      "timestamp": "17:12",
+      "timestampSeconds": 1032,
+      "sourceUrl": "https://youtube.com/watch?v=Y7GEnWttyoo&t=1032s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "Y7GEnWttyoo-04",
+      "broadcastId": "Y7GEnWttyoo",
+      "date": "2024-01-17",
+      "order": 4,
+      "title": "クラクラ",
+      "normalizedTitle": "クラクラ",
+      "artist": "Ado",
+      "timestamp": "22:31",
+      "timestampSeconds": 1351,
+      "sourceUrl": "https://youtube.com/watch?v=Y7GEnWttyoo&t=1351s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "Y7GEnWttyoo-05",
+      "broadcastId": "Y7GEnWttyoo",
+      "date": "2024-01-17",
+      "order": 5,
+      "title": "花になって",
+      "normalizedTitle": "花になって",
+      "artist": "緑黄色社会",
+      "timestamp": "27:18",
+      "timestampSeconds": 1638,
+      "sourceUrl": "https://youtube.com/watch?v=Y7GEnWttyoo&t=1638s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "Y7GEnWttyoo-06",
+      "broadcastId": "Y7GEnWttyoo",
+      "date": "2024-01-17",
+      "order": 6,
+      "title": "KICK BACK",
+      "normalizedTitle": "KICK BACK",
+      "artist": "米津玄師",
+      "timestamp": "39:17",
+      "timestampSeconds": 2357,
+      "sourceUrl": "https://youtube.com/watch?v=Y7GEnWttyoo&t=2357s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "Y7GEnWttyoo-07",
+      "broadcastId": "Y7GEnWttyoo",
+      "date": "2024-01-17",
+      "order": 7,
+      "title": "紅蓮華",
+      "normalizedTitle": "紅蓮華",
+      "artist": "LiSA",
+      "timestamp": "45:06",
+      "timestampSeconds": 2706,
+      "sourceUrl": "https://youtube.com/watch?v=Y7GEnWttyoo&t=2706s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "Y7GEnWttyoo-08",
+      "broadcastId": "Y7GEnWttyoo",
+      "date": "2024-01-17",
+      "order": 8,
+      "title": "STONE OCEAN",
+      "normalizedTitle": "STONE OCEAN",
+      "artist": "ichigo from 岸田教団&THE明星ロケッツ",
+      "timestamp": "52:02",
+      "timestampSeconds": 3122,
+      "sourceUrl": "https://youtube.com/watch?v=Y7GEnWttyoo&t=3122s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    }
+  ]
+}
+
