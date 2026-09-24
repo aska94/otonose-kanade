@@ -1,0 +1,192 @@
+{
+  "broadcast": {
+    "id": "IuoVrIn4OcM",
+    "title": "【 #ReGLOSS歌枠リレー 】七夕記念、リクエスト曲を歌います！リレー最後まで盛り上がって行こ～！🎵【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+    "date": "2024-07-07",
+    "youtubeUrl": "https://youtube.com/watch?v=IuoVrIn4OcM",
+    "broadcastUrl": "https://youtube.com/watch?v=IuoVrIn4OcM",
+    "sources": [
+      "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+    ],
+    "status": "source-confirmed"
+  },
+  "performances": [
+    {
+      "id": "IuoVrIn4OcM-01",
+      "broadcastId": "IuoVrIn4OcM",
+      "date": "2024-07-07",
+      "order": 1,
+      "title": "プラネタリウム",
+      "normalizedTitle": "プラネタリウム",
+      "artist": "大塚 愛",
+      "timestamp": "3:34",
+      "timestampSeconds": 214,
+      "sourceUrl": "https://youtube.com/watch?v=IuoVrIn4OcM&t=214s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "IuoVrIn4OcM-02",
+      "broadcastId": "IuoVrIn4OcM",
+      "date": "2024-07-07",
+      "order": 2,
+      "title": "ベテルギウス",
+      "normalizedTitle": "ベテルギウス",
+      "artist": "優里",
+      "timestamp": "9:57",
+      "timestampSeconds": 597,
+      "sourceUrl": "https://youtube.com/watch?v=IuoVrIn4OcM&t=597s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "IuoVrIn4OcM-03",
+      "broadcastId": "IuoVrIn4OcM",
+      "date": "2024-07-07",
+      "order": 3,
+      "title": "Hoshi Ai",
+      "normalizedTitle": "Hoshi Ai",
+      "artist": "",
+      "timestamp": "14:54",
+      "timestampSeconds": 894,
+      "sourceUrl": "https://youtube.com/watch?v=IuoVrIn4OcM&t=894s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "IuoVrIn4OcM-04",
+      "broadcastId": "IuoVrIn4OcM",
+      "date": "2024-07-07",
+      "order": 4,
+      "title": "ホシアイ",
+      "normalizedTitle": "ホシアイ",
+      "artist": "",
+      "timestamp": "14:54",
+      "timestampSeconds": 894,
+      "sourceUrl": "https://youtube.com/watch?v=IuoVrIn4OcM&t=894s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "IuoVrIn4OcM-05",
+      "broadcastId": "IuoVrIn4OcM",
+      "date": "2024-07-07",
+      "order": 5,
+      "title": "ソワレ",
+      "normalizedTitle": "ソワレ",
+      "artist": "星街すいせい",
+      "timestamp": "20:48",
+      "timestampSeconds": 1248,
+      "sourceUrl": "https://youtube.com/watch?v=IuoVrIn4OcM&t=1248s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "IuoVrIn4OcM-06",
+      "broadcastId": "IuoVrIn4OcM",
+      "date": "2024-07-07",
+      "order": 6,
+      "title": "天体観測",
+      "normalizedTitle": "天体観測",
+      "artist": "BUMP OF CHICKEN",
+      "timestamp": "25:36",
+      "timestampSeconds": 1536,
+      "sourceUrl": "https://youtube.com/watch?v=IuoVrIn4OcM&t=1536s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "IuoVrIn4OcM-07",
+      "broadcastId": "IuoVrIn4OcM",
+      "date": "2024-07-07",
+      "order": 7,
+      "title": "ステラ",
+      "normalizedTitle": "ステラ",
+      "artist": "じん",
+      "timestamp": "30:45",
+      "timestampSeconds": 1845,
+      "sourceUrl": "https://youtube.com/watch?v=IuoVrIn4OcM&t=1845s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "IuoVrIn4OcM-08",
+      "broadcastId": "IuoVrIn4OcM",
+      "date": "2024-07-07",
+      "order": 8,
+      "title": "オリオンをなぞる",
+      "normalizedTitle": "オリオンをなぞる",
+      "artist": "UNISON SQUARE GARDEN",
+      "timestamp": "34:15",
+      "timestampSeconds": 2055,
+      "sourceUrl": "https://youtube.com/watch?v=IuoVrIn4OcM&t=2055s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    }
+  ]
+}
+
