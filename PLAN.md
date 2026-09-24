@@ -62,7 +62,26 @@ Setlist Index is the primary structured source for matching Kanade karaoke broad
 
 Holodex is a fallback and verification source. It is used only when Setlist Index is missing, incomplete, or inconsistent, and for checking timestamps or song identity.
 
-## 5. Dashboard output
+## 5. Daily ChatGPT update mode
+
+The daily ChatGPT heartbeat may read the public Setlist Index page and compare its structured broadcast and performance rows with the committed source metadata and normalized data.
+
+The daily check will:
+
+1. Read the current page through the web source.
+2. Compare broadcast URLs, dates, titles, performance order, labels, and timestamp links.
+3. Identify only new or changed records.
+4. Generate candidate and normalized JSON changes plus updated metadata.
+5. Rebuild statistics and yearly/top-50 playlist manifests.
+6. Validate the diff.
+7. Open a reviewable GitHub Pull Request.
+8. Remain silent when no meaningful change exists.
+
+The heartbeat must not upload the source HTML, must not write directly to main, and must mark parser uncertainty or source ambiguity for human review. A semantic page summary is a comparison aid, not a cryptographic source hash.
+
+The local importer remains available for a full rebuild when web extraction is unavailable or a complete source snapshot is required.
+
+## 6. Dashboard output
 
 The GitHub Pages dashboard will provide:
 
@@ -78,7 +97,7 @@ The GitHub Pages dashboard will provide:
 
 With no reviewed tag data, the dashboard must show that qualitative analysis is unavailable rather than inventing categories.
 
-## 6. Playlist generation
+## 7. Playlist generation
 
 Generate reviewable manifests before using any YouTube account.
 
@@ -92,7 +111,7 @@ Required exports:
 
 After human review and account authorization, a playlist adapter may create or update YouTube Music-compatible playlists. It must show a diff first, preserve existing playlist items unless explicitly removed, and stop on authentication or quota errors.
 
-## 7. Automation
+## 8. Automation
 
 Planned agents and scripts:
 
@@ -107,7 +126,7 @@ Planned agents and scripts:
 
 Every automated run writes a report under agent-runs/ and proposes reviewable changes. GitHub Actions processes committed JSON only; it never fetches Setlist Index directly.
 
-## 8. Acceptance criteria
+## 9. Acceptance criteria
 
 Phase A — Source mirror:
 
@@ -134,7 +153,7 @@ Phase D — Playlists:
 - unmatched mappings are reported
 - human review occurs before playlist mutation
 
-## 9. Human intervention points
+## 10. Human intervention points
 
 Human review is required for:
 
