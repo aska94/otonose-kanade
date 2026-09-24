@@ -1,0 +1,302 @@
+{
+  "broadcast": {
+    "id": "DNeSpgRTzbU",
+    "title": "【歌枠】アニソン縛り🌼【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+    "date": "2024-01-31",
+    "youtubeUrl": "https://youtube.com/watch?v=DNeSpgRTzbU",
+    "broadcastUrl": "https://youtube.com/watch?v=DNeSpgRTzbU",
+    "sources": [
+      "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+    ],
+    "status": "source-confirmed"
+  },
+  "performances": [
+    {
+      "id": "DNeSpgRTzbU-01",
+      "broadcastId": "DNeSpgRTzbU",
+      "date": "2024-01-31",
+      "order": 1,
+      "title": "ふわふわ時間",
+      "normalizedTitle": "ふわふわ時間",
+      "artist": "放課後ティータイム",
+      "timestamp": "4:39",
+      "timestampSeconds": 279,
+      "sourceUrl": "https://youtube.com/watch?v=DNeSpgRTzbU&t=279s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "DNeSpgRTzbU-02",
+      "broadcastId": "DNeSpgRTzbU",
+      "date": "2024-01-31",
+      "order": 2,
+      "title": "ふわふわ時間",
+      "normalizedTitle": "ふわふわ時間",
+      "artist": "桜高軽音部",
+      "timestamp": "7:33",
+      "timestampSeconds": 453,
+      "sourceUrl": "https://youtube.com/watch?v=DNeSpgRTzbU&t=453s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "DNeSpgRTzbU-03",
+      "broadcastId": "DNeSpgRTzbU",
+      "date": "2024-01-31",
+      "order": 3,
+      "title": "This game",
+      "normalizedTitle": "This game",
+      "artist": "鈴木このみ",
+      "timestamp": "12:36",
+      "timestampSeconds": 756,
+      "sourceUrl": "https://youtube.com/watch?v=DNeSpgRTzbU&t=756s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "DNeSpgRTzbU-04",
+      "broadcastId": "DNeSpgRTzbU",
+      "date": "2024-01-31",
+      "order": 4,
+      "title": "Catch the Moment",
+      "normalizedTitle": "Catch the Moment",
+      "artist": "",
+      "timestamp": "20:40",
+      "timestampSeconds": 1240,
+      "sourceUrl": "https://youtube.com/watch?v=DNeSpgRTzbU&t=1240s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "DNeSpgRTzbU-05",
+      "broadcastId": "DNeSpgRTzbU",
+      "date": "2024-01-31",
+      "order": 5,
+      "title": "only my railgun",
+      "normalizedTitle": "only my railgun",
+      "artist": "fripSide",
+      "timestamp": "28:27",
+      "timestampSeconds": 1707,
+      "sourceUrl": "https://youtube.com/watch?v=DNeSpgRTzbU&t=1707s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "DNeSpgRTzbU-06",
+      "broadcastId": "DNeSpgRTzbU",
+      "date": "2024-01-31",
+      "order": 6,
+      "title": "God knows…",
+      "normalizedTitle": "God knows…",
+      "artist": "涼宮ハルヒ",
+      "timestamp": "35:46",
+      "timestampSeconds": 2146,
+      "sourceUrl": "https://youtube.com/watch?v=DNeSpgRTzbU&t=2146s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "DNeSpgRTzbU-07",
+      "broadcastId": "DNeSpgRTzbU",
+      "date": "2024-01-31",
+      "order": 7,
+      "title": "God knows…",
+      "normalizedTitle": "God knows…",
+      "artist": "涼宮ハルヒ",
+      "timestamp": "39:51",
+      "timestampSeconds": 2391,
+      "sourceUrl": "https://youtube.com/watch?v=DNeSpgRTzbU&t=2391s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "DNeSpgRTzbU-08",
+      "broadcastId": "DNeSpgRTzbU",
+      "date": "2024-01-31",
+      "order": 8,
+      "title": "恋は渾沌の隷也",
+      "normalizedTitle": "恋は渾沌の隷也",
+      "artist": "後ろから這いより隊G",
+      "timestamp": "43:23",
+      "timestampSeconds": 2603,
+      "sourceUrl": "https://youtube.com/watch?v=DNeSpgRTzbU&t=2603s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "DNeSpgRTzbU-09",
+      "broadcastId": "DNeSpgRTzbU",
+      "date": "2024-01-31",
+      "order": 9,
+      "title": "恋は渾沌の隷也",
+      "normalizedTitle": "恋は渾沌の隷也",
+      "artist": "後ろから這いより隊G",
+      "timestamp": "46:25",
+      "timestampSeconds": 2785,
+      "sourceUrl": "https://youtube.com/watch?v=DNeSpgRTzbU&t=2785s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "DNeSpgRTzbU-10",
+      "broadcastId": "DNeSpgRTzbU",
+      "date": "2024-01-31",
+      "order": 10,
+      "title": "太陽曰く燃えよカオス",
+      "normalizedTitle": "太陽曰く燃えよカオス",
+      "artist": "後ろから這いより隊G",
+      "timestamp": "49:32",
+      "timestampSeconds": 2972,
+      "sourceUrl": "https://youtube.com/watch?v=DNeSpgRTzbU&t=2972s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "DNeSpgRTzbU-11",
+      "broadcastId": "DNeSpgRTzbU",
+      "date": "2024-01-31",
+      "order": 11,
+      "title": "太陽曰く燃えよカオス",
+      "normalizedTitle": "太陽曰く燃えよカオス",
+      "artist": "後ろから這いより隊G",
+      "timestamp": "53:28",
+      "timestampSeconds": 3208,
+      "sourceUrl": "https://youtube.com/watch?v=DNeSpgRTzbU&t=3208s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "DNeSpgRTzbU-12",
+      "broadcastId": "DNeSpgRTzbU",
+      "date": "2024-01-31",
+      "order": 12,
+      "title": "Daydream café",
+      "normalizedTitle": "Daydream café",
+      "artist": "Petit rabbit’s",
+      "timestamp": "54:33",
+      "timestampSeconds": 3273,
+      "sourceUrl": "https://youtube.com/watch?v=DNeSpgRTzbU&t=3273s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "DNeSpgRTzbU-13",
+      "broadcastId": "DNeSpgRTzbU",
+      "date": "2024-01-31",
+      "order": 13,
+      "title": "Snow halation",
+      "normalizedTitle": "Snow halation",
+      "artist": "μ's",
+      "timestamp": "59:16",
+      "timestampSeconds": 3556,
+      "sourceUrl": "https://youtube.com/watch?v=DNeSpgRTzbU&t=3556s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    }
+  ]
+}
+
