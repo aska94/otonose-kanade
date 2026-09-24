@@ -1,0 +1,280 @@
+{
+  "broadcast": {
+    "id": "14p3fI3IiRU",
+    "title": "【歌枠】春っぽい曲を歌いたい【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+    "date": "2024-02-21",
+    "youtubeUrl": "https://youtube.com/watch?v=14p3fI3IiRU",
+    "broadcastUrl": "https://youtube.com/watch?v=14p3fI3IiRU",
+    "sources": [
+      "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+    ],
+    "status": "source-confirmed"
+  },
+  "performances": [
+    {
+      "id": "14p3fI3IiRU-01",
+      "broadcastId": "14p3fI3IiRU",
+      "date": "2024-02-21",
+      "order": 1,
+      "title": "翡翠のまち",
+      "normalizedTitle": "翡翠のまち",
+      "artist": "メル",
+      "timestamp": "6:48",
+      "timestampSeconds": 408,
+      "sourceUrl": "https://youtube.com/watch?v=14p3fI3IiRU&t=408s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "14p3fI3IiRU-02",
+      "broadcastId": "14p3fI3IiRU",
+      "date": "2024-02-21",
+      "order": 2,
+      "title": "春泥棒",
+      "normalizedTitle": "春泥棒",
+      "artist": "ヨルシカ",
+      "timestamp": "12:53",
+      "timestampSeconds": 773,
+      "sourceUrl": "https://youtube.com/watch?v=14p3fI3IiRU&t=773s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "14p3fI3IiRU-03",
+      "broadcastId": "14p3fI3IiRU",
+      "date": "2024-02-21",
+      "order": 3,
+      "title": "花降らし",
+      "normalizedTitle": "花降らし",
+      "artist": "n-buna",
+      "timestamp": "18:07",
+      "timestampSeconds": 1087,
+      "sourceUrl": "https://youtube.com/watch?v=14p3fI3IiRU&t=1087s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "14p3fI3IiRU-04",
+      "broadcastId": "14p3fI3IiRU",
+      "date": "2024-02-21",
+      "order": 4,
+      "title": "風を食む",
+      "normalizedTitle": "風を食む",
+      "artist": "ヨルシカ",
+      "timestamp": "20:27",
+      "timestampSeconds": 1227,
+      "sourceUrl": "https://youtube.com/watch?v=14p3fI3IiRU&t=1227s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "14p3fI3IiRU-05",
+      "broadcastId": "14p3fI3IiRU",
+      "date": "2024-02-21",
+      "order": 5,
+      "title": "風を食む",
+      "normalizedTitle": "風を食む",
+      "artist": "ヨルシカ",
+      "timestamp": "20:59",
+      "timestampSeconds": 1259,
+      "sourceUrl": "https://youtube.com/watch?v=14p3fI3IiRU&t=1259s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "14p3fI3IiRU-06",
+      "broadcastId": "14p3fI3IiRU",
+      "date": "2024-02-21",
+      "order": 6,
+      "title": "風を食む",
+      "normalizedTitle": "風を食む",
+      "artist": "ヨルシカ",
+      "timestamp": "23:03",
+      "timestampSeconds": 1383,
+      "sourceUrl": "https://youtube.com/watch?v=14p3fI3IiRU&t=1383s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "14p3fI3IiRU-07",
+      "broadcastId": "14p3fI3IiRU",
+      "date": "2024-02-21",
+      "order": 7,
+      "title": "LADY",
+      "normalizedTitle": "LADY",
+      "artist": "米津玄師",
+      "timestamp": "27:33",
+      "timestampSeconds": 1653,
+      "sourceUrl": "https://youtube.com/watch?v=14p3fI3IiRU&t=1653s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "14p3fI3IiRU-08",
+      "broadcastId": "14p3fI3IiRU",
+      "date": "2024-02-21",
+      "order": 8,
+      "title": "プラチナ",
+      "normalizedTitle": "プラチナ",
+      "artist": "坂本真綾",
+      "timestamp": "34:27",
+      "timestampSeconds": 2067,
+      "sourceUrl": "https://youtube.com/watch?v=14p3fI3IiRU&t=2067s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "14p3fI3IiRU-09",
+      "broadcastId": "14p3fI3IiRU",
+      "date": "2024-02-21",
+      "order": 9,
+      "title": "恋をしたのは",
+      "normalizedTitle": "恋をしたのは",
+      "artist": "aiko",
+      "timestamp": "41:23",
+      "timestampSeconds": 2483,
+      "sourceUrl": "https://youtube.com/watch?v=14p3fI3IiRU&t=2483s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "14p3fI3IiRU-10",
+      "broadcastId": "14p3fI3IiRU",
+      "date": "2024-02-21",
+      "order": 10,
+      "title": "カタオモイ",
+      "normalizedTitle": "カタオモイ",
+      "artist": "Aimer",
+      "timestamp": "48:53",
+      "timestampSeconds": 2933,
+      "sourceUrl": "https://youtube.com/watch?v=14p3fI3IiRU&t=2933s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "14p3fI3IiRU-11",
+      "broadcastId": "14p3fI3IiRU",
+      "date": "2024-02-21",
+      "order": 11,
+      "title": "夢と葉桜",
+      "normalizedTitle": "夢と葉桜",
+      "artist": "青木月光",
+      "timestamp": "53:33",
+      "timestampSeconds": 3213,
+      "sourceUrl": "https://youtube.com/watch?v=14p3fI3IiRU&t=3213s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "14p3fI3IiRU-12",
+      "broadcastId": "14p3fI3IiRU",
+      "date": "2024-02-21",
+      "order": 12,
+      "title": "光るなら",
+      "normalizedTitle": "光るなら",
+      "artist": "Goose house",
+      "timestamp": "59:22",
+      "timestampSeconds": 3562,
+      "sourceUrl": "https://youtube.com/watch?v=14p3fI3IiRU&t=3562s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    }
+  ]
+}
+
