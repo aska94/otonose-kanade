@@ -1,0 +1,214 @@
+{
+  "broadcast": {
+    "id": "vAY6SsOvceU",
+    "title": "【歌枠 / Singing】告知アリの歌枠♪【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+    "date": "2023-11-15",
+    "youtubeUrl": "https://youtube.com/watch?v=vAY6SsOvceU",
+    "broadcastUrl": "https://youtube.com/watch?v=vAY6SsOvceU",
+    "sources": [
+      "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+    ],
+    "status": "source-confirmed"
+  },
+  "performances": [
+    {
+      "id": "vAY6SsOvceU-01",
+      "broadcastId": "vAY6SsOvceU",
+      "date": "2023-11-15",
+      "order": 1,
+      "title": "シュガーソングとビターステップ",
+      "normalizedTitle": "シュガーソングとビターステップ",
+      "artist": "UNISON SQUARE GARDEN",
+      "timestamp": "3:31",
+      "timestampSeconds": 211,
+      "sourceUrl": "https://youtube.com/watch?v=vAY6SsOvceU&t=211s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "vAY6SsOvceU-02",
+      "broadcastId": "vAY6SsOvceU",
+      "date": "2023-11-15",
+      "order": 2,
+      "title": "君じゃなきゃダメみたい",
+      "normalizedTitle": "君じゃなきゃダメみたい",
+      "artist": "大石昌良",
+      "timestamp": "10:21",
+      "timestampSeconds": 621,
+      "sourceUrl": "https://youtube.com/watch?v=vAY6SsOvceU&t=621s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "vAY6SsOvceU-03",
+      "broadcastId": "vAY6SsOvceU",
+      "date": "2023-11-15",
+      "order": 3,
+      "title": "小さな恋のうた",
+      "normalizedTitle": "小さな恋のうた",
+      "artist": "MONGOL800",
+      "timestamp": "15:23",
+      "timestampSeconds": 923,
+      "sourceUrl": "https://youtube.com/watch?v=vAY6SsOvceU&t=923s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "vAY6SsOvceU-04",
+      "broadcastId": "vAY6SsOvceU",
+      "date": "2023-11-15",
+      "order": 4,
+      "title": "DADDY ! DADDY ! DO !",
+      "normalizedTitle": "DADDY ! DADDY ! DO !",
+      "artist": "鈴木雅之",
+      "timestamp": "21:59",
+      "timestampSeconds": 1319,
+      "sourceUrl": "https://youtube.com/watch?v=vAY6SsOvceU&t=1319s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "vAY6SsOvceU-05",
+      "broadcastId": "vAY6SsOvceU",
+      "date": "2023-11-15",
+      "order": 5,
+      "title": "天体観測",
+      "normalizedTitle": "天体観測",
+      "artist": "BUMP OF CHICKEN",
+      "timestamp": "26:55",
+      "timestampSeconds": 1615,
+      "sourceUrl": "https://youtube.com/watch?v=vAY6SsOvceU&t=1615s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "vAY6SsOvceU-06",
+      "broadcastId": "vAY6SsOvceU",
+      "date": "2023-11-15",
+      "order": 6,
+      "title": "残響散歌",
+      "normalizedTitle": "残響散歌",
+      "artist": "Aimer",
+      "timestamp": "32:18",
+      "timestampSeconds": 1938,
+      "sourceUrl": "https://youtube.com/watch?v=vAY6SsOvceU&t=1938s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "vAY6SsOvceU-07",
+      "broadcastId": "vAY6SsOvceU",
+      "date": "2023-11-15",
+      "order": 7,
+      "title": "オレンジ",
+      "normalizedTitle": "オレンジ",
+      "artist": "逢坂大河・櫛枝実乃梨・川嶋亜美",
+      "timestamp": "36:57",
+      "timestampSeconds": 2217,
+      "sourceUrl": "https://youtube.com/watch?v=vAY6SsOvceU&t=2217s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "vAY6SsOvceU-08",
+      "broadcastId": "vAY6SsOvceU",
+      "date": "2023-11-15",
+      "order": 8,
+      "title": "鱗",
+      "normalizedTitle": "鱗",
+      "artist": "秦 基博",
+      "timestamp": "42:40",
+      "timestampSeconds": 2560,
+      "sourceUrl": "https://youtube.com/watch?v=vAY6SsOvceU&t=2560s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "vAY6SsOvceU-09",
+      "broadcastId": "vAY6SsOvceU",
+      "date": "2023-11-15",
+      "order": 9,
+      "title": "お知らせ",
+      "normalizedTitle": "お知らせ",
+      "artist": "",
+      "timestamp": "48:23",
+      "timestampSeconds": 2903,
+      "sourceUrl": "https://youtube.com/watch?v=vAY6SsOvceU&t=2903s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    }
+  ]
+}
+
