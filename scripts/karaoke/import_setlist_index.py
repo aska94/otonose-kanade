@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fetch Setlist Index and produce reproducible raw and normalized candidates."""
+"""Parse a locally downloaded Setlist Index snapshot."""
 
 from __future__ import annotations
 
@@ -7,11 +7,10 @@ import argparse
 import json
 import re
 import sys
-from datetime import date, datetime, timezone
+from datetime import datetime, timezone
 from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import urljoin
-from urllib.request import Request, urlopen
 
 SOURCE_URL = "https://setlist.kibunya.org/channel/@OtonoseKanade/"
 TIMESTAMP_RE = re.compile(r"^(?P<time>(?:\d+:)?\d{1,2}:\d{2})\s+(?P<label>.+)$")
@@ -56,15 +55,12 @@ class SetlistParser(HTMLParser):
         elif self.current is not None:
             text = " ".join(data.split())
             if text:
-                self.current["text"].append(text)
                 match = DATE_RE.search(text)
                 if match:
                     self.current["date"] = f"{int(match.group(1)):04d}-{int(match.group(2)):02d}-{int(match.group(3)):02d}"
 
     def _add_anchor(self, text: str, href: str):
-        if self.current is None:
-            return
-        if not text:
+        if self.current is None or not text:
             return
         match = TIMESTAMP_RE.match(text)
         if match and "youtube.com" in href:
@@ -85,18 +81,11 @@ class SetlistParser(HTMLParser):
             "date": None,
             "videoUrl": None,
             "performances": [],
-            "text": [],
         }
 
     def close(self):
         super().close()
         self._flush()
-
-
-def fetch(url: str) -> str:
-    request = Request(url, headers={"User-Agent": "otonose-kanade-archive/1.0"})
-    with urlopen(request, timeout=30) as response:
-        return response.read().decode("utf-8", errors="replace")
 
 
 def write_json(path: Path, value):
@@ -106,32 +95,26 @@ def write_json(path: Path, value):
 
 def main():
     parser = argparse.ArgumentParser()
+    parser.add_argument("--input", required=True, help="Local HTML snapshot downloaded from Setlist Index")
     parser.add_argument("--source-url", default=SOURCE_URL)
+    parser.add_argument("--retrieved-at", default=None)
     parser.add_argument("--output-root", default="data/karaoke")
     args = parser.parse_args()
 
-    retrieved_at = datetime.now(timezone.utc).replace(microsecond=0).isoformat()
-    html = fetch(args.source_url)
+    input_path = Path(args.input)
+    if not input_path.is_file():
+        raise FileNotFoundError(f"Local snapshot not found: {input_path}")
+
+    retrieved_at = args.retrieved_at or datetime.now(timezone.utc).replace(microsecond=0).isoformat()
+    html = input_path.read_text(encoding="utf-8", errors="replace")
     parser_instance = SetlistParser(args.source_url)
     parser_instance.feed(html)
     entries = [entry for entry in parser_instance.entries if entry.get("title")]
 
     if not entries:
-        raise RuntimeError("No broadcast headings were parsed; source structure may have changed.")
+        raise RuntimeError("No broadcast headings were parsed; inspect the local snapshot or parser assumptions.")
 
     root = Path(args.output_root)
-    snapshot_id = date.today().isoformat()
-    raw_path = root / "raw" / "setlist-index" / f"{snapshot_id}.html"
-    raw_path.parent.mkdir(parents=True, exist_ok=True)
-    raw_path.write_text(html, encoding="utf-8")
-    write_json(root / "raw" / "setlist-index" / f"{snapshot_id}.meta.json", {
-        "sourceUrl": args.source_url,
-        "retrievedAt": retrieved_at,
-        "parser": "scripts/karaoke/import_setlist_index.py",
-        "broadcastCount": len(entries),
-        "rawFile": raw_path.name,
-    })
-
     broadcasts = []
     performances = []
     for index, entry in enumerate(entries, start=1):
@@ -143,6 +126,7 @@ def main():
             "date": entry.get("date"),
             "videoUrl": entry.get("videoUrl"),
             "sources": [args.source_url],
+            "sourceSnapshot": str(input_path),
             "status": "source-confirmed",
             "retrievedAt": retrieved_at,
         })
@@ -154,25 +138,28 @@ def main():
                 "displayText": item["displayText"],
                 "timestampCandidate": item["timestampCandidate"],
                 "sourceUrl": item["sourceUrl"],
+                "sourceSnapshot": str(input_path),
                 "status": "source-confirmed",
             })
 
     write_json(root / "candidates" / "setlist-index-broadcasts.json", {
         "schemaVersion": 1,
         "source": args.source_url,
+        "sourceSnapshot": str(input_path),
         "retrievedAt": retrieved_at,
         "broadcasts": broadcasts,
     })
     write_json(root / "candidates" / "setlist-index-performances.json", {
         "schemaVersion": 1,
         "source": args.source_url,
+        "sourceSnapshot": str(input_path),
         "retrievedAt": retrieved_at,
         "performances": performances,
     })
     print(json.dumps({
         "broadcasts": len(broadcasts),
         "performances": len(performances),
-        "rawSnapshot": str(raw_path),
+        "sourceSnapshot": str(input_path),
     }, ensure_ascii=False))
 
 
