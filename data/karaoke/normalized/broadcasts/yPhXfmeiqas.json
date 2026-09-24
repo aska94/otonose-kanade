@@ -1,0 +1,302 @@
+{
+  "broadcast": {
+    "id": "yPhXfmeiqas",
+    "title": "【歌枠 / Singing】アカペラ有り！歌います！！るん！🎵【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+    "date": "2023-11-22",
+    "youtubeUrl": "https://youtube.com/watch?v=yPhXfmeiqas",
+    "broadcastUrl": "https://youtube.com/watch?v=yPhXfmeiqas",
+    "sources": [
+      "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+    ],
+    "status": "source-confirmed"
+  },
+  "performances": [
+    {
+      "id": "yPhXfmeiqas-01",
+      "broadcastId": "yPhXfmeiqas",
+      "date": "2023-11-22",
+      "order": 1,
+      "title": "Lemon",
+      "normalizedTitle": "Lemon",
+      "artist": "米津玄師",
+      "timestamp": "3:27",
+      "timestampSeconds": 207,
+      "sourceUrl": "https://youtube.com/watch?v=yPhXfmeiqas&t=207s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "yPhXfmeiqas-02",
+      "broadcastId": "yPhXfmeiqas",
+      "date": "2023-11-22",
+      "order": 2,
+      "title": "Flamingo",
+      "normalizedTitle": "Flamingo",
+      "artist": "米津玄師",
+      "timestamp": "8:57",
+      "timestampSeconds": 537,
+      "sourceUrl": "https://youtube.com/watch?v=yPhXfmeiqas&t=537s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "yPhXfmeiqas-03",
+      "broadcastId": "yPhXfmeiqas",
+      "date": "2023-11-22",
+      "order": 3,
+      "title": "Flamingo",
+      "normalizedTitle": "Flamingo",
+      "artist": "米津玄師",
+      "timestamp": "11:21",
+      "timestampSeconds": 681,
+      "sourceUrl": "https://youtube.com/watch?v=yPhXfmeiqas&t=681s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "yPhXfmeiqas-04",
+      "broadcastId": "yPhXfmeiqas",
+      "date": "2023-11-22",
+      "order": 4,
+      "title": "当事者",
+      "normalizedTitle": "当事者",
+      "artist": "EGOIST",
+      "timestamp": "13:55",
+      "timestampSeconds": 835,
+      "sourceUrl": "https://youtube.com/watch?v=yPhXfmeiqas&t=835s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "yPhXfmeiqas-05",
+      "broadcastId": "yPhXfmeiqas",
+      "date": "2023-11-22",
+      "order": 5,
+      "title": "ノーダウト",
+      "normalizedTitle": "ノーダウト",
+      "artist": "Official髭男dism",
+      "timestamp": "19:33",
+      "timestampSeconds": 1173,
+      "sourceUrl": "https://youtube.com/watch?v=yPhXfmeiqas&t=1173s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "yPhXfmeiqas-06",
+      "broadcastId": "yPhXfmeiqas",
+      "date": "2023-11-22",
+      "order": 6,
+      "title": "ニア",
+      "normalizedTitle": "ニア",
+      "artist": "夏代孝明",
+      "timestamp": "23:46",
+      "timestampSeconds": 1426,
+      "sourceUrl": "https://youtube.com/watch?v=yPhXfmeiqas&t=1426s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "yPhXfmeiqas-07",
+      "broadcastId": "yPhXfmeiqas",
+      "date": "2023-11-22",
+      "order": 7,
+      "title": "少女レイ",
+      "normalizedTitle": "少女レイ",
+      "artist": "みきとP",
+      "timestamp": "29:09",
+      "timestampSeconds": 1749,
+      "sourceUrl": "https://youtube.com/watch?v=yPhXfmeiqas&t=1749s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "yPhXfmeiqas-08",
+      "broadcastId": "yPhXfmeiqas",
+      "date": "2023-11-22",
+      "order": 8,
+      "title": "少女レイ",
+      "normalizedTitle": "少女レイ",
+      "artist": "みきとP",
+      "timestamp": "33:37",
+      "timestampSeconds": 2017,
+      "sourceUrl": "https://youtube.com/watch?v=yPhXfmeiqas&t=2017s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "yPhXfmeiqas-09",
+      "broadcastId": "yPhXfmeiqas",
+      "date": "2023-11-22",
+      "order": 9,
+      "title": "小夜子",
+      "normalizedTitle": "小夜子",
+      "artist": "みきとP",
+      "timestamp": "35:33",
+      "timestampSeconds": 2133,
+      "sourceUrl": "https://youtube.com/watch?v=yPhXfmeiqas&t=2133s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "yPhXfmeiqas-10",
+      "broadcastId": "yPhXfmeiqas",
+      "date": "2023-11-22",
+      "order": 10,
+      "title": "小夜子",
+      "normalizedTitle": "小夜子",
+      "artist": "みきとP",
+      "timestamp": "37:58",
+      "timestampSeconds": 2278,
+      "sourceUrl": "https://youtube.com/watch?v=yPhXfmeiqas&t=2278s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "yPhXfmeiqas-11",
+      "broadcastId": "yPhXfmeiqas",
+      "date": "2023-11-22",
+      "order": 11,
+      "title": "風を食む",
+      "normalizedTitle": "風を食む",
+      "artist": "ヨルシカ",
+      "timestamp": "40:34",
+      "timestampSeconds": 2434,
+      "sourceUrl": "https://youtube.com/watch?v=yPhXfmeiqas&t=2434s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "yPhXfmeiqas-12",
+      "broadcastId": "yPhXfmeiqas",
+      "date": "2023-11-22",
+      "order": 12,
+      "title": "いのちの名前",
+      "normalizedTitle": "いのちの名前",
+      "artist": "平原綾香, 久石譲",
+      "timestamp": "46:01",
+      "timestampSeconds": 2761,
+      "sourceUrl": "https://youtube.com/watch?v=yPhXfmeiqas&t=2761s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "yPhXfmeiqas-13",
+      "broadcastId": "yPhXfmeiqas",
+      "date": "2023-11-22",
+      "order": 13,
+      "title": "DEPARTURES",
+      "normalizedTitle": "DEPARTURES",
+      "artist": "",
+      "timestamp": "51:02",
+      "timestampSeconds": 3062,
+      "sourceUrl": "https://youtube.com/watch?v=yPhXfmeiqas&t=3062s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    }
+  ]
+}
+
