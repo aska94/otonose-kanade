@@ -1,163 +1,51 @@
 # Otonose Kanade Fan Activity Archive Plan
 
-## 1. Objective
+## 목적
 
-Build an AI-maintained archive of every karaoke broadcast and set list for Otonose Kanade, then publish searchable statistics and generate reviewed YouTube Music playlist exports.
+오토노세 카나데의 가라오케 방송과 Setlist Index 셋리스트를 기록하고, GitHub Pages에서 사용 통계와 연도별 목록을 공개합니다.
 
-The source of truth is layered:
+## 현재 실행 구조
 
-1. Locally downloaded Setlist Index snapshots for structured broadcast set lists
-2. Source metadata committed to GitHub for provenance
-3. Normalized catalogue for analysis and site generation
-4. Setlist Index as the source of record for the fields it publishes
+- `data/karaoke/raw/setlist-index/`: 로컬 전용 HTML 원본
+- `data/karaoke/source-metadata/`: 원본 URL, 수집일, 해시, 파서 버전, 건수
+- `data/karaoke/normalized/broadcasts.json`: 방송 데이터
+- `data/karaoke/normalized/performances.json`: 공연·곡 데이터
+- `data/karaoke/candidates/`: 구조적으로 처리되지 않은 후보 데이터가 필요할 때 사용
+- `data/karaoke/review/`: 구조적 오류나 사람이 결정해야 하는 예외
+- `data/karaoke/playlist/`: 향후 원곡 매칭 후 생성할 playlist manifest
+- `site/index.html`: 저장소 안내 페이지
+- `site/dashboard.html`: 정규화 공연 JSON을 읽는 대시보드
 
-## 2. Repository data layout
+대시보드의 실행에 필요한 데이터는 `data/karaoke/normalized/`입니다. 원본 HTML은 GitHub에 업로드하지 않습니다.
 
-The karaoke data area will use:
+## 로컬 갱신 절차
 
-- data/karaoke/raw/setlist-index/ — local-only source snapshots, excluded from GitHub
-- data/karaoke/source-metadata/ — committed provenance metadata without source content
-- data/karaoke/candidates/ — imported source records awaiting normalization
-- data/karaoke/review/ — conflicts and records needing human decisions
-- data/karaoke/normalized/ — normalized broadcasts, performances, original-song mappings, and tags
-- data/karaoke/playlist/ — generated playlist manifests and unmatched-song reports
-- data/karaoke/broadcasts.json — public catalogue input
-- data/karaoke/songs.json — public performance input
+1. Setlist Index 채널 페이지를 로컬에 저장합니다.
+2. `scripts/karaoke/parse_setlist_index_local.py`를 실행합니다.
+3. 생성된 정규화 JSON과 source metadata를 GitHub에 업로드합니다.
+4. `scripts/validate_karaoke.py`로 JSON과 참조를 검사합니다.
+5. `main`에 반영되면 Pages workflow가 자동 배포됩니다.
 
-Each local snapshot must produce committed metadata containing retrieval date, source URL, local filename, SHA-256, parser version, and record counts.
+Setlist Index에 표시된 방송·곡·순서·타임스탬프는 source-confirmed로 저장합니다.
 
-## 3. Normalized data model
+## 대시보드 현재 기능
 
-A broadcast contains its ID, title, date, video URLs, source references, availability, and confidence status.
+- 방송 수
+- 공연 수
+- 고유 곡 수
+- 연도 수
+- 연도별 곡 목록과 사용 횟수
+- 사용 횟수 상위 50곡
+- 검토된 태그가 없을 때 분위기·장르 미표시
 
-A performance contains broadcast ID, order, displayed title, normalized title, displayed artist, normalized artist, candidate or confirmed timestamp, evidence, and confidence status.
+## 향후 기능
 
-An original-song mapping contains the normalized song identity, preferred original recording, YouTube URL or video ID, mapping status, and review notes.
+- 원곡 YouTube URL 매칭
+- 연도별 원곡 playlist manifest
+- 사용 횟수 상위 50곡 playlist manifest
+- 원곡별 장르·분위기 태그
+- 원곡 매칭 후 YouTube Music playlist 생성
 
-A song may also have optional reviewed metadata:
+## 자동화 원칙
 
-- genre
-- mood
-- language
-- energy
-- source of the tag
-- tag confidence
-
-Genre and mood must not be inferred from play count alone. Frequency produces popularity rankings; metadata or human-reviewed tags produce qualitative categories.
-
-## 4. Source acquisition and import
-
-Setlist Index is the primary structured source for matching Kanade karaoke broadcasts. The local importer will:
-
-1. Download the channel listing locally and preserve a dated raw snapshot.
-2. Run the importer against the local file.
-3. Commit only generated candidate or normalized JSON and source metadata.
-4. Identify every broadcast entry and its source URL.
-5. Extract title, date, video URL, order, song title, artist, and timestamp.
-6. Store the raw values unchanged.
-7. Normalize values into the analysis model.
-8. Deduplicate broadcasts and performances by stable video ID.
-9. Send only structurally missing, unparsable, or internally contradictory source fields to the review queue.
-10. Create a report showing imported, changed, unmatched, and unresolved records.
-
-## 5. Daily ChatGPT update mode
-
-The daily ChatGPT heartbeat may read the public Setlist Index page and compare its structured broadcast and performance rows with the committed source metadata and normalized data.
-
-The daily check will:
-
-1. Read the current page through the web source.
-2. Compare broadcast URLs, dates, titles, performance order, labels, and timestamp links.
-3. Identify only new or changed records.
-4. Generate candidate and normalized JSON changes plus updated metadata.
-5. Rebuild statistics and yearly/top-50 playlist manifests.
-6. Validate the diff.
-7. Open a reviewable GitHub Pull Request.
-8. Remain silent when no meaningful change exists.
-
-The heartbeat must not upload the source HTML, must not write directly to main, and must mark only parser failures or structurally incomplete source rows for human review. A semantic page summary is a comparison aid, not a cryptographic source hash.
-
-The local importer remains available for a full rebuild when web extraction is unavailable or a complete source snapshot is required.
-
-## 6. Dashboard output
-
-The GitHub Pages dashboard will provide:
-
-- yearly set-list song table
-- song usage count across all broadcasts
-- artist usage count
-- top 50 frequently performed songs
-- yearly song-list export links
-- filters by year, song, artist, status, genre, mood, and language
-- broadcast and timestamp links
-- visible source and confidence status
-- a qualitative section for reviewed genre and mood tags
-
-With no reviewed tag data, the dashboard must show that qualitative analysis is unavailable rather than inventing categories.
-
-## 7. Playlist generation
-
-Generate reviewable manifests before using any YouTube account.
-
-Required exports:
-
-- one manifest per year containing distinct original recordings used in that year's set lists
-- one manifest containing the 50 most frequently performed original recordings
-- unmatched and ambiguous mappings
-- duplicate removals
-- source performance references
-
-After human review and account authorization, a playlist adapter may create or update YouTube Music-compatible playlists. It must show a diff first, preserve existing playlist items unless explicitly removed, and stop on authentication or quota errors.
-
-## 8. Automation
-
-Planned agents and scripts:
-
-- setlist-index importer
-- normalization and deduplication script
-- dashboard builder
-- statistics and tag report generator
-- original-song matcher
-- playlist manifest generator
-- validation workflow
-- GitHub Pages deployment workflow
-
-Every automated run writes a report under agent-runs/ and proposes reviewable changes. GitHub Actions processes committed JSON only; it never fetches Setlist Index directly.
-
-## 9. Acceptance criteria
-
-Phase A — Source mirror:
-
-- all available Kanade karaoke entries are saved locally
-- every raw record has source URL and retrieval metadata
-- re-running import produces a stable diff
-
-Phase B — Normalized catalogue:
-
-- every performance has a stable broadcast reference
-- duplicates and conflicts are reported
-- source-confirmed and confirmed records are distinct
-
-Phase C — Dashboard:
-
-- yearly lists and usage counts render from normalized data
-- top-50 list is reproducible
-- filters and source links work
-- mood and genre are shown only for tagged records
-
-Phase D — Playlists:
-
-- yearly and top-50 manifests are generated
-- unmatched mappings are reported
-- human review occurs before playlist mutation
-
-## 10. Human intervention points
-
-Human review is required for:
-
-- structurally incomplete or unparsable source rows
-- original-song matching
-- genre and mood tags when metadata is unclear
-- approval of the first complete import
-- YouTube account authorization and playlist mutation
-- final public dashboard review
+자동화는 변경안을 review 가능한 방식으로 만들며, 원본 HTML을 GitHub에 업로드하지 않습니다. GitHub Actions는 커밋된 JSON을 검증하고 Pages를 배포합니다.
