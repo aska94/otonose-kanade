@@ -8,15 +8,15 @@
 
 - `data/karaoke/raw/setlist-index/`: 로컬 전용 HTML 원본
 - `data/karaoke/source-metadata/`: 원본 URL, 수집일, 해시, 파서 버전, 건수
-- `data/karaoke/normalized/broadcasts.json`: 방송 데이터
-- `data/karaoke/normalized/performances.json`: 공연·곡 데이터
+- `data/karaoke/normalized/broadcasts/<video-id>.json`: 방송별 데이터와 공연 목록
+- `data/karaoke/normalized/index.json`: 방송 파일 인덱스와 전체 건수
 - `data/karaoke/candidates/`: 구조적으로 처리되지 않은 후보 데이터가 필요할 때 사용
 - `data/karaoke/review/`: 구조적 오류나 사람이 결정해야 하는 예외
 - `data/karaoke/playlist/`: 향후 원곡 매칭 후 생성할 playlist manifest
 - `site/index.html`: 저장소 안내 페이지
 - `site/dashboard.html`: 정규화 공연 JSON을 읽는 대시보드
 
-대시보드의 실행에 필요한 데이터는 `data/karaoke/normalized/`입니다. 원본 HTML은 GitHub에 업로드하지 않습니다.
+대시보드의 원본 데이터는 `data/karaoke/normalized/broadcasts/`입니다. 배포 시 Actions가 이를 취합한 임시 aggregate JSON을 만듭니다. 원본 HTML은 GitHub에 업로드하지 않습니다.
 
 ## 로컬 갱신 절차
 
