@@ -24,6 +24,8 @@ def label(song: tuple[str, str]) -> dict[str, str]:
 def main() -> None:
     source = json.loads(SOURCE.read_text(encoding="utf-8"))
     performances = source["performances"]
+    index_path = ROOT / "data" / "karaoke" / "normalized" / "index.json"
+    broadcast_count = len(json.loads(index_path.read_text(encoding="utf-8")).get("broadcasts", [])) if index_path.exists() else len({item["broadcastId"] for item in performances})
 
     overall = Counter(song_key(item) for item in performances)
     by_year: dict[str, Counter] = defaultdict(Counter)
@@ -34,7 +36,7 @@ def main() -> None:
         "source": "data/karaoke/normalized/performances.json",
         "performanceCount": len(performances),
         "songCount": len(overall),
-        "broadcastCount": len({item["broadcastId"] for item in performances}),
+        "broadcastCount": broadcast_count,
         "topSongs": [
             {**label(song), "count": count}
             for song, count in overall.most_common(20)
@@ -57,3 +59,4 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+

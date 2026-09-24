@@ -1,9 +1,14 @@
 {
   "source": "data/karaoke/normalized/performances.json",
-  "performanceCount": 911,
-  "songCount": 478,
-  "broadcastCount": 66,
+  "performanceCount": 1164,
+  "songCount": 607,
+  "broadcastCount": 81,
   "topSongs": [
+    {
+      "title": "瞬間ハートビート / Shunkan Heartbeat (Otonose Kanade SOLO ver.)",
+      "artist": "音乃瀬奏 & ReGLOSS",
+      "count": 100
+    },
     {
       "title": "Mela!",
       "artist": "緑黄色社会",
@@ -25,9 +30,14 @@
       "count": 9
     },
     {
+      "title": "Subtitle",
+      "artist": "Official髭男dism",
+      "count": 9
+    },
+    {
       "title": "Universe",
       "artist": "Official髭男dism",
-      "count": 8
+      "count": 9
     },
     {
       "title": "ソワレ",
@@ -35,38 +45,8 @@
       "count": 8
     },
     {
-      "title": "Pretender",
-      "artist": "Official髭男dism",
-      "count": 7
-    },
-    {
-      "title": "地球儀",
-      "artist": "米津玄師",
-      "count": 7
-    },
-    {
-      "title": "Subtitle",
-      "artist": "Official髭男dism",
-      "count": 7
-    },
-    {
-      "title": "ワールドイズマイン",
-      "artist": "ryo",
-      "count": 7
-    },
-    {
       "title": "ノーダウト",
       "artist": "Official髭男dism",
-      "count": 7
-    },
-    {
-      "title": "さよーならまたいつか！",
-      "artist": "米津玄師",
-      "count": 7
-    },
-    {
-      "title": "ベテルギウス",
-      "artist": "優里",
       "count": 7
     },
     {
@@ -75,33 +55,53 @@
       "count": 7
     },
     {
-      "title": "人生は夢だらけ",
-      "artist": "椎名林檎",
+      "title": "ワールドイズマイン",
+      "artist": "ryo",
+      "count": 7
+    },
+    {
+      "title": "ベテルギウス",
+      "artist": "優里",
+      "count": 7
+    },
+    {
+      "title": "Pretender",
+      "artist": "Official髭男dism",
+      "count": 7
+    },
+    {
+      "title": "Lemon",
+      "artist": "米津玄師",
+      "count": 7
+    },
+    {
+      "title": "地球儀",
+      "artist": "米津玄師",
+      "count": 7
+    },
+    {
+      "title": "さよーならまたいつか！",
+      "artist": "米津玄師",
+      "count": 7
+    },
+    {
+      "title": "ニア",
+      "artist": "夏代孝明",
       "count": 6
     },
     {
-      "title": "サクラキミワタシ",
-      "artist": "tuki.",
+      "title": "天体観測",
+      "artist": "BUMP OF CHICKEN",
       "count": 6
     },
     {
-      "title": "Luna say maybe",
-      "artist": "月村手毬",
+      "title": "風を食む",
+      "artist": "ヨルシカ",
       "count": 6
     },
     {
       "title": "花になって",
       "artist": "緑黄色社会",
-      "count": 6
-    },
-    {
-      "title": "Lemon",
-      "artist": "米津玄師",
-      "count": 6
-    },
-    {
-      "title": "ビビデバ",
-      "artist": "星街すいせい",
       "count": 6
     }
   ],
@@ -117,21 +117,11 @@
         {
           "title": "ray",
           "artist": "BUMP OF CHICKEN",
-          "count": 4
+          "count": 5
         },
         {
           "title": "カタオモイ",
           "artist": "Aimer",
-          "count": 3
-        },
-        {
-          "title": "Mela!",
-          "artist": "緑黄色社会",
-          "count": 3
-        },
-        {
-          "title": "You & 合図",
-          "artist": "音乃瀬奏",
           "count": 3
         },
         {
@@ -140,18 +130,28 @@
           "count": 3
         },
         {
-          "title": "One Last Kiss",
-          "artist": "宇多田ヒカル",
+          "title": "Mela!",
+          "artist": "緑黄色社会",
+          "count": 3
+        },
+        {
+          "title": "Universe",
+          "artist": "Official髭男dism",
+          "count": 3
+        },
+        {
+          "title": "You & 合図",
+          "artist": "音乃瀬奏",
+          "count": 3
+        },
+        {
+          "title": "花になって",
+          "artist": "緑黄色社会",
           "count": 2
         },
         {
-          "title": "人生は夢だらけ",
-          "artist": "椎名林檎",
-          "count": 2
-        },
-        {
-          "title": "サクラキミワタシ",
-          "artist": "tuki.",
+          "title": "ミックスナッツ",
+          "artist": "Official髭男dism",
           "count": 2
         },
         {
@@ -185,13 +185,13 @@
           "count": 5
         },
         {
-          "title": "ソワレ",
-          "artist": "星街すいせい",
+          "title": "晴る",
+          "artist": "ヨルシカ",
           "count": 5
         },
         {
-          "title": "晴る",
-          "artist": "ヨルシカ",
+          "title": "ソワレ",
+          "artist": "星街すいせい",
           "count": 5
         },
         {
@@ -205,13 +205,13 @@
           "count": 4
         },
         {
-          "title": "フィーリングラデーション",
-          "artist": "ReGLOSS",
+          "title": "コネクト",
+          "artist": "ClariS",
           "count": 4
         },
         {
-          "title": "Pretender",
-          "artist": "Official髭男dism",
+          "title": "ベテルギウス",
+          "artist": "優里",
           "count": 4
         }
       ]
@@ -220,14 +220,14 @@
       "year": "2024",
       "songs": [
         {
-          "title": "瞬間ハートビート",
-          "artist": "ReGLOSS",
-          "count": 3
+          "title": "瞬間ハートビート / Shunkan Heartbeat (Otonose Kanade SOLO ver.)",
+          "artist": "音乃瀬奏 & ReGLOSS",
+          "count": 100
         },
         {
-          "title": "ビビデバ",
-          "artist": "星街すいせい",
-          "count": 3
+          "title": "Subtitle",
+          "artist": "Official髭男dism",
+          "count": 4
         },
         {
           "title": "地球儀",
@@ -235,13 +235,13 @@
           "count": 3
         },
         {
-          "title": "幾億光年",
-          "artist": "Omoinotake",
+          "title": "花になって",
+          "artist": "緑黄色社会",
           "count": 3
         },
         {
-          "title": "No Logic",
-          "artist": "ジミーサムP",
+          "title": "Lemon",
+          "artist": "米津玄師",
           "count": 3
         },
         {
@@ -255,18 +255,18 @@
           "count": 3
         },
         {
-          "title": "花になって",
-          "artist": "緑黄色社会",
+          "title": "No Logic",
+          "artist": "ジミーサムP",
+          "count": 3
+        },
+        {
+          "title": "瞬間ハートビート",
+          "artist": "ReGLOSS",
           "count": 3
         },
         {
           "title": "風を食む",
           "artist": "ヨルシカ",
-          "count": 3
-        },
-        {
-          "title": "Subtitle",
-          "artist": "Official髭男dism",
           "count": 3
         }
       ]
@@ -285,23 +285,13 @@
           "count": 3
         },
         {
-          "title": "別の人の彼女になったよ",
-          "artist": "wacci",
-          "count": 2
-        },
-        {
-          "title": "怪獣の花唄",
-          "artist": "Vaundy",
-          "count": 2
-        },
-        {
           "title": "アイドル",
           "artist": "YOASOBI",
           "count": 2
         },
         {
-          "title": "Flamingo",
-          "artist": "米津玄師",
+          "title": "星座になれたら",
+          "artist": "結束バンド",
           "count": 2
         },
         {
@@ -310,18 +300,28 @@
           "count": 2
         },
         {
-          "title": "少女レイ",
-          "artist": "みきとP",
+          "title": "別の人の彼女になったよ",
+          "artist": "wacci",
           "count": 2
         },
         {
-          "title": "小夜子",
-          "artist": "みきとP",
+          "title": "アイネクライネ",
+          "artist": "米津玄師",
           "count": 2
         },
         {
-          "title": "天体観測",
-          "artist": "BUMP OF CHICKEN",
+          "title": "鱗",
+          "artist": "秦基博",
+          "count": 2
+        },
+        {
+          "title": "恋",
+          "artist": "星野源",
+          "count": 2
+        },
+        {
+          "title": "Mela!",
+          "artist": "緑黄色社会",
           "count": 2
         }
       ]

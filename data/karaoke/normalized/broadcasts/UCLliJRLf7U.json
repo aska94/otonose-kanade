@@ -1,0 +1,22 @@
+{
+  "broadcast": {
+    "id": "UCLliJRLf7U",
+    "title": "【 歌枠 】どうやらシルバーウィーク最後の日だって?【音乃瀬奏】#ReGLOSS",
+    "date": "2026-09-23",
+    "youtubeUrl": "https://youtube.com/watch?v=UCLliJRLf7U",
+    "broadcastUrl": "https://holodex.net/watch/UCLliJRLf7U",
+    "sources": [
+      "https://holodex.net/watch/UCLliJRLf7U",
+      "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs"
+    ],
+    "evidence": [
+      {
+        "type": "holodex-api",
+        "url": "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "note": "Holodex topic=singing response; not Setlist Index source-confirmed."
+      }
+    ],
+    "status": "confirmed"
+  },
+  "performances": []
+}

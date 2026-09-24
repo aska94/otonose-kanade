@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "sourceType": "holodex-api",
+  "sourceUrl": "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+  "retrievedAt": "2026-09-24T09:54:27.9203342Z",
+  "channelId": "UCWQtYtq9EOB4-I5P-3fh8lA",
+  "topic": "singing",
+  "status": "confirmed",
+  "comparison": "15 Holodex singing broadcasts absent from the Setlist Index normalized catalogue were promoted into confirmed data at user request.",
+  "broadcastCount": 15,
+  "performanceCount": 1164
+}

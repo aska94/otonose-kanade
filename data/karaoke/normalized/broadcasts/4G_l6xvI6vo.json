@@ -1,0 +1,239 @@
+{
+  "broadcast": {
+    "id": "4G_l6xvI6vo",
+    "title": "【縦型歌枠】ボカロ曲を歌う歌枠。ちょこちょこ流行りの曲【音乃瀬奏】#hololiveDEV_IS #ReGLOSS #shorts",
+    "date": "2024-04-17",
+    "youtubeUrl": "https://youtube.com/watch?v=4G_l6xvI6vo",
+    "broadcastUrl": "https://holodex.net/watch/4G_l6xvI6vo",
+    "sources": [
+      "https://holodex.net/watch/4G_l6xvI6vo",
+      "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs"
+    ],
+    "evidence": [
+      {
+        "type": "holodex-api",
+        "url": "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "note": "Holodex topic=singing response; not Setlist Index source-confirmed."
+      }
+    ],
+    "status": "confirmed"
+  },
+  "performances": [
+    {
+      "id": "4G_l6xvI6vo-01",
+      "broadcastId": "4G_l6xvI6vo",
+      "date": "2024-04-17",
+      "order": 1,
+      "title": "夜もすがら君想ふ / Yomosugara Kimi Omou",
+      "normalizedTitle": "夜もすがら君想ふ / Yomosugara Kimi Omou",
+      "artist": "TOKOTOKO(西沢さんP)",
+      "timestamp": "7:26",
+      "timestampSeconds": 446,
+      "sourceUrl": "https://youtube.com/watch?v=4G_l6xvI6vo&t=446s",
+      "sources": [
+        "https://holodex.net/watch/4G_l6xvI6vo",
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs"
+      ],
+      "evidence": [
+        {
+          "type": "holodex-api",
+          "url": "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+          "note": "Holodex topic=singing response; not Setlist Index source-confirmed."
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "4G_l6xvI6vo-02",
+      "broadcastId": "4G_l6xvI6vo",
+      "date": "2024-04-17",
+      "order": 2,
+      "title": "ジェヘナ / Gehenna",
+      "normalizedTitle": "ジェヘナ / Gehenna",
+      "artist": "wotaku",
+      "timestamp": "16:33",
+      "timestampSeconds": 933,
+      "sourceUrl": "https://youtube.com/watch?v=4G_l6xvI6vo&t=933s",
+      "sources": [
+        "https://holodex.net/watch/4G_l6xvI6vo",
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs"
+      ],
+      "evidence": [
+        {
+          "type": "holodex-api",
+          "url": "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+          "note": "Holodex topic=singing response; not Setlist Index source-confirmed."
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "4G_l6xvI6vo-03",
+      "broadcastId": "4G_l6xvI6vo",
+      "date": "2024-04-17",
+      "order": 3,
+      "title": "CH4NGE",
+      "normalizedTitle": "CH4NGE",
+      "artist": "Giga",
+      "timestamp": "21:04",
+      "timestampSeconds": 1264,
+      "sourceUrl": "https://youtube.com/watch?v=4G_l6xvI6vo&t=1264s",
+      "sources": [
+        "https://holodex.net/watch/4G_l6xvI6vo",
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs"
+      ],
+      "evidence": [
+        {
+          "type": "holodex-api",
+          "url": "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+          "note": "Holodex topic=singing response; not Setlist Index source-confirmed."
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "4G_l6xvI6vo-04",
+      "broadcastId": "4G_l6xvI6vo",
+      "date": "2024-04-17",
+      "order": 4,
+      "title": "人マニア / Hito Mania",
+      "normalizedTitle": "人マニア / Hito Mania",
+      "artist": "原口沙輔",
+      "timestamp": "25:28",
+      "timestampSeconds": 1528,
+      "sourceUrl": "https://youtube.com/watch?v=4G_l6xvI6vo&t=1528s",
+      "sources": [
+        "https://holodex.net/watch/4G_l6xvI6vo",
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs"
+      ],
+      "evidence": [
+        {
+          "type": "holodex-api",
+          "url": "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+          "note": "Holodex topic=singing response; not Setlist Index source-confirmed."
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "4G_l6xvI6vo-05",
+      "broadcastId": "4G_l6xvI6vo",
+      "date": "2024-04-17",
+      "order": 5,
+      "title": "イガク / Medicine",
+      "normalizedTitle": "イガク / Medicine",
+      "artist": "原口沙輔",
+      "timestamp": "1:31:43",
+      "timestampSeconds": 1843,
+      "sourceUrl": "https://youtube.com/watch?v=4G_l6xvI6vo&t=1843s",
+      "sources": [
+        "https://holodex.net/watch/4G_l6xvI6vo",
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs"
+      ],
+      "evidence": [
+        {
+          "type": "holodex-api",
+          "url": "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+          "note": "Holodex topic=singing response; not Setlist Index source-confirmed."
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "4G_l6xvI6vo-06",
+      "broadcastId": "4G_l6xvI6vo",
+      "date": "2024-04-17",
+      "order": 6,
+      "title": "帝国少女 / Imperial Girl",
+      "normalizedTitle": "帝国少女 / Imperial Girl",
+      "artist": "R Sound Design",
+      "timestamp": "1:35:09",
+      "timestampSeconds": 2109,
+      "sourceUrl": "https://youtube.com/watch?v=4G_l6xvI6vo&t=2109s",
+      "sources": [
+        "https://holodex.net/watch/4G_l6xvI6vo",
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs"
+      ],
+      "evidence": [
+        {
+          "type": "holodex-api",
+          "url": "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+          "note": "Holodex topic=singing response; not Setlist Index source-confirmed."
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "4G_l6xvI6vo-07",
+      "broadcastId": "4G_l6xvI6vo",
+      "date": "2024-04-17",
+      "order": 7,
+      "title": "ラビットホール / Rabbit Hole",
+      "normalizedTitle": "ラビットホール / Rabbit Hole",
+      "artist": "DECO*27",
+      "timestamp": "1:42:03",
+      "timestampSeconds": 2523,
+      "sourceUrl": "https://youtube.com/watch?v=4G_l6xvI6vo&t=2523s",
+      "sources": [
+        "https://holodex.net/watch/4G_l6xvI6vo",
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs"
+      ],
+      "evidence": [
+        {
+          "type": "holodex-api",
+          "url": "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+          "note": "Holodex topic=singing response; not Setlist Index source-confirmed."
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "4G_l6xvI6vo-08",
+      "broadcastId": "4G_l6xvI6vo",
+      "date": "2024-04-17",
+      "order": 8,
+      "title": "Flyer!",
+      "normalizedTitle": "Flyer!",
+      "artist": "Chinozo",
+      "timestamp": "1:51:24",
+      "timestampSeconds": 3084,
+      "sourceUrl": "https://youtube.com/watch?v=4G_l6xvI6vo&t=3084s",
+      "sources": [
+        "https://holodex.net/watch/4G_l6xvI6vo",
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs"
+      ],
+      "evidence": [
+        {
+          "type": "holodex-api",
+          "url": "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+          "note": "Holodex topic=singing response; not Setlist Index source-confirmed."
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "4G_l6xvI6vo-09",
+      "broadcastId": "4G_l6xvI6vo",
+      "date": "2024-04-17",
+      "order": 9,
+      "title": "ワールドイズマイン / World Is Mine",
+      "normalizedTitle": "ワールドイズマイン / World Is Mine",
+      "artist": "supercell",
+      "timestamp": "1:57:56",
+      "timestampSeconds": 3416,
+      "sourceUrl": "https://youtube.com/watch?v=4G_l6xvI6vo&t=3416s",
+      "sources": [
+        "https://holodex.net/watch/4G_l6xvI6vo",
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs"
+      ],
+      "evidence": [
+        {
+          "type": "holodex-api",
+          "url": "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+          "note": "Holodex topic=singing response; not Setlist Index source-confirmed."
+        }
+      ],
+      "status": "confirmed"
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "broadcast": {
+    "id": "fzojx27z2Go",
+    "title": "【 #ReGLOSS歌枠リレー 】課題曲を歌っていくよ🔥【音乃瀬奏】#hololiveDEV_IS #ReGLOSS #shorts",
+    "date": "2024-08-27",
+    "youtubeUrl": "https://youtube.com/watch?v=fzojx27z2Go",
+    "broadcastUrl": "https://holodex.net/watch/fzojx27z2Go",
+    "sources": [
+      "https://holodex.net/watch/fzojx27z2Go",
+      "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs"
+    ],
+    "evidence": [
+      {
+        "type": "holodex-api",
+        "url": "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "note": "Holodex topic=singing response; not Setlist Index source-confirmed."
+      }
+    ],
+    "status": "confirmed"
+  },
+  "performances": [
+    {
+      "id": "fzojx27z2Go-01",
+      "broadcastId": "fzojx27z2Go",
+      "date": "2024-08-27",
+      "order": 1,
+      "title": "メフィスト / Mephisto",
+      "normalizedTitle": "メフィスト / Mephisto",
+      "artist": "女王蜂",
+      "timestamp": "1:12",
+      "timestampSeconds": 72,
+      "sourceUrl": "https://youtube.com/watch?v=fzojx27z2Go&t=72s",
+      "sources": [
+        "https://holodex.net/watch/fzojx27z2Go",
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs"
+      ],
+      "evidence": [
+        {
+          "type": "holodex-api",
+          "url": "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+          "note": "Holodex topic=singing response; not Setlist Index source-confirmed."
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "fzojx27z2Go-02",
+      "broadcastId": "fzojx27z2Go",
+      "date": "2024-08-27",
+      "order": 2,
+      "title": "気まぐれロマンティック / Kimagure Romantic",
+      "normalizedTitle": "気まぐれロマンティック / Kimagure Romantic",
+      "artist": "いきものがかり",
+      "timestamp": "8:40",
+      "timestampSeconds": 460,
+      "sourceUrl": "https://youtube.com/watch?v=fzojx27z2Go&t=460s",
+      "sources": [
+        "https://holodex.net/watch/fzojx27z2Go",
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs"
+      ],
+      "evidence": [
+        {
+          "type": "holodex-api",
+          "url": "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+          "note": "Holodex topic=singing response; not Setlist Index source-confirmed."
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "fzojx27z2Go-03",
+      "broadcastId": "fzojx27z2Go",
+      "date": "2024-08-27",
+      "order": 3,
+      "title": "本能 / Honnou - Instinct",
+      "normalizedTitle": "本能 / Honnou - Instinct",
+      "artist": "椎名林檎",
+      "timestamp": "13:02",
+      "timestampSeconds": 782,
+      "sourceUrl": "https://youtube.com/watch?v=fzojx27z2Go&t=782s",
+      "sources": [
+        "https://holodex.net/watch/fzojx27z2Go",
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs"
+      ],
+      "evidence": [
+        {
+          "type": "holodex-api",
+          "url": "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+          "note": "Holodex topic=singing response; not Setlist Index source-confirmed."
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "fzojx27z2Go-04",
+      "broadcastId": "fzojx27z2Go",
+      "date": "2024-08-27",
+      "order": 4,
+      "title": "キャラクター / Character",
+      "normalizedTitle": "キャラクター / Character",
+      "artist": "緑黄色社会",
+      "timestamp": "18:12",
+      "timestampSeconds": 1092,
+      "sourceUrl": "https://youtube.com/watch?v=fzojx27z2Go&t=1092s",
+      "sources": [
+        "https://holodex.net/watch/fzojx27z2Go",
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs"
+      ],
+      "evidence": [
+        {
+          "type": "holodex-api",
+          "url": "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+          "note": "Holodex topic=singing response; not Setlist Index source-confirmed."
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "fzojx27z2Go-05",
+      "broadcastId": "fzojx27z2Go",
+      "date": "2024-08-27",
+      "order": 5,
+      "title": "泡沫メイビー / bubble maybe",
+      "normalizedTitle": "泡沫メイビー / bubble maybe",
+      "artist": "ReGLOSS",
+      "timestamp": "24:18",
+      "timestampSeconds": 1458,
+      "sourceUrl": "https://youtube.com/watch?v=fzojx27z2Go&t=1458s",
+      "sources": [
+        "https://holodex.net/watch/fzojx27z2Go",
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs"
+      ],
+      "evidence": [
+        {
+          "type": "holodex-api",
+          "url": "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+          "note": "Holodex topic=singing response; not Setlist Index source-confirmed."
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "fzojx27z2Go-06",
+      "broadcastId": "fzojx27z2Go",
+      "date": "2024-08-27",
+      "order": 6,
+      "title": "天体観測 / Tentaikansoku",
+      "normalizedTitle": "天体観測 / Tentaikansoku",
+      "artist": "BUMP OF CHICKEN",
+      "timestamp": "29:54",
+      "timestampSeconds": 1734,
+      "sourceUrl": "https://youtube.com/watch?v=fzojx27z2Go&t=1734s",
+      "sources": [
+        "https://holodex.net/watch/fzojx27z2Go",
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs"
+      ],
+      "evidence": [
+        {
+          "type": "holodex-api",
+          "url": "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+          "note": "Holodex topic=singing response; not Setlist Index source-confirmed."
+        }
+      ],
+      "status": "confirmed"
+    }
+  ]
+}

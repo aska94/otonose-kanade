@@ -1,0 +1,1868 @@
+{
+  "generatedFrom": "data\\karaoke\\build\\performances.json",
+  "year": "2025",
+  "songs": [
+    {
+      "title": "GREATEST",
+      "artist": "音乃瀬奏",
+      "originalUrl": null,
+      "key": "GREATEST",
+      "count": 9
+    },
+    {
+      "title": "さよーならまたいつか！",
+      "artist": "米津玄師",
+      "originalUrl": null,
+      "key": "さよーならまたいつか！",
+      "count": 7
+    },
+    {
+      "title": "Universe",
+      "artist": "Official髭男dism",
+      "originalUrl": null,
+      "key": "Universe",
+      "count": 7
+    },
+    {
+      "title": "モニタリング",
+      "artist": "DECO*27",
+      "originalUrl": null,
+      "key": "モニタリング",
+      "count": 5
+    },
+    {
+      "title": "晴る",
+      "artist": "ヨルシカ",
+      "originalUrl": null,
+      "key": "晴る",
+      "count": 5
+    },
+    {
+      "title": "ソワレ",
+      "artist": "星街すいせい",
+      "originalUrl": null,
+      "key": "ソワレ",
+      "count": 5
+    },
+    {
+      "title": "Our Bright Parade",
+      "artist": "hololive IDOL PROJECT",
+      "originalUrl": null,
+      "key": "Our Bright Parade",
+      "count": 4
+    },
+    {
+      "title": "Mela!",
+      "artist": "緑黄色社会",
+      "originalUrl": null,
+      "key": "Mela!",
+      "count": 4
+    },
+    {
+      "title": "ビビデバ",
+      "artist": "星街すいせい",
+      "originalUrl": null,
+      "key": "ビビデバ",
+      "count": 4
+    },
+    {
+      "title": "コネクト",
+      "artist": "ClariS",
+      "originalUrl": null,
+      "key": "コネクト",
+      "count": 4
+    },
+    {
+      "title": "ベテルギウス",
+      "artist": "優里",
+      "originalUrl": null,
+      "key": "ベテルギウス",
+      "count": 4
+    },
+    {
+      "title": "フィーリングラデーション",
+      "artist": "ReGLOSS",
+      "originalUrl": null,
+      "key": "フィーリングラデーション",
+      "count": 4
+    },
+    {
+      "title": "Luna say maybe",
+      "artist": "月村手毬",
+      "originalUrl": null,
+      "key": "Luna say maybe",
+      "count": 4
+    },
+    {
+      "title": "Pretender",
+      "artist": "Official髭男dism",
+      "originalUrl": null,
+      "key": "Pretender",
+      "count": 4
+    },
+    {
+      "title": "プロポーズ",
+      "artist": "なとり",
+      "originalUrl": null,
+      "key": "プロポーズ",
+      "count": 4
+    },
+    {
+      "title": "人生は夢だらけ",
+      "artist": "椎名林檎",
+      "originalUrl": null,
+      "key": "人生は夢だらけ",
+      "count": 3
+    },
+    {
+      "title": "地球儀",
+      "artist": "米津玄師",
+      "originalUrl": null,
+      "key": "地球儀",
+      "count": 3
+    },
+    {
+      "title": "LAKI MODE",
+      "artist": "ReGLOSS",
+      "originalUrl": null,
+      "key": "LAKI MODE",
+      "count": 3
+    },
+    {
+      "title": "変わらないもの",
+      "artist": "奥 華子",
+      "originalUrl": null,
+      "key": "変わらないもの",
+      "count": 3
+    },
+    {
+      "title": "はいよろこんで",
+      "artist": "こっちのけんと",
+      "originalUrl": null,
+      "key": "はいよろこんで",
+      "count": 3
+    },
+    {
+      "title": "FG ROADSTER",
+      "artist": "FLOW GLOW",
+      "originalUrl": null,
+      "key": "FG ROADSTER",
+      "count": 3
+    },
+    {
+      "title": "百花繚乱",
+      "artist": "幾田りら",
+      "originalUrl": null,
+      "key": "百花繚乱",
+      "count": 3
+    },
+    {
+      "title": "ワールドイズマイン",
+      "artist": "ryo",
+      "originalUrl": null,
+      "key": "ワールドイズマイン",
+      "count": 3
+    },
+    {
+      "title": "夜明けと蛍",
+      "artist": "n-buna",
+      "originalUrl": null,
+      "key": "夜明けと蛍",
+      "count": 3
+    },
+    {
+      "title": "メフィスト",
+      "artist": "女王蜂",
+      "originalUrl": null,
+      "key": "メフィスト",
+      "count": 3
+    },
+    {
+      "title": "Color Rise Harmony",
+      "artist": "hololive IDOL PROJECT",
+      "originalUrl": null,
+      "key": "Color Rise Harmony",
+      "count": 3
+    },
+    {
+      "title": "メーベル",
+      "artist": "バルーン",
+      "originalUrl": null,
+      "key": "メーベル",
+      "count": 3
+    },
+    {
+      "title": "フォニイ",
+      "artist": "ツミキ feat. 可不",
+      "originalUrl": null,
+      "key": "フォニイ",
+      "count": 3
+    },
+    {
+      "title": "メルト",
+      "artist": "ryo",
+      "originalUrl": null,
+      "key": "メルト",
+      "count": 3
+    },
+    {
+      "title": "忘れてください",
+      "artist": "ヨルシカ",
+      "originalUrl": null,
+      "key": "忘れてください",
+      "count": 3
+    },
+    {
+      "title": "カタオモイ",
+      "artist": "Aimer",
+      "originalUrl": null,
+      "key": "カタオモイ",
+      "count": 3
+    },
+    {
+      "title": "ひまわりの約束",
+      "artist": "秦 基博",
+      "originalUrl": null,
+      "key": "ひまわりの約束",
+      "count": 3
+    },
+    {
+      "title": "サクラキミワタシ",
+      "artist": "tuki.",
+      "originalUrl": null,
+      "key": "サクラキミワタシ",
+      "count": 3
+    },
+    {
+      "title": "ブレーメン",
+      "artist": "ヨルシカ",
+      "originalUrl": null,
+      "key": "ブレーメン",
+      "count": 3
+    },
+    {
+      "title": "ブルーアンバー",
+      "artist": "back number",
+      "originalUrl": null,
+      "key": "ブルーアンバー",
+      "count": 3
+    },
+    {
+      "title": "ノーダウト",
+      "artist": "Official髭男dism",
+      "originalUrl": null,
+      "key": "ノーダウト",
+      "count": 3
+    },
+    {
+      "title": "ミッドサマーシトラス",
+      "artist": "ReGLOSS",
+      "originalUrl": null,
+      "key": "ミッドサマーシトラス",
+      "count": 3
+    },
+    {
+      "title": "ルーマー",
+      "artist": "ポリスピカデリー feat. GUMI",
+      "originalUrl": null,
+      "key": "ルーマー",
+      "count": 3
+    },
+    {
+      "title": "Mixed Nuts",
+      "artist": "Martin Gratton",
+      "originalUrl": null,
+      "key": "Mixed Nuts",
+      "count": 3
+    },
+    {
+      "title": "ミックスナッツ",
+      "artist": "Official髭男dism",
+      "originalUrl": null,
+      "key": "ミックスナッツ",
+      "count": 3
+    },
+    {
+      "title": "不可思議のカルテ",
+      "artist": "瀬戸麻沙美、東山奈央、種﨑敦美、内田真礼、久保ユリカ、水瀬いのり",
+      "originalUrl": null,
+      "key": "不可思議のカルテ",
+      "count": 3
+    },
+    {
+      "title": "天体観測",
+      "artist": "BUMP OF CHICKEN",
+      "originalUrl": null,
+      "key": "天体観測",
+      "count": 3
+    },
+    {
+      "title": "Happiness phenomenon",
+      "artist": "OHTORA / New K",
+      "originalUrl": null,
+      "key": "Happiness phenomenon",
+      "count": 3
+    },
+    {
+      "title": "アワータイムイエロー",
+      "artist": "ReGLOSS",
+      "originalUrl": null,
+      "key": "アワータイムイエロー",
+      "count": 3
+    },
+    {
+      "title": "JANE DOE",
+      "artist": "米津玄師, 宇多田ヒカル",
+      "originalUrl": null,
+      "key": "JANE DOE",
+      "count": 3
+    },
+    {
+      "title": "XOVERLINE",
+      "artist": "OHTORA / New K",
+      "originalUrl": null,
+      "key": "XOVERLINE",
+      "count": 3
+    },
+    {
+      "title": "公然の秘密",
+      "artist": "椎名林檎",
+      "originalUrl": null,
+      "key": "公然の秘密",
+      "count": 2
+    },
+    {
+      "title": "丸の内サディスティック",
+      "artist": "椎名林檎",
+      "originalUrl": null,
+      "key": "丸の内サディスティック",
+      "count": 2
+    },
+    {
+      "title": "Subtitle",
+      "artist": "Official髭男dism",
+      "originalUrl": null,
+      "key": "Subtitle",
+      "count": 2
+    },
+    {
+      "title": "風を食む",
+      "artist": "ヨルシカ",
+      "originalUrl": null,
+      "key": "風を食む",
+      "count": 2
+    },
+    {
+      "title": "泡沫メイビー",
+      "artist": "ReGLOSS",
+      "originalUrl": null,
+      "key": "泡沫メイビー",
+      "count": 2
+    },
+    {
+      "title": "鱗",
+      "artist": "秦 基博",
+      "originalUrl": null,
+      "key": "鱗",
+      "count": 2
+    },
+    {
+      "title": "星座になれたら",
+      "artist": "結束バンド",
+      "originalUrl": null,
+      "key": "星座になれたら",
+      "count": 2
+    },
+    {
+      "title": "悪魔の子",
+      "artist": "ヒグチアイ",
+      "originalUrl": null,
+      "key": "悪魔の子",
+      "count": 2
+    },
+    {
+      "title": "接吻",
+      "artist": "",
+      "originalUrl": null,
+      "key": "接吻",
+      "count": 2
+    },
+    {
+      "title": "Lemon",
+      "artist": "米津玄師",
+      "originalUrl": null,
+      "key": "Lemon",
+      "count": 2
+    },
+    {
+      "title": "晩餐歌",
+      "artist": "tuki.",
+      "originalUrl": null,
+      "key": "晩餐歌",
+      "count": 2
+    },
+    {
+      "title": "薬屋のひとりごと",
+      "artist": "日向夏",
+      "originalUrl": null,
+      "key": "薬屋のひとりごと",
+      "count": 2
+    },
+    {
+      "title": "ハロ",
+      "artist": "",
+      "originalUrl": null,
+      "key": "ハロ",
+      "count": 2
+    },
+    {
+      "title": "Secret Base",
+      "artist": "",
+      "originalUrl": null,
+      "key": "Secret Base",
+      "count": 2
+    },
+    {
+      "title": "群青讃歌",
+      "artist": "Eve",
+      "originalUrl": null,
+      "key": "群青讃歌",
+      "count": 2
+    },
+    {
+      "title": "スキスキ絶頂症",
+      "artist": "koyori",
+      "originalUrl": null,
+      "key": "スキスキ絶頂症",
+      "count": 2
+    },
+    {
+      "title": "ハイド・アンド・シーク",
+      "artist": "NOMELON NOLEMON",
+      "originalUrl": null,
+      "key": "ハイド・アンド・シーク",
+      "count": 2
+    },
+    {
+      "title": "カルチャ",
+      "artist": "ツミキ",
+      "originalUrl": null,
+      "key": "カルチャ",
+      "count": 2
+    },
+    {
+      "title": "G4L",
+      "artist": "Giga",
+      "originalUrl": null,
+      "key": "G4L",
+      "count": 2
+    },
+    {
+      "title": "メリュー",
+      "artist": "n-buna",
+      "originalUrl": null,
+      "key": "メリュー",
+      "count": 2
+    },
+    {
+      "title": "愛して愛して愛して",
+      "artist": "きくお",
+      "originalUrl": null,
+      "key": "愛して愛して愛して",
+      "count": 2
+    },
+    {
+      "title": "Calc.",
+      "artist": "ジミーサムP feat. 巡音ルカ",
+      "originalUrl": null,
+      "key": "Calc.",
+      "count": 2
+    },
+    {
+      "title": "恋愛裁判",
+      "artist": "40mP",
+      "originalUrl": null,
+      "key": "恋愛裁判",
+      "count": 2
+    },
+    {
+      "title": "炉心融解",
+      "artist": "iroha",
+      "originalUrl": null,
+      "key": "炉心融解",
+      "count": 2
+    },
+    {
+      "title": "夜もすがら君想ふ",
+      "artist": "TOKOTOKO",
+      "originalUrl": null,
+      "key": "夜もすがら君想ふ",
+      "count": 2
+    },
+    {
+      "title": "POP IN 2",
+      "artist": "B小町",
+      "originalUrl": null,
+      "key": "POP IN 2",
+      "count": 2
+    },
+    {
+      "title": "BANZAI",
+      "artist": "轟はじめ",
+      "originalUrl": null,
+      "key": "BANZAI",
+      "count": 2
+    },
+    {
+      "title": "青空のラプソディ",
+      "artist": "fhána",
+      "originalUrl": null,
+      "key": "青空のラプソディ",
+      "count": 2
+    },
+    {
+      "title": "お返事まだカナ?おじさん構文!",
+      "artist": "雨衣",
+      "originalUrl": null,
+      "key": "お返事まだカナ?おじさん構文!",
+      "count": 2
+    },
+    {
+      "title": "フライデー・ナイト",
+      "artist": "なとり",
+      "originalUrl": null,
+      "key": "フライデー・ナイト",
+      "count": 2
+    },
+    {
+      "title": "ずうっといっしょ！",
+      "artist": "キタニタツヤ",
+      "originalUrl": null,
+      "key": "ずうっといっしょ！",
+      "count": 2
+    },
+    {
+      "title": "オリオンをなぞる",
+      "artist": "UNISON SQUARE GARDEN",
+      "originalUrl": null,
+      "key": "オリオンをなぞる",
+      "count": 2
+    },
+    {
+      "title": "Cheerful Vibes Echo",
+      "artist": "OHTORA / RYO OGAWA",
+      "originalUrl": null,
+      "key": "Cheerful Vibes Echo",
+      "count": 2
+    },
+    {
+      "title": "スターマイン",
+      "artist": "",
+      "originalUrl": null,
+      "key": "スターマイン",
+      "count": 2
+    },
+    {
+      "title": "あなたの夜が明けるまで",
+      "artist": "傘村トータ",
+      "originalUrl": null,
+      "key": "あなたの夜が明けるまで",
+      "count": 2
+    },
+    {
+      "title": "幾億光年",
+      "artist": "Omoinotake",
+      "originalUrl": null,
+      "key": "幾億光年",
+      "count": 2
+    },
+    {
+      "title": "Snow halation",
+      "artist": "μ’s",
+      "originalUrl": null,
+      "key": "Snow halation",
+      "count": 2
+    },
+    {
+      "title": "レッド・パージ！！！",
+      "artist": "P.I.N.A.",
+      "originalUrl": null,
+      "key": "レッド・パージ！！！",
+      "count": 2
+    },
+    {
+      "title": "オレンジ",
+      "artist": "トーマ",
+      "originalUrl": null,
+      "key": "オレンジ",
+      "count": 2
+    },
+    {
+      "title": "熱愛発覚中",
+      "artist": "椎名林檎と中田ヤスタカ",
+      "originalUrl": null,
+      "key": "熱愛発覚中",
+      "count": 1
+    },
+    {
+      "title": "殺し屋危機一髪",
+      "artist": "SOIL&\"PIMP\"SESSIONSと椎名林檎",
+      "originalUrl": null,
+      "key": "殺し屋危機一髪",
+      "count": 1
+    },
+    {
+      "title": "長く短い祭",
+      "artist": "椎名林檎",
+      "originalUrl": null,
+      "key": "長く短い祭",
+      "count": 1
+    },
+    {
+      "title": "神様、仏様",
+      "artist": "椎名林檎",
+      "originalUrl": null,
+      "key": "神様、仏様",
+      "count": 1
+    },
+    {
+      "title": "OSCA",
+      "artist": "東京事変",
+      "originalUrl": null,
+      "key": "OSCA",
+      "count": 1
+    },
+    {
+      "title": "本能",
+      "artist": "椎名林檎",
+      "originalUrl": null,
+      "key": "本能",
+      "count": 1
+    },
+    {
+      "title": "女の子は誰でも",
+      "artist": "東京事変",
+      "originalUrl": null,
+      "key": "女の子は誰でも",
+      "count": 1
+    },
+    {
+      "title": "ムーンライト",
+      "artist": "星街すいせい",
+      "originalUrl": null,
+      "key": "ムーンライト",
+      "count": 1
+    },
+    {
+      "title": "ちるちる",
+      "artist": "Reol",
+      "originalUrl": null,
+      "key": "ちるちる",
+      "count": 1
+    },
+    {
+      "title": "煩悩遊戯",
+      "artist": "Reol",
+      "originalUrl": null,
+      "key": "煩悩遊戯",
+      "count": 1
+    },
+    {
+      "title": "なんでもないや",
+      "artist": "RADWIMPS",
+      "originalUrl": null,
+      "key": "なんでもないや",
+      "count": 1
+    },
+    {
+      "title": "気まぐれロマンティック",
+      "artist": "いきものがかり",
+      "originalUrl": null,
+      "key": "気まぐれロマンティック",
+      "count": 1
+    },
+    {
+      "title": "花になって",
+      "artist": "緑黄色社会",
+      "originalUrl": null,
+      "key": "花になって",
+      "count": 1
+    },
+    {
+      "title": "それがあなたの幸せとしても",
+      "artist": "Heavenz",
+      "originalUrl": null,
+      "key": "それがあなたの幸せとしても",
+      "count": 1
+    },
+    {
+      "title": "ファンサ",
+      "artist": "HoneyWorks",
+      "originalUrl": null,
+      "key": "ファンサ",
+      "count": 1
+    },
+    {
+      "title": "プラスティック・ラブ",
+      "artist": "竹内まりや",
+      "originalUrl": null,
+      "key": "プラスティック・ラブ",
+      "count": 1
+    },
+    {
+      "title": "鬼ノ宴",
+      "artist": "友成空",
+      "originalUrl": null,
+      "key": "鬼ノ宴",
+      "count": 1
+    },
+    {
+      "title": "唱",
+      "artist": "Ado",
+      "originalUrl": null,
+      "key": "唱",
+      "count": 1
+    },
+    {
+      "title": "紅蓮華",
+      "artist": "LiSA",
+      "originalUrl": null,
+      "key": "紅蓮華",
+      "count": 1
+    },
+    {
+      "title": "春を告げる",
+      "artist": "yama",
+      "originalUrl": null,
+      "key": "春を告げる",
+      "count": 1
+    },
+    {
+      "title": "Catch the Moment",
+      "artist": "",
+      "originalUrl": null,
+      "key": "Catch the Moment",
+      "count": 1
+    },
+    {
+      "title": "怪獣",
+      "artist": "サカナクション",
+      "originalUrl": null,
+      "key": "怪獣",
+      "count": 1
+    },
+    {
+      "title": "BOW AND ARROW",
+      "artist": "米津玄師",
+      "originalUrl": null,
+      "key": "BOW AND ARROW",
+      "count": 1
+    },
+    {
+      "title": "メダリスト",
+      "artist": "つるの剛士 / 藤本貴則",
+      "originalUrl": null,
+      "key": "メダリスト",
+      "count": 1
+    },
+    {
+      "title": "サクラミラージュ",
+      "artist": "ReGLOSS",
+      "originalUrl": null,
+      "key": "サクラミラージュ",
+      "count": 1
+    },
+    {
+      "title": "Capture the Moment",
+      "artist": "hololive IDOL PROJECT",
+      "originalUrl": null,
+      "key": "Capture the Moment",
+      "count": 1
+    },
+    {
+      "title": "フラジール",
+      "artist": "ぬゆり",
+      "originalUrl": null,
+      "key": "フラジール",
+      "count": 1
+    },
+    {
+      "title": "翡翠のまち",
+      "artist": "メル feat. 初音ミク",
+      "originalUrl": null,
+      "key": "翡翠のまち",
+      "count": 1
+    },
+    {
+      "title": "相思相愛",
+      "artist": "aiko",
+      "originalUrl": null,
+      "key": "相思相愛",
+      "count": 1
+    },
+    {
+      "title": "ただ君に晴れ",
+      "artist": "ヨルシカ",
+      "originalUrl": null,
+      "key": "ただ君に晴れ",
+      "count": 1
+    },
+    {
+      "title": "命に嫌われている。",
+      "artist": "カンザキイオリ",
+      "originalUrl": null,
+      "key": "命に嫌われている。",
+      "count": 1
+    },
+    {
+      "title": "じょいふる",
+      "artist": "いきものがかり",
+      "originalUrl": null,
+      "key": "じょいふる",
+      "count": 1
+    },
+    {
+      "title": "Joyfull",
+      "artist": "Piet Bervoets / Patrick van der Hart",
+      "originalUrl": null,
+      "key": "Joyfull",
+      "count": 1
+    },
+    {
+      "title": "フットワーク1",
+      "artist": "",
+      "originalUrl": null,
+      "key": "フットワーク1",
+      "count": 1
+    },
+    {
+      "title": "フットワーク2",
+      "artist": "",
+      "originalUrl": null,
+      "key": "フットワーク2",
+      "count": 1
+    },
+    {
+      "title": "フットワーク3",
+      "artist": "",
+      "originalUrl": null,
+      "key": "フットワーク3",
+      "count": 1
+    },
+    {
+      "title": "奏 (かなで)",
+      "artist": "大橋卓弥 / 常田真太郎",
+      "originalUrl": null,
+      "key": "奏 (かなで)",
+      "count": 1
+    },
+    {
+      "title": "No title",
+      "artist": "REOL",
+      "originalUrl": null,
+      "key": "No title",
+      "count": 1
+    },
+    {
+      "title": "BANG!!!",
+      "artist": "EGOIST",
+      "originalUrl": null,
+      "key": "BANG!!!",
+      "count": 1
+    },
+    {
+      "title": "いいムーヴ",
+      "artist": "",
+      "originalUrl": null,
+      "key": "いいムーヴ",
+      "count": 1
+    },
+    {
+      "title": "キック1",
+      "artist": "",
+      "originalUrl": null,
+      "key": "キック1",
+      "count": 1
+    },
+    {
+      "title": "ローリンガール",
+      "artist": "Wowaka",
+      "originalUrl": null,
+      "key": "ローリンガール",
+      "count": 1
+    },
+    {
+      "title": "아카시아",
+      "artist": "윤성훈",
+      "originalUrl": null,
+      "key": "아카시아",
+      "count": 1
+    },
+    {
+      "title": "アカシア",
+      "artist": "BUMP OF CHICKEN",
+      "originalUrl": null,
+      "key": "アカシア",
+      "count": 1
+    },
+    {
+      "title": "Beautiful",
+      "artist": "Superfly",
+      "originalUrl": null,
+      "key": "Beautiful",
+      "count": 1
+    },
+    {
+      "title": "どうにかなっちゃいそう！",
+      "artist": "NOMELON NOLEMON",
+      "originalUrl": null,
+      "key": "どうにかなっちゃいそう！",
+      "count": 1
+    },
+    {
+      "title": "メタモリボン",
+      "artist": "emon",
+      "originalUrl": null,
+      "key": "メタモリボン",
+      "count": 1
+    },
+    {
+      "title": "Awake Now",
+      "artist": "雄之助 feat. 初音ミク",
+      "originalUrl": null,
+      "key": "Awake Now",
+      "count": 1
+    },
+    {
+      "title": "Gimme×Gimme",
+      "artist": "",
+      "originalUrl": null,
+      "key": "Gimme×Gimme",
+      "count": 1
+    },
+    {
+      "title": "秘密",
+      "artist": "東京事変",
+      "originalUrl": null,
+      "key": "秘密",
+      "count": 1
+    },
+    {
+      "title": "ドラ１独走",
+      "artist": "椎名林檎と新しい学校のリーダーズ",
+      "originalUrl": null,
+      "key": "ドラ１独走",
+      "count": 1
+    },
+    {
+      "title": "ドーパミント!",
+      "artist": "東京事変",
+      "originalUrl": null,
+      "key": "ドーパミント!",
+      "count": 1
+    },
+    {
+      "title": "余所事",
+      "artist": "",
+      "originalUrl": null,
+      "key": "余所事",
+      "count": 1
+    },
+    {
+      "title": "MIND CIRCUS",
+      "artist": "中谷美紀",
+      "originalUrl": null,
+      "key": "MIND CIRCUS",
+      "count": 1
+    },
+    {
+      "title": "ゴーストルール",
+      "artist": "DECO*27 feat. 初音ミク",
+      "originalUrl": null,
+      "key": "ゴーストルール",
+      "count": 1
+    },
+    {
+      "title": "アイドル",
+      "artist": "YOASOBI",
+      "originalUrl": null,
+      "key": "アイドル",
+      "count": 1
+    },
+    {
+      "title": "怪物",
+      "artist": "YOASOBI",
+      "originalUrl": null,
+      "key": "怪物",
+      "count": 1
+    },
+    {
+      "title": "風",
+      "artist": "",
+      "originalUrl": null,
+      "key": "風",
+      "count": 1
+    },
+    {
+      "title": "気まぐれメルシィ",
+      "artist": "八王子P",
+      "originalUrl": null,
+      "key": "気まぐれメルシィ",
+      "count": 1
+    },
+    {
+      "title": "ガランド",
+      "artist": "",
+      "originalUrl": null,
+      "key": "ガランド",
+      "count": 1
+    },
+    {
+      "title": "Flyer!",
+      "artist": "Chinozo",
+      "originalUrl": null,
+      "key": "Flyer!",
+      "count": 1
+    },
+    {
+      "title": "CH4NGE",
+      "artist": "Giga",
+      "originalUrl": null,
+      "key": "CH4NGE",
+      "count": 1
+    },
+    {
+      "title": "プレイ",
+      "artist": "Giga",
+      "originalUrl": null,
+      "key": "プレイ",
+      "count": 1
+    },
+    {
+      "title": "Ready Steady",
+      "artist": "Giga",
+      "originalUrl": null,
+      "key": "Ready Steady",
+      "count": 1
+    },
+    {
+      "title": "drop pop candy",
+      "artist": "Reol",
+      "originalUrl": null,
+      "key": "drop pop candy",
+      "count": 1
+    },
+    {
+      "title": "ストリーミングハート",
+      "artist": "DECO*27",
+      "originalUrl": null,
+      "key": "ストリーミングハート",
+      "count": 1
+    },
+    {
+      "title": "再教育",
+      "artist": "Neru",
+      "originalUrl": null,
+      "key": "再教育",
+      "count": 1
+    },
+    {
+      "title": "ノウナイディスコ",
+      "artist": "r-906",
+      "originalUrl": null,
+      "key": "ノウナイディスコ",
+      "count": 1
+    },
+    {
+      "title": "daze",
+      "artist": "じん",
+      "originalUrl": null,
+      "key": "daze",
+      "count": 1
+    },
+    {
+      "title": "雨音ノイズ",
+      "artist": "40mP",
+      "originalUrl": null,
+      "key": "雨音ノイズ",
+      "count": 1
+    },
+    {
+      "title": "脳漿炸裂ガール",
+      "artist": "れるりり",
+      "originalUrl": null,
+      "key": "脳漿炸裂ガール",
+      "count": 1
+    },
+    {
+      "title": "死んでしまったんだ",
+      "artist": "椎乃味醂",
+      "originalUrl": null,
+      "key": "死んでしまったんだ",
+      "count": 1
+    },
+    {
+      "title": "生きる",
+      "artist": "水野あつ feat. 可不",
+      "originalUrl": null,
+      "key": "生きる",
+      "count": 1
+    },
+    {
+      "title": "メランコリック",
+      "artist": "Junky feat. 鏡音リン",
+      "originalUrl": null,
+      "key": "メランコリック",
+      "count": 1
+    },
+    {
+      "title": "いーあるふぁんくらぶ",
+      "artist": "みきとP",
+      "originalUrl": null,
+      "key": "いーあるふぁんくらぶ",
+      "count": 1
+    },
+    {
+      "title": "クノイチでも恋がしたい",
+      "artist": "みきとP",
+      "originalUrl": null,
+      "key": "クノイチでも恋がしたい",
+      "count": 1
+    },
+    {
+      "title": "ゆるふわ樹海ガール",
+      "artist": "石風呂",
+      "originalUrl": null,
+      "key": "ゆるふわ樹海ガール",
+      "count": 1
+    },
+    {
+      "title": "バレリーコ",
+      "artist": "みきとP",
+      "originalUrl": null,
+      "key": "バレリーコ",
+      "count": 1
+    },
+    {
+      "title": "透明エレジー",
+      "artist": "n-buna",
+      "originalUrl": null,
+      "key": "透明エレジー",
+      "count": 1
+    },
+    {
+      "title": "夜撫でるメノウ",
+      "artist": "Ayase",
+      "originalUrl": null,
+      "key": "夜撫でるメノウ",
+      "count": 1
+    },
+    {
+      "title": "No Logic",
+      "artist": "ジミーサムP",
+      "originalUrl": null,
+      "key": "No Logic",
+      "count": 1
+    },
+    {
+      "title": "三日月ステップ",
+      "artist": "r-906",
+      "originalUrl": null,
+      "key": "三日月ステップ",
+      "count": 1
+    },
+    {
+      "title": "少女レイ",
+      "artist": "みきとP",
+      "originalUrl": null,
+      "key": "少女レイ",
+      "count": 1
+    },
+    {
+      "title": "春恋キューピット",
+      "artist": "夜崎ゆい",
+      "originalUrl": null,
+      "key": "春恋キューピット",
+      "count": 1
+    },
+    {
+      "title": "瞬間ハートビート",
+      "artist": "ReGLOSS",
+      "originalUrl": null,
+      "key": "瞬間ハートビート",
+      "count": 1
+    },
+    {
+      "title": "bvdiz",
+      "artist": "ReGLOSS",
+      "originalUrl": null,
+      "key": "bvdiz",
+      "count": 1
+    },
+    {
+      "title": "Golden",
+      "artist": "",
+      "originalUrl": null,
+      "key": "Golden",
+      "count": 1
+    },
+    {
+      "title": "打上花火",
+      "artist": "DAOKO×米津玄師",
+      "originalUrl": null,
+      "key": "打上花火",
+      "count": 1
+    },
+    {
+      "title": "神っぽいな",
+      "artist": "ピノキオピー feat. 初音ミク",
+      "originalUrl": null,
+      "key": "神っぽいな",
+      "count": 1
+    },
+    {
+      "title": "ライラック",
+      "artist": "",
+      "originalUrl": null,
+      "key": "ライラック",
+      "count": 1
+    },
+    {
+      "title": "当事者",
+      "artist": "EGOIST",
+      "originalUrl": null,
+      "key": "当事者",
+      "count": 1
+    },
+    {
+      "title": "ラビットホール",
+      "artist": "DECO*27",
+      "originalUrl": null,
+      "key": "ラビットホール",
+      "count": 1
+    },
+    {
+      "title": "Loveit?",
+      "artist": "biz×ZERA feat.LOLUET",
+      "originalUrl": null,
+      "key": "Loveit?",
+      "count": 1
+    },
+    {
+      "title": "I I I",
+      "artist": "宝鐘マリン＆Kobo Kanaeru",
+      "originalUrl": null,
+      "key": "I I I",
+      "count": 1
+    },
+    {
+      "title": "Countach",
+      "artist": "轟はじめ",
+      "originalUrl": null,
+      "key": "Countach",
+      "count": 1
+    },
+    {
+      "title": "トンデモワンダーズ",
+      "artist": "sasakure.UK",
+      "originalUrl": null,
+      "key": "トンデモワンダーズ",
+      "count": 1
+    },
+    {
+      "title": "サインはB",
+      "artist": "B小町",
+      "originalUrl": null,
+      "key": "サインはB",
+      "count": 1
+    },
+    {
+      "title": "DADDY ! DADDY ! DO !",
+      "artist": "鈴木雅之 feat. 鈴木愛理",
+      "originalUrl": null,
+      "key": "DADDY ! DADDY ! DO !",
+      "count": 1
+    },
+    {
+      "title": "クラクラ",
+      "artist": "Ado",
+      "originalUrl": null,
+      "key": "クラクラ",
+      "count": 1
+    },
+    {
+      "title": "シュガーソングとビターステップ",
+      "artist": "UNISON SQUARE GARDEN",
+      "originalUrl": null,
+      "key": "シュガーソングとビターステップ",
+      "count": 1
+    },
+    {
+      "title": "残響散歌",
+      "artist": "Aimer",
+      "originalUrl": null,
+      "key": "残響散歌",
+      "count": 1
+    },
+    {
+      "title": "Shiny Smily Story",
+      "artist": "hololive IDOL PROJECT",
+      "originalUrl": null,
+      "key": "Shiny Smily Story",
+      "count": 1
+    },
+    {
+      "title": "Kirameki Rider",
+      "artist": "mimiko / mpi / 石濱翔",
+      "originalUrl": null,
+      "key": "Kirameki Rider",
+      "count": 1
+    },
+    {
+      "title": "トウキョウ・シャンディ・ランデヴ",
+      "artist": "MAISONdes",
+      "originalUrl": null,
+      "key": "トウキョウ・シャンディ・ランデヴ",
+      "count": 1
+    },
+    {
+      "title": "LOAD",
+      "artist": "FLOW GLOW",
+      "originalUrl": null,
+      "key": "LOAD",
+      "count": 1
+    },
+    {
+      "title": "I LOVE...",
+      "artist": "Official髭男dism",
+      "originalUrl": null,
+      "key": "I LOVE...",
+      "count": 1
+    },
+    {
+      "title": "SCREAM",
+      "artist": "AiScReam",
+      "originalUrl": null,
+      "key": "SCREAM",
+      "count": 1
+    },
+    {
+      "title": "愛♡スクリ〜ム!",
+      "artist": "AiScReam",
+      "originalUrl": null,
+      "key": "愛♡スクリ〜ム!",
+      "count": 1
+    },
+    {
+      "title": "ラヴィ",
+      "artist": "すりぃ",
+      "originalUrl": null,
+      "key": "ラヴィ",
+      "count": 1
+    },
+    {
+      "title": "zako",
+      "artist": "Neil Cicierega",
+      "originalUrl": null,
+      "key": "zako",
+      "count": 1
+    },
+    {
+      "title": "ざぁこ",
+      "artist": "柊マグネタイト",
+      "originalUrl": null,
+      "key": "ざぁこ",
+      "count": 1
+    },
+    {
+      "title": "Overdose",
+      "artist": "",
+      "originalUrl": null,
+      "key": "Overdose",
+      "count": 1
+    },
+    {
+      "title": "足",
+      "artist": "Иван Гомзиков",
+      "originalUrl": null,
+      "key": "足",
+      "count": 1
+    },
+    {
+      "title": "VR機器返さなきゃ",
+      "artist": "",
+      "originalUrl": null,
+      "key": "VR機器返さなきゃ",
+      "count": 1
+    },
+    {
+      "title": "足拍手",
+      "artist": "",
+      "originalUrl": null,
+      "key": "足拍手",
+      "count": 1
+    },
+    {
+      "title": "ダンスレッスンで嘘をw",
+      "artist": "",
+      "originalUrl": null,
+      "key": "ダンスレッスンで嘘をw",
+      "count": 1
+    },
+    {
+      "title": "リクエストが多くて",
+      "artist": "",
+      "originalUrl": null,
+      "key": "リクエストが多くて",
+      "count": 1
+    },
+    {
+      "title": "本日20時に起きました",
+      "artist": "",
+      "originalUrl": null,
+      "key": "本日20時に起きました",
+      "count": 1
+    },
+    {
+      "title": "今日見た夢",
+      "artist": "",
+      "originalUrl": null,
+      "key": "今日見た夢",
+      "count": 1
+    },
+    {
+      "title": "YURIKA",
+      "artist": "菅野よう子",
+      "originalUrl": null,
+      "key": "YURIKA",
+      "count": 1
+    },
+    {
+      "title": "鏡面の波",
+      "artist": "YURiKA",
+      "originalUrl": null,
+      "key": "鏡面の波",
+      "count": 1
+    },
+    {
+      "title": "Kids",
+      "artist": "Andrew VanWyngarden / Ben Goldwasser",
+      "originalUrl": null,
+      "key": "Kids",
+      "count": 1
+    },
+    {
+      "title": "ツボに刺さる縦型配信が流れてくる",
+      "artist": "",
+      "originalUrl": null,
+      "key": "ツボに刺さる縦型配信が流れてくる",
+      "count": 1
+    },
+    {
+      "title": "Stellar Stellar",
+      "artist": "星街すいせい / TAKU INOUE",
+      "originalUrl": null,
+      "key": "Stellar Stellar",
+      "count": 1
+    },
+    {
+      "title": "チェリーポップ",
+      "artist": "DECO*27",
+      "originalUrl": null,
+      "key": "チェリーポップ",
+      "count": 1
+    },
+    {
+      "title": "にゃにゃにゃー",
+      "artist": "",
+      "originalUrl": null,
+      "key": "にゃにゃにゃー",
+      "count": 1
+    },
+    {
+      "title": "ULTRA C",
+      "artist": "Giga & TeddyLoid",
+      "originalUrl": null,
+      "key": "ULTRA C",
+      "count": 1
+    },
+    {
+      "title": "月光",
+      "artist": "はるまきごはん×キタニタツヤ",
+      "originalUrl": null,
+      "key": "月光",
+      "count": 1
+    },
+    {
+      "title": "佐賀事変",
+      "artist": "フランシュシュ",
+      "originalUrl": null,
+      "key": "佐賀事変",
+      "count": 1
+    },
+    {
+      "title": "すいちゃん先輩と3期生の先輩達のカバーでめちゃくちゃ聞いてたから...",
+      "artist": "",
+      "originalUrl": null,
+      "key": "すいちゃん先輩と3期生の先輩達のカバーでめちゃくちゃ聞いてたから...",
+      "count": 1
+    },
+    {
+      "title": "さがじへん",
+      "artist": "",
+      "originalUrl": null,
+      "key": "さがじへん",
+      "count": 1
+    },
+    {
+      "title": "Star-mine",
+      "artist": "",
+      "originalUrl": null,
+      "key": "Star-mine",
+      "count": 1
+    },
+    {
+      "title": "原キー高い",
+      "artist": "",
+      "originalUrl": null,
+      "key": "原キー高い",
+      "count": 1
+    },
+    {
+      "title": "苦しんでいけ",
+      "artist": "",
+      "originalUrl": null,
+      "key": "苦しんでいけ",
+      "count": 1
+    },
+    {
+      "title": "ビビデバのカバーでめっちゃいいの見つけて",
+      "artist": "",
+      "originalUrl": null,
+      "key": "ビビデバのカバーでめっちゃいいの見つけて",
+      "count": 1
+    },
+    {
+      "title": "ビビデバみこちver",
+      "artist": "",
+      "originalUrl": null,
+      "key": "ビビデバみこちver",
+      "count": 1
+    },
+    {
+      "title": "アンノウン・マザーグース",
+      "artist": "wowaka",
+      "originalUrl": null,
+      "key": "アンノウン・マザーグース",
+      "count": 1
+    },
+    {
+      "title": "初音ミクの消失",
+      "artist": "cosMo@暴走P",
+      "originalUrl": null,
+      "key": "初音ミクの消失",
+      "count": 1
+    },
+    {
+      "title": "メズマライザー",
+      "artist": "サツキ",
+      "originalUrl": null,
+      "key": "メズマライザー",
+      "count": 1
+    },
+    {
+      "title": "キッヂュ",
+      "artist": "",
+      "originalUrl": null,
+      "key": "キッヂュ",
+      "count": 1
+    },
+    {
+      "title": "あなたの脳内に",
+      "artist": "",
+      "originalUrl": null,
+      "key": "あなたの脳内に",
+      "count": 1
+    },
+    {
+      "title": "ミラクルペイント",
+      "artist": "OSTER project",
+      "originalUrl": null,
+      "key": "ミラクルペイント",
+      "count": 1
+    },
+    {
+      "title": "君の知らない物語",
+      "artist": "supercell",
+      "originalUrl": null,
+      "key": "君の知らない物語",
+      "count": 1
+    },
+    {
+      "title": "Take 2",
+      "artist": "",
+      "originalUrl": null,
+      "key": "Take 2",
+      "count": 1
+    },
+    {
+      "title": "ギブアップ いつも何度でも",
+      "artist": "",
+      "originalUrl": null,
+      "key": "ギブアップ いつも何度でも",
+      "count": 1
+    },
+    {
+      "title": "That's Why I Gave Up on Music",
+      "artist": "Rachie",
+      "originalUrl": null,
+      "key": "That's Why I Gave Up on Music",
+      "count": 1
+    },
+    {
+      "title": "だから僕は音楽を辞めた",
+      "artist": "ヨルシカ",
+      "originalUrl": null,
+      "key": "だから僕は音楽を辞めた",
+      "count": 1
+    },
+    {
+      "title": "宣伝",
+      "artist": "",
+      "originalUrl": null,
+      "key": "宣伝",
+      "count": 1
+    },
+    {
+      "title": "OPがあったけどEDははたして?",
+      "artist": "",
+      "originalUrl": null,
+      "key": "OPがあったけどEDははたして?",
+      "count": 1
+    },
+    {
+      "title": "RAIN",
+      "artist": "SEKAI NO OWARI",
+      "originalUrl": null,
+      "key": "RAIN",
+      "count": 1
+    },
+    {
+      "title": "ヤミタイガール",
+      "artist": "れるりり",
+      "originalUrl": null,
+      "key": "ヤミタイガール",
+      "count": 1
+    },
+    {
+      "title": "KICK BACK",
+      "artist": "米津玄師",
+      "originalUrl": null,
+      "key": "KICK BACK",
+      "count": 1
+    },
+    {
+      "title": "Seppun",
+      "artist": "",
+      "originalUrl": null,
+      "key": "Seppun",
+      "count": 1
+    },
+    {
+      "title": "接吻-kiss",
+      "artist": "",
+      "originalUrl": null,
+      "key": "接吻-kiss",
+      "count": 1
+    },
+    {
+      "title": "ゴシップ",
+      "artist": "OSTER project",
+      "originalUrl": null,
+      "key": "ゴシップ",
+      "count": 1
+    },
+    {
+      "title": "LADY",
+      "artist": "米津玄師",
+      "originalUrl": null,
+      "key": "LADY",
+      "count": 1
+    },
+    {
+      "title": "チアフルバイブスエコー",
+      "artist": "",
+      "originalUrl": null,
+      "key": "チアフルバイブスエコー",
+      "count": 1
+    },
+    {
+      "title": "Cheerhul Vibes Echo",
+      "artist": "",
+      "originalUrl": null,
+      "key": "Cheerhul Vibes Echo",
+      "count": 1
+    },
+    {
+      "title": "ニア",
+      "artist": "夏代孝明",
+      "originalUrl": null,
+      "key": "ニア",
+      "count": 1
+    },
+    {
+      "title": "夢と葉桜",
+      "artist": "青木月光 feat. 初音ミク",
+      "originalUrl": null,
+      "key": "夢と葉桜",
+      "count": 1
+    },
+    {
+      "title": "ノーチラス",
+      "artist": "ヨルシカ",
+      "originalUrl": null,
+      "key": "ノーチラス",
+      "count": 1
+    },
+    {
+      "title": "春ひさぎ",
+      "artist": "ヨルシカ",
+      "originalUrl": null,
+      "key": "春ひさぎ",
+      "count": 1
+    },
+    {
+      "title": "Bangarang",
+      "artist": "ReGLOSS",
+      "originalUrl": null,
+      "key": "Bangarang",
+      "count": 1
+    },
+    {
+      "title": "Bangrang",
+      "artist": "",
+      "originalUrl": null,
+      "key": "Bangrang",
+      "count": 1
+    },
+    {
+      "title": "恋愛サーキュレーション",
+      "artist": "花澤香菜",
+      "originalUrl": null,
+      "key": "恋愛サーキュレーション",
+      "count": 1
+    },
+    {
+      "title": "ルカルカ★ナイトフィーバー",
+      "artist": "samfree",
+      "originalUrl": null,
+      "key": "ルカルカ★ナイトフィーバー",
+      "count": 1
+    },
+    {
+      "title": "怪獣の花唄",
+      "artist": "Vaundy",
+      "originalUrl": null,
+      "key": "怪獣の花唄",
+      "count": 1
+    },
+    {
+      "title": "ぼなぺてぃーと♡S",
+      "artist": "ブレンド・A",
+      "originalUrl": null,
+      "key": "ぼなぺてぃーと♡S",
+      "count": 1
+    },
+    {
+      "title": "心做し",
+      "artist": "蝶々P",
+      "originalUrl": null,
+      "key": "心做し",
+      "count": 1
+    },
+    {
+      "title": "踊",
+      "artist": "Ado",
+      "originalUrl": null,
+      "key": "踊",
+      "count": 1
+    },
+    {
+      "title": "対象a",
+      "artist": "anNina",
+      "originalUrl": null,
+      "key": "対象a",
+      "count": 1
+    },
+    {
+      "title": "落噺",
+      "artist": "OHTORA / maeshima soshi",
+      "originalUrl": null,
+      "key": "落噺",
+      "count": 1
+    },
+    {
+      "title": "2co1",
+      "artist": "ReGLOSS",
+      "originalUrl": null,
+      "key": "2co1",
+      "count": 1
+    },
+    {
+      "title": "SKAVLA",
+      "artist": "ReGLOSS",
+      "originalUrl": null,
+      "key": "SKAVLA",
+      "count": 1
+    },
+    {
+      "title": "シャルル",
+      "artist": "バルーン",
+      "originalUrl": null,
+      "key": "シャルル",
+      "count": 1
+    },
+    {
+      "title": "カトラリー",
+      "artist": "有機酸",
+      "originalUrl": null,
+      "key": "カトラリー",
+      "count": 1
+    },
+    {
+      "title": "ホシアイ",
+      "artist": "",
+      "originalUrl": null,
+      "key": "ホシアイ",
+      "count": 1
+    },
+    {
+      "title": "マーシャル・マキシマイザー",
+      "artist": "柊マグネタイト",
+      "originalUrl": null,
+      "key": "マーシャル・マキシマイザー",
+      "count": 1
+    },
+    {
+      "title": "マトリョシカ",
+      "artist": "ハチ",
+      "originalUrl": null,
+      "key": "マトリョシカ",
+      "count": 1
+    },
+    {
+      "title": "千本桜",
+      "artist": "黒うさP",
+      "originalUrl": null,
+      "key": "千本桜",
+      "count": 1
+    },
+    {
+      "title": "ドラマツルギー",
+      "artist": "Eve",
+      "originalUrl": null,
+      "key": "ドラマツルギー",
+      "count": 1
+    }
+  ]
+}
