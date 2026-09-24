@@ -1,0 +1,368 @@
+{
+  "broadcast": {
+    "id": "6MrRFAKM814",
+    "title": "【縦型 / 歌枠】張り切って歌いましょう【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+    "date": "2024-11-13",
+    "youtubeUrl": "https://youtube.com/watch?v=6MrRFAKM814",
+    "broadcastUrl": "https://youtube.com/watch?v=6MrRFAKM814",
+    "sources": [
+      "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+    ],
+    "status": "source-confirmed"
+  },
+  "performances": [
+    {
+      "id": "6MrRFAKM814-01",
+      "broadcastId": "6MrRFAKM814",
+      "date": "2024-11-13",
+      "order": 1,
+      "title": "練習してない!",
+      "normalizedTitle": "練習してない!",
+      "artist": "",
+      "timestamp": "3:41",
+      "timestampSeconds": 221,
+      "sourceUrl": "https://youtube.com/watch?v=6MrRFAKM814&t=221s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "6MrRFAKM814-02",
+      "broadcastId": "6MrRFAKM814",
+      "date": "2024-11-13",
+      "order": 2,
+      "title": "オリオンをなぞる",
+      "normalizedTitle": "オリオンをなぞる",
+      "artist": "UNISON SQUARE GARDEN",
+      "timestamp": "6:19",
+      "timestampSeconds": 379,
+      "sourceUrl": "https://youtube.com/watch?v=6MrRFAKM814&t=379s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "6MrRFAKM814-03",
+      "broadcastId": "6MrRFAKM814",
+      "date": "2024-11-13",
+      "order": 3,
+      "title": "気まぐれロマンティック",
+      "normalizedTitle": "気まぐれロマンティック",
+      "artist": "いきものがかり",
+      "timestamp": "12:27",
+      "timestampSeconds": 747,
+      "sourceUrl": "https://youtube.com/watch?v=6MrRFAKM814&t=747s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "6MrRFAKM814-04",
+      "broadcastId": "6MrRFAKM814",
+      "date": "2024-11-13",
+      "order": 4,
+      "title": "月陽",
+      "normalizedTitle": "月陽",
+      "artist": "",
+      "timestamp": "24:18",
+      "timestampSeconds": 1458,
+      "sourceUrl": "https://youtube.com/watch?v=6MrRFAKM814&t=1458s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "6MrRFAKM814-05",
+      "broadcastId": "6MrRFAKM814",
+      "date": "2024-11-13",
+      "order": 5,
+      "title": "月陽-ツキアカリ",
+      "normalizedTitle": "月陽-ツキアカリ",
+      "artist": "",
+      "timestamp": "24:20",
+      "timestampSeconds": 1460,
+      "sourceUrl": "https://youtube.com/watch?v=6MrRFAKM814&t=1460s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "6MrRFAKM814-06",
+      "broadcastId": "6MrRFAKM814",
+      "date": "2024-11-13",
+      "order": 6,
+      "title": "悪魔の子",
+      "normalizedTitle": "悪魔の子",
+      "artist": "ヒグチアイ",
+      "timestamp": "30:30",
+      "timestampSeconds": 1830,
+      "sourceUrl": "https://youtube.com/watch?v=6MrRFAKM814&t=1830s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "6MrRFAKM814-07",
+      "broadcastId": "6MrRFAKM814",
+      "date": "2024-11-13",
+      "order": 7,
+      "title": "地球儀",
+      "normalizedTitle": "地球儀",
+      "artist": "米津玄師",
+      "timestamp": "37:57",
+      "timestampSeconds": 2277,
+      "sourceUrl": "https://youtube.com/watch?v=6MrRFAKM814&t=2277s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "6MrRFAKM814-08",
+      "broadcastId": "6MrRFAKM814",
+      "date": "2024-11-13",
+      "order": 8,
+      "title": "小夜子",
+      "normalizedTitle": "小夜子",
+      "artist": "みきとP",
+      "timestamp": "45:17",
+      "timestampSeconds": 2717,
+      "sourceUrl": "https://youtube.com/watch?v=6MrRFAKM814&t=2717s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "6MrRFAKM814-09",
+      "broadcastId": "6MrRFAKM814",
+      "date": "2024-11-13",
+      "order": 9,
+      "title": "晩餐歌",
+      "normalizedTitle": "晩餐歌",
+      "artist": "tuki.",
+      "timestamp": "50:31",
+      "timestampSeconds": 3031,
+      "sourceUrl": "https://youtube.com/watch?v=6MrRFAKM814&t=3031s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "6MrRFAKM814-10",
+      "broadcastId": "6MrRFAKM814",
+      "date": "2024-11-13",
+      "order": 10,
+      "title": "ベテルギウス",
+      "normalizedTitle": "ベテルギウス",
+      "artist": "優里",
+      "timestamp": "55:26",
+      "timestampSeconds": 3326,
+      "sourceUrl": "https://youtube.com/watch?v=6MrRFAKM814&t=3326s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "6MrRFAKM814-11",
+      "broadcastId": "6MrRFAKM814",
+      "date": "2024-11-13",
+      "order": 11,
+      "title": "幾億光年",
+      "normalizedTitle": "幾億光年",
+      "artist": "Omoinotake",
+      "timestamp": "1:01:33",
+      "timestampSeconds": 3693,
+      "sourceUrl": "https://youtube.com/watch?v=6MrRFAKM814&t=3693s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "6MrRFAKM814-12",
+      "broadcastId": "6MrRFAKM814",
+      "date": "2024-11-13",
+      "order": 12,
+      "title": "幾億光年",
+      "normalizedTitle": "幾億光年",
+      "artist": "Omoinotake",
+      "timestamp": "1:01:54",
+      "timestampSeconds": 3714,
+      "sourceUrl": "https://youtube.com/watch?v=6MrRFAKM814&t=3714s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "6MrRFAKM814-13",
+      "broadcastId": "6MrRFAKM814",
+      "date": "2024-11-13",
+      "order": 13,
+      "title": "Mela!",
+      "normalizedTitle": "Mela!",
+      "artist": "緑黄色社会",
+      "timestamp": "1:08:20",
+      "timestampSeconds": 4100,
+      "sourceUrl": "https://youtube.com/watch?v=6MrRFAKM814&t=4100s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "6MrRFAKM814-14",
+      "broadcastId": "6MrRFAKM814",
+      "date": "2024-11-13",
+      "order": 14,
+      "title": "ノーダウト",
+      "normalizedTitle": "ノーダウト",
+      "artist": "Official髭男dism",
+      "timestamp": "1:13:28",
+      "timestampSeconds": 4408,
+      "sourceUrl": "https://youtube.com/watch?v=6MrRFAKM814&t=4408s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "6MrRFAKM814-15",
+      "broadcastId": "6MrRFAKM814",
+      "date": "2024-11-13",
+      "order": 15,
+      "title": "忘れてください",
+      "normalizedTitle": "忘れてください",
+      "artist": "ヨルシカ",
+      "timestamp": "1:20:48",
+      "timestampSeconds": 4848,
+      "sourceUrl": "https://youtube.com/watch?v=6MrRFAKM814&t=4848s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "6MrRFAKM814-16",
+      "broadcastId": "6MrRFAKM814",
+      "date": "2024-11-13",
+      "order": 16,
+      "title": "No Logic",
+      "normalizedTitle": "No Logic",
+      "artist": "ジミーサムP",
+      "timestamp": "1:27:07",
+      "timestampSeconds": 5227,
+      "sourceUrl": "https://youtube.com/watch?v=6MrRFAKM814&t=5227s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    }
+  ]
+}
+
