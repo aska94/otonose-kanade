@@ -1,14 +1,21 @@
 {
   "generatedFrom": "data\\karaoke\\build\\performances.json",
   "performanceCount": 1164,
-  "uniqueSongCount": 560,
+  "uniqueSongCount": 499,
   "yearCount": 4,
   "songCounts": [
     {
-      "key": "瞬間ハートビート / Shunkan Heartbeat (Otonose Kanade SOLO ver.)",
-      "count": 100,
-      "title": "瞬間ハートビート / Shunkan Heartbeat (Otonose Kanade SOLO ver.)",
-      "artist": "音乃瀬奏 & ReGLOSS",
+      "key": "瞬間ハートビート",
+      "count": 110,
+      "title": "瞬間ハートビート",
+      "artist": "ReGLOSS",
+      "originalUrl": null
+    },
+    {
+      "key": "晩餐歌",
+      "count": 13,
+      "title": "晩餐歌",
+      "artist": "tuki.",
       "originalUrl": null
     },
     {
@@ -26,13 +33,6 @@
       "originalUrl": null
     },
     {
-      "key": "晩餐歌",
-      "count": 10,
-      "title": "晩餐歌",
-      "artist": "tuki.",
-      "originalUrl": null
-    },
-    {
       "key": "Universe",
       "count": 10,
       "title": "Universe",
@@ -47,6 +47,13 @@
       "originalUrl": null
     },
     {
+      "key": "ワールドイズマイン",
+      "count": 9,
+      "title": "ワールドイズマイン / World Is Mine",
+      "artist": "ryo (supercell)",
+      "originalUrl": null
+    },
+    {
       "key": "Subtitle",
       "count": 9,
       "title": "Subtitle",
@@ -55,8 +62,22 @@
     },
     {
       "key": "ソワレ",
-      "count": 8,
-      "title": "ソワレ",
+      "count": 9,
+      "title": "ソワレ / Soirée",
+      "artist": "星街すいせい",
+      "originalUrl": null
+    },
+    {
+      "key": "晴る",
+      "count": 9,
+      "title": "晴る / Sunny",
+      "artist": "ヨルシカ",
+      "originalUrl": null
+    },
+    {
+      "key": "ビビデバ",
+      "count": 9,
+      "title": "ビビデバ",
       "artist": "星街すいせい",
       "originalUrl": null
     },
@@ -65,20 +86,6 @@
       "count": 7,
       "title": "ノーダウト",
       "artist": "Official髭男dism",
-      "originalUrl": null
-    },
-    {
-      "key": "瞬間ハートビート",
-      "count": 7,
-      "title": "瞬間ハートビート",
-      "artist": "ReGLOSS",
-      "originalUrl": null
-    },
-    {
-      "key": "ワールドイズマイン",
-      "count": 7,
-      "title": "ワールドイズマイン",
-      "artist": "ryo",
       "originalUrl": null
     },
     {
@@ -96,6 +103,13 @@
       "originalUrl": null
     },
     {
+      "key": "天体観測",
+      "count": 7,
+      "title": "天体観測",
+      "artist": "BUMP OF CHICKEN",
+      "originalUrl": null
+    },
+    {
       "key": "Lemon",
       "count": 7,
       "title": "Lemon",
@@ -110,10 +124,10 @@
       "originalUrl": null
     },
     {
-      "key": "ビビデバ",
+      "key": "花になって",
       "count": 7,
-      "title": "ビビデバ",
-      "artist": "星街すいせい",
+      "title": "花になって",
+      "artist": "緑黄色社会",
       "originalUrl": null
     },
     {
@@ -145,6 +159,13 @@
       "originalUrl": null
     },
     {
+      "key": "恋愛裁判",
+      "count": 6,
+      "title": "恋愛裁判",
+      "artist": "40mP",
+      "originalUrl": null
+    },
+    {
       "key": "夜明けと蛍",
       "count": 6,
       "title": "夜明けと蛍",
@@ -152,10 +173,10 @@
       "originalUrl": null
     },
     {
-      "key": "天体観測",
+      "key": "変わらないもの",
       "count": 6,
-      "title": "天体観測",
-      "artist": "BUMP OF CHICKEN",
+      "title": "変わらないもの",
+      "artist": "奥 華子",
       "originalUrl": null
     },
     {
@@ -170,20 +191,6 @@
       "count": 6,
       "title": "Calc.",
       "artist": "ジミーサムP feat. 巡音ルカ",
-      "originalUrl": null
-    },
-    {
-      "key": "花になって",
-      "count": 6,
-      "title": "花になって",
-      "artist": "緑黄色社会",
-      "originalUrl": null
-    },
-    {
-      "key": "晴る",
-      "count": 6,
-      "title": "晴る",
-      "artist": "ヨルシカ",
       "originalUrl": null
     },
     {
@@ -222,6 +229,13 @@
       "originalUrl": null
     },
     {
+      "key": "別の人の彼女になったよ",
+      "count": 5,
+      "title": "別の人の彼女になったよ",
+      "artist": "wacci",
+      "originalUrl": null
+    },
+    {
       "key": "コネクト",
       "count": 5,
       "title": "コネクト",
@@ -236,10 +250,52 @@
       "originalUrl": null
     },
     {
+      "key": "恋",
+      "count": 5,
+      "title": "恋 / Koi",
+      "artist": "星野源",
+      "originalUrl": null
+    },
+    {
+      "key": "怪獣の花唄",
+      "count": 5,
+      "title": "怪獣の花唄",
+      "artist": "Vaundy",
+      "originalUrl": null
+    },
+    {
       "key": "ホシアイ",
       "count": 5,
       "title": "ホシアイ",
       "artist": "",
+      "originalUrl": null
+    },
+    {
+      "key": "ノーチラス",
+      "count": 5,
+      "title": "ノーチラス / Nautilus",
+      "artist": "ヨルシカ",
+      "originalUrl": null
+    },
+    {
+      "key": "小夜子",
+      "count": 5,
+      "title": "小夜子",
+      "artist": "みきとP",
+      "originalUrl": null
+    },
+    {
+      "key": "夜もすがら君想ふ",
+      "count": 5,
+      "title": "夜もすがら君想ふ",
+      "artist": "TOKOTOKO",
+      "originalUrl": null
+    },
+    {
+      "key": "メフィスト",
+      "count": 5,
+      "title": "メフィスト",
+      "artist": "女王蜂",
       "originalUrl": null
     },
     {
@@ -257,10 +313,24 @@
       "originalUrl": null
     },
     {
+      "key": "はいよろこんで",
+      "count": 5,
+      "title": "はいよろこんで / Hai Yorokonde",
+      "artist": "こっちのけんと",
+      "originalUrl": null
+    },
+    {
       "key": "Our Bright Parade",
       "count": 5,
       "title": "Our Bright Parade",
       "artist": "hololive IDOL PROJECT",
+      "originalUrl": null
+    },
+    {
+      "key": "フィーリングラデーション",
+      "count": 5,
+      "title": "フィーリングラデーション / feelingradation",
+      "artist": "ReGLOSS",
       "originalUrl": null
     },
     {
@@ -306,6 +376,27 @@
       "originalUrl": null
     },
     {
+      "key": "神っぽいな",
+      "count": 4,
+      "title": "神っぽいな",
+      "artist": "ピノキオピー feat. 初音ミク",
+      "originalUrl": null
+    },
+    {
+      "key": "ロキ",
+      "count": 4,
+      "title": "ロキ",
+      "artist": "みきとP",
+      "originalUrl": null
+    },
+    {
+      "key": "青空のラプソディ",
+      "count": 4,
+      "title": "青空のラプソディ",
+      "artist": "fhána",
+      "originalUrl": null
+    },
+    {
       "key": "Shiny Smily Story",
       "count": 4,
       "title": "Shiny Smily Story",
@@ -320,10 +411,10 @@
       "originalUrl": null
     },
     {
-      "key": "別の人の彼女になったよ",
+      "key": "プラチナ",
       "count": 4,
-      "title": "別の人の彼女になったよ",
-      "artist": "wacci",
+      "title": "プラチナ / Platinum",
+      "artist": "坂本真綾",
       "originalUrl": null
     },
     {
@@ -334,31 +425,10 @@
       "originalUrl": null
     },
     {
-      "key": "恋愛裁判",
+      "key": "ゴーストルール",
       "count": 4,
-      "title": "恋愛裁判",
-      "artist": "40mP",
-      "originalUrl": null
-    },
-    {
-      "key": "変わらないもの",
-      "count": 4,
-      "title": "変わらないもの",
-      "artist": "奥 華子",
-      "originalUrl": null
-    },
-    {
-      "key": "恋",
-      "count": 4,
-      "title": "恋",
-      "artist": "星野源",
-      "originalUrl": null
-    },
-    {
-      "key": "怪獣の花唄",
-      "count": 4,
-      "title": "怪獣の花唄",
-      "artist": "Vaundy",
+      "title": "ゴーストルール",
+      "artist": "DECO*27 feat. 初音ミク",
       "originalUrl": null
     },
     {
@@ -369,10 +439,10 @@
       "originalUrl": null
     },
     {
-      "key": "ノーチラス",
+      "key": "ステラ",
       "count": 4,
-      "title": "ノーチラス",
-      "artist": "ヨルシカ",
+      "title": "ステラ",
+      "artist": "",
       "originalUrl": null
     },
     {
@@ -383,9 +453,9 @@
       "originalUrl": null
     },
     {
-      "key": "小夜子",
+      "key": "少女レイ",
       "count": 4,
-      "title": "小夜子",
+      "title": "少女レイ",
       "artist": "みきとP",
       "originalUrl": null
     },
@@ -411,6 +481,27 @@
       "originalUrl": null
     },
     {
+      "key": "CH4NGE",
+      "count": 4,
+      "title": "CH4NGE",
+      "artist": "Giga",
+      "originalUrl": null
+    },
+    {
+      "key": "群青讃歌",
+      "count": 4,
+      "title": "群青讃歌",
+      "artist": "Eve",
+      "originalUrl": null
+    },
+    {
+      "key": "シンメトリー",
+      "count": 4,
+      "title": "シンメトリー",
+      "artist": "ReGLOSS",
+      "originalUrl": null
+    },
+    {
       "key": "オリオンをなぞる",
       "count": 4,
       "title": "オリオンをなぞる",
@@ -418,10 +509,10 @@
       "originalUrl": null
     },
     {
-      "key": "はいよろこんで",
+      "key": "気まぐれロマンティック",
       "count": 4,
-      "title": "はいよろこんで",
-      "artist": "こっちのけんと",
+      "title": "気まぐれロマンティック / Kimagure Romantic",
+      "artist": "いきものがかり",
       "originalUrl": null
     },
     {
@@ -436,13 +527,6 @@
       "count": 4,
       "title": "FG ROADSTER",
       "artist": "FLOW GLOW",
-      "originalUrl": null
-    },
-    {
-      "key": "フィーリングラデーション",
-      "count": 4,
-      "title": "フィーリングラデーション",
-      "artist": "ReGLOSS",
       "originalUrl": null
     },
     {
@@ -495,20 +579,6 @@
       "originalUrl": null
     },
     {
-      "key": "神っぽいな",
-      "count": 3,
-      "title": "神っぽいな",
-      "artist": "ピノキオピー feat. 初音ミク",
-      "originalUrl": null
-    },
-    {
-      "key": "青空のラプソディ",
-      "count": 3,
-      "title": "青空のラプソディ",
-      "artist": "fhána",
-      "originalUrl": null
-    },
-    {
       "key": "だから僕は音楽を辞めた",
       "count": 3,
       "title": "だから僕は音楽を辞めた",
@@ -516,10 +586,10 @@
       "originalUrl": null
     },
     {
-      "key": "プラチナ",
+      "key": "天ノ弱",
       "count": 3,
-      "title": "プラチナ",
-      "artist": "坂本真綾",
+      "title": "天ノ弱",
+      "artist": "164",
       "originalUrl": null
     },
     {
@@ -579,6 +649,13 @@
       "originalUrl": null
     },
     {
+      "key": "新宝島",
+      "count": 3,
+      "title": "新宝島",
+      "artist": "サカナクション",
+      "originalUrl": null
+    },
+    {
       "key": "花に亡霊",
       "count": 3,
       "title": "花に亡霊",
@@ -607,13 +684,6 @@
       "originalUrl": null
     },
     {
-      "key": "ステラ",
-      "count": 3,
-      "title": "ステラ",
-      "artist": "",
-      "originalUrl": null
-    },
-    {
       "key": "シュガーソングとビターステップ",
       "count": 3,
       "title": "シュガーソングとビターステップ",
@@ -635,13 +705,6 @@
       "originalUrl": null
     },
     {
-      "key": "少女レイ",
-      "count": 3,
-      "title": "少女レイ",
-      "artist": "みきとP",
-      "originalUrl": null
-    },
-    {
       "key": "マーシャル・マキシマイザー",
       "count": 3,
       "title": "マーシャル・マキシマイザー",
@@ -649,10 +712,24 @@
       "originalUrl": null
     },
     {
-      "key": "晩餐歌 / Bansanka",
+      "key": "キャラクター",
       "count": 3,
-      "title": "晩餐歌 / Bansanka",
-      "artist": "tuki.",
+      "title": "キャラクター / Character",
+      "artist": "緑黄色社会",
+      "originalUrl": null
+    },
+    {
+      "key": "からくりピエロ",
+      "count": 3,
+      "title": "からくりピエロ",
+      "artist": "40mP",
+      "originalUrl": null
+    },
+    {
+      "key": "カルチャ",
+      "count": 3,
+      "title": "カルチャ",
+      "artist": "ツミキ",
       "originalUrl": null
     },
     {
@@ -660,6 +737,13 @@
       "count": 3,
       "title": "Overdose",
       "artist": "",
+      "originalUrl": null
+    },
+    {
+      "key": "クラクラ",
+      "count": 3,
+      "title": "クラクラ",
+      "artist": "Ado",
       "originalUrl": null
     },
     {
@@ -677,6 +761,13 @@
       "originalUrl": null
     },
     {
+      "key": "世界は恋に落ちている",
+      "count": 3,
+      "title": "世界は恋に落ちている / Sekaiwa Koi Ni Ochiteiru",
+      "artist": "CHiCO with HoneyWorks",
+      "originalUrl": null
+    },
+    {
       "key": "スキスキ絶頂症",
       "count": 3,
       "title": "スキスキ絶頂症",
@@ -691,24 +782,24 @@
       "originalUrl": null
     },
     {
-      "key": "晴る / Sunny",
+      "key": "いーあるふぁんくらぶ",
       "count": 3,
-      "title": "晴る / Sunny",
-      "artist": "ヨルシカ",
+      "title": "いーあるふぁんくらぶ",
+      "artist": "みきとP",
       "originalUrl": null
     },
     {
-      "key": "瞬間ハートビート / Shunkan Heartbeat",
+      "key": "春を告げる",
       "count": 3,
-      "title": "瞬間ハートビート / Shunkan Heartbeat",
-      "artist": "火威青,音乃瀬奏,一条莉々華,儒烏風亭らでん,轟はじめ",
+      "title": "春を告げる",
+      "artist": "yama",
       "originalUrl": null
     },
     {
-      "key": "CH4NGE",
+      "key": "鬼ノ宴",
       "count": 3,
-      "title": "CH4NGE",
-      "artist": "Giga",
+      "title": "鬼ノ宴",
+      "artist": "友成空",
       "originalUrl": null
     },
     {
@@ -723,6 +814,13 @@
       "count": 3,
       "title": "ただ君に晴れ",
       "artist": "ヨルシカ",
+      "originalUrl": null
+    },
+    {
+      "key": "泡沫メイビー",
+      "count": 3,
+      "title": "泡沫メイビー",
+      "artist": "ReGLOSS",
       "originalUrl": null
     },
     {
@@ -754,13 +852,6 @@
       "originalUrl": null
     },
     {
-      "key": "メフィスト",
-      "count": 3,
-      "title": "メフィスト",
-      "artist": "女王蜂",
-      "originalUrl": null
-    },
-    {
       "key": "メーベル",
       "count": 3,
       "title": "メーベル",
@@ -768,10 +859,10 @@
       "originalUrl": null
     },
     {
-      "key": "群青讃歌",
+      "key": "怪獣",
       "count": 3,
-      "title": "群青讃歌",
-      "artist": "Eve",
+      "title": "怪獣 / Kaiju",
+      "artist": "サカナクション",
       "originalUrl": null
     },
     {
@@ -793,13 +884,6 @@
       "count": 3,
       "title": "愛して愛して愛して",
       "artist": "きくお",
-      "originalUrl": null
-    },
-    {
-      "key": "夜もすがら君想ふ",
-      "count": 3,
-      "title": "夜もすがら君想ふ",
-      "artist": "TOKOTOKO",
       "originalUrl": null
     },
     {
@@ -859,17 +943,17 @@
       "originalUrl": null
     },
     {
-      "key": "ロキ",
-      "count": 2,
-      "title": "ロキ",
-      "artist": "みきとP",
-      "originalUrl": null
-    },
-    {
       "key": "I LOVE YOU",
       "count": 2,
       "title": "I LOVE YOU",
       "artist": "クリス・ハート",
+      "originalUrl": null
+    },
+    {
+      "key": "瞬き",
+      "count": 2,
+      "title": "瞬き / Mabataki",
+      "artist": "back number",
       "originalUrl": null
     },
     {
@@ -894,17 +978,17 @@
       "originalUrl": null
     },
     {
-      "key": "天ノ弱",
-      "count": 2,
-      "title": "天ノ弱",
-      "artist": "164",
-      "originalUrl": null
-    },
-    {
       "key": "daze",
       "count": 2,
       "title": "daze",
       "artist": "じん",
+      "originalUrl": null
+    },
+    {
+      "key": "またねがあれば",
+      "count": 2,
+      "title": "またねがあれば / Matane Ga Areba",
+      "artist": "當山 みれい",
       "originalUrl": null
     },
     {
@@ -915,10 +999,10 @@
       "originalUrl": null
     },
     {
-      "key": "ゴーストルール",
+      "key": "ベノム",
       "count": 2,
-      "title": "ゴーストルール",
-      "artist": "DECO*27 feat. 初音ミク",
+      "title": "ベノム / Venom",
+      "artist": "かいりきベア",
       "originalUrl": null
     },
     {
@@ -957,13 +1041,6 @@
       "originalUrl": null
     },
     {
-      "key": "新宝島",
-      "count": 2,
-      "title": "新宝島",
-      "artist": "サカナクション",
-      "originalUrl": null
-    },
-    {
       "key": "青のすみか",
       "count": 2,
       "title": "青のすみか",
@@ -985,13 +1062,6 @@
       "originalUrl": null
     },
     {
-      "key": "キャラクター",
-      "count": 2,
-      "title": "キャラクター",
-      "artist": "緑黄色社会",
-      "originalUrl": null
-    },
-    {
       "key": "残酷な天使のテーゼ",
       "count": 2,
       "title": "残酷な天使のテーゼ",
@@ -1006,35 +1076,21 @@
       "originalUrl": null
     },
     {
-      "key": "からくりピエロ / Karakuri Pierrot",
+      "key": "ダーリンダンス",
       "count": 2,
-      "title": "からくりピエロ / Karakuri Pierrot",
-      "artist": "40mP",
+      "title": "ダーリンダンス",
+      "artist": "かいりきベア",
       "originalUrl": null
     },
     {
-      "key": "ロキ / Roki",
+      "key": "雨とペトラ",
       "count": 2,
-      "title": "ロキ / Roki",
-      "artist": "みきとP",
+      "title": "雨とペトラ / Rain and Petra (Take 2)",
+      "artist": "バルーン",
       "originalUrl": null
     },
     {
-      "key": "ゴーストルール / Ghost Rule",
-      "count": 2,
-      "title": "ゴーストルール / Ghost Rule",
-      "artist": "DECO*27",
-      "originalUrl": null
-    },
-    {
-      "key": "夜もすがら君想ふ / Yomosugara Kimi Omou",
-      "count": 2,
-      "title": "夜もすがら君想ふ / Yomosugara Kimi Omou",
-      "artist": "TOKOTOKO(西沢さんP)",
-      "originalUrl": null
-    },
-    {
-      "key": "人マニア / Hito Mania",
+      "key": "人マニア",
       "count": 2,
       "title": "人マニア / Hito Mania",
       "artist": "原口沙輔",
@@ -1045,6 +1101,13 @@
       "count": 2,
       "title": "サインはB",
       "artist": "B小町",
+      "originalUrl": null
+    },
+    {
+      "key": "ちゅ、多様性。",
+      "count": 2,
+      "title": "ちゅ、多様性。 / Chu,Tayousei.",
+      "artist": "ano",
       "originalUrl": null
     },
     {
@@ -1059,13 +1122,6 @@
       "count": 2,
       "title": "白金ディスコ",
       "artist": "阿良々木月火",
-      "originalUrl": null
-    },
-    {
-      "key": "クラクラ",
-      "count": 2,
-      "title": "クラクラ",
-      "artist": "Ado",
       "originalUrl": null
     },
     {
@@ -1153,17 +1209,17 @@
       "originalUrl": null
     },
     {
-      "key": "世界は恋に落ちている",
-      "count": 2,
-      "title": "世界は恋に落ちている",
-      "artist": "CHiCO with HoneyWorks",
-      "originalUrl": null
-    },
-    {
       "key": "ビバハピ",
       "count": 2,
       "title": "ビバハピ",
       "artist": "Mitchie M",
+      "originalUrl": null
+    },
+    {
+      "key": "おねがいダーリン",
+      "count": 2,
+      "title": "おねがいダーリン / Onegai Darling",
+      "artist": "P丸様。",
       "originalUrl": null
     },
     {
@@ -1181,20 +1237,6 @@
       "originalUrl": null
     },
     {
-      "key": "メフィスト / Mephisto",
-      "count": 2,
-      "title": "メフィスト / Mephisto",
-      "artist": "女王蜂",
-      "originalUrl": null
-    },
-    {
-      "key": "変わらないもの / Kawaranai Mono",
-      "count": 2,
-      "title": "変わらないもの / Kawaranai Mono",
-      "artist": "奥 華子",
-      "originalUrl": null
-    },
-    {
       "key": "愛をこめて花束を",
       "count": 2,
       "title": "愛をこめて花束を",
@@ -1202,24 +1244,52 @@
       "originalUrl": null
     },
     {
-      "key": "ロウワー / Lower One's Eyes",
+      "key": "脳漿炸裂ガール",
+      "count": 2,
+      "title": "脳漿炸裂ガール",
+      "artist": "れるりり",
+      "originalUrl": null
+    },
+    {
+      "key": "初音ミクの消失",
+      "count": 2,
+      "title": "初音ミクの消失",
+      "artist": "cosMo@暴走P",
+      "originalUrl": null
+    },
+    {
+      "key": "ロウワー",
       "count": 2,
       "title": "ロウワー / Lower One's Eyes",
       "artist": "ぬゆり",
       "originalUrl": null
     },
     {
-      "key": "ビビデバ / Bibbidiba",
+      "key": "メタモリボン",
       "count": 2,
-      "title": "ビビデバ / Bibbidiba",
-      "artist": "星街すいせい",
+      "title": "メタモリボン",
+      "artist": "emon",
       "originalUrl": null
     },
     {
-      "key": "シンメトリー / Symmetry",
+      "key": "ドラマツルギー",
       "count": 2,
-      "title": "シンメトリー / Symmetry",
-      "artist": "ReGLOSS",
+      "title": "ドラマツルギー",
+      "artist": "Eve",
+      "originalUrl": null
+    },
+    {
+      "key": "イガク",
+      "count": 2,
+      "title": "イガク",
+      "artist": "原口沙輔",
+      "originalUrl": null
+    },
+    {
+      "key": "ラビットホール",
+      "count": 2,
+      "title": "ラビットホール",
+      "artist": "DECO*27",
       "originalUrl": null
     },
     {
@@ -1227,27 +1297,6 @@
       "count": 2,
       "title": "Flyer!",
       "artist": "Chinozo",
-      "originalUrl": null
-    },
-    {
-      "key": "ワールドイズマイン / World Is Mine",
-      "count": 2,
-      "title": "ワールドイズマイン / World Is Mine",
-      "artist": "ryo (supercell)",
-      "originalUrl": null
-    },
-    {
-      "key": "シンメトリー",
-      "count": 2,
-      "title": "シンメトリー",
-      "artist": "ReGLOSS",
-      "originalUrl": null
-    },
-    {
-      "key": "鬼ノ宴",
-      "count": 2,
-      "title": "鬼ノ宴",
-      "artist": "友成空",
       "originalUrl": null
     },
     {
@@ -1265,10 +1314,10 @@
       "originalUrl": null
     },
     {
-      "key": "気まぐれロマンティック / Kimagure Romantic",
+      "key": "本能",
       "count": 2,
-      "title": "気まぐれロマンティック / Kimagure Romantic",
-      "artist": "いきものがかり",
+      "title": "本能",
+      "artist": "椎名林檎",
       "originalUrl": null
     },
     {
@@ -1286,17 +1335,17 @@
       "originalUrl": null
     },
     {
-      "key": "気まぐれロマンティック",
-      "count": 2,
-      "title": "気まぐれロマンティック",
-      "artist": "いきものがかり",
-      "originalUrl": null
-    },
-    {
       "key": "GHOST",
       "count": 2,
       "title": "GHOST",
       "artist": "星街すいせい",
+      "originalUrl": null
+    },
+    {
+      "key": "長く短い祭",
+      "count": 2,
+      "title": "長く短い祭 / No verao, as noites",
+      "artist": "椎名林檎 & 浮雲",
       "originalUrl": null
     },
     {
@@ -1314,13 +1363,6 @@
       "originalUrl": null
     },
     {
-      "key": "泡沫メイビー",
-      "count": 2,
-      "title": "泡沫メイビー",
-      "artist": "ReGLOSS",
-      "originalUrl": null
-    },
-    {
       "key": "それがあなたの幸せとしても",
       "count": 2,
       "title": "それがあなたの幸せとしても",
@@ -1335,24 +1377,10 @@
       "originalUrl": null
     },
     {
-      "key": "春を告げる",
-      "count": 2,
-      "title": "春を告げる",
-      "artist": "yama",
-      "originalUrl": null
-    },
-    {
       "key": "薬屋のひとりごと",
       "count": 2,
       "title": "薬屋のひとりごと",
       "artist": "日向夏",
-      "originalUrl": null
-    },
-    {
-      "key": "怪獣",
-      "count": 2,
-      "title": "怪獣",
-      "artist": "サカナクション",
       "originalUrl": null
     },
     {
@@ -1377,13 +1405,6 @@
       "originalUrl": null
     },
     {
-      "key": "カルチャ",
-      "count": 2,
-      "title": "カルチャ",
-      "artist": "ツミキ",
-      "originalUrl": null
-    },
-    {
       "key": "怪物",
       "count": 2,
       "title": "怪物",
@@ -1395,13 +1416,6 @@
       "count": 2,
       "title": "G4L",
       "artist": "Giga",
-      "originalUrl": null
-    },
-    {
-      "key": "いーあるふぁんくらぶ",
-      "count": 2,
-      "title": "いーあるふぁんくらぶ",
-      "artist": "みきとP",
       "originalUrl": null
     },
     {
@@ -1496,6 +1510,20 @@
       "originalUrl": null
     },
     {
+      "key": "心予報",
+      "count": 2,
+      "title": "心予報 / Heart Forecast",
+      "artist": "Eve",
+      "originalUrl": null
+    },
+    {
+      "key": "恋風邪にのせて",
+      "count": 2,
+      "title": "恋風邪にのせて / Koikaze ni nosete",
+      "artist": "Vaundy",
+      "originalUrl": null
+    },
+    {
       "key": "敗北の少年",
       "count": 2,
       "title": "敗北の少年",
@@ -1531,13 +1559,6 @@
       "originalUrl": null
     },
     {
-      "key": "瞬き",
-      "count": 1,
-      "title": "瞬き",
-      "artist": "back number",
-      "originalUrl": null
-    },
-    {
       "key": "LOL",
       "count": 1,
       "title": "LOL",
@@ -1563,20 +1584,6 @@
       "count": 1,
       "title": "キラメキライダー",
       "artist": "",
-      "originalUrl": null
-    },
-    {
-      "key": "またねがあれば",
-      "count": 1,
-      "title": "またねがあれば",
-      "artist": "risou",
-      "originalUrl": null
-    },
-    {
-      "key": "ベノム",
-      "count": 1,
-      "title": "ベノム",
-      "artist": "かいりきベア",
       "originalUrl": null
     },
     {
@@ -1818,147 +1825,84 @@
       "originalUrl": null
     },
     {
-      "key": "レッド・パージ!!! / Red Purge!!!",
+      "key": "レッド・パージ!!!",
       "count": 1,
       "title": "レッド・パージ!!! / Red Purge!!!",
       "artist": "P.I.N.A. feat. Kagamine Rin & Kagamine Len",
       "originalUrl": null
     },
     {
-      "key": "第六感 / The Sixth Sense",
+      "key": "第六感",
       "count": 1,
       "title": "第六感 / The Sixth Sense",
       "artist": "Reol",
       "originalUrl": null
     },
     {
-      "key": "トウキョウ・シャンディ・ランデヴ (feat. 花譜 & ツミキ) / Tokyo Shandy Rendez-vous (feat. KAF & Tsumiki)",
+      "key": "トウキョウ・シャンディ・ランデヴ (feat. 花譜 & ツミキ)",
       "count": 1,
       "title": "トウキョウ・シャンディ・ランデヴ (feat. 花譜 & ツミキ) / Tokyo Shandy Rendez-vous (feat. KAF & Tsumiki)",
       "artist": "MAISONdes",
       "originalUrl": null
     },
     {
-      "key": "ダーリンダンス / Darling Dance",
-      "count": 1,
-      "title": "ダーリンダンス / Darling Dance",
-      "artist": "かいりきベア",
-      "originalUrl": null
-    },
-    {
-      "key": "恋愛裁判 / Renaisaiban",
-      "count": 1,
-      "title": "恋愛裁判 / Renaisaiban",
-      "artist": "40mP feat. 初音ミク",
-      "originalUrl": null
-    },
-    {
-      "key": "青空のラプソディ / Rhapsody of Blue Sky",
-      "count": 1,
-      "title": "青空のラプソディ / Rhapsody of Blue Sky",
-      "artist": "fhána",
-      "originalUrl": null
-    },
-    {
-      "key": "雨とペトラ / Rain and Petra",
-      "count": 1,
-      "title": "雨とペトラ / Rain and Petra",
-      "artist": "バルーン",
-      "originalUrl": null
-    },
-    {
-      "key": "雨とペトラ / Rain and Petra (Take 2)",
-      "count": 1,
-      "title": "雨とペトラ / Rain and Petra (Take 2)",
-      "artist": "バルーン",
-      "originalUrl": null
-    },
-    {
-      "key": "妄想感傷代償連盟 / Dscf",
+      "key": "妄想感傷代償連盟",
       "count": 1,
       "title": "妄想感傷代償連盟 / Dscf",
       "artist": "DECO*27",
       "originalUrl": null
     },
     {
-      "key": "グッバイ宣言 / Good-Bye Declaration",
+      "key": "グッバイ宣言",
       "count": 1,
       "title": "グッバイ宣言 / Good-Bye Declaration",
       "artist": "Chinozo",
       "originalUrl": null
     },
     {
-      "key": "劣等上等 / Bring It On",
+      "key": "劣等上等",
       "count": 1,
       "title": "劣等上等 / Bring It On",
       "artist": "Giga",
       "originalUrl": null
     },
     {
-      "key": "少女レイ / Shoujo Rei",
-      "count": 1,
-      "title": "少女レイ / Shoujo Rei",
-      "artist": "みきとP",
-      "originalUrl": null
-    },
-    {
-      "key": "フォニイ (feat. 可不) / Phony (feat. Kafu)",
+      "key": "フォニイ (feat. 可不)",
       "count": 1,
       "title": "フォニイ (feat. 可不) / Phony (feat. Kafu)",
       "artist": "ツミキ",
       "originalUrl": null
     },
     {
-      "key": "神っぽいな / God-Ish",
-      "count": 1,
-      "title": "神っぽいな / God-Ish",
-      "artist": "ピノキオピー",
-      "originalUrl": null
-    },
-    {
-      "key": "シネマ / Cinema",
+      "key": "シネマ",
       "count": 1,
       "title": "シネマ / Cinema",
       "artist": "Ayase",
       "originalUrl": null
     },
     {
-      "key": "カルチャ / culture",
-      "count": 1,
-      "title": "カルチャ / culture",
-      "artist": "ツミキ",
-      "originalUrl": null
-    },
-    {
-      "key": "脱法ロック / Law-evading Rock",
+      "key": "脱法ロック",
       "count": 1,
       "title": "脱法ロック / Law-evading Rock",
       "artist": "Neru",
       "originalUrl": null
     },
     {
-      "key": "テレキャスタービーボーイ / Telecaster b boy (Short ver.)",
+      "key": "テレキャスタービーボーイ",
       "count": 1,
       "title": "テレキャスタービーボーイ / Telecaster b boy (Short ver.)",
       "artist": "すりぃ",
       "originalUrl": null
     },
     {
-      "key": "チュルリラ・チュルリラ・ダッダッダ! / Tururira Tururira Daddaddah!",
+      "key": "チュルリラ・チュルリラ・ダッダッダ!",
       "count": 1,
       "title": "チュルリラ・チュルリラ・ダッダッダ! / Tururira Tururira Daddaddah!",
       "artist": "和田たけあき(くらげP)",
       "originalUrl": null
     },
     {
-      "key": "ベノム / Venom",
-      "count": 1,
-      "title": "ベノム / Venom",
-      "artist": "かいりきベア",
-      "originalUrl": null
-    },
-    {
-      "key": "砂の惑星 / Suna no Wakusei",
+      "key": "砂の惑星",
       "count": 1,
       "title": "砂の惑星 / Suna no Wakusei",
       "artist": "ハチ",
@@ -1972,7 +1916,7 @@
       "originalUrl": null
     },
     {
-      "key": "月陽 -ツキアカリ- / Tsukiakari",
+      "key": "月陽 -ツキアカリ-",
       "count": 1,
       "title": "月陽 -ツキアカリ- / Tsukiakari",
       "artist": "みきとP",
@@ -2004,13 +1948,6 @@
       "count": 1,
       "title": "可愛くてごめん",
       "artist": "HoneyWorks",
-      "originalUrl": null
-    },
-    {
-      "key": "ちゅ、多様性。",
-      "count": 1,
-      "title": "ちゅ、多様性。",
-      "artist": "ano",
       "originalUrl": null
     },
     {
@@ -2098,13 +2035,6 @@
       "originalUrl": null
     },
     {
-      "key": "おねがいダーリン",
-      "count": 1,
-      "title": "おねがいダーリン",
-      "artist": "ナナホシ管弦楽団",
-      "originalUrl": null
-    },
-    {
       "key": "ヒビカセ",
       "count": 1,
       "title": "ヒビカセ",
@@ -2119,126 +2049,77 @@
       "originalUrl": null
     },
     {
-      "key": "別の人の彼女になったよ / No Regret",
-      "count": 1,
-      "title": "別の人の彼女になったよ / No Regret",
-      "artist": "wacci",
-      "originalUrl": null
-    },
-    {
-      "key": "クラクラ / Kura Kura",
-      "count": 1,
-      "title": "クラクラ / Kura Kura",
-      "artist": "Ado",
-      "originalUrl": null
-    },
-    {
-      "key": "ステラ / Stella (Short ver.)",
-      "count": 1,
-      "title": "ステラ / Stella (Short ver.)",
-      "artist": "Leo/need",
-      "originalUrl": null
-    },
-    {
-      "key": "それがあなたの幸せとしても (Feat. 巡音ルカ) / Sorega anata no shiawase to shitemo (feat. Megurine Luka)",
+      "key": "それがあなたの幸せとしても (Feat. 巡音ルカ)",
       "count": 1,
       "title": "それがあなたの幸せとしても (Feat. 巡音ルカ) / Sorega anata no shiawase to shitemo (feat. Megurine Luka)",
       "artist": "Heavenz",
       "originalUrl": null
     },
     {
-      "key": "ナーヴ・インパルス / Nerve Impulse (Acapella)",
+      "key": "ナーヴ・インパルス",
       "count": 1,
       "title": "ナーヴ・インパルス / Nerve Impulse (Acapella)",
       "artist": "ポリスピカデリー",
       "originalUrl": null
     },
     {
-      "key": "flos (Acapella)",
+      "key": "flos",
       "count": 1,
       "title": "flos (Acapella)",
       "artist": "R Sound Design",
       "originalUrl": null
     },
     {
-      "key": "深昏睡 / Deep Coma (Acapella)",
+      "key": "深昏睡",
       "count": 1,
       "title": "深昏睡 / Deep Coma (Acapella)",
       "artist": "春野",
       "originalUrl": null
     },
     {
-      "key": "幽霊東京 / Ghost City Tokyo (Short ver.)",
+      "key": "幽霊東京",
       "count": 1,
       "title": "幽霊東京 / Ghost City Tokyo (Short ver.)",
       "artist": "Ayase",
       "originalUrl": null
     },
     {
-      "key": "LOVEずっきゅん / LOVEzukkyun",
+      "key": "LOVEずっきゅん",
       "count": 1,
       "title": "LOVEずっきゅん / LOVEzukkyun",
       "artist": "相対性理論",
       "originalUrl": null
     },
     {
-      "key": "ちゅ、多様性。 / Chu,Tayousei.",
-      "count": 1,
-      "title": "ちゅ、多様性。 / Chu,Tayousei.",
-      "artist": "ano",
-      "originalUrl": null
-    },
-    {
-      "key": "小夜子 / Sayoko",
-      "count": 1,
-      "title": "小夜子 / Sayoko",
-      "artist": "みきとP",
-      "originalUrl": null
-    },
-    {
-      "key": "いーあるふぁんくらぶ / I-aru Fanclub",
-      "count": 1,
-      "title": "いーあるふぁんくらぶ / I-aru Fanclub",
-      "artist": "みきとP",
-      "originalUrl": null
-    },
-    {
-      "key": "眩しいDNAだけ / Mabushii DNA Dake",
+      "key": "眩しいDNAだけ",
       "count": 1,
       "title": "眩しいDNAだけ / Mabushii DNA Dake",
       "artist": "ずっと真夜中でいいのに。",
       "originalUrl": null
     },
     {
-      "key": "お勉強しといてよ / Obenkyou Shitoiteyo",
+      "key": "お勉強しといてよ",
       "count": 1,
       "title": "お勉強しといてよ / Obenkyou Shitoiteyo",
       "artist": "ずっと真夜中でいいのに。",
       "originalUrl": null
     },
     {
-      "key": "秒針を噛む / Byoushinwo Kamu",
+      "key": "秒針を噛む",
       "count": 1,
       "title": "秒針を噛む / Byoushinwo Kamu",
       "artist": "ずっと真夜中でいいのに。",
       "originalUrl": null
     },
     {
-      "key": "恋愛裁判 / Love Trial",
-      "count": 1,
-      "title": "恋愛裁判 / Love Trial",
-      "artist": "40mP",
-      "originalUrl": null
-    },
-    {
-      "key": "鱗(うろこ) / Uroko",
+      "key": "鱗(うろこ)",
       "count": 1,
       "title": "鱗(うろこ) / Uroko",
       "artist": "秦 基博",
       "originalUrl": null
     },
     {
-      "key": "お気に召すまま / As You Like It",
+      "key": "お気に召すまま",
       "count": 1,
       "title": "お気に召すまま / As You Like It",
       "artist": "Eve",
@@ -2266,70 +2147,56 @@
       "originalUrl": null
     },
     {
-      "key": "デビルじゃないもん / (Not) A Devil",
+      "key": "デビルじゃないもん",
       "count": 1,
       "title": "デビルじゃないもん / (Not) A Devil",
       "artist": "DECO*27 & ピノキオピー",
       "originalUrl": null
     },
     {
-      "key": "妄想税 / Mousou Zei",
+      "key": "妄想税",
       "count": 1,
       "title": "妄想税 / Mousou Zei",
       "artist": "DECO*27",
       "originalUrl": null
     },
     {
-      "key": "乙女解剖 / Otome Kaibou ",
+      "key": "乙女解剖",
       "count": 1,
       "title": "乙女解剖 / Otome Kaibou ",
       "artist": "DECO*27",
       "originalUrl": null
     },
     {
-      "key": "モザイクロール / Mozaik Role",
+      "key": "モザイクロール",
       "count": 1,
       "title": "モザイクロール / Mozaik Role",
       "artist": "DECO*27",
       "originalUrl": null
     },
     {
-      "key": "ヒバナ / Hibana",
+      "key": "ヒバナ",
       "count": 1,
       "title": "ヒバナ / Hibana",
       "artist": "DECO*27",
       "originalUrl": null
     },
     {
-      "key": "病名は愛だった (feat. z'5) / Byoumeiha Aidatta (feat. z'5)",
+      "key": "病名は愛だった (feat. z'5)",
       "count": 1,
       "title": "病名は愛だった (feat. z'5) / Byoumeiha Aidatta (feat. z'5)",
       "artist": "Neru",
       "originalUrl": null
     },
     {
-      "key": "ロストワンの号哭 / Lost One no Goukoku",
+      "key": "ロストワンの号哭",
       "count": 1,
       "title": "ロストワンの号哭 / Lost One no Goukoku",
       "artist": "Neru",
       "originalUrl": null
     },
     {
-      "key": "脳漿炸裂ガール / Nousyou Sakuretsu Girl",
-      "count": 1,
-      "title": "脳漿炸裂ガール / Nousyou Sakuretsu Girl",
-      "artist": "れるりり",
-      "originalUrl": null
-    },
-    {
-      "key": "初音ミクの消失 / Hatsune Miku no Shoushitsu",
-      "count": 1,
-      "title": "初音ミクの消失 / Hatsune Miku no Shoushitsu",
-      "artist": "cosMo@暴走P",
-      "originalUrl": null
-    },
-    {
-      "key": "ビターチョコデコレーション / Bitter Choco Decoration (Short ver.)",
+      "key": "ビターチョコデコレーション",
       "count": 1,
       "title": "ビターチョコデコレーション / Bitter Choco Decoration (Short ver.)",
       "artist": "syudou",
@@ -2343,112 +2210,42 @@
       "originalUrl": null
     },
     {
-      "key": "忘れられないの / Wasurerarenaino",
+      "key": "忘れられないの",
       "count": 1,
       "title": "忘れられないの / Wasurerarenaino",
       "artist": "サカナクション",
       "originalUrl": null
     },
     {
-      "key": "新宝島 / Shin Takara Jima",
-      "count": 1,
-      "title": "新宝島 / Shin Takara Jima",
-      "artist": "サカナクション",
-      "originalUrl": null
-    },
-    {
-      "key": "天ノ弱 / Amanojaku",
-      "count": 1,
-      "title": "天ノ弱 / Amanojaku",
-      "artist": "164 (feat. GUMI)",
-      "originalUrl": null
-    },
-    {
-      "key": "水流のロック / Suiryu No Rock (Acapella)",
+      "key": "水流のロック",
       "count": 1,
       "title": "水流のロック / Suiryu No Rock (Acapella)",
       "artist": "日食なつこ",
       "originalUrl": null
     },
     {
-      "key": "瞬き / Mabataki",
-      "count": 1,
-      "title": "瞬き / Mabataki",
-      "artist": "back number",
-      "originalUrl": null
-    },
-    {
-      "key": "春を告げる / Haru Wo Tsugeru",
-      "count": 1,
-      "title": "春を告げる / Haru Wo Tsugeru",
-      "artist": "yama",
-      "originalUrl": null
-    },
-    {
-      "key": "スパークル / Sparkle",
+      "key": "スパークル",
       "count": 1,
       "title": "スパークル / Sparkle",
       "artist": "RADWIMPS",
       "originalUrl": null
     },
     {
-      "key": "メタモリボン / Metamoreborn (Acapella)",
-      "count": 1,
-      "title": "メタモリボン / Metamoreborn (Acapella)",
-      "artist": "emon(Tes.)",
-      "originalUrl": null
-    },
-    {
-      "key": "CH4NGE (Acapella)",
-      "count": 1,
-      "title": "CH4NGE (Acapella)",
-      "artist": "Giga",
-      "originalUrl": null
-    },
-    {
-      "key": "ドラマツルギー / Dramaturgy",
-      "count": 1,
-      "title": "ドラマツルギー / Dramaturgy",
-      "artist": "Eve",
-      "originalUrl": null
-    },
-    {
-      "key": "群青讃歌 / Gunjo Sanka",
-      "count": 1,
-      "title": "群青讃歌 / Gunjo Sanka",
-      "artist": "Eve",
-      "originalUrl": null
-    },
-    {
-      "key": "わたしの一番かわいいところ / Watashi no Ichiban Kawaiitokoro",
+      "key": "わたしの一番かわいいところ",
       "count": 1,
       "title": "わたしの一番かわいいところ / Watashi no Ichiban Kawaiitokoro",
       "artist": "FRUITS ZIPPER",
       "originalUrl": null
     },
     {
-      "key": "怪獣の花唄 / Kaiju No Hanauta",
-      "count": 1,
-      "title": "怪獣の花唄 / Kaiju No Hanauta",
-      "artist": "Vaundy",
-      "originalUrl": null
-    },
-    {
-      "key": "四季折の羽 / Shikiori No Hane",
+      "key": "四季折の羽",
       "count": 1,
       "title": "四季折の羽 / Shikiori No Hane",
       "artist": "ひとしずく×やま△ feat.鏡音リン、鏡音レン",
       "originalUrl": null
     },
     {
-      "key": "鬼ノ宴 / Demons Banquet",
-      "count": 1,
-      "title": "鬼ノ宴 / Demons Banquet",
-      "artist": "友成空",
-      "originalUrl": null
-    },
-    {
-      "key": "恋の宅配便 / Give You My Love",
+      "key": "恋の宅配便",
       "count": 1,
       "title": "恋の宅配便 / Give You My Love",
       "artist": "瀬名航 feat. AZKi",
@@ -2462,52 +2259,31 @@
       "originalUrl": null
     },
     {
-      "key": "花になって / Be a flower",
-      "count": 1,
-      "title": "花になって / Be a flower",
-      "artist": "緑黄色社会",
-      "originalUrl": null
-    },
-    {
-      "key": "セブンティーン / SEVENTEEN",
+      "key": "セブンティーン",
       "count": 1,
       "title": "セブンティーン / SEVENTEEN",
       "artist": "YOASOBI",
       "originalUrl": null
     },
     {
-      "key": "secret base 〜君がくれたもの〜 / Secret Base -Kimiga Kuretamono",
+      "key": "secret base 〜君がくれたもの〜",
       "count": 1,
       "title": "secret base 〜君がくれたもの〜 / Secret Base -Kimiga Kuretamono",
       "artist": "ZONE",
       "originalUrl": null
     },
     {
-      "key": "ジェヘナ / Gehenna",
+      "key": "ジェヘナ",
       "count": 1,
       "title": "ジェヘナ / Gehenna",
       "artist": "wotaku",
       "originalUrl": null
     },
     {
-      "key": "イガク / Medicine",
-      "count": 1,
-      "title": "イガク / Medicine",
-      "artist": "原口沙輔",
-      "originalUrl": null
-    },
-    {
-      "key": "帝国少女 / Imperial Girl",
+      "key": "帝国少女",
       "count": 1,
       "title": "帝国少女 / Imperial Girl",
       "artist": "R Sound Design",
-      "originalUrl": null
-    },
-    {
-      "key": "ラビットホール / Rabbit Hole",
-      "count": 1,
-      "title": "ラビットホール / Rabbit Hole",
-      "artist": "DECO*27",
       "originalUrl": null
     },
     {
@@ -2553,7 +2329,7 @@
       "originalUrl": null
     },
     {
-      "key": "I’m Your Treasure Box *あなたは マリンせんちょうを たからばこからみつけた。 / I'm Your Treasure Box * You have found captain Marine in a treasure chest",
+      "key": "I’m Your Treasure Box *あなたは マリンせんちょうを たからばこからみつけた。",
       "count": 1,
       "title": "I’m Your Treasure Box *あなたは マリンせんちょうを たからばこからみつけた。 / I'm Your Treasure Box * You have found captain Marine in a treasure chest",
       "artist": "宝鐘マリン",
@@ -2567,7 +2343,7 @@
       "originalUrl": null
     },
     {
-      "key": "至上主義アドトラック / SHIJOSHUGI ADTRUCK",
+      "key": "至上主義アドトラック",
       "count": 1,
       "title": "至上主義アドトラック / SHIJOSHUGI ADTRUCK",
       "artist": "hololive IDOL PROJECT",
@@ -2588,7 +2364,7 @@
       "originalUrl": null
     },
     {
-      "key": "いのち / Inochi",
+      "key": "いのち",
       "count": 1,
       "title": "いのち / Inochi",
       "artist": "AZKi",
@@ -2630,34 +2406,6 @@
       "originalUrl": null
     },
     {
-      "key": "本能 / Honnou - Instinct",
-      "count": 1,
-      "title": "本能 / Honnou - Instinct",
-      "artist": "椎名林檎",
-      "originalUrl": null
-    },
-    {
-      "key": "キャラクター / Character",
-      "count": 1,
-      "title": "キャラクター / Character",
-      "artist": "緑黄色社会",
-      "originalUrl": null
-    },
-    {
-      "key": "泡沫メイビー / bubble maybe",
-      "count": 1,
-      "title": "泡沫メイビー / bubble maybe",
-      "artist": "ReGLOSS",
-      "originalUrl": null
-    },
-    {
-      "key": "天体観測 / Tentaikansoku",
-      "count": 1,
-      "title": "天体観測 / Tentaikansoku",
-      "artist": "BUMP OF CHICKEN",
-      "originalUrl": null
-    },
-    {
       "key": "シャンティ",
       "count": 1,
       "title": "シャンティ",
@@ -2676,13 +2424,6 @@
       "count": 1,
       "title": "モエチャッカファイア",
       "artist": "弌誠",
-      "originalUrl": null
-    },
-    {
-      "key": "イガク",
-      "count": 1,
-      "title": "イガク",
-      "artist": "原口沙輔",
       "originalUrl": null
     },
     {
@@ -2742,13 +2483,6 @@
       "originalUrl": null
     },
     {
-      "key": "長く短い祭",
-      "count": 1,
-      "title": "長く短い祭",
-      "artist": "椎名林檎",
-      "originalUrl": null
-    },
-    {
       "key": "神様、仏様",
       "count": 1,
       "title": "神様、仏様",
@@ -2760,13 +2494,6 @@
       "count": 1,
       "title": "OSCA",
       "artist": "東京事変",
-      "originalUrl": null
-    },
-    {
-      "key": "本能",
-      "count": 1,
-      "title": "本能",
-      "artist": "椎名林檎",
       "originalUrl": null
     },
     {
@@ -2924,13 +2651,6 @@
       "originalUrl": null
     },
     {
-      "key": "メタモリボン",
-      "count": 1,
-      "title": "メタモリボン",
-      "artist": "emon",
-      "originalUrl": null
-    },
-    {
       "key": "Awake Now",
       "count": 1,
       "title": "Awake Now",
@@ -3050,13 +2770,6 @@
       "originalUrl": null
     },
     {
-      "key": "脳漿炸裂ガール",
-      "count": 1,
-      "title": "脳漿炸裂ガール",
-      "artist": "れるりり",
-      "originalUrl": null
-    },
-    {
       "key": "死んでしまったんだ",
       "count": 1,
       "title": "死んでしまったんだ",
@@ -3124,13 +2837,6 @@
       "count": 1,
       "title": "ライラック",
       "artist": "",
-      "originalUrl": null
-    },
-    {
-      "key": "ラビットホール",
-      "count": 1,
-      "title": "ラビットホール",
-      "artist": "DECO*27",
       "originalUrl": null
     },
     {
@@ -3379,13 +3085,6 @@
       "originalUrl": null
     },
     {
-      "key": "初音ミクの消失",
-      "count": 1,
-      "title": "初音ミクの消失",
-      "artist": "cosMo@暴走P",
-      "originalUrl": null
-    },
-    {
       "key": "メズマライザー",
       "count": 1,
       "title": "メズマライザー",
@@ -3540,13 +3239,6 @@
       "originalUrl": null
     },
     {
-      "key": "ドラマツルギー",
-      "count": 1,
-      "title": "ドラマツルギー",
-      "artist": "Eve",
-      "originalUrl": null
-    },
-    {
       "key": "パンダヒーロー",
       "count": 1,
       "title": "パンダヒーロー",
@@ -3586,13 +3278,6 @@
       "count": 1,
       "title": "ロンリーユニバース",
       "artist": "Aqu3ra",
-      "originalUrl": null
-    },
-    {
-      "key": "からくりピエロ",
-      "count": 1,
-      "title": "からくりピエロ",
-      "artist": "40mP",
       "originalUrl": null
     },
     {
@@ -3642,13 +3327,6 @@
       "count": 1,
       "title": "あのバンド",
       "artist": "ヒグチアイ / 草野華余子",
-      "originalUrl": null
-    },
-    {
-      "key": "心予報",
-      "count": 1,
-      "title": "心予報",
-      "artist": "Eve",
       "originalUrl": null
     },
     {
@@ -3722,13 +3400,6 @@
       "originalUrl": null
     },
     {
-      "key": "ダーリンダンス",
-      "count": 1,
-      "title": "ダーリンダンス",
-      "artist": "かいりきベア",
-      "originalUrl": null
-    },
-    {
       "key": "うっせぇわ",
       "count": 1,
       "title": "うっせぇわ",
@@ -3747,13 +3418,6 @@
       "count": 1,
       "title": "ヴィラン",
       "artist": "てにをは",
-      "originalUrl": null
-    },
-    {
-      "key": "恋風邪にのせて",
-      "count": 1,
-      "title": "恋風邪にのせて",
-      "artist": "Vaundy",
       "originalUrl": null
     },
     {
@@ -3778,31 +3442,10 @@
       "originalUrl": null
     },
     {
-      "key": "プラチナ / Platinum",
-      "count": 1,
-      "title": "プラチナ / Platinum",
-      "artist": "坂本真綾",
-      "originalUrl": null
-    },
-    {
-      "key": "世界は恋に落ちている / Sekaiwa Koi Ni Ochiteiru",
-      "count": 1,
-      "title": "世界は恋に落ちている / Sekaiwa Koi Ni Ochiteiru",
-      "artist": "CHiCO with HoneyWorks",
-      "originalUrl": null
-    },
-    {
-      "key": "さくらんぼ / Sakuranbo",
+      "key": "さくらんぼ",
       "count": 1,
       "title": "さくらんぼ / Sakuranbo",
       "artist": "大塚 愛",
-      "originalUrl": null
-    },
-    {
-      "key": "恋 / Koi",
-      "count": 1,
-      "title": "恋 / Koi",
-      "artist": "星野源",
       "originalUrl": null
     },
     {
@@ -3813,34 +3456,6 @@
       "originalUrl": null
     },
     {
-      "key": "長く短い祭 / No verao, as noites",
-      "count": 1,
-      "title": "長く短い祭 / No verao, as noites",
-      "artist": "椎名林檎 & 浮雲",
-      "originalUrl": null
-    },
-    {
-      "key": "恋風邪にのせて / Koikaze ni nosete",
-      "count": 1,
-      "title": "恋風邪にのせて / Koikaze ni nosete",
-      "artist": "Vaundy",
-      "originalUrl": null
-    },
-    {
-      "key": "またねがあれば / Matane Ga Areba",
-      "count": 1,
-      "title": "またねがあれば / Matane Ga Areba",
-      "artist": "當山 みれい",
-      "originalUrl": null
-    },
-    {
-      "key": "心予報 / Heart Forecast",
-      "count": 1,
-      "title": "心予報 / Heart Forecast",
-      "artist": "Eve",
-      "originalUrl": null
-    },
-    {
       "key": "iCONiC",
       "count": 1,
       "title": "iCONiC",
@@ -3848,31 +3463,10 @@
       "originalUrl": null
     },
     {
-      "key": "あぶく / Bubble",
+      "key": "あぶく",
       "count": 1,
       "title": "あぶく / Bubble",
       "artist": "ヨルシカ / Yorushika",
-      "originalUrl": null
-    },
-    {
-      "key": "ノーチラス / Nautilus",
-      "count": 1,
-      "title": "ノーチラス / Nautilus",
-      "artist": "ヨルシカ",
-      "originalUrl": null
-    },
-    {
-      "key": "おねがいダーリン / Onegai Darling",
-      "count": 1,
-      "title": "おねがいダーリン / Onegai Darling",
-      "artist": "P丸様。",
-      "originalUrl": null
-    },
-    {
-      "key": "ソワレ / Soirée",
-      "count": 1,
-      "title": "ソワレ / Soirée",
-      "artist": "星街すいせい",
       "originalUrl": null
     },
     {
@@ -3883,45 +3477,24 @@
       "originalUrl": null
     },
     {
-      "key": "はいよろこんで / Hai Yorokonde",
-      "count": 1,
-      "title": "はいよろこんで / Hai Yorokonde",
-      "artist": "こっちのけんと",
-      "originalUrl": null
-    },
-    {
-      "key": "First Love (Short ver.)",
+      "key": "First Love",
       "count": 1,
       "title": "First Love (Short ver.)",
       "artist": "宇多田ヒカル",
       "originalUrl": null
     },
     {
-      "key": "エイリアンエイリアン / Alien Alien",
+      "key": "エイリアンエイリアン",
       "count": 1,
       "title": "エイリアンエイリアン / Alien Alien",
       "artist": "ナユタン星人",
       "originalUrl": null
     },
     {
-      "key": "夜の踊り子 / Yoru No Odoriko",
+      "key": "夜の踊り子",
       "count": 1,
       "title": "夜の踊り子 / Yoru No Odoriko",
       "artist": "サカナクション",
-      "originalUrl": null
-    },
-    {
-      "key": "怪獣 / Kaiju",
-      "count": 1,
-      "title": "怪獣 / Kaiju",
-      "artist": "サカナクション",
-      "originalUrl": null
-    },
-    {
-      "key": "フィーリングラデーション / feelingradation",
-      "count": 1,
-      "title": "フィーリングラデーション / feelingradation",
-      "artist": "ReGLOSS",
       "originalUrl": null
     }
   ]

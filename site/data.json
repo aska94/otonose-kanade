@@ -1,18 +1,18 @@
 {
   "source": "data/karaoke/normalized/performances.json",
   "performanceCount": 1164,
-  "songCount": 607,
+  "songCount": 499,
   "broadcastCount": 81,
   "topSongs": [
     {
-      "title": "瞬間ハートビート / Shunkan Heartbeat (Otonose Kanade SOLO ver.)",
-      "artist": "音乃瀬奏 & ReGLOSS",
-      "count": 100
+      "title": "瞬間ハートビート",
+      "artist": "ReGLOSS",
+      "count": 110
     },
     {
-      "title": "Mela!",
-      "artist": "緑黄色社会",
-      "count": 11
+      "title": "晩餐歌",
+      "artist": "tuki.",
+      "count": 13
     },
     {
       "title": "GREATEST",
@@ -20,8 +20,13 @@
       "count": 11
     },
     {
-      "title": "晩餐歌",
-      "artist": "tuki.",
+      "title": "Mela!",
+      "artist": "緑黄色社会",
+      "count": 11
+    },
+    {
+      "title": "Universe",
+      "artist": "Official髭男dism",
       "count": 10
     },
     {
@@ -35,28 +40,33 @@
       "count": 9
     },
     {
-      "title": "Universe",
-      "artist": "Official髭男dism",
+      "title": "ワールドイズマイン",
+      "artist": "supercell",
+      "count": 9
+    },
+    {
+      "title": "ビビデバ",
+      "artist": "星街すいせい",
       "count": 9
     },
     {
       "title": "ソワレ",
       "artist": "星街すいせい",
-      "count": 8
+      "count": 9
     },
     {
-      "title": "ノーダウト",
+      "title": "晴る",
+      "artist": "ヨルシカ",
+      "count": 9
+    },
+    {
+      "title": "Pretender",
       "artist": "Official髭男dism",
       "count": 7
     },
     {
-      "title": "瞬間ハートビート",
-      "artist": "ReGLOSS",
-      "count": 7
-    },
-    {
-      "title": "ワールドイズマイン",
-      "artist": "ryo",
+      "title": "地球儀",
+      "artist": "米津玄師",
       "count": 7
     },
     {
@@ -65,7 +75,7 @@
       "count": 7
     },
     {
-      "title": "Pretender",
+      "title": "ノーダウト",
       "artist": "Official髭男dism",
       "count": 7
     },
@@ -75,33 +85,23 @@
       "count": 7
     },
     {
-      "title": "地球儀",
-      "artist": "米津玄師",
-      "count": 7
-    },
-    {
       "title": "さよーならまたいつか！",
       "artist": "米津玄師",
       "count": 7
     },
     {
-      "title": "ニア",
-      "artist": "夏代孝明",
-      "count": 6
+      "title": "花になって",
+      "artist": "緑黄色社会",
+      "count": 7
     },
     {
       "title": "天体観測",
       "artist": "BUMP OF CHICKEN",
-      "count": 6
+      "count": 7
     },
     {
-      "title": "風を食む",
-      "artist": "ヨルシカ",
-      "count": 6
-    },
-    {
-      "title": "花になって",
-      "artist": "緑黄色社会",
+      "title": "人生は夢だらけ",
+      "artist": "椎名林檎",
       "count": 6
     }
   ],
@@ -120,13 +120,18 @@
           "count": 5
         },
         {
-          "title": "カタオモイ",
-          "artist": "Aimer",
+          "title": "ワールドイズマイン",
+          "artist": "supercell",
+          "count": 4
+        },
+        {
+          "title": "ノーチラス",
+          "artist": "ヨルシカ",
           "count": 3
         },
         {
-          "title": "ワールドイズマイン",
-          "artist": "ryo",
+          "title": "カタオモイ",
+          "artist": "Aimer",
           "count": 3
         },
         {
@@ -145,18 +150,13 @@
           "count": 3
         },
         {
-          "title": "花になって",
-          "artist": "緑黄色社会",
-          "count": 2
+          "title": "Calc.",
+          "artist": "ジミーサムP",
+          "count": 3
         },
         {
-          "title": "ミックスナッツ",
+          "title": "Pretender",
           "artist": "Official髭男dism",
-          "count": 2
-        },
-        {
-          "title": "Luna say maybe",
-          "artist": "月村手毬",
           "count": 2
         }
       ]
@@ -177,11 +177,11 @@
         {
           "title": "Universe",
           "artist": "Official髭男dism",
-          "count": 6
+          "count": 7
         },
         {
-          "title": "モニタリング",
-          "artist": "DECO*27",
+          "title": "ソワレ",
+          "artist": "星街すいせい",
           "count": 5
         },
         {
@@ -190,13 +190,13 @@
           "count": 5
         },
         {
-          "title": "ソワレ",
-          "artist": "星街すいせい",
+          "title": "モニタリング",
+          "artist": "DECO*27",
           "count": 5
         },
         {
-          "title": "Our Bright Parade",
-          "artist": "hololive IDOL PROJECT",
+          "title": "ビビデバ",
+          "artist": "星街すいせい",
           "count": 4
         },
         {
@@ -205,13 +205,13 @@
           "count": 4
         },
         {
-          "title": "コネクト",
-          "artist": "ClariS",
+          "title": "プロポーズ",
+          "artist": "なとり",
           "count": 4
         },
         {
-          "title": "ベテルギウス",
-          "artist": "優里",
+          "title": "Our Bright Parade",
+          "artist": "hololive IDOL PROJECT",
           "count": 4
         }
       ]
@@ -220,9 +220,24 @@
       "year": "2024",
       "songs": [
         {
-          "title": "瞬間ハートビート / Shunkan Heartbeat (Otonose Kanade SOLO ver.)",
-          "artist": "音乃瀬奏 & ReGLOSS",
-          "count": 100
+          "title": "瞬間ハートビート",
+          "artist": "ReGLOSS",
+          "count": 106
+        },
+        {
+          "title": "ビビデバ",
+          "artist": "星街すいせい",
+          "count": 5
+        },
+        {
+          "title": "シンメトリー",
+          "artist": "ReGLOSS",
+          "count": 4
+        },
+        {
+          "title": "晩餐歌",
+          "artist": "tuki.",
+          "count": 4
         },
         {
           "title": "Subtitle",
@@ -230,43 +245,28 @@
           "count": 4
         },
         {
-          "title": "地球儀",
-          "artist": "米津玄師",
-          "count": 3
-        },
-        {
           "title": "花になって",
           "artist": "緑黄色社会",
-          "count": 3
+          "count": 4
         },
         {
-          "title": "Lemon",
-          "artist": "米津玄師",
-          "count": 3
-        },
-        {
-          "title": "ホシアイ",
-          "artist": "",
-          "count": 3
-        },
-        {
-          "title": "ソワレ",
-          "artist": "星街すいせい",
-          "count": 3
-        },
-        {
-          "title": "No Logic",
-          "artist": "ジミーサムP",
-          "count": 3
-        },
-        {
-          "title": "瞬間ハートビート",
-          "artist": "ReGLOSS",
+          "title": "幾億光年",
+          "artist": "Omoinotake",
           "count": 3
         },
         {
           "title": "風を食む",
           "artist": "ヨルシカ",
+          "count": 3
+        },
+        {
+          "title": "地球儀",
+          "artist": "米津玄師",
+          "count": 3
+        },
+        {
+          "title": "小夜子",
+          "artist": "みきとP",
           "count": 3
         }
       ]
@@ -280,48 +280,48 @@
           "count": 4
         },
         {
+          "title": "星座になれたら",
+          "artist": "結束バンド",
+          "count": 3
+        },
+        {
           "title": "瞬間ハートビート",
           "artist": "ReGLOSS",
           "count": 3
         },
         {
-          "title": "アイドル",
+          "title": "鱗",
+          "artist": "秦 基博",
+          "count": 3
+        },
+        {
+          "title": "少女レイ",
+          "artist": "みきとP",
+          "count": 3
+        },
+        {
+          "title": "灰色と青",
+          "artist": "米津玄師ｘ菅田将暉",
+          "count": 3
+        },
+        {
+          "title": "ベノム",
+          "artist": "かいりきベア",
+          "count": 2
+        },
+        {
+          "title": "天体観測",
+          "artist": "BUMP OF CHICKEN",
+          "count": 2
+        },
+        {
+          "title": "夜に駆ける",
           "artist": "YOASOBI",
           "count": 2
         },
         {
-          "title": "星座になれたら",
-          "artist": "結束バンド",
-          "count": 2
-        },
-        {
-          "title": "ノーダウト",
-          "artist": "Official髭男dism",
-          "count": 2
-        },
-        {
-          "title": "別の人の彼女になったよ",
-          "artist": "wacci",
-          "count": 2
-        },
-        {
-          "title": "アイネクライネ",
-          "artist": "米津玄師",
-          "count": 2
-        },
-        {
-          "title": "鱗",
-          "artist": "秦基博",
-          "count": 2
-        },
-        {
-          "title": "恋",
-          "artist": "星野源",
-          "count": 2
-        },
-        {
-          "title": "Mela!",
-          "artist": "緑黄色社会",
+          "title": "夜明けと蛍",
+          "artist": "n-buna",
           "count": 2
         }
       ]

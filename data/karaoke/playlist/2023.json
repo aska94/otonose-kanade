@@ -38,6 +38,27 @@
       "count": 3
     },
     {
+      "title": "少女レイ",
+      "artist": "みきとP",
+      "originalUrl": null,
+      "key": "少女レイ",
+      "count": 3
+    },
+    {
+      "title": "神っぽいな",
+      "artist": "ピノキオピー feat. 初音ミク",
+      "originalUrl": null,
+      "key": "神っぽいな",
+      "count": 2
+    },
+    {
+      "title": "ロキ",
+      "artist": "みきとP",
+      "originalUrl": null,
+      "key": "ロキ",
+      "count": 2
+    },
+    {
       "title": "アイドル",
       "artist": "YOASOBI",
       "originalUrl": null,
@@ -49,6 +70,13 @@
       "artist": "Official髭男dism",
       "originalUrl": null,
       "key": "ノーダウト",
+      "count": 2
+    },
+    {
+      "title": "青空のラプソディ",
+      "artist": "fhána",
+      "originalUrl": null,
+      "key": "青空のラプソディ",
       "count": 2
     },
     {
@@ -66,10 +94,31 @@
       "count": 2
     },
     {
+      "title": "恋愛裁判",
+      "artist": "40mP",
+      "originalUrl": null,
+      "key": "恋愛裁判",
+      "count": 2
+    },
+    {
+      "title": "ベノム / Venom",
+      "artist": "かいりきベア",
+      "originalUrl": null,
+      "key": "ベノム",
+      "count": 2
+    },
+    {
       "title": "夜明けと蛍",
       "artist": "n-buna",
       "originalUrl": null,
       "key": "夜明けと蛍",
+      "count": 2
+    },
+    {
+      "title": "ゴーストルール",
+      "artist": "DECO*27 feat. 初音ミク",
+      "originalUrl": null,
+      "key": "ゴーストルール",
       "count": 2
     },
     {
@@ -80,7 +129,7 @@
       "count": 2
     },
     {
-      "title": "恋",
+      "title": "恋 / Koi",
       "artist": "星野源",
       "originalUrl": null,
       "key": "恋",
@@ -150,13 +199,6 @@
       "count": 2
     },
     {
-      "title": "少女レイ",
-      "artist": "みきとP",
-      "originalUrl": null,
-      "key": "少女レイ",
-      "count": 2
-    },
-    {
       "title": "小夜子",
       "artist": "みきとP",
       "originalUrl": null,
@@ -175,6 +217,13 @@
       "artist": "Official髭男dism",
       "originalUrl": null,
       "key": "Subtitle",
+      "count": 2
+    },
+    {
+      "title": "雨とペトラ / Rain and Petra (Take 2)",
+      "artist": "バルーン",
+      "originalUrl": null,
+      "key": "雨とペトラ",
       "count": 2
     },
     {
@@ -206,24 +255,10 @@
       "count": 1
     },
     {
-      "title": "神っぽいな",
-      "artist": "ピノキオピー feat. 初音ミク",
-      "originalUrl": null,
-      "key": "神っぽいな",
-      "count": 1
-    },
-    {
       "title": "踊",
       "artist": "Ado",
       "originalUrl": null,
       "key": "踊",
-      "count": 1
-    },
-    {
-      "title": "ロキ",
-      "artist": "みきとP",
-      "originalUrl": null,
-      "key": "ロキ",
       "count": 1
     },
     {
@@ -238,13 +273,6 @@
       "artist": "クリス・ハート",
       "originalUrl": null,
       "key": "I LOVE YOU",
-      "count": 1
-    },
-    {
-      "title": "青空のラプソディ",
-      "artist": "fhána",
-      "originalUrl": null,
-      "key": "青空のラプソディ",
       "count": 1
     },
     {
@@ -283,7 +311,7 @@
       "count": 1
     },
     {
-      "title": "瞬き",
+      "title": "瞬き / Mabataki",
       "artist": "back number",
       "originalUrl": null,
       "key": "瞬き",
@@ -325,8 +353,8 @@
       "count": 1
     },
     {
-      "title": "ワールドイズマイン",
-      "artist": "ryo",
+      "title": "ワールドイズマイン / World Is Mine",
+      "artist": "ryo (supercell)",
       "originalUrl": null,
       "key": "ワールドイズマイン",
       "count": 1
@@ -346,7 +374,7 @@
       "count": 1
     },
     {
-      "title": "プラチナ",
+      "title": "プラチナ / Platinum",
       "artist": "坂本真綾",
       "originalUrl": null,
       "key": "プラチナ",
@@ -381,8 +409,8 @@
       "count": 1
     },
     {
-      "title": "またねがあれば",
-      "artist": "risou",
+      "title": "またねがあれば / Matane Ga Areba",
+      "artist": "當山 みれい",
       "originalUrl": null,
       "key": "またねがあれば",
       "count": 1
@@ -409,20 +437,6 @@
       "count": 1
     },
     {
-      "title": "恋愛裁判",
-      "artist": "40mP",
-      "originalUrl": null,
-      "key": "恋愛裁判",
-      "count": 1
-    },
-    {
-      "title": "ベノム",
-      "artist": "かいりきベア",
-      "originalUrl": null,
-      "key": "ベノム",
-      "count": 1
-    },
-    {
       "title": "Meru",
       "artist": "Dave Santoro",
       "originalUrl": null,
@@ -434,13 +448,6 @@
       "artist": "n-buna",
       "originalUrl": null,
       "key": "メリュー",
-      "count": 1
-    },
-    {
-      "title": "ゴーストルール",
-      "artist": "DECO*27 feat. 初音ミク",
-      "originalUrl": null,
-      "key": "ゴーストルール",
       "count": 1
     },
     {
@@ -710,7 +717,7 @@
       "count": 1
     },
     {
-      "title": "ノーチラス",
+      "title": "ノーチラス / Nautilus",
       "artist": "ヨルシカ",
       "originalUrl": null,
       "key": "ノーチラス",
@@ -801,7 +808,7 @@
       "count": 1
     },
     {
-      "title": "キャラクター",
+      "title": "キャラクター / Character",
       "artist": "緑黄色社会",
       "originalUrl": null,
       "key": "キャラクター",
@@ -878,192 +885,129 @@
       "count": 1
     },
     {
-      "title": "晩餐歌 / Bansanka",
+      "title": "晩餐歌",
       "artist": "tuki.",
       "originalUrl": null,
-      "key": "晩餐歌 / Bansanka",
+      "key": "晩餐歌",
       "count": 1
     },
     {
       "title": "レッド・パージ!!! / Red Purge!!!",
       "artist": "P.I.N.A. feat. Kagamine Rin & Kagamine Len",
       "originalUrl": null,
-      "key": "レッド・パージ!!! / Red Purge!!!",
+      "key": "レッド・パージ!!!",
       "count": 1
     },
     {
       "title": "第六感 / The Sixth Sense",
       "artist": "Reol",
       "originalUrl": null,
-      "key": "第六感 / The Sixth Sense",
+      "key": "第六感",
       "count": 1
     },
     {
       "title": "トウキョウ・シャンディ・ランデヴ (feat. 花譜 & ツミキ) / Tokyo Shandy Rendez-vous (feat. KAF & Tsumiki)",
       "artist": "MAISONdes",
       "originalUrl": null,
-      "key": "トウキョウ・シャンディ・ランデヴ (feat. 花譜 & ツミキ) / Tokyo Shandy Rendez-vous (feat. KAF & Tsumiki)",
+      "key": "トウキョウ・シャンディ・ランデヴ (feat. 花譜 & ツミキ)",
       "count": 1
     },
     {
-      "title": "ダーリンダンス / Darling Dance",
+      "title": "ダーリンダンス",
       "artist": "かいりきベア",
       "originalUrl": null,
-      "key": "ダーリンダンス / Darling Dance",
+      "key": "ダーリンダンス",
       "count": 1
     },
     {
-      "title": "からくりピエロ / Karakuri Pierrot",
+      "title": "からくりピエロ",
       "artist": "40mP",
       "originalUrl": null,
-      "key": "からくりピエロ / Karakuri Pierrot",
-      "count": 1
-    },
-    {
-      "title": "恋愛裁判 / Renaisaiban",
-      "artist": "40mP feat. 初音ミク",
-      "originalUrl": null,
-      "key": "恋愛裁判 / Renaisaiban",
-      "count": 1
-    },
-    {
-      "title": "青空のラプソディ / Rhapsody of Blue Sky",
-      "artist": "fhána",
-      "originalUrl": null,
-      "key": "青空のラプソディ / Rhapsody of Blue Sky",
-      "count": 1
-    },
-    {
-      "title": "雨とペトラ / Rain and Petra",
-      "artist": "バルーン",
-      "originalUrl": null,
-      "key": "雨とペトラ / Rain and Petra",
-      "count": 1
-    },
-    {
-      "title": "雨とペトラ / Rain and Petra (Take 2)",
-      "artist": "バルーン",
-      "originalUrl": null,
-      "key": "雨とペトラ / Rain and Petra (Take 2)",
+      "key": "からくりピエロ",
       "count": 1
     },
     {
       "title": "妄想感傷代償連盟 / Dscf",
       "artist": "DECO*27",
       "originalUrl": null,
-      "key": "妄想感傷代償連盟 / Dscf",
+      "key": "妄想感傷代償連盟",
       "count": 1
     },
     {
       "title": "グッバイ宣言 / Good-Bye Declaration",
       "artist": "Chinozo",
       "originalUrl": null,
-      "key": "グッバイ宣言 / Good-Bye Declaration",
+      "key": "グッバイ宣言",
       "count": 1
     },
     {
       "title": "劣等上等 / Bring It On",
       "artist": "Giga",
       "originalUrl": null,
-      "key": "劣等上等 / Bring It On",
-      "count": 1
-    },
-    {
-      "title": "ロキ / Roki",
-      "artist": "みきとP",
-      "originalUrl": null,
-      "key": "ロキ / Roki",
-      "count": 1
-    },
-    {
-      "title": "少女レイ / Shoujo Rei",
-      "artist": "みきとP",
-      "originalUrl": null,
-      "key": "少女レイ / Shoujo Rei",
+      "key": "劣等上等",
       "count": 1
     },
     {
       "title": "フォニイ (feat. 可不) / Phony (feat. Kafu)",
       "artist": "ツミキ",
       "originalUrl": null,
-      "key": "フォニイ (feat. 可不) / Phony (feat. Kafu)",
+      "key": "フォニイ (feat. 可不)",
       "count": 1
     },
     {
-      "title": "ゴーストルール / Ghost Rule",
-      "artist": "DECO*27",
+      "title": "夜もすがら君想ふ",
+      "artist": "TOKOTOKO",
       "originalUrl": null,
-      "key": "ゴーストルール / Ghost Rule",
-      "count": 1
-    },
-    {
-      "title": "神っぽいな / God-Ish",
-      "artist": "ピノキオピー",
-      "originalUrl": null,
-      "key": "神っぽいな / God-Ish",
-      "count": 1
-    },
-    {
-      "title": "夜もすがら君想ふ / Yomosugara Kimi Omou",
-      "artist": "TOKOTOKO(西沢さんP)",
-      "originalUrl": null,
-      "key": "夜もすがら君想ふ / Yomosugara Kimi Omou",
+      "key": "夜もすがら君想ふ",
       "count": 1
     },
     {
       "title": "シネマ / Cinema",
       "artist": "Ayase",
       "originalUrl": null,
-      "key": "シネマ / Cinema",
+      "key": "シネマ",
       "count": 1
     },
     {
-      "title": "カルチャ / culture",
+      "title": "カルチャ",
       "artist": "ツミキ",
       "originalUrl": null,
-      "key": "カルチャ / culture",
+      "key": "カルチャ",
       "count": 1
     },
     {
       "title": "人マニア / Hito Mania",
       "artist": "原口沙輔",
       "originalUrl": null,
-      "key": "人マニア / Hito Mania",
+      "key": "人マニア",
       "count": 1
     },
     {
       "title": "脱法ロック / Law-evading Rock",
       "artist": "Neru",
       "originalUrl": null,
-      "key": "脱法ロック / Law-evading Rock",
+      "key": "脱法ロック",
       "count": 1
     },
     {
       "title": "テレキャスタービーボーイ / Telecaster b boy (Short ver.)",
       "artist": "すりぃ",
       "originalUrl": null,
-      "key": "テレキャスタービーボーイ / Telecaster b boy (Short ver.)",
+      "key": "テレキャスタービーボーイ",
       "count": 1
     },
     {
       "title": "チュルリラ・チュルリラ・ダッダッダ! / Tururira Tururira Daddaddah!",
       "artist": "和田たけあき(くらげP)",
       "originalUrl": null,
-      "key": "チュルリラ・チュルリラ・ダッダッダ! / Tururira Tururira Daddaddah!",
-      "count": 1
-    },
-    {
-      "title": "ベノム / Venom",
-      "artist": "かいりきベア",
-      "originalUrl": null,
-      "key": "ベノム / Venom",
+      "key": "チュルリラ・チュルリラ・ダッダッダ!",
       "count": 1
     },
     {
       "title": "砂の惑星 / Suna no Wakusei",
       "artist": "ハチ",
       "originalUrl": null,
-      "key": "砂の惑星 / Suna no Wakusei",
+      "key": "砂の惑星",
       "count": 1
     },
     {
@@ -1077,7 +1021,7 @@
       "title": "月陽 -ツキアカリ- / Tsukiakari",
       "artist": "みきとP",
       "originalUrl": null,
-      "key": "月陽 -ツキアカリ- / Tsukiakari",
+      "key": "月陽 -ツキアカリ-",
       "count": 1
     },
     {

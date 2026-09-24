@@ -2,11 +2,18 @@
   "generatedFrom": "data\\karaoke\\build\\performances.json",
   "songs": [
     {
-      "title": "瞬間ハートビート / Shunkan Heartbeat (Otonose Kanade SOLO ver.)",
-      "artist": "音乃瀬奏 & ReGLOSS",
+      "title": "瞬間ハートビート",
+      "artist": "ReGLOSS",
       "originalUrl": null,
-      "key": "瞬間ハートビート / Shunkan Heartbeat (Otonose Kanade SOLO ver.)",
-      "count": 100
+      "key": "瞬間ハートビート",
+      "count": 110
+    },
+    {
+      "title": "晩餐歌",
+      "artist": "tuki.",
+      "originalUrl": null,
+      "key": "晩餐歌",
+      "count": 13
     },
     {
       "title": "Mela!",
@@ -23,13 +30,6 @@
       "count": 11
     },
     {
-      "title": "晩餐歌",
-      "artist": "tuki.",
-      "originalUrl": null,
-      "key": "晩餐歌",
-      "count": 10
-    },
-    {
       "title": "Universe",
       "artist": "Official髭男dism",
       "originalUrl": null,
@@ -44,6 +44,13 @@
       "count": 9
     },
     {
+      "title": "ワールドイズマイン / World Is Mine",
+      "artist": "ryo (supercell)",
+      "originalUrl": null,
+      "key": "ワールドイズマイン",
+      "count": 9
+    },
+    {
       "title": "Subtitle",
       "artist": "Official髭男dism",
       "originalUrl": null,
@@ -51,31 +58,31 @@
       "count": 9
     },
     {
-      "title": "ソワレ",
+      "title": "ソワレ / Soirée",
       "artist": "星街すいせい",
       "originalUrl": null,
       "key": "ソワレ",
-      "count": 8
+      "count": 9
+    },
+    {
+      "title": "晴る / Sunny",
+      "artist": "ヨルシカ",
+      "originalUrl": null,
+      "key": "晴る",
+      "count": 9
+    },
+    {
+      "title": "ビビデバ",
+      "artist": "星街すいせい",
+      "originalUrl": null,
+      "key": "ビビデバ",
+      "count": 9
     },
     {
       "title": "ノーダウト",
       "artist": "Official髭男dism",
       "originalUrl": null,
       "key": "ノーダウト",
-      "count": 7
-    },
-    {
-      "title": "瞬間ハートビート",
-      "artist": "ReGLOSS",
-      "originalUrl": null,
-      "key": "瞬間ハートビート",
-      "count": 7
-    },
-    {
-      "title": "ワールドイズマイン",
-      "artist": "ryo",
-      "originalUrl": null,
-      "key": "ワールドイズマイン",
       "count": 7
     },
     {
@@ -93,6 +100,13 @@
       "count": 7
     },
     {
+      "title": "天体観測",
+      "artist": "BUMP OF CHICKEN",
+      "originalUrl": null,
+      "key": "天体観測",
+      "count": 7
+    },
+    {
       "title": "Lemon",
       "artist": "米津玄師",
       "originalUrl": null,
@@ -107,10 +121,10 @@
       "count": 7
     },
     {
-      "title": "ビビデバ",
-      "artist": "星街すいせい",
+      "title": "花になって",
+      "artist": "緑黄色社会",
       "originalUrl": null,
-      "key": "ビビデバ",
+      "key": "花になって",
       "count": 7
     },
     {
@@ -142,6 +156,13 @@
       "count": 6
     },
     {
+      "title": "恋愛裁判",
+      "artist": "40mP",
+      "originalUrl": null,
+      "key": "恋愛裁判",
+      "count": 6
+    },
+    {
       "title": "夜明けと蛍",
       "artist": "n-buna",
       "originalUrl": null,
@@ -149,10 +170,10 @@
       "count": 6
     },
     {
-      "title": "天体観測",
-      "artist": "BUMP OF CHICKEN",
+      "title": "変わらないもの",
+      "artist": "奥 華子",
       "originalUrl": null,
-      "key": "天体観測",
+      "key": "変わらないもの",
       "count": 6
     },
     {
@@ -167,20 +188,6 @@
       "artist": "ジミーサムP feat. 巡音ルカ",
       "originalUrl": null,
       "key": "Calc.",
-      "count": 6
-    },
-    {
-      "title": "花になって",
-      "artist": "緑黄色社会",
-      "originalUrl": null,
-      "key": "花になって",
-      "count": 6
-    },
-    {
-      "title": "晴る",
-      "artist": "ヨルシカ",
-      "originalUrl": null,
-      "key": "晴る",
       "count": 6
     },
     {
@@ -219,6 +226,13 @@
       "count": 5
     },
     {
+      "title": "別の人の彼女になったよ",
+      "artist": "wacci",
+      "originalUrl": null,
+      "key": "別の人の彼女になったよ",
+      "count": 5
+    },
+    {
       "title": "コネクト",
       "artist": "ClariS",
       "originalUrl": null,
@@ -233,10 +247,52 @@
       "count": 5
     },
     {
+      "title": "恋 / Koi",
+      "artist": "星野源",
+      "originalUrl": null,
+      "key": "恋",
+      "count": 5
+    },
+    {
+      "title": "怪獣の花唄",
+      "artist": "Vaundy",
+      "originalUrl": null,
+      "key": "怪獣の花唄",
+      "count": 5
+    },
+    {
       "title": "ホシアイ",
       "artist": "",
       "originalUrl": null,
       "key": "ホシアイ",
+      "count": 5
+    },
+    {
+      "title": "ノーチラス / Nautilus",
+      "artist": "ヨルシカ",
+      "originalUrl": null,
+      "key": "ノーチラス",
+      "count": 5
+    },
+    {
+      "title": "小夜子",
+      "artist": "みきとP",
+      "originalUrl": null,
+      "key": "小夜子",
+      "count": 5
+    },
+    {
+      "title": "夜もすがら君想ふ",
+      "artist": "TOKOTOKO",
+      "originalUrl": null,
+      "key": "夜もすがら君想ふ",
+      "count": 5
+    },
+    {
+      "title": "メフィスト",
+      "artist": "女王蜂",
+      "originalUrl": null,
+      "key": "メフィスト",
       "count": 5
     },
     {
@@ -254,10 +310,24 @@
       "count": 5
     },
     {
+      "title": "はいよろこんで / Hai Yorokonde",
+      "artist": "こっちのけんと",
+      "originalUrl": null,
+      "key": "はいよろこんで",
+      "count": 5
+    },
+    {
       "title": "Our Bright Parade",
       "artist": "hololive IDOL PROJECT",
       "originalUrl": null,
       "key": "Our Bright Parade",
+      "count": 5
+    },
+    {
+      "title": "フィーリングラデーション / feelingradation",
+      "artist": "ReGLOSS",
+      "originalUrl": null,
+      "key": "フィーリングラデーション",
       "count": 5
     },
     {
@@ -280,76 +350,6 @@
       "originalUrl": null,
       "key": "ミックスナッツ",
       "count": 5
-    },
-    {
-      "title": "JANE DOE",
-      "artist": "米津玄師, 宇多田ヒカル",
-      "originalUrl": null,
-      "key": "JANE DOE",
-      "count": 5
-    },
-    {
-      "title": "XOVERLINE",
-      "artist": "OHTORA / New K",
-      "originalUrl": null,
-      "key": "XOVERLINE",
-      "count": 5
-    },
-    {
-      "title": "ray",
-      "artist": "BUMP OF CHICKEN",
-      "originalUrl": null,
-      "key": "ray",
-      "count": 5
-    },
-    {
-      "title": "Shiny Smily Story",
-      "artist": "hololive IDOL PROJECT",
-      "originalUrl": null,
-      "key": "Shiny Smily Story",
-      "count": 4
-    },
-    {
-      "title": "ドライフラワー",
-      "artist": "優里",
-      "originalUrl": null,
-      "key": "ドライフラワー",
-      "count": 4
-    },
-    {
-      "title": "別の人の彼女になったよ",
-      "artist": "wacci",
-      "originalUrl": null,
-      "key": "別の人の彼女になったよ",
-      "count": 4
-    },
-    {
-      "title": "ルーマー",
-      "artist": "ポリスピカデリー feat. GUMI",
-      "originalUrl": null,
-      "key": "ルーマー",
-      "count": 4
-    },
-    {
-      "title": "恋愛裁判",
-      "artist": "40mP",
-      "originalUrl": null,
-      "key": "恋愛裁判",
-      "count": 4
-    },
-    {
-      "title": "変わらないもの",
-      "artist": "奥 華子",
-      "originalUrl": null,
-      "key": "変わらないもの",
-      "count": 4
-    },
-    {
-      "title": "恋",
-      "artist": "星野源",
-      "originalUrl": null,
-      "key": "恋",
-      "count": 4
     }
   ]
 }

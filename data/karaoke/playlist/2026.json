@@ -17,17 +17,17 @@
       "count": 5
     },
     {
+      "title": "ワールドイズマイン / World Is Mine",
+      "artist": "ryo (supercell)",
+      "originalUrl": null,
+      "key": "ワールドイズマイン",
+      "count": 4
+    },
+    {
       "title": "カタオモイ",
       "artist": "Aimer",
       "originalUrl": null,
       "key": "カタオモイ",
-      "count": 3
-    },
-    {
-      "title": "ワールドイズマイン",
-      "artist": "ryo",
-      "originalUrl": null,
-      "key": "ワールドイズマイン",
       "count": 3
     },
     {
@@ -49,6 +49,13 @@
       "artist": "Official髭男dism",
       "originalUrl": null,
       "key": "Universe",
+      "count": 3
+    },
+    {
+      "title": "ノーチラス / Nautilus",
+      "artist": "ヨルシカ",
+      "originalUrl": null,
+      "key": "ノーチラス",
       "count": 3
     },
     {
@@ -122,6 +129,13 @@
       "count": 2
     },
     {
+      "title": "怪獣 / Kaiju",
+      "artist": "サカナクション",
+      "originalUrl": null,
+      "key": "怪獣",
+      "count": 2
+    },
+    {
       "title": "サクラキミワタシ",
       "artist": "tuki.",
       "originalUrl": null,
@@ -136,17 +150,17 @@
       "count": 2
     },
     {
-      "title": "ノーチラス",
-      "artist": "ヨルシカ",
-      "originalUrl": null,
-      "key": "ノーチラス",
-      "count": 2
-    },
-    {
       "title": "炉心融解",
       "artist": "iroha",
       "originalUrl": null,
       "key": "炉心融解",
+      "count": 2
+    },
+    {
+      "title": "心予報 / Heart Forecast",
+      "artist": "Eve",
+      "originalUrl": null,
+      "key": "心予報",
       "count": 2
     },
     {
@@ -175,6 +189,13 @@
       "artist": "Official髭男dism",
       "originalUrl": null,
       "key": "Pretender",
+      "count": 2
+    },
+    {
+      "title": "恋風邪にのせて / Koikaze ni nosete",
+      "artist": "Vaundy",
+      "originalUrl": null,
+      "key": "恋風邪にのせて",
       "count": 2
     },
     {
@@ -304,13 +325,6 @@
       "count": 1
     },
     {
-      "title": "怪獣",
-      "artist": "サカナクション",
-      "originalUrl": null,
-      "key": "怪獣",
-      "count": 1
-    },
-    {
       "title": "相思相愛",
       "artist": "aiko",
       "originalUrl": null,
@@ -378,13 +392,6 @@
       "artist": "ヒグチアイ / 草野華余子",
       "originalUrl": null,
       "key": "あのバンド",
-      "count": 1
-    },
-    {
-      "title": "心予報",
-      "artist": "Eve",
-      "originalUrl": null,
-      "key": "心予報",
       "count": 1
     },
     {
@@ -682,13 +689,6 @@
       "count": 1
     },
     {
-      "title": "恋風邪にのせて",
-      "artist": "Vaundy",
-      "originalUrl": null,
-      "key": "恋風邪にのせて",
-      "count": 1
-    },
-    {
       "title": "Merry-go-round",
       "artist": "",
       "originalUrl": null,
@@ -811,35 +811,35 @@
       "title": "プラチナ / Platinum",
       "artist": "坂本真綾",
       "originalUrl": null,
-      "key": "プラチナ / Platinum",
+      "key": "プラチナ",
       "count": 1
     },
     {
       "title": "世界は恋に落ちている / Sekaiwa Koi Ni Ochiteiru",
       "artist": "CHiCO with HoneyWorks",
       "originalUrl": null,
-      "key": "世界は恋に落ちている / Sekaiwa Koi Ni Ochiteiru",
+      "key": "世界は恋に落ちている",
       "count": 1
     },
     {
       "title": "気まぐれロマンティック / Kimagure Romantic",
       "artist": "いきものがかり",
       "originalUrl": null,
-      "key": "気まぐれロマンティック / Kimagure Romantic",
+      "key": "気まぐれロマンティック",
       "count": 1
     },
     {
       "title": "さくらんぼ / Sakuranbo",
       "artist": "大塚 愛",
       "originalUrl": null,
-      "key": "さくらんぼ / Sakuranbo",
+      "key": "さくらんぼ",
       "count": 1
     },
     {
       "title": "恋 / Koi",
       "artist": "星野源",
       "originalUrl": null,
-      "key": "恋 / Koi",
+      "key": "恋",
       "count": 1
     },
     {
@@ -853,35 +853,14 @@
       "title": "長く短い祭 / No verao, as noites",
       "artist": "椎名林檎 & 浮雲",
       "originalUrl": null,
-      "key": "長く短い祭 / No verao, as noites",
-      "count": 1
-    },
-    {
-      "title": "恋風邪にのせて / Koikaze ni nosete",
-      "artist": "Vaundy",
-      "originalUrl": null,
-      "key": "恋風邪にのせて / Koikaze ni nosete",
+      "key": "長く短い祭",
       "count": 1
     },
     {
       "title": "またねがあれば / Matane Ga Areba",
       "artist": "當山 みれい",
       "originalUrl": null,
-      "key": "またねがあれば / Matane Ga Areba",
-      "count": 1
-    },
-    {
-      "title": "ワールドイズマイン / World Is Mine",
-      "artist": "ryo (supercell)",
-      "originalUrl": null,
-      "key": "ワールドイズマイン / World Is Mine",
-      "count": 1
-    },
-    {
-      "title": "心予報 / Heart Forecast",
-      "artist": "Eve",
-      "originalUrl": null,
-      "key": "心予報 / Heart Forecast",
+      "key": "またねがあれば",
       "count": 1
     },
     {
@@ -895,35 +874,28 @@
       "title": "晴る / Sunny",
       "artist": "ヨルシカ",
       "originalUrl": null,
-      "key": "晴る / Sunny",
+      "key": "晴る",
       "count": 1
     },
     {
       "title": "あぶく / Bubble",
       "artist": "ヨルシカ / Yorushika",
       "originalUrl": null,
-      "key": "あぶく / Bubble",
-      "count": 1
-    },
-    {
-      "title": "ノーチラス / Nautilus",
-      "artist": "ヨルシカ",
-      "originalUrl": null,
-      "key": "ノーチラス / Nautilus",
+      "key": "あぶく",
       "count": 1
     },
     {
       "title": "おねがいダーリン / Onegai Darling",
       "artist": "P丸様。",
       "originalUrl": null,
-      "key": "おねがいダーリン / Onegai Darling",
+      "key": "おねがいダーリン",
       "count": 1
     },
     {
       "title": "ソワレ / Soirée",
       "artist": "星街すいせい",
       "originalUrl": null,
-      "key": "ソワレ / Soirée",
+      "key": "ソワレ",
       "count": 1
     },
     {
@@ -937,42 +909,35 @@
       "title": "はいよろこんで / Hai Yorokonde",
       "artist": "こっちのけんと",
       "originalUrl": null,
-      "key": "はいよろこんで / Hai Yorokonde",
+      "key": "はいよろこんで",
       "count": 1
     },
     {
       "title": "First Love (Short ver.)",
       "artist": "宇多田ヒカル",
       "originalUrl": null,
-      "key": "First Love (Short ver.)",
+      "key": "First Love",
       "count": 1
     },
     {
       "title": "エイリアンエイリアン / Alien Alien",
       "artist": "ナユタン星人",
       "originalUrl": null,
-      "key": "エイリアンエイリアン / Alien Alien",
+      "key": "エイリアンエイリアン",
       "count": 1
     },
     {
       "title": "夜の踊り子 / Yoru No Odoriko",
       "artist": "サカナクション",
       "originalUrl": null,
-      "key": "夜の踊り子 / Yoru No Odoriko",
-      "count": 1
-    },
-    {
-      "title": "怪獣 / Kaiju",
-      "artist": "サカナクション",
-      "originalUrl": null,
-      "key": "怪獣 / Kaiju",
+      "key": "夜の踊り子",
       "count": 1
     },
     {
       "title": "フィーリングラデーション / feelingradation",
       "artist": "ReGLOSS",
       "originalUrl": null,
-      "key": "フィーリングラデーション / feelingradation",
+      "key": "フィーリングラデーション",
       "count": 1
     }
   ]
