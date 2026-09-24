@@ -2,21 +2,16 @@
   "schemaVersion": 1,
   "sourceUrl": "https://setlist.kibunya.org/channel/@OtonoseKanade/",
   "observedAt": "2026-09-24",
-  "extractionMode": "chatgpt-web",
+  "extractionMode": "local-html",
   "rawFileUploaded": false,
+  "sourceSnapshotName": "otonose-kanade.html",
+  "sourceSnapshotSha256": "bf68271955ed3a6654c8137417552929b084be704d76b4482fb7abc0cbd52555",
   "broadcastCount": 66,
   "performanceCount": 911,
   "dateRange": {
     "earliestObserved": "2023-09-12",
     "latestObserved": "2026-08-07"
   },
-  "fingerprint": {
-    "type": "semantic-page-summary",
-    "value": "broadcasts=66;performances=911;date-range=2023-09-12..2026-08-07"
-  },
-  "notes": [
-    "This is a baseline observation from the publicly readable Setlist Index page.",
-    "The semantic fingerprint is not a cryptographic hash of the source HTML.",
-    "Future checks must compare broadcast URLs, dates, and performance rows before creating a change proposal."
-  ]
+  "parserVersion": "local-block-v2"
 }
+
