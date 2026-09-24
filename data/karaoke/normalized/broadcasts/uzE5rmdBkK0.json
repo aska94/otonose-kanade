@@ -1,0 +1,126 @@
+{
+  "broadcast": {
+    "id": "uzE5rmdBkK0",
+    "title": "【歌枠】歌ってみた公開までドキドキ歌枠！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+    "date": "2024-01-10",
+    "youtubeUrl": "https://youtube.com/watch?v=uzE5rmdBkK0",
+    "broadcastUrl": "https://youtube.com/watch?v=uzE5rmdBkK0",
+    "sources": [
+      "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+    ],
+    "status": "source-confirmed"
+  },
+  "performances": [
+    {
+      "id": "uzE5rmdBkK0-01",
+      "broadcastId": "uzE5rmdBkK0",
+      "date": "2024-01-10",
+      "order": 1,
+      "title": "SPECIALZ",
+      "normalizedTitle": "SPECIALZ",
+      "artist": "King gnu",
+      "timestamp": "5:14",
+      "timestampSeconds": 314,
+      "sourceUrl": "https://youtube.com/watch?v=uzE5rmdBkK0&t=314s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "uzE5rmdBkK0-02",
+      "broadcastId": "uzE5rmdBkK0",
+      "date": "2024-01-10",
+      "order": 2,
+      "title": "SOULSOUP",
+      "normalizedTitle": "SOULSOUP",
+      "artist": "Official髭男dism",
+      "timestamp": "11:26",
+      "timestampSeconds": 686,
+      "sourceUrl": "https://youtube.com/watch?v=uzE5rmdBkK0&t=686s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "uzE5rmdBkK0-03",
+      "broadcastId": "uzE5rmdBkK0",
+      "date": "2024-01-10",
+      "order": 3,
+      "title": "Subtitle",
+      "normalizedTitle": "Subtitle",
+      "artist": "Official髭男dism",
+      "timestamp": "20:58",
+      "timestampSeconds": 1258,
+      "sourceUrl": "https://youtube.com/watch?v=uzE5rmdBkK0&t=1258s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "uzE5rmdBkK0-04",
+      "broadcastId": "uzE5rmdBkK0",
+      "date": "2024-01-10",
+      "order": 4,
+      "title": "夜撫でるメノウ",
+      "normalizedTitle": "夜撫でるメノウ",
+      "artist": "Ayase",
+      "timestamp": "28:33",
+      "timestampSeconds": 1713,
+      "sourceUrl": "https://youtube.com/watch?v=uzE5rmdBkK0&t=1713s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "uzE5rmdBkK0-05",
+      "broadcastId": "uzE5rmdBkK0",
+      "date": "2024-01-10",
+      "order": 5,
+      "title": "夜撫でるメノウ",
+      "normalizedTitle": "夜撫でるメノウ",
+      "artist": "Ayase",
+      "timestamp": "29:10",
+      "timestampSeconds": 1750,
+      "sourceUrl": "https://youtube.com/watch?v=uzE5rmdBkK0&t=1750s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    }
+  ]
+}
+
