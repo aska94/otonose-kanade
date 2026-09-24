@@ -22,7 +22,7 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4
       - name: Prepare site
-        run: mkdir -p _site && cp -R site/. _site/
+        run: mkdir -p _site && cp -R site/. _site/ && mkdir -p _site/data/karaoke/normalized && cp -R data/karaoke/normalized/. _site/data/karaoke/normalized/
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
