@@ -1,0 +1,104 @@
+{
+  "broadcast": {
+    "id": "GoNEvx4LU7U",
+    "title": "【 #ホロクリスマス歌枠リレー 】【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+    "date": "2025-12-24",
+    "youtubeUrl": "https://youtube.com/watch?v=GoNEvx4LU7U",
+    "broadcastUrl": "https://youtube.com/watch?v=GoNEvx4LU7U",
+    "sources": [
+      "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+    ],
+    "status": "source-confirmed"
+  },
+  "performances": [
+    {
+      "id": "GoNEvx4LU7U-01",
+      "broadcastId": "GoNEvx4LU7U",
+      "date": "2025-12-24",
+      "order": 1,
+      "title": "踊",
+      "normalizedTitle": "踊",
+      "artist": "Ado",
+      "timestamp": "2:01",
+      "timestampSeconds": 121,
+      "sourceUrl": "https://youtube.com/watch?v=GoNEvx4LU7U&t=121s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "GoNEvx4LU7U-02",
+      "broadcastId": "GoNEvx4LU7U",
+      "date": "2025-12-24",
+      "order": 2,
+      "title": "Snow halation",
+      "normalizedTitle": "Snow halation",
+      "artist": "μ’s",
+      "timestamp": "6:36",
+      "timestampSeconds": 396,
+      "sourceUrl": "https://youtube.com/watch?v=GoNEvx4LU7U&t=396s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "GoNEvx4LU7U-03",
+      "broadcastId": "GoNEvx4LU7U",
+      "date": "2025-12-24",
+      "order": 3,
+      "title": "対象a",
+      "normalizedTitle": "対象a",
+      "artist": "anNina",
+      "timestamp": "11:23",
+      "timestampSeconds": 683,
+      "sourceUrl": "https://youtube.com/watch?v=GoNEvx4LU7U&t=683s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "GoNEvx4LU7U-04",
+      "broadcastId": "GoNEvx4LU7U",
+      "date": "2025-12-24",
+      "order": 4,
+      "title": "GREATEST",
+      "normalizedTitle": "GREATEST",
+      "artist": "音乃瀬奏",
+      "timestamp": "16:20",
+      "timestampSeconds": 980,
+      "sourceUrl": "https://youtube.com/watch?v=GoNEvx4LU7U&t=980s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    }
+  ]
+}
+
