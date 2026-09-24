@@ -1,0 +1,280 @@
+{
+  "broadcast": {
+    "id": "6TQEyFUOX1Y",
+    "title": "【 縦型歌枠 】ゲリラをやりたがっている【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+    "date": "2025-08-05",
+    "youtubeUrl": "https://youtube.com/watch?v=6TQEyFUOX1Y",
+    "broadcastUrl": "https://youtube.com/watch?v=6TQEyFUOX1Y",
+    "sources": [
+      "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+    ],
+    "status": "source-confirmed"
+  },
+  "performances": [
+    {
+      "id": "6TQEyFUOX1Y-01",
+      "broadcastId": "6TQEyFUOX1Y",
+      "date": "2025-08-05",
+      "order": 1,
+      "title": "夜もすがら君想ふ",
+      "normalizedTitle": "夜もすがら君想ふ",
+      "artist": "TOKOTOKO",
+      "timestamp": "2:18",
+      "timestampSeconds": 138,
+      "sourceUrl": "https://youtube.com/watch?v=6TQEyFUOX1Y&t=138s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "6TQEyFUOX1Y-02",
+      "broadcastId": "6TQEyFUOX1Y",
+      "date": "2025-08-05",
+      "order": 2,
+      "title": "ノーダウト",
+      "normalizedTitle": "ノーダウト",
+      "artist": "Official髭男dism",
+      "timestamp": "7:52",
+      "timestampSeconds": 472,
+      "sourceUrl": "https://youtube.com/watch?v=6TQEyFUOX1Y&t=472s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "6TQEyFUOX1Y-03",
+      "broadcastId": "6TQEyFUOX1Y",
+      "date": "2025-08-05",
+      "order": 3,
+      "title": "ビビデバ",
+      "normalizedTitle": "ビビデバ",
+      "artist": "星街すいせい",
+      "timestamp": "12:45",
+      "timestampSeconds": 765,
+      "sourceUrl": "https://youtube.com/watch?v=6TQEyFUOX1Y&t=765s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "6TQEyFUOX1Y-04",
+      "broadcastId": "6TQEyFUOX1Y",
+      "date": "2025-08-05",
+      "order": 4,
+      "title": "Mela!",
+      "normalizedTitle": "Mela!",
+      "artist": "緑黄色社会",
+      "timestamp": "16:53",
+      "timestampSeconds": 1013,
+      "sourceUrl": "https://youtube.com/watch?v=6TQEyFUOX1Y&t=1013s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "6TQEyFUOX1Y-05",
+      "broadcastId": "6TQEyFUOX1Y",
+      "date": "2025-08-05",
+      "order": 5,
+      "title": "ソワレ",
+      "normalizedTitle": "ソワレ",
+      "artist": "星街すいせい",
+      "timestamp": "23:43",
+      "timestampSeconds": 1423,
+      "sourceUrl": "https://youtube.com/watch?v=6TQEyFUOX1Y&t=1423s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "6TQEyFUOX1Y-06",
+      "broadcastId": "6TQEyFUOX1Y",
+      "date": "2025-08-05",
+      "order": 6,
+      "title": "ミッドサマーシトラス",
+      "normalizedTitle": "ミッドサマーシトラス",
+      "artist": "ReGLOSS",
+      "timestamp": "30:29",
+      "timestampSeconds": 1829,
+      "sourceUrl": "https://youtube.com/watch?v=6TQEyFUOX1Y&t=1829s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "6TQEyFUOX1Y-07",
+      "broadcastId": "6TQEyFUOX1Y",
+      "date": "2025-08-05",
+      "order": 7,
+      "title": "Shiny Smily Story",
+      "normalizedTitle": "Shiny Smily Story",
+      "artist": "hololive IDOL PROJECT",
+      "timestamp": "35:01",
+      "timestampSeconds": 2101,
+      "sourceUrl": "https://youtube.com/watch?v=6TQEyFUOX1Y&t=2101s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "6TQEyFUOX1Y-08",
+      "broadcastId": "6TQEyFUOX1Y",
+      "date": "2025-08-05",
+      "order": 8,
+      "title": "Kirameki Rider",
+      "normalizedTitle": "Kirameki Rider",
+      "artist": "mimiko / mpi / 石濱翔",
+      "timestamp": "40:08",
+      "timestampSeconds": 2408,
+      "sourceUrl": "https://youtube.com/watch?v=6TQEyFUOX1Y&t=2408s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "6TQEyFUOX1Y-09",
+      "broadcastId": "6TQEyFUOX1Y",
+      "date": "2025-08-05",
+      "order": 9,
+      "title": "青空のラプソディ",
+      "normalizedTitle": "青空のラプソディ",
+      "artist": "fhána",
+      "timestamp": "46:35",
+      "timestampSeconds": 2795,
+      "sourceUrl": "https://youtube.com/watch?v=6TQEyFUOX1Y&t=2795s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "6TQEyFUOX1Y-10",
+      "broadcastId": "6TQEyFUOX1Y",
+      "date": "2025-08-05",
+      "order": 10,
+      "title": "プロポーズ",
+      "normalizedTitle": "プロポーズ",
+      "artist": "なとり",
+      "timestamp": "54:03",
+      "timestampSeconds": 3243,
+      "sourceUrl": "https://youtube.com/watch?v=6TQEyFUOX1Y&t=3243s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "6TQEyFUOX1Y-11",
+      "broadcastId": "6TQEyFUOX1Y",
+      "date": "2025-08-05",
+      "order": 11,
+      "title": "トウキョウ・シャンディ・ランデヴ",
+      "normalizedTitle": "トウキョウ・シャンディ・ランデヴ",
+      "artist": "MAISONdes",
+      "timestamp": "54:51",
+      "timestampSeconds": 3291,
+      "sourceUrl": "https://youtube.com/watch?v=6TQEyFUOX1Y&t=3291s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "6TQEyFUOX1Y-12",
+      "broadcastId": "6TQEyFUOX1Y",
+      "date": "2025-08-05",
+      "order": 12,
+      "title": "Our Bright Parade",
+      "normalizedTitle": "Our Bright Parade",
+      "artist": "hololive IDOL PROJECT",
+      "timestamp": "1:01:04",
+      "timestampSeconds": 3664,
+      "sourceUrl": "https://youtube.com/watch?v=6TQEyFUOX1Y&t=3664s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    }
+  ]
+}
+
