@@ -1,0 +1,280 @@
+{
+  "broadcast": {
+    "id": "CCjz0q-Rbwk",
+    "title": "【 縦型歌枠 】レッスン帰りで超眠い歌枠【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+    "date": "2025-10-06",
+    "youtubeUrl": "https://youtube.com/watch?v=CCjz0q-Rbwk",
+    "broadcastUrl": "https://youtube.com/watch?v=CCjz0q-Rbwk",
+    "sources": [
+      "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+    ],
+    "status": "source-confirmed"
+  },
+  "performances": [
+    {
+      "id": "CCjz0q-Rbwk-01",
+      "broadcastId": "CCjz0q-Rbwk",
+      "date": "2025-10-06",
+      "order": 1,
+      "title": "RAIN",
+      "normalizedTitle": "RAIN",
+      "artist": "SEKAI NO OWARI",
+      "timestamp": "4:10",
+      "timestampSeconds": 250,
+      "sourceUrl": "https://youtube.com/watch?v=CCjz0q-Rbwk&t=250s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "CCjz0q-Rbwk-02",
+      "broadcastId": "CCjz0q-Rbwk",
+      "date": "2025-10-06",
+      "order": 2,
+      "title": "不可思議のカルテ",
+      "normalizedTitle": "不可思議のカルテ",
+      "artist": "瀬戸麻沙美、東山奈央、種﨑敦美、内田真礼、久保ユリカ、水瀬いのり",
+      "timestamp": "11:56",
+      "timestampSeconds": 716,
+      "sourceUrl": "https://youtube.com/watch?v=CCjz0q-Rbwk&t=716s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "CCjz0q-Rbwk-03",
+      "broadcastId": "CCjz0q-Rbwk",
+      "date": "2025-10-06",
+      "order": 3,
+      "title": "プロポーズ",
+      "normalizedTitle": "プロポーズ",
+      "artist": "なとり",
+      "timestamp": "19:02",
+      "timestampSeconds": 1142,
+      "sourceUrl": "https://youtube.com/watch?v=CCjz0q-Rbwk&t=1142s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "CCjz0q-Rbwk-04",
+      "broadcastId": "CCjz0q-Rbwk",
+      "date": "2025-10-06",
+      "order": 4,
+      "title": "ヤミタイガール",
+      "normalizedTitle": "ヤミタイガール",
+      "artist": "れるりり",
+      "timestamp": "22:57",
+      "timestampSeconds": 1377,
+      "sourceUrl": "https://youtube.com/watch?v=CCjz0q-Rbwk&t=1377s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "CCjz0q-Rbwk-05",
+      "broadcastId": "CCjz0q-Rbwk",
+      "date": "2025-10-06",
+      "order": 5,
+      "title": "KICK BACK",
+      "normalizedTitle": "KICK BACK",
+      "artist": "米津玄師",
+      "timestamp": "31:15",
+      "timestampSeconds": 1875,
+      "sourceUrl": "https://youtube.com/watch?v=CCjz0q-Rbwk&t=1875s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "CCjz0q-Rbwk-06",
+      "broadcastId": "CCjz0q-Rbwk",
+      "date": "2025-10-06",
+      "order": 6,
+      "title": "さよーならまたいつか！",
+      "normalizedTitle": "さよーならまたいつか！",
+      "artist": "米津玄師",
+      "timestamp": "41:10",
+      "timestampSeconds": 2470,
+      "sourceUrl": "https://youtube.com/watch?v=CCjz0q-Rbwk&t=2470s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "CCjz0q-Rbwk-07",
+      "broadcastId": "CCjz0q-Rbwk",
+      "date": "2025-10-06",
+      "order": 7,
+      "title": "Seppun",
+      "normalizedTitle": "Seppun",
+      "artist": "",
+      "timestamp": "47:06",
+      "timestampSeconds": 2826,
+      "sourceUrl": "https://youtube.com/watch?v=CCjz0q-Rbwk&t=2826s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "CCjz0q-Rbwk-08",
+      "broadcastId": "CCjz0q-Rbwk",
+      "date": "2025-10-06",
+      "order": 8,
+      "title": "接吻-kiss",
+      "normalizedTitle": "接吻-kiss",
+      "artist": "",
+      "timestamp": "47:07",
+      "timestampSeconds": 2827,
+      "sourceUrl": "https://youtube.com/watch?v=CCjz0q-Rbwk&t=2827s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "CCjz0q-Rbwk-09",
+      "broadcastId": "CCjz0q-Rbwk",
+      "date": "2025-10-06",
+      "order": 9,
+      "title": "接吻",
+      "normalizedTitle": "接吻",
+      "artist": "",
+      "timestamp": "47:08",
+      "timestampSeconds": 2828,
+      "sourceUrl": "https://youtube.com/watch?v=CCjz0q-Rbwk&t=2828s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "CCjz0q-Rbwk-10",
+      "broadcastId": "CCjz0q-Rbwk",
+      "date": "2025-10-06",
+      "order": 10,
+      "title": "丸の内サディスティック",
+      "normalizedTitle": "丸の内サディスティック",
+      "artist": "椎名林檎",
+      "timestamp": "54:49",
+      "timestampSeconds": 3289,
+      "sourceUrl": "https://youtube.com/watch?v=CCjz0q-Rbwk&t=3289s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "CCjz0q-Rbwk-11",
+      "broadcastId": "CCjz0q-Rbwk",
+      "date": "2025-10-06",
+      "order": 11,
+      "title": "アワータイムイエロー",
+      "normalizedTitle": "アワータイムイエロー",
+      "artist": "ReGLOSS",
+      "timestamp": "1:00:57",
+      "timestampSeconds": 3657,
+      "sourceUrl": "https://youtube.com/watch?v=CCjz0q-Rbwk&t=3657s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "CCjz0q-Rbwk-12",
+      "broadcastId": "CCjz0q-Rbwk",
+      "date": "2025-10-06",
+      "order": 12,
+      "title": "アワータイムイエロー",
+      "normalizedTitle": "アワータイムイエロー",
+      "artist": "ReGLOSS",
+      "timestamp": "1:01:06",
+      "timestampSeconds": 3666,
+      "sourceUrl": "https://youtube.com/watch?v=CCjz0q-Rbwk&t=3666s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    }
+  ]
+}
+
