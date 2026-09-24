@@ -13,3 +13,5 @@
 Setlist Index 원본은 로컬에서 다운로드하고 가공합니다. GitHub에는 원본 HTML을 올리지 않고, 생성된 후보·정규화 JSON, 통계·playlist manifest, source metadata만 업로드합니다.
 
 자세한 절차는 [scripts/karaoke/README.md](scripts/karaoke/README.md)를 참고하세요.
+
+데이터 파일이 `main`에 업로드되면 GitHub Pages 배포 workflow가 자동 실행되어 대시보드에 반영합니다. 배포 완료까지 잠시 시간이 걸릴 수 있습니다.
