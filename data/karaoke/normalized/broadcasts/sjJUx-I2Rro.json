@@ -1,0 +1,280 @@
+{
+  "broadcast": {
+    "id": "sjJUx-I2Rro",
+    "title": "【 歌枠 / 縦型 】収録帰りのゆるゆる衝動的歌枠～【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+    "date": "2025-01-16",
+    "youtubeUrl": "https://youtube.com/watch?v=sjJUx-I2Rro",
+    "broadcastUrl": "https://youtube.com/watch?v=sjJUx-I2Rro",
+    "sources": [
+      "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+    ],
+    "status": "source-confirmed"
+  },
+  "performances": [
+    {
+      "id": "sjJUx-I2Rro-01",
+      "broadcastId": "sjJUx-I2Rro",
+      "date": "2025-01-16",
+      "order": 1,
+      "title": "地球儀",
+      "normalizedTitle": "地球儀",
+      "artist": "米津玄師",
+      "timestamp": "4:02",
+      "timestampSeconds": 242,
+      "sourceUrl": "https://youtube.com/watch?v=sjJUx-I2Rro&t=242s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "sjJUx-I2Rro-02",
+      "broadcastId": "sjJUx-I2Rro",
+      "date": "2025-01-16",
+      "order": 2,
+      "title": "ムーンライト",
+      "normalizedTitle": "ムーンライト",
+      "artist": "星街すいせい",
+      "timestamp": "9:46",
+      "timestampSeconds": 586,
+      "sourceUrl": "https://youtube.com/watch?v=sjJUx-I2Rro&t=586s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "sjJUx-I2Rro-03",
+      "broadcastId": "sjJUx-I2Rro",
+      "date": "2025-01-16",
+      "order": 3,
+      "title": "ちるちる",
+      "normalizedTitle": "ちるちる",
+      "artist": "Reol",
+      "timestamp": "14:36",
+      "timestampSeconds": 876,
+      "sourceUrl": "https://youtube.com/watch?v=sjJUx-I2Rro&t=876s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "sjJUx-I2Rro-04",
+      "broadcastId": "sjJUx-I2Rro",
+      "date": "2025-01-16",
+      "order": 4,
+      "title": "煩悩遊戯",
+      "normalizedTitle": "煩悩遊戯",
+      "artist": "Reol",
+      "timestamp": "19:17",
+      "timestampSeconds": 1157,
+      "sourceUrl": "https://youtube.com/watch?v=sjJUx-I2Rro&t=1157s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "sjJUx-I2Rro-05",
+      "broadcastId": "sjJUx-I2Rro",
+      "date": "2025-01-16",
+      "order": 5,
+      "title": "Subtitle",
+      "normalizedTitle": "Subtitle",
+      "artist": "Official髭男dism",
+      "timestamp": "25:10",
+      "timestampSeconds": 1510,
+      "sourceUrl": "https://youtube.com/watch?v=sjJUx-I2Rro&t=1510s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "sjJUx-I2Rro-06",
+      "broadcastId": "sjJUx-I2Rro",
+      "date": "2025-01-16",
+      "order": 6,
+      "title": "風を食む",
+      "normalizedTitle": "風を食む",
+      "artist": "ヨルシカ",
+      "timestamp": "31:40",
+      "timestampSeconds": 1900,
+      "sourceUrl": "https://youtube.com/watch?v=sjJUx-I2Rro&t=1900s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "sjJUx-I2Rro-07",
+      "broadcastId": "sjJUx-I2Rro",
+      "date": "2025-01-16",
+      "order": 7,
+      "title": "泡沫メイビー",
+      "normalizedTitle": "泡沫メイビー",
+      "artist": "ReGLOSS",
+      "timestamp": "38:40",
+      "timestampSeconds": 2320,
+      "sourceUrl": "https://youtube.com/watch?v=sjJUx-I2Rro&t=2320s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "sjJUx-I2Rro-08",
+      "broadcastId": "sjJUx-I2Rro",
+      "date": "2025-01-16",
+      "order": 8,
+      "title": "LAKI MODE",
+      "normalizedTitle": "LAKI MODE",
+      "artist": "ReGLOSS",
+      "timestamp": "42:31",
+      "timestampSeconds": 2551,
+      "sourceUrl": "https://youtube.com/watch?v=sjJUx-I2Rro&t=2551s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "sjJUx-I2Rro-09",
+      "broadcastId": "sjJUx-I2Rro",
+      "date": "2025-01-16",
+      "order": 9,
+      "title": "なんでもないや",
+      "normalizedTitle": "なんでもないや",
+      "artist": "RADWIMPS",
+      "timestamp": "46:37",
+      "timestampSeconds": 2797,
+      "sourceUrl": "https://youtube.com/watch?v=sjJUx-I2Rro&t=2797s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "sjJUx-I2Rro-10",
+      "broadcastId": "sjJUx-I2Rro",
+      "date": "2025-01-16",
+      "order": 10,
+      "title": "Our Bright Parade",
+      "normalizedTitle": "Our Bright Parade",
+      "artist": "hololive IDOL PROJECT",
+      "timestamp": "55:04",
+      "timestampSeconds": 3304,
+      "sourceUrl": "https://youtube.com/watch?v=sjJUx-I2Rro&t=3304s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "sjJUx-I2Rro-11",
+      "broadcastId": "sjJUx-I2Rro",
+      "date": "2025-01-16",
+      "order": 11,
+      "title": "変わらないもの",
+      "normalizedTitle": "変わらないもの",
+      "artist": "奥 華子",
+      "timestamp": "1:00:39",
+      "timestampSeconds": 3639,
+      "sourceUrl": "https://youtube.com/watch?v=sjJUx-I2Rro&t=3639s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "sjJUx-I2Rro-12",
+      "broadcastId": "sjJUx-I2Rro",
+      "date": "2025-01-16",
+      "order": 12,
+      "title": "変わらないもの",
+      "normalizedTitle": "変わらないもの",
+      "artist": "",
+      "timestamp": "1:04:03",
+      "timestampSeconds": 3843,
+      "sourceUrl": "https://youtube.com/watch?v=sjJUx-I2Rro&t=3843s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    }
+  ]
+}
+
