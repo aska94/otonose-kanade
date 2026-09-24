@@ -48,24 +48,23 @@ Keep these entities separate:
 - `broadcast`: the karaoke stream or archive
 - `performance`: Kanade's performance of a song in a broadcast
 - `originalSong`: the original song and artist
-- `evidence`: Holodex comment, broadcast description, video, or other source
+- `evidence`: Setlist Index entry, Holodex comment, broadcast description, video, or other source
 
 Each performance should store the broadcast ID and order, source title and artist, normalized title and artist, candidate and confirmed timestamps, original-song URL, evidence URLs and notes, and confidence status.
 
 ## 5. Set-list collection workflow
 
-Holodex comments are the primary discovery source because they usually make the set list identifiable.
+Setlist Index is the primary structured source when it has a matching Kanade broadcast entry.
 
 1. Find candidate Kanade singing/karaoke broadcasts.
-2. Collect Holodex comments for each broadcast.
-3. Extract likely song titles, artists, order, and comment times.
-4. Preserve original comment text while adding normalized fields.
-5. Compare repeated comments and secondary sources.
-6. Check timestamp candidates against the video timeline when possible.
-7. Record conflicts as `needs-review`.
-8. Only publish confirmed or explicitly labelled source-confirmed entries.
+2. Match each broadcast to the Setlist Index entry.
+3. Import title, date, song order, artists, and timestamps as source-confirmed candidates.
+4. Preserve the Setlist Index URL and original displayed text.
+5. Use Holodex comments and the broadcast timeline where the structured entry is missing, incomplete, or conflicting.
+6. Record conflicts as `needs-review`.
+7. Promote only verified entries to the confirmed catalogue.
 
-The comment timestamp is not automatically the exact song start. Store it as a candidate until the broadcast timeline has been checked.
+Setlist Index timestamps are useful candidates but are not automatically exact song-start positions.
 
 ## 6. AI-agent automation
 
@@ -99,8 +98,8 @@ Human review is required for ambiguous set-list entries, original-song matches, 
 
 ## 11. Immediate next actions
 
-1. Add local data schemas and validation scripts.
-2. Implement Holodex-comment ingestion behind a review-only output.
-3. Build the first static catalogue locally.
+1. Import additional Setlist Index broadcast records into the candidate area.
+2. Add original-song mappings only after title and artist normalization.
+3. Build the first static catalogue from source-confirmed candidates.
 4. Add GitHub Actions for validation and reviewable collection PRs.
 5. Stop before GitHub or YouTube account mutations that require additional authorization.
