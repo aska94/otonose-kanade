@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "id": "kanade-oldest-broadcast",
+  "status": "candidate",
+  "broadcastUrl": "https://holodex.net/watch/U-Cs4R1yM3g",
+  "source": {
+    "type": "holodex",
+    "url": "https://holodex.net/watch/U-Cs4R1yM3g"
+  },
+  "discoveredAt": "2026-09-24",
+  "notes": [
+    "User identified this broadcast as the oldest broadcast introduced in the Holodex record.",
+    "Title, date, availability, set list, and timestamps remain unverified."
+  ],
+  "performances": []
+}
