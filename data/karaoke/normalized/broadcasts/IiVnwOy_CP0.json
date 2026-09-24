@@ -1,0 +1,214 @@
+{
+  "broadcast": {
+    "id": "IiVnwOy_CP0",
+    "title": "【縦型歌枠】ちょっぴりとおしゃれな曲を歌いたい気持ち【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+    "date": "2024-05-08",
+    "youtubeUrl": "https://youtube.com/watch?v=IiVnwOy_CP0",
+    "broadcastUrl": "https://youtube.com/watch?v=IiVnwOy_CP0",
+    "sources": [
+      "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+    ],
+    "status": "source-confirmed"
+  },
+  "performances": [
+    {
+      "id": "IiVnwOy_CP0-01",
+      "broadcastId": "IiVnwOy_CP0",
+      "date": "2024-05-08",
+      "order": 1,
+      "title": "花になって",
+      "normalizedTitle": "花になって",
+      "artist": "緑黄色社会",
+      "timestamp": "4:56",
+      "timestampSeconds": 296,
+      "sourceUrl": "https://youtube.com/watch?v=IiVnwOy_CP0&t=296s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "IiVnwOy_CP0-02",
+      "broadcastId": "IiVnwOy_CP0",
+      "date": "2024-05-08",
+      "order": 2,
+      "title": "鬼ノ宴",
+      "normalizedTitle": "鬼ノ宴",
+      "artist": "友成空",
+      "timestamp": "11:31",
+      "timestampSeconds": 691,
+      "sourceUrl": "https://youtube.com/watch?v=IiVnwOy_CP0&t=691s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "IiVnwOy_CP0-03",
+      "broadcastId": "IiVnwOy_CP0",
+      "date": "2024-05-08",
+      "order": 3,
+      "title": "Deal with the devil",
+      "normalizedTitle": "Deal with the devil",
+      "artist": "Tia",
+      "timestamp": "17:19",
+      "timestampSeconds": 1039,
+      "sourceUrl": "https://youtube.com/watch?v=IiVnwOy_CP0&t=1039s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "IiVnwOy_CP0-04",
+      "broadcastId": "IiVnwOy_CP0",
+      "date": "2024-05-08",
+      "order": 4,
+      "title": "ゴシップ",
+      "normalizedTitle": "ゴシップ",
+      "artist": "OSTER project",
+      "timestamp": "23:41",
+      "timestampSeconds": 1421,
+      "sourceUrl": "https://youtube.com/watch?v=IiVnwOy_CP0&t=1421s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "IiVnwOy_CP0-05",
+      "broadcastId": "IiVnwOy_CP0",
+      "date": "2024-05-08",
+      "order": 5,
+      "title": "ワンルーム・オール・ザット・ジャズ",
+      "normalizedTitle": "ワンルーム・オール・ザット・ジャズ",
+      "artist": "DATEKEN",
+      "timestamp": "31:21",
+      "timestampSeconds": 1881,
+      "sourceUrl": "https://youtube.com/watch?v=IiVnwOy_CP0&t=1881s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "IiVnwOy_CP0-06",
+      "broadcastId": "IiVnwOy_CP0",
+      "date": "2024-05-08",
+      "order": 6,
+      "title": "ビビデバ",
+      "normalizedTitle": "ビビデバ",
+      "artist": "星街すいせい",
+      "timestamp": "36:55",
+      "timestampSeconds": 2215,
+      "sourceUrl": "https://youtube.com/watch?v=IiVnwOy_CP0&t=2215s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "IiVnwOy_CP0-07",
+      "broadcastId": "IiVnwOy_CP0",
+      "date": "2024-05-08",
+      "order": 7,
+      "title": "キャラクター",
+      "normalizedTitle": "キャラクター",
+      "artist": "緑黄色社会",
+      "timestamp": "41:17",
+      "timestampSeconds": 2477,
+      "sourceUrl": "https://youtube.com/watch?v=IiVnwOy_CP0&t=2477s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "IiVnwOy_CP0-08",
+      "broadcastId": "IiVnwOy_CP0",
+      "date": "2024-05-08",
+      "order": 8,
+      "title": "相思相愛",
+      "normalizedTitle": "相思相愛",
+      "artist": "aiko",
+      "timestamp": "47:02",
+      "timestampSeconds": 2822,
+      "sourceUrl": "https://youtube.com/watch?v=IiVnwOy_CP0&t=2822s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "IiVnwOy_CP0-09",
+      "broadcastId": "IiVnwOy_CP0",
+      "date": "2024-05-08",
+      "order": 9,
+      "title": "女の子は誰でも",
+      "normalizedTitle": "女の子は誰でも",
+      "artist": "東京事変",
+      "timestamp": "54:18",
+      "timestampSeconds": 3258,
+      "sourceUrl": "https://youtube.com/watch?v=IiVnwOy_CP0&t=3258s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    }
+  ]
+}
+
