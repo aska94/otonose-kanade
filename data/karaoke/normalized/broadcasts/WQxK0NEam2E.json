@@ -1,0 +1,214 @@
+{
+  "broadcast": {
+    "id": "WQxK0NEam2E",
+    "title": "【歌枠】うたうたう♪【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+    "date": "2024-02-07",
+    "youtubeUrl": "https://youtube.com/watch?v=WQxK0NEam2E",
+    "broadcastUrl": "https://youtube.com/watch?v=WQxK0NEam2E",
+    "sources": [
+      "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+    ],
+    "status": "source-confirmed"
+  },
+  "performances": [
+    {
+      "id": "WQxK0NEam2E-01",
+      "broadcastId": "WQxK0NEam2E",
+      "date": "2024-02-07",
+      "order": 1,
+      "title": "小夜子",
+      "normalizedTitle": "小夜子",
+      "artist": "みきとP",
+      "timestamp": "3:17",
+      "timestampSeconds": 197,
+      "sourceUrl": "https://youtube.com/watch?v=WQxK0NEam2E&t=197s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "WQxK0NEam2E-02",
+      "broadcastId": "WQxK0NEam2E",
+      "date": "2024-02-07",
+      "order": 2,
+      "title": "きゅうくらりん",
+      "normalizedTitle": "きゅうくらりん",
+      "artist": "いよわ",
+      "timestamp": "8:54",
+      "timestampSeconds": 534,
+      "sourceUrl": "https://youtube.com/watch?v=WQxK0NEam2E&t=534s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "WQxK0NEam2E-03",
+      "broadcastId": "WQxK0NEam2E",
+      "date": "2024-02-07",
+      "order": 3,
+      "title": "メランコリック",
+      "normalizedTitle": "メランコリック",
+      "artist": "Junky",
+      "timestamp": "15:54",
+      "timestampSeconds": 954,
+      "sourceUrl": "https://youtube.com/watch?v=WQxK0NEam2E&t=954s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "WQxK0NEam2E-04",
+      "broadcastId": "WQxK0NEam2E",
+      "date": "2024-02-07",
+      "order": 4,
+      "title": "夜に駆ける",
+      "normalizedTitle": "夜に駆ける",
+      "artist": "YOASOBI",
+      "timestamp": "21:16",
+      "timestampSeconds": 1276,
+      "sourceUrl": "https://youtube.com/watch?v=WQxK0NEam2E&t=1276s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "WQxK0NEam2E-05",
+      "broadcastId": "WQxK0NEam2E",
+      "date": "2024-02-07",
+      "order": 5,
+      "title": "光るなら",
+      "normalizedTitle": "光るなら",
+      "artist": "Goose house",
+      "timestamp": "27:09",
+      "timestampSeconds": 1629,
+      "sourceUrl": "https://youtube.com/watch?v=WQxK0NEam2E&t=1629s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "WQxK0NEam2E-06",
+      "broadcastId": "WQxK0NEam2E",
+      "date": "2024-02-07",
+      "order": 6,
+      "title": "ソワレ",
+      "normalizedTitle": "ソワレ",
+      "artist": "星街すいせい",
+      "timestamp": "32:22",
+      "timestampSeconds": 1942,
+      "sourceUrl": "https://youtube.com/watch?v=WQxK0NEam2E&t=1942s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "WQxK0NEam2E-07",
+      "broadcastId": "WQxK0NEam2E",
+      "date": "2024-02-07",
+      "order": 7,
+      "title": "花になって",
+      "normalizedTitle": "花になって",
+      "artist": "緑黄色社会",
+      "timestamp": "37:40",
+      "timestampSeconds": 2260,
+      "sourceUrl": "https://youtube.com/watch?v=WQxK0NEam2E&t=2260s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "WQxK0NEam2E-08",
+      "broadcastId": "WQxK0NEam2E",
+      "date": "2024-02-07",
+      "order": 8,
+      "title": "愛包ダンスホール",
+      "normalizedTitle": "愛包ダンスホール",
+      "artist": "HIMEHINA",
+      "timestamp": "44:04",
+      "timestampSeconds": 2644,
+      "sourceUrl": "https://youtube.com/watch?v=WQxK0NEam2E&t=2644s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "WQxK0NEam2E-09",
+      "broadcastId": "WQxK0NEam2E",
+      "date": "2024-02-07",
+      "order": 9,
+      "title": "命に嫌われている。",
+      "normalizedTitle": "命に嫌われている。",
+      "artist": "カンザキイオリ",
+      "timestamp": "49:47",
+      "timestampSeconds": 2987,
+      "sourceUrl": "https://youtube.com/watch?v=WQxK0NEam2E&t=2987s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    }
+  ]
+}
+
