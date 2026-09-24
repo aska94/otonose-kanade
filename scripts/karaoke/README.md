@@ -4,11 +4,15 @@
 
     python scripts/karaoke/parse_setlist_index_local.py data/karaoke/raw/setlist-index/latest.html
 
-이 명령은 다음 파일을 생성합니다.
+이 명령은 방송별 파일과 인덱스를 생성합니다.
 
-- `data/karaoke/normalized/broadcasts.json`
-- `data/karaoke/normalized/performances.json`
+- `data/karaoke/normalized/broadcasts/<video-id>.json`
+- `data/karaoke/normalized/index.json`
 - `data/karaoke/source-metadata/setlist-index.json`
+
+배포용 aggregate는 다음 명령으로 생성합니다.
+
+    python scripts/karaoke/build_site_data.py --input-dir data/karaoke/normalized/broadcasts --output-dir data/karaoke/build
 
 검증:
 
