@@ -11,3 +11,7 @@ generated/
 *.swp
 Thumbs.db
 Desktop.ini
+
+# Local-only Setlist Index snapshots
+data/karaoke/raw/setlist-index/*.html
+data/karaoke/raw/setlist-index/*.htm
