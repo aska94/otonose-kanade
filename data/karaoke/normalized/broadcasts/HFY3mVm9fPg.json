@@ -1,0 +1,170 @@
+{
+  "broadcast": {
+    "id": "HFY3mVm9fPg",
+    "title": "【歌枠 / Singing】11月になったね【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+    "date": "2023-11-01",
+    "youtubeUrl": "https://youtube.com/watch?v=HFY3mVm9fPg",
+    "broadcastUrl": "https://youtube.com/watch?v=HFY3mVm9fPg",
+    "sources": [
+      "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+    ],
+    "status": "source-confirmed"
+  },
+  "performances": [
+    {
+      "id": "HFY3mVm9fPg-01",
+      "broadcastId": "HFY3mVm9fPg",
+      "date": "2023-11-01",
+      "order": 1,
+      "title": "花に亡霊",
+      "normalizedTitle": "花に亡霊",
+      "artist": "ヨルシカ",
+      "timestamp": "4:41",
+      "timestampSeconds": 281,
+      "sourceUrl": "https://youtube.com/watch?v=HFY3mVm9fPg&t=281s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "HFY3mVm9fPg-02",
+      "broadcastId": "HFY3mVm9fPg",
+      "date": "2023-11-01",
+      "order": 2,
+      "title": "青のすみか",
+      "normalizedTitle": "青のすみか",
+      "artist": "キタニタツヤ",
+      "timestamp": "12:27",
+      "timestampSeconds": 747,
+      "sourceUrl": "https://youtube.com/watch?v=HFY3mVm9fPg&t=747s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "HFY3mVm9fPg-03",
+      "broadcastId": "HFY3mVm9fPg",
+      "date": "2023-11-01",
+      "order": 3,
+      "title": "勘冴えて悔しいわ",
+      "normalizedTitle": "勘冴えて悔しいわ",
+      "artist": "ずっと真夜中でいいのに。",
+      "timestamp": "20:37",
+      "timestampSeconds": 1237,
+      "sourceUrl": "https://youtube.com/watch?v=HFY3mVm9fPg&t=1237s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "HFY3mVm9fPg-04",
+      "broadcastId": "HFY3mVm9fPg",
+      "date": "2023-11-01",
+      "order": 4,
+      "title": "Mela!",
+      "normalizedTitle": "Mela!",
+      "artist": "緑黄色社会",
+      "timestamp": "26:54",
+      "timestampSeconds": 1614,
+      "sourceUrl": "https://youtube.com/watch?v=HFY3mVm9fPg&t=1614s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "HFY3mVm9fPg-05",
+      "broadcastId": "HFY3mVm9fPg",
+      "date": "2023-11-01",
+      "order": 5,
+      "title": "Pretender",
+      "normalizedTitle": "Pretender",
+      "artist": "Official髭男dism",
+      "timestamp": "41:00",
+      "timestampSeconds": 2460,
+      "sourceUrl": "https://youtube.com/watch?v=HFY3mVm9fPg&t=2460s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "HFY3mVm9fPg-06",
+      "broadcastId": "HFY3mVm9fPg",
+      "date": "2023-11-01",
+      "order": 6,
+      "title": "Secret Base",
+      "normalizedTitle": "Secret Base",
+      "artist": "",
+      "timestamp": "47:31",
+      "timestampSeconds": 2851,
+      "sourceUrl": "https://youtube.com/watch?v=HFY3mVm9fPg&t=2851s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "HFY3mVm9fPg-07",
+      "broadcastId": "HFY3mVm9fPg",
+      "date": "2023-11-01",
+      "order": 7,
+      "title": "なんでもないや",
+      "normalizedTitle": "なんでもないや",
+      "artist": "RADWIMPS",
+      "timestamp": "53:54",
+      "timestampSeconds": 3234,
+      "sourceUrl": "https://youtube.com/watch?v=HFY3mVm9fPg&t=3234s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    }
+  ]
+}
+
