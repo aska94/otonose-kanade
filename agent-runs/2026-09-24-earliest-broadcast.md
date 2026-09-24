@@ -5,13 +5,11 @@
 - Source: https://setlist.kibunya.org/channel/@OtonoseKanade/
 - Broadcast: 1
 - Performance rows: 10
-- Source-confirmed song rows: 9
-- Needs review: 1 (おまけ)
+- Source-confirmed song rows: 10
+- Structurally unresolved rows: 0
 - Original-song mappings: not added
-- Holodex comment verification: pending
-- Direct video timeline verification: pending
 - Raw source uploaded: no
 
 ## Result
 
-The broadcast and performance rows were added to the normalized catalogue. Artist labels were retained only where supplied by the source. No original-song URL or genre/mood tag was invented.
+The broadcast and all performance rows were added to the normalized catalogue from Setlist Index. Artist labels and the source-provided extra segment were retained as displayed. No original-song URL or genre/mood tag was invented.
