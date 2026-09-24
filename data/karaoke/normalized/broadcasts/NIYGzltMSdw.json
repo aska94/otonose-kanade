@@ -1,0 +1,324 @@
+{
+  "broadcast": {
+    "id": "NIYGzltMSdw",
+    "title": "【歌枠 / Singing】おしとやかな歌枠【音乃瀬奏】",
+    "date": "2023-09-20",
+    "youtubeUrl": "https://youtube.com/watch?v=NIYGzltMSdw",
+    "broadcastUrl": "https://youtube.com/watch?v=NIYGzltMSdw",
+    "sources": [
+      "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+    ],
+    "status": "source-confirmed"
+  },
+  "performances": [
+    {
+      "id": "NIYGzltMSdw-01",
+      "broadcastId": "NIYGzltMSdw",
+      "date": "2023-09-20",
+      "order": 1,
+      "title": "ドライフラワー",
+      "normalizedTitle": "ドライフラワー",
+      "artist": "優里",
+      "timestamp": "3:45",
+      "timestampSeconds": 225,
+      "sourceUrl": "https://youtube.com/watch?v=NIYGzltMSdw&t=225s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "NIYGzltMSdw-02",
+      "broadcastId": "NIYGzltMSdw",
+      "date": "2023-09-20",
+      "order": 2,
+      "title": "カタオモイ",
+      "normalizedTitle": "カタオモイ",
+      "artist": "Aimer",
+      "timestamp": "13:45",
+      "timestampSeconds": 825,
+      "sourceUrl": "https://youtube.com/watch?v=NIYGzltMSdw&t=825s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "NIYGzltMSdw-03",
+      "broadcastId": "NIYGzltMSdw",
+      "date": "2023-09-20",
+      "order": 3,
+      "title": "別の人の彼女になったよ",
+      "normalizedTitle": "別の人の彼女になったよ",
+      "artist": "wacci",
+      "timestamp": "19:25",
+      "timestampSeconds": 1165,
+      "sourceUrl": "https://youtube.com/watch?v=NIYGzltMSdw&t=1165s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "NIYGzltMSdw-04",
+      "broadcastId": "NIYGzltMSdw",
+      "date": "2023-09-20",
+      "order": 4,
+      "title": "Makka",
+      "normalizedTitle": "Makka",
+      "artist": "ゆよゆっぺ",
+      "timestamp": "28:31",
+      "timestampSeconds": 1711,
+      "sourceUrl": "https://youtube.com/watch?v=NIYGzltMSdw&t=1711s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "NIYGzltMSdw-05",
+      "broadcastId": "NIYGzltMSdw",
+      "date": "2023-09-20",
+      "order": 5,
+      "title": "真赤",
+      "normalizedTitle": "真赤",
+      "artist": "My Hair is Bad",
+      "timestamp": "28:31",
+      "timestampSeconds": 1711,
+      "sourceUrl": "https://youtube.com/watch?v=NIYGzltMSdw&t=1711s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "NIYGzltMSdw-06",
+      "broadcastId": "NIYGzltMSdw",
+      "date": "2023-09-20",
+      "order": 6,
+      "title": "瞬き",
+      "normalizedTitle": "瞬き",
+      "artist": "back number",
+      "timestamp": "36:11",
+      "timestampSeconds": 2171,
+      "sourceUrl": "https://youtube.com/watch?v=NIYGzltMSdw&t=2171s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "NIYGzltMSdw-07",
+      "broadcastId": "NIYGzltMSdw",
+      "date": "2023-09-20",
+      "order": 7,
+      "title": "ニア",
+      "normalizedTitle": "ニア",
+      "artist": "夏代孝明",
+      "timestamp": "44:26",
+      "timestampSeconds": 2666,
+      "sourceUrl": "https://youtube.com/watch?v=NIYGzltMSdw&t=2666s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "NIYGzltMSdw-08",
+      "broadcastId": "NIYGzltMSdw",
+      "date": "2023-09-20",
+      "order": 8,
+      "title": "アイネクライネ",
+      "normalizedTitle": "アイネクライネ",
+      "artist": "米津玄師",
+      "timestamp": "56:55",
+      "timestampSeconds": 3415,
+      "sourceUrl": "https://youtube.com/watch?v=NIYGzltMSdw&t=3415s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "NIYGzltMSdw-09",
+      "broadcastId": "NIYGzltMSdw",
+      "date": "2023-09-20",
+      "order": 9,
+      "title": "アイネクライネ",
+      "normalizedTitle": "アイネクライネ",
+      "artist": "米津玄師",
+      "timestamp": "57:32",
+      "timestampSeconds": 3452,
+      "sourceUrl": "https://youtube.com/watch?v=NIYGzltMSdw&t=3452s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "NIYGzltMSdw-10",
+      "broadcastId": "NIYGzltMSdw",
+      "date": "2023-09-20",
+      "order": 10,
+      "title": "雨とカプチーノ",
+      "normalizedTitle": "雨とカプチーノ",
+      "artist": "ヨルシカ",
+      "timestamp": "1:08:00",
+      "timestampSeconds": 4080,
+      "sourceUrl": "https://youtube.com/watch?v=NIYGzltMSdw&t=4080s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "NIYGzltMSdw-11",
+      "broadcastId": "NIYGzltMSdw",
+      "date": "2023-09-20",
+      "order": 11,
+      "title": "That's Why I Gave Up on Music",
+      "normalizedTitle": "That's Why I Gave Up on Music",
+      "artist": "Rachie",
+      "timestamp": "1:14:05",
+      "timestampSeconds": 4445,
+      "sourceUrl": "https://youtube.com/watch?v=NIYGzltMSdw&t=4445s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "NIYGzltMSdw-12",
+      "broadcastId": "NIYGzltMSdw",
+      "date": "2023-09-20",
+      "order": 12,
+      "title": "だから僕は音楽を辞めた",
+      "normalizedTitle": "だから僕は音楽を辞めた",
+      "artist": "ヨルシカ",
+      "timestamp": "1:14:05",
+      "timestampSeconds": 4445,
+      "sourceUrl": "https://youtube.com/watch?v=NIYGzltMSdw&t=4445s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "NIYGzltMSdw-13",
+      "broadcastId": "NIYGzltMSdw",
+      "date": "2023-09-20",
+      "order": 13,
+      "title": "LOL",
+      "normalizedTitle": "LOL",
+      "artist": "",
+      "timestamp": "1:16:50",
+      "timestampSeconds": 4610,
+      "sourceUrl": "https://youtube.com/watch?v=NIYGzltMSdw&t=4610s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "NIYGzltMSdw-14",
+      "broadcastId": "NIYGzltMSdw",
+      "date": "2023-09-20",
+      "order": 14,
+      "title": "So Cute",
+      "normalizedTitle": "So Cute",
+      "artist": "",
+      "timestamp": "1:18:25",
+      "timestampSeconds": 4705,
+      "sourceUrl": "https://youtube.com/watch?v=NIYGzltMSdw&t=4705s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    }
+  ]
+}
+
