@@ -1,6 +1,3 @@
-Warning: truncated output (original token count: 9596)
-Total output lines: 1248
-
 {
   "broadcast": {
     "id": "BJCv-gDPdzQ",
@@ -525,7 +522,210 @@ Total output lines: 1248
       "broadcastId": "BJCv-gDPdzQ",
       "date": "2025-08-28",
       "order": 24,
-      …1596 tokens truncated…s",
+      "title": "月光",
+      "normalizedTitle": "月光",
+      "artist": "はるまきごはん×キタニタツヤ",
+      "timestamp": "56:05",
+      "timestampSeconds": 3365,
+      "sourceUrl": "https://youtube.com/watch?v=BJCv-gDPdzQ&t=3365s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "BJCv-gDPdzQ-25",
+      "broadcastId": "BJCv-gDPdzQ",
+      "date": "2025-08-28",
+      "order": 25,
+      "title": "佐賀事変",
+      "normalizedTitle": "佐賀事変",
+      "artist": "フランシュシュ",
+      "timestamp": "1:00:43",
+      "timestampSeconds": 3643,
+      "sourceUrl": "https://youtube.com/watch?v=BJCv-gDPdzQ&t=3643s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "BJCv-gDPdzQ-26",
+      "broadcastId": "BJCv-gDPdzQ",
+      "date": "2025-08-28",
+      "order": 26,
+      "title": "すいちゃん先輩と3期生の先輩達のカバーでめちゃくちゃ聞いてたから...",
+      "normalizedTitle": "すいちゃん先輩と3期生の先輩達のカバーでめちゃくちゃ聞いてたから...",
+      "artist": "",
+      "timestamp": "1:04:35",
+      "timestampSeconds": 3875,
+      "sourceUrl": "https://youtube.com/watch?v=BJCv-gDPdzQ&t=3875s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "BJCv-gDPdzQ-27",
+      "broadcastId": "BJCv-gDPdzQ",
+      "date": "2025-08-28",
+      "order": 27,
+      "title": "さがじへん",
+      "normalizedTitle": "さがじへん",
+      "artist": "",
+      "timestamp": "1:05:11",
+      "timestampSeconds": 3911,
+      "sourceUrl": "https://youtube.com/watch?v=BJCv-gDPdzQ&t=3911s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "BJCv-gDPdzQ-28",
+      "broadcastId": "BJCv-gDPdzQ",
+      "date": "2025-08-28",
+      "order": 28,
+      "title": "Mixed Nuts",
+      "normalizedTitle": "Mixed Nuts",
+      "artist": "Martin Gratton",
+      "timestamp": "1:06:35",
+      "timestampSeconds": 3995,
+      "sourceUrl": "https://youtube.com/watch?v=BJCv-gDPdzQ&t=3995s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "BJCv-gDPdzQ-29",
+      "broadcastId": "BJCv-gDPdzQ",
+      "date": "2025-08-28",
+      "order": 29,
+      "title": "ミックスナッツ",
+      "normalizedTitle": "ミックスナッツ",
+      "artist": "Official髭男dism",
+      "timestamp": "1:06:35",
+      "timestampSeconds": 3995,
+      "sourceUrl": "https://youtube.com/watch?v=BJCv-gDPdzQ&t=3995s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "BJCv-gDPdzQ-30",
+      "broadcastId": "BJCv-gDPdzQ",
+      "date": "2025-08-28",
+      "order": 30,
+      "title": "スターマイン",
+      "normalizedTitle": "スターマイン",
+      "artist": "",
+      "timestamp": "1:12:45",
+      "timestampSeconds": 4365,
+      "sourceUrl": "https://youtube.com/watch?v=BJCv-gDPdzQ&t=4365s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "BJCv-gDPdzQ-31",
+      "broadcastId": "BJCv-gDPdzQ",
+      "date": "2025-08-28",
+      "order": 31,
+      "title": "Star-mine",
+      "normalizedTitle": "Star-mine",
+      "artist": "",
+      "timestamp": "1:13:21",
+      "timestampSeconds": 4401,
+      "sourceUrl": "https://youtube.com/watch?v=BJCv-gDPdzQ&t=4401s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "BJCv-gDPdzQ-32",
+      "broadcastId": "BJCv-gDPdzQ",
+      "date": "2025-08-28",
+      "order": 32,
+      "title": "スターマイン",
+      "normalizedTitle": "スターマイン",
+      "artist": "",
+      "timestamp": "1:13:21",
+      "timestampSeconds": 4401,
+      "sourceUrl": "https://youtube.com/watch?v=BJCv-gDPdzQ&t=4401s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "BJCv-gDPdzQ-33",
+      "broadcastId": "BJCv-gDPdzQ",
+      "date": "2025-08-28",
+      "order": 33,
+      "title": "原キー高い",
+      "normalizedTitle": "原キー高い",
+      "artist": "",
+      "timestamp": "1:17:03",
+      "timestampSeconds": 4623,
+      "sourceUrl": "https://youtube.com/watch?v=BJCv-gDPdzQ&t=4623s",
       "sources": [
         "https://setlist.kibunya.org/channel/@OtonoseKanade/"
       ],
@@ -1045,4 +1245,3 @@ Total output lines: 1248
     }
   ]
 }
-
