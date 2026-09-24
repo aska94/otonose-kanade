@@ -1,0 +1,126 @@
+{
+  "broadcast": {
+    "id": "0O36pmT9TBw",
+    "title": "【 #ReGLOSS歌枠リレー 】最後まで楽しんでいこう！歌います！✨【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+    "date": "2024-05-05",
+    "youtubeUrl": "https://youtube.com/watch?v=0O36pmT9TBw",
+    "broadcastUrl": "https://youtube.com/watch?v=0O36pmT9TBw",
+    "sources": [
+      "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+    ],
+    "status": "source-confirmed"
+  },
+  "performances": [
+    {
+      "id": "0O36pmT9TBw-01",
+      "broadcastId": "0O36pmT9TBw",
+      "date": "2024-05-05",
+      "order": 1,
+      "title": "カワキヲアメク",
+      "normalizedTitle": "カワキヲアメク",
+      "artist": "美波",
+      "timestamp": "2:50",
+      "timestampSeconds": 170,
+      "sourceUrl": "https://youtube.com/watch?v=0O36pmT9TBw&t=170s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "0O36pmT9TBw-02",
+      "broadcastId": "0O36pmT9TBw",
+      "date": "2024-05-05",
+      "order": 2,
+      "title": "幾億光年",
+      "normalizedTitle": "幾億光年",
+      "artist": "Omoinotake",
+      "timestamp": "10:51",
+      "timestampSeconds": 651,
+      "sourceUrl": "https://youtube.com/watch?v=0O36pmT9TBw&t=651s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "0O36pmT9TBw-03",
+      "broadcastId": "0O36pmT9TBw",
+      "date": "2024-05-05",
+      "order": 3,
+      "title": "人生は夢だらけ",
+      "normalizedTitle": "人生は夢だらけ",
+      "artist": "椎名林檎",
+      "timestamp": "19:04",
+      "timestampSeconds": 1144,
+      "sourceUrl": "https://youtube.com/watch?v=0O36pmT9TBw&t=1144s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "0O36pmT9TBw-04",
+      "broadcastId": "0O36pmT9TBw",
+      "date": "2024-05-05",
+      "order": 4,
+      "title": "Answer",
+      "normalizedTitle": "Answer",
+      "artist": "幾田りら",
+      "timestamp": "25:21",
+      "timestampSeconds": 1521,
+      "sourceUrl": "https://youtube.com/watch?v=0O36pmT9TBw&t=1521s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "0O36pmT9TBw-05",
+      "broadcastId": "0O36pmT9TBw",
+      "date": "2024-05-05",
+      "order": 5,
+      "title": "シンメトリー",
+      "normalizedTitle": "シンメトリー",
+      "artist": "ReGLOSS",
+      "timestamp": "30:22",
+      "timestampSeconds": 1822,
+      "sourceUrl": "https://youtube.com/watch?v=0O36pmT9TBw&t=1822s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    }
+  ]
+}
+
