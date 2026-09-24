@@ -1,0 +1,302 @@
+{
+  "broadcast": {
+    "id": "E5_kcFeb4w8",
+    "title": "【歌枠 / Singing】収録用マイクで歌います【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+    "date": "2023-11-08",
+    "youtubeUrl": "https://youtube.com/watch?v=E5_kcFeb4w8",
+    "broadcastUrl": "https://youtube.com/watch?v=E5_kcFeb4w8",
+    "sources": [
+      "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+    ],
+    "status": "source-confirmed"
+  },
+  "performances": [
+    {
+      "id": "E5_kcFeb4w8-01",
+      "broadcastId": "E5_kcFeb4w8",
+      "date": "2023-11-08",
+      "order": 1,
+      "title": "天体観測",
+      "normalizedTitle": "天体観測",
+      "artist": "BUMP OF CHICKEN",
+      "timestamp": "4:09",
+      "timestampSeconds": 249,
+      "sourceUrl": "https://youtube.com/watch?v=E5_kcFeb4w8&t=249s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "E5_kcFeb4w8-02",
+      "broadcastId": "E5_kcFeb4w8",
+      "date": "2023-11-08",
+      "order": 2,
+      "title": "星座になれたら",
+      "normalizedTitle": "星座になれたら",
+      "artist": "結束バンド",
+      "timestamp": "10:53",
+      "timestampSeconds": 653,
+      "sourceUrl": "https://youtube.com/watch?v=E5_kcFeb4w8&t=653s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "E5_kcFeb4w8-03",
+      "broadcastId": "E5_kcFeb4w8",
+      "date": "2023-11-08",
+      "order": 3,
+      "title": "星座になれたら",
+      "normalizedTitle": "星座になれたら",
+      "artist": "ヒグチアイ / 内藤英雅",
+      "timestamp": "11:53",
+      "timestampSeconds": 713,
+      "sourceUrl": "https://youtube.com/watch?v=E5_kcFeb4w8&t=713s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "E5_kcFeb4w8-04",
+      "broadcastId": "E5_kcFeb4w8",
+      "date": "2023-11-08",
+      "order": 4,
+      "title": "夜に駆ける",
+      "normalizedTitle": "夜に駆ける",
+      "artist": "YOASOBI",
+      "timestamp": "17:43",
+      "timestampSeconds": 1063,
+      "sourceUrl": "https://youtube.com/watch?v=E5_kcFeb4w8&t=1063s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "E5_kcFeb4w8-05",
+      "broadcastId": "E5_kcFeb4w8",
+      "date": "2023-11-08",
+      "order": 5,
+      "title": "夜に駆ける",
+      "normalizedTitle": "夜に駆ける",
+      "artist": "YOASOBI",
+      "timestamp": "22:48",
+      "timestampSeconds": 1368,
+      "sourceUrl": "https://youtube.com/watch?v=E5_kcFeb4w8&t=1368s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "E5_kcFeb4w8-06",
+      "broadcastId": "E5_kcFeb4w8",
+      "date": "2023-11-08",
+      "order": 6,
+      "title": "orion",
+      "normalizedTitle": "orion",
+      "artist": "米津玄師",
+      "timestamp": "24:08",
+      "timestampSeconds": 1448,
+      "sourceUrl": "https://youtube.com/watch?v=E5_kcFeb4w8&t=1448s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "E5_kcFeb4w8-07",
+      "broadcastId": "E5_kcFeb4w8",
+      "date": "2023-11-08",
+      "order": 7,
+      "title": "ステラ",
+      "normalizedTitle": "ステラ",
+      "artist": "Leo",
+      "timestamp": "30:30",
+      "timestampSeconds": 1830,
+      "sourceUrl": "https://youtube.com/watch?v=E5_kcFeb4w8&t=1830s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "E5_kcFeb4w8-08",
+      "broadcastId": "E5_kcFeb4w8",
+      "date": "2023-11-08",
+      "order": 8,
+      "title": "Stellar Stellar",
+      "normalizedTitle": "Stellar Stellar",
+      "artist": "星街すいせい",
+      "timestamp": "35:03",
+      "timestampSeconds": 2103,
+      "sourceUrl": "https://youtube.com/watch?v=E5_kcFeb4w8&t=2103s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "E5_kcFeb4w8-09",
+      "broadcastId": "E5_kcFeb4w8",
+      "date": "2023-11-08",
+      "order": 9,
+      "title": "ノーチラス",
+      "normalizedTitle": "ノーチラス",
+      "artist": "ヨルシカ",
+      "timestamp": "36:04",
+      "timestampSeconds": 2164,
+      "sourceUrl": "https://youtube.com/watch?v=E5_kcFeb4w8&t=2164s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "E5_kcFeb4w8-10",
+      "broadcastId": "E5_kcFeb4w8",
+      "date": "2023-11-08",
+      "order": 10,
+      "title": "夜明けと蛍",
+      "normalizedTitle": "夜明けと蛍",
+      "artist": "n-buna feat. 初音ミク",
+      "timestamp": "42:09",
+      "timestampSeconds": 2529,
+      "sourceUrl": "https://youtube.com/watch?v=E5_kcFeb4w8&t=2529s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "E5_kcFeb4w8-11",
+      "broadcastId": "E5_kcFeb4w8",
+      "date": "2023-11-08",
+      "order": 11,
+      "title": "なんでもないや",
+      "normalizedTitle": "なんでもないや",
+      "artist": "RADWIMPS",
+      "timestamp": "49:44",
+      "timestampSeconds": 2984,
+      "sourceUrl": "https://youtube.com/watch?v=E5_kcFeb4w8&t=2984s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "E5_kcFeb4w8-12",
+      "broadcastId": "E5_kcFeb4w8",
+      "date": "2023-11-08",
+      "order": 12,
+      "title": "Stay Alive",
+      "normalizedTitle": "Stay Alive",
+      "artist": "高橋 李依",
+      "timestamp": "56:26",
+      "timestampSeconds": 3386,
+      "sourceUrl": "https://youtube.com/watch?v=E5_kcFeb4w8&t=3386s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "E5_kcFeb4w8-13",
+      "broadcastId": "E5_kcFeb4w8",
+      "date": "2023-11-08",
+      "order": 13,
+      "title": "瞬間ハートビート",
+      "normalizedTitle": "瞬間ハートビート",
+      "artist": "ReGLOSS",
+      "timestamp": "1:01:43",
+      "timestampSeconds": 3703,
+      "sourceUrl": "https://youtube.com/watch?v=E5_kcFeb4w8&t=3703s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    }
+  ]
+}
+
