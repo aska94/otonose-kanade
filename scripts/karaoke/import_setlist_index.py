@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
 import re
 import sys
@@ -99,6 +100,7 @@ def main():
     parser.add_argument("--source-url", default=SOURCE_URL)
     parser.add_argument("--retrieved-at", default=None)
     parser.add_argument("--output-root", default="data/karaoke")
+    parser.add_argument("--metadata-output", default="data/karaoke/source-metadata/setlist-index.json")
     args = parser.parse_args()
 
     input_path = Path(args.input)
@@ -106,6 +108,7 @@ def main():
         raise FileNotFoundError(f"Local snapshot not found: {input_path}")
 
     retrieved_at = args.retrieved_at or datetime.now(timezone.utc).replace(microsecond=0).isoformat()
+    snapshot_sha256 = hashlib.sha256(input_path.read_bytes()).hexdigest()
     html = input_path.read_text(encoding="utf-8", errors="replace")
     parser_instance = SetlistParser(args.source_url)
     parser_instance.feed(html)
@@ -126,7 +129,7 @@ def main():
             "date": entry.get("date"),
             "videoUrl": entry.get("videoUrl"),
             "sources": [args.source_url],
-            "sourceSnapshot": str(input_path),
+            "sourceSnapshotName": input_path.name,
             "status": "source-confirmed",
             "retrievedAt": retrieved_at,
         })
@@ -138,9 +141,21 @@ def main():
                 "displayText": item["displayText"],
                 "timestampCandidate": item["timestampCandidate"],
                 "sourceUrl": item["sourceUrl"],
-                "sourceSnapshot": str(input_path),
+                "sourceSnapshotName": input_path.name,
                 "status": "source-confirmed",
             })
+
+    write_json(Path(args.metadata_output), {
+        "schemaVersion": 1,
+        "sourceUrl": args.source_url,
+        "retrievedAt": retrieved_at,
+        "localFilename": input_path.name,
+        "sha256": snapshot_sha256,
+        "parser": "scripts/karaoke/import_setlist_index.py",
+        "rawFileUploaded": False,
+        "broadcastCount": len(broadcasts),
+        "performanceCount": len(performances)
+    })
 
     write_json(root / "candidates" / "setlist-index-broadcasts.json", {
         "schemaVersion": 1,
