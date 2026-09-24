@@ -1,0 +1,236 @@
+{
+  "broadcast": {
+    "id": "pfgyOvyp600",
+    "title": "【 縦型歌枠 】ゆるゆる～と歌います【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+    "date": "2025-07-30",
+    "youtubeUrl": "https://youtube.com/watch?v=pfgyOvyp600",
+    "broadcastUrl": "https://youtube.com/watch?v=pfgyOvyp600",
+    "sources": [
+      "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+    ],
+    "status": "source-confirmed"
+  },
+  "performances": [
+    {
+      "id": "pfgyOvyp600-01",
+      "broadcastId": "pfgyOvyp600",
+      "date": "2025-07-30",
+      "order": 1,
+      "title": "はいよろこんで",
+      "normalizedTitle": "はいよろこんで",
+      "artist": "こっちのけんと",
+      "timestamp": "7:50",
+      "timestampSeconds": 470,
+      "sourceUrl": "https://youtube.com/watch?v=pfgyOvyp600&t=470s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "pfgyOvyp600-02",
+      "broadcastId": "pfgyOvyp600",
+      "date": "2025-07-30",
+      "order": 2,
+      "title": "Loveit?",
+      "normalizedTitle": "Loveit?",
+      "artist": "biz×ZERA feat.LOLUET",
+      "timestamp": "12:01",
+      "timestampSeconds": 721,
+      "sourceUrl": "https://youtube.com/watch?v=pfgyOvyp600&t=721s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "pfgyOvyp600-03",
+      "broadcastId": "pfgyOvyp600",
+      "date": "2025-07-30",
+      "order": 3,
+      "title": "ブルーアンバー",
+      "normalizedTitle": "ブルーアンバー",
+      "artist": "back number",
+      "timestamp": "16:52",
+      "timestampSeconds": 1012,
+      "sourceUrl": "https://youtube.com/watch?v=pfgyOvyp600&t=1012s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "pfgyOvyp600-04",
+      "broadcastId": "pfgyOvyp600",
+      "date": "2025-07-30",
+      "order": 4,
+      "title": "I I I",
+      "normalizedTitle": "I I I",
+      "artist": "宝鐘マリン＆Kobo Kanaeru",
+      "timestamp": "22:48",
+      "timestampSeconds": 1368,
+      "sourceUrl": "https://youtube.com/watch?v=pfgyOvyp600&t=1368s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "pfgyOvyp600-05",
+      "broadcastId": "pfgyOvyp600",
+      "date": "2025-07-30",
+      "order": 5,
+      "title": "Countach",
+      "normalizedTitle": "Countach",
+      "artist": "轟はじめ",
+      "timestamp": "29:02",
+      "timestampSeconds": 1742,
+      "sourceUrl": "https://youtube.com/watch?v=pfgyOvyp600&t=1742s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "pfgyOvyp600-06",
+      "broadcastId": "pfgyOvyp600",
+      "date": "2025-07-30",
+      "order": 6,
+      "title": "BANZAI",
+      "normalizedTitle": "BANZAI",
+      "artist": "轟はじめ",
+      "timestamp": "33:27",
+      "timestampSeconds": 2007,
+      "sourceUrl": "https://youtube.com/watch?v=pfgyOvyp600&t=2007s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "pfgyOvyp600-07",
+      "broadcastId": "pfgyOvyp600",
+      "date": "2025-07-30",
+      "order": 7,
+      "title": "LAKI MODE",
+      "normalizedTitle": "LAKI MODE",
+      "artist": "ReGLOSS",
+      "timestamp": "38:14",
+      "timestampSeconds": 2294,
+      "sourceUrl": "https://youtube.com/watch?v=pfgyOvyp600&t=2294s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "pfgyOvyp600-08",
+      "broadcastId": "pfgyOvyp600",
+      "date": "2025-07-30",
+      "order": 8,
+      "title": "G4L",
+      "normalizedTitle": "G4L",
+      "artist": "Giga",
+      "timestamp": "42:52",
+      "timestampSeconds": 2572,
+      "sourceUrl": "https://youtube.com/watch?v=pfgyOvyp600&t=2572s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "pfgyOvyp600-09",
+      "broadcastId": "pfgyOvyp600",
+      "date": "2025-07-30",
+      "order": 9,
+      "title": "トンデモワンダーズ",
+      "normalizedTitle": "トンデモワンダーズ",
+      "artist": "sasakure.UK",
+      "timestamp": "50:44",
+      "timestampSeconds": 3044,
+      "sourceUrl": "https://youtube.com/watch?v=pfgyOvyp600&t=3044s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "pfgyOvyp600-10",
+      "broadcastId": "pfgyOvyp600",
+      "date": "2025-07-30",
+      "order": 10,
+      "title": "Color Rise Harmony",
+      "normalizedTitle": "Color Rise Harmony",
+      "artist": "hololive IDOL PROJECT",
+      "timestamp": "54:56",
+      "timestampSeconds": 3296,
+      "sourceUrl": "https://youtube.com/watch?v=pfgyOvyp600&t=3296s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    }
+  ]
+}
+
