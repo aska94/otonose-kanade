@@ -1,0 +1,346 @@
+{
+  "broadcast": {
+    "id": "yi18oU52mgk",
+    "title": "【歌枠】おまえらのリクエストにこたえていく歌枠【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+    "date": "2024-01-24",
+    "youtubeUrl": "https://youtube.com/watch?v=yi18oU52mgk",
+    "broadcastUrl": "https://youtube.com/watch?v=yi18oU52mgk",
+    "sources": [
+      "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+    ],
+    "status": "source-confirmed"
+  },
+  "performances": [
+    {
+      "id": "yi18oU52mgk-01",
+      "broadcastId": "yi18oU52mgk",
+      "date": "2024-01-24",
+      "order": 1,
+      "title": "Subtitle",
+      "normalizedTitle": "Subtitle",
+      "artist": "Official髭男dism",
+      "timestamp": "4:21",
+      "timestampSeconds": 261,
+      "sourceUrl": "https://youtube.com/watch?v=yi18oU52mgk&t=261s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "yi18oU52mgk-02",
+      "broadcastId": "yi18oU52mgk",
+      "date": "2024-01-24",
+      "order": 2,
+      "title": "p.h.",
+      "normalizedTitle": "p.h.",
+      "artist": "SEVENTHLINKS feat.flower",
+      "timestamp": "12:36",
+      "timestampSeconds": 756,
+      "sourceUrl": "https://youtube.com/watch?v=yi18oU52mgk&t=756s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "yi18oU52mgk-03",
+      "broadcastId": "yi18oU52mgk",
+      "date": "2024-01-24",
+      "order": 3,
+      "title": "群青",
+      "normalizedTitle": "群青",
+      "artist": "YOASOBI",
+      "timestamp": "16:48",
+      "timestampSeconds": 1008,
+      "sourceUrl": "https://youtube.com/watch?v=yi18oU52mgk&t=1008s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "yi18oU52mgk-04",
+      "broadcastId": "yi18oU52mgk",
+      "date": "2024-01-24",
+      "order": 4,
+      "title": "雨とカプチーノ",
+      "normalizedTitle": "雨とカプチーノ",
+      "artist": "ヨルシカ",
+      "timestamp": "22:59",
+      "timestampSeconds": 1379,
+      "sourceUrl": "https://youtube.com/watch?v=yi18oU52mgk&t=1379s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "yi18oU52mgk-05",
+      "broadcastId": "yi18oU52mgk",
+      "date": "2024-01-24",
+      "order": 5,
+      "title": "Lemon",
+      "normalizedTitle": "Lemon",
+      "artist": "米津玄師",
+      "timestamp": "28:43",
+      "timestampSeconds": 1723,
+      "sourceUrl": "https://youtube.com/watch?v=yi18oU52mgk&t=1723s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "yi18oU52mgk-06",
+      "broadcastId": "yi18oU52mgk",
+      "date": "2024-01-24",
+      "order": 6,
+      "title": "Lemon",
+      "normalizedTitle": "Lemon",
+      "artist": "米津玄師",
+      "timestamp": "30:41",
+      "timestampSeconds": 1841,
+      "sourceUrl": "https://youtube.com/watch?v=yi18oU52mgk&t=1841s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "yi18oU52mgk-07",
+      "broadcastId": "yi18oU52mgk",
+      "date": "2024-01-24",
+      "order": 7,
+      "title": "四季ノ唄",
+      "normalizedTitle": "四季ノ唄",
+      "artist": "MINMI",
+      "timestamp": "36:10",
+      "timestampSeconds": 2170,
+      "sourceUrl": "https://youtube.com/watch?v=yi18oU52mgk&t=2170s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "yi18oU52mgk-08",
+      "broadcastId": "yi18oU52mgk",
+      "date": "2024-01-24",
+      "order": 8,
+      "title": "いろはすペットボトル、落ち着く奏",
+      "normalizedTitle": "いろはすペットボトル、落ち着く奏",
+      "artist": "",
+      "timestamp": "42:14",
+      "timestampSeconds": 2534,
+      "sourceUrl": "https://youtube.com/watch?v=yi18oU52mgk&t=2534s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "yi18oU52mgk-09",
+      "broadcastId": "yi18oU52mgk",
+      "date": "2024-01-24",
+      "order": 9,
+      "title": "ニア",
+      "normalizedTitle": "ニア",
+      "artist": "夏代孝明",
+      "timestamp": "43:19",
+      "timestampSeconds": 2599,
+      "sourceUrl": "https://youtube.com/watch?v=yi18oU52mgk&t=2599s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "yi18oU52mgk-10",
+      "broadcastId": "yi18oU52mgk",
+      "date": "2024-01-24",
+      "order": 10,
+      "title": "ホシアイ",
+      "normalizedTitle": "ホシアイ",
+      "artist": "",
+      "timestamp": "43:42",
+      "timestampSeconds": 2622,
+      "sourceUrl": "https://youtube.com/watch?v=yi18oU52mgk&t=2622s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "yi18oU52mgk-11",
+      "broadcastId": "yi18oU52mgk",
+      "date": "2024-01-24",
+      "order": 11,
+      "title": "Hoshi Ai",
+      "normalizedTitle": "Hoshi Ai",
+      "artist": "",
+      "timestamp": "48:42",
+      "timestampSeconds": 2922,
+      "sourceUrl": "https://youtube.com/watch?v=yi18oU52mgk&t=2922s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "yi18oU52mgk-12",
+      "broadcastId": "yi18oU52mgk",
+      "date": "2024-01-24",
+      "order": 12,
+      "title": "ホシアイ",
+      "normalizedTitle": "ホシアイ",
+      "artist": "",
+      "timestamp": "48:42",
+      "timestampSeconds": 2922,
+      "sourceUrl": "https://youtube.com/watch?v=yi18oU52mgk&t=2922s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "yi18oU52mgk-13",
+      "broadcastId": "yi18oU52mgk",
+      "date": "2024-01-24",
+      "order": 13,
+      "title": "シャルル",
+      "normalizedTitle": "シャルル",
+      "artist": "バルーン",
+      "timestamp": "58:16",
+      "timestampSeconds": 3496,
+      "sourceUrl": "https://youtube.com/watch?v=yi18oU52mgk&t=3496s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "yi18oU52mgk-14",
+      "broadcastId": "yi18oU52mgk",
+      "date": "2024-01-24",
+      "order": 14,
+      "title": "STONE OCEAN",
+      "normalizedTitle": "STONE OCEAN",
+      "artist": "ichigo from岸田教団&THE明星ロケッツ",
+      "timestamp": "1:03:37",
+      "timestampSeconds": 3817,
+      "sourceUrl": "https://youtube.com/watch?v=yi18oU52mgk&t=3817s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "yi18oU52mgk-15",
+      "broadcastId": "yi18oU52mgk",
+      "date": "2024-01-24",
+      "order": 15,
+      "title": "当事者",
+      "normalizedTitle": "当事者",
+      "artist": "EGOIST",
+      "timestamp": "1:08:32",
+      "timestampSeconds": 4112,
+      "sourceUrl": "https://youtube.com/watch?v=yi18oU52mgk&t=4112s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    }
+  ]
+}
+
