@@ -1,0 +1,544 @@
+{
+  "broadcast": {
+    "id": "nHu9HRo-wXM",
+    "title": "【 縦型歌枠 】リクエスト募集中！深夜のノリノリゲリラ歌枠【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+    "date": "2025-11-06",
+    "youtubeUrl": "https://youtube.com/watch?v=nHu9HRo-wXM",
+    "broadcastUrl": "https://youtube.com/watch?v=nHu9HRo-wXM",
+    "sources": [
+      "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+    ],
+    "status": "source-confirmed"
+  },
+  "performances": [
+    {
+      "id": "nHu9HRo-wXM-01",
+      "broadcastId": "nHu9HRo-wXM",
+      "date": "2025-11-06",
+      "order": 1,
+      "title": "ワールドイズマイン",
+      "normalizedTitle": "ワールドイズマイン",
+      "artist": "ryo",
+      "timestamp": "8:09",
+      "timestampSeconds": 489,
+      "sourceUrl": "https://youtube.com/watch?v=nHu9HRo-wXM&t=489s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "nHu9HRo-wXM-02",
+      "broadcastId": "nHu9HRo-wXM",
+      "date": "2025-11-06",
+      "order": 2,
+      "title": "Calc.",
+      "normalizedTitle": "Calc.",
+      "artist": "ジミーサムP",
+      "timestamp": "13:11",
+      "timestampSeconds": 791,
+      "sourceUrl": "https://youtube.com/watch?v=nHu9HRo-wXM&t=791s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "nHu9HRo-wXM-03",
+      "broadcastId": "nHu9HRo-wXM",
+      "date": "2025-11-06",
+      "order": 3,
+      "title": "あなたの夜が明けるまで",
+      "normalizedTitle": "あなたの夜が明けるまで",
+      "artist": "傘村トータ",
+      "timestamp": "19:46",
+      "timestampSeconds": 1186,
+      "sourceUrl": "https://youtube.com/watch?v=nHu9HRo-wXM&t=1186s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "nHu9HRo-wXM-04",
+      "broadcastId": "nHu9HRo-wXM",
+      "date": "2025-11-06",
+      "order": 4,
+      "title": "ゴシップ",
+      "normalizedTitle": "ゴシップ",
+      "artist": "OSTER project",
+      "timestamp": "25:55",
+      "timestampSeconds": 1555,
+      "sourceUrl": "https://youtube.com/watch?v=nHu9HRo-wXM&t=1555s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "nHu9HRo-wXM-05",
+      "broadcastId": "nHu9HRo-wXM",
+      "date": "2025-11-06",
+      "order": 5,
+      "title": "JANE DOE",
+      "normalizedTitle": "JANE DOE",
+      "artist": "米津玄師, 宇多田ヒカル",
+      "timestamp": "33:21",
+      "timestampSeconds": 2001,
+      "sourceUrl": "https://youtube.com/watch?v=nHu9HRo-wXM&t=2001s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "nHu9HRo-wXM-06",
+      "broadcastId": "nHu9HRo-wXM",
+      "date": "2025-11-06",
+      "order": 6,
+      "title": "ブレーメン",
+      "normalizedTitle": "ブレーメン",
+      "artist": "ヨルシカ",
+      "timestamp": "41:49",
+      "timestampSeconds": 2509,
+      "sourceUrl": "https://youtube.com/watch?v=nHu9HRo-wXM&t=2509s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "nHu9HRo-wXM-07",
+      "broadcastId": "nHu9HRo-wXM",
+      "date": "2025-11-06",
+      "order": 7,
+      "title": "LADY",
+      "normalizedTitle": "LADY",
+      "artist": "米津玄師",
+      "timestamp": "48:28",
+      "timestampSeconds": 2908,
+      "sourceUrl": "https://youtube.com/watch?v=nHu9HRo-wXM&t=2908s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "nHu9HRo-wXM-08",
+      "broadcastId": "nHu9HRo-wXM",
+      "date": "2025-11-06",
+      "order": 8,
+      "title": "ずうっといっしょ！",
+      "normalizedTitle": "ずうっといっしょ！",
+      "artist": "キタニタツヤ",
+      "timestamp": "1:01:06",
+      "timestampSeconds": 3666,
+      "sourceUrl": "https://youtube.com/watch?v=nHu9HRo-wXM&t=3666s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "nHu9HRo-wXM-09",
+      "broadcastId": "nHu9HRo-wXM",
+      "date": "2025-11-06",
+      "order": 9,
+      "title": "メルト",
+      "normalizedTitle": "メルト",
+      "artist": "ryo",
+      "timestamp": "1:03:44",
+      "timestampSeconds": 3824,
+      "sourceUrl": "https://youtube.com/watch?v=nHu9HRo-wXM&t=3824s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "nHu9HRo-wXM-10",
+      "broadcastId": "nHu9HRo-wXM",
+      "date": "2025-11-06",
+      "order": 10,
+      "title": "ブルーアンバー",
+      "normalizedTitle": "ブルーアンバー",
+      "artist": "back number",
+      "timestamp": "1:10:20",
+      "timestampSeconds": 4220,
+      "sourceUrl": "https://youtube.com/watch?v=nHu9HRo-wXM&t=4220s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "nHu9HRo-wXM-11",
+      "broadcastId": "nHu9HRo-wXM",
+      "date": "2025-11-06",
+      "order": 11,
+      "title": "アワータイムイエロー",
+      "normalizedTitle": "アワータイムイエロー",
+      "artist": "ReGLOSS",
+      "timestamp": "1:20:35",
+      "timestampSeconds": 4835,
+      "sourceUrl": "https://youtube.com/watch?v=nHu9HRo-wXM&t=4835s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "nHu9HRo-wXM-12",
+      "broadcastId": "nHu9HRo-wXM",
+      "date": "2025-11-06",
+      "order": 12,
+      "title": "ミッドサマーシトラス",
+      "normalizedTitle": "ミッドサマーシトラス",
+      "artist": "ReGLOSS",
+      "timestamp": "1:25:26",
+      "timestampSeconds": 5126,
+      "sourceUrl": "https://youtube.com/watch?v=nHu9HRo-wXM&t=5126s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "nHu9HRo-wXM-13",
+      "broadcastId": "nHu9HRo-wXM",
+      "date": "2025-11-06",
+      "order": 13,
+      "title": "チアフルバイブスエコー",
+      "normalizedTitle": "チアフルバイブスエコー",
+      "artist": "",
+      "timestamp": "1:30:37",
+      "timestampSeconds": 5437,
+      "sourceUrl": "https://youtube.com/watch?v=nHu9HRo-wXM&t=5437s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "nHu9HRo-wXM-14",
+      "broadcastId": "nHu9HRo-wXM",
+      "date": "2025-11-06",
+      "order": 14,
+      "title": "Cheerhul Vibes Echo",
+      "normalizedTitle": "Cheerhul Vibes Echo",
+      "artist": "",
+      "timestamp": "1:30:38",
+      "timestampSeconds": 5438,
+      "sourceUrl": "https://youtube.com/watch?v=nHu9HRo-wXM&t=5438s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "nHu9HRo-wXM-15",
+      "broadcastId": "nHu9HRo-wXM",
+      "date": "2025-11-06",
+      "order": 15,
+      "title": "ノーダウト",
+      "normalizedTitle": "ノーダウト",
+      "artist": "Official髭男dism",
+      "timestamp": "1:36:05",
+      "timestampSeconds": 5765,
+      "sourceUrl": "https://youtube.com/watch?v=nHu9HRo-wXM&t=5765s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "nHu9HRo-wXM-16",
+      "broadcastId": "nHu9HRo-wXM",
+      "date": "2025-11-06",
+      "order": 16,
+      "title": "Pretender",
+      "normalizedTitle": "Pretender",
+      "artist": "Official髭男dism",
+      "timestamp": "1:39:57",
+      "timestampSeconds": 5997,
+      "sourceUrl": "https://youtube.com/watch?v=nHu9HRo-wXM&t=5997s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "nHu9HRo-wXM-17",
+      "broadcastId": "nHu9HRo-wXM",
+      "date": "2025-11-06",
+      "order": 17,
+      "title": "幾億光年",
+      "normalizedTitle": "幾億光年",
+      "artist": "Omoinotake",
+      "timestamp": "1:48:11",
+      "timestampSeconds": 6491,
+      "sourceUrl": "https://youtube.com/watch?v=nHu9HRo-wXM&t=6491s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "nHu9HRo-wXM-18",
+      "broadcastId": "nHu9HRo-wXM",
+      "date": "2025-11-06",
+      "order": 18,
+      "title": "幾億光年",
+      "normalizedTitle": "幾億光年",
+      "artist": "Omoinotake",
+      "timestamp": "1:49:15",
+      "timestampSeconds": 6555,
+      "sourceUrl": "https://youtube.com/watch?v=nHu9HRo-wXM&t=6555s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "nHu9HRo-wXM-19",
+      "broadcastId": "nHu9HRo-wXM",
+      "date": "2025-11-06",
+      "order": 19,
+      "title": "サクラキミワタシ",
+      "normalizedTitle": "サクラキミワタシ",
+      "artist": "tuki.",
+      "timestamp": "1:57:40",
+      "timestampSeconds": 7060,
+      "sourceUrl": "https://youtube.com/watch?v=nHu9HRo-wXM&t=7060s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "nHu9HRo-wXM-20",
+      "broadcastId": "nHu9HRo-wXM",
+      "date": "2025-11-06",
+      "order": 20,
+      "title": "天体観測",
+      "normalizedTitle": "天体観測",
+      "artist": "BUMP OF CHICKEN",
+      "timestamp": "2:17:39",
+      "timestampSeconds": 8259,
+      "sourceUrl": "https://youtube.com/watch?v=nHu9HRo-wXM&t=8259s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "nHu9HRo-wXM-21",
+      "broadcastId": "nHu9HRo-wXM",
+      "date": "2025-11-06",
+      "order": 21,
+      "title": "ニア",
+      "normalizedTitle": "ニア",
+      "artist": "夏代孝明",
+      "timestamp": "2:22:40",
+      "timestampSeconds": 8560,
+      "sourceUrl": "https://youtube.com/watch?v=nHu9HRo-wXM&t=8560s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "nHu9HRo-wXM-22",
+      "broadcastId": "nHu9HRo-wXM",
+      "date": "2025-11-06",
+      "order": 22,
+      "title": "オリオンをなぞる",
+      "normalizedTitle": "オリオンをなぞる",
+      "artist": "UNISON SQUARE GARDEN",
+      "timestamp": "2:34:27",
+      "timestampSeconds": 9267,
+      "sourceUrl": "https://youtube.com/watch?v=nHu9HRo-wXM&t=9267s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "nHu9HRo-wXM-23",
+      "broadcastId": "nHu9HRo-wXM",
+      "date": "2025-11-06",
+      "order": 23,
+      "title": "ソワレ",
+      "normalizedTitle": "ソワレ",
+      "artist": "星街すいせい",
+      "timestamp": "2:40:28",
+      "timestampSeconds": 9628,
+      "sourceUrl": "https://youtube.com/watch?v=nHu9HRo-wXM&t=9628s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "nHu9HRo-wXM-24",
+      "broadcastId": "nHu9HRo-wXM",
+      "date": "2025-11-06",
+      "order": 24,
+      "title": "Luna say maybe",
+      "normalizedTitle": "Luna say maybe",
+      "artist": "月村手毬",
+      "timestamp": "2:46:35",
+      "timestampSeconds": 9995,
+      "sourceUrl": "https://youtube.com/watch?v=nHu9HRo-wXM&t=9995s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    }
+  ]
+}
+
