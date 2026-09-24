@@ -52,13 +52,13 @@ Setlist Index is the primary structured source for matching Kanade karaoke broad
 1. Download the channel listing locally and preserve a dated raw snapshot.
 2. Run the importer against the local file.
 3. Commit only generated candidate or normalized JSON and source metadata.
-3. Identify every broadcast entry and its source URL.
-4. Extract title, date, video URL, order, song title, artist, and timestamp.
-5. Store the raw values unchanged.
-6. Normalize values into the analysis model.
-7. Deduplicate broadcasts and performances by stable video ID.
-8. Send missing or conflicting fields to the review queue.
-9. Create a report showing imported, changed, unmatched, and unresolved records.
+4. Identify every broadcast entry and its source URL.
+5. Extract title, date, video URL, order, song title, artist, and timestamp.
+6. Store the raw values unchanged.
+7. Normalize values into the analysis model.
+8. Deduplicate broadcasts and performances by stable video ID.
+9. Send missing or conflicting fields to the review queue.
+10. Create a report showing imported, changed, unmatched, and unresolved records.
 
 Holodex is a fallback and verification source. It is used only when Setlist Index is missing, incomplete, or inconsistent, and for checking timestamps or song identity.
 
