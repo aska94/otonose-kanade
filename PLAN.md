@@ -6,8 +6,8 @@ Build an AI-maintained archive of every karaoke broadcast and set list for Otono
 
 The source of truth is layered:
 
-1. Locally uploaded Setlist Index snapshots for structured broadcast set lists
-2. Local raw snapshots for reproducibility
+1. Locally downloaded Setlist Index snapshots for structured broadcast set lists
+2. Source metadata committed to GitHub for provenance
 3. Normalized catalogue for analysis and site generation
 4. Holodex comments and broadcast timelines for conflict resolution
 
@@ -15,7 +15,8 @@ The source of truth is layered:
 
 The karaoke data area will use:
 
-- data/karaoke/raw/setlist-index/ — retrieved source-shaped snapshots, never silently overwritten
+- data/karaoke/raw/setlist-index/ — local-only source snapshots, excluded from GitHub
+- data/karaoke/source-metadata/ — committed provenance metadata without source content
 - data/karaoke/candidates/ — imported but not fully verified records
 - data/karaoke/review/ — conflicts and records needing human decisions
 - data/karaoke/normalized/ — normalized broadcasts, performances, original-song mappings, and tags
@@ -23,7 +24,7 @@ The karaoke data area will use:
 - data/karaoke/broadcasts.json — public catalogue input
 - data/karaoke/songs.json — public performance input
 
-Each snapshot must record retrieval date, source URL, source identifier, and parser version.
+Each local snapshot must produce committed metadata containing retrieval date, source URL, local filename, SHA-256, parser version, and record counts.
 
 ## 3. Normalized data model
 
@@ -46,10 +47,11 @@ Genre and mood must not be inferred from play count alone. Frequency produces po
 
 ## 4. Source acquisition and import
 
-Setlist Index is the primary structured source for matching Kanade karaoke broadcasts. The importer will:
+Setlist Index is the primary structured source for matching Kanade karaoke broadcasts. The local importer will:
 
 1. Download the channel listing locally and preserve a dated raw snapshot.
-2. Upload the snapshot to data/karaoke/raw/setlist-index/latest.html.
+2. Run the importer against the local file.
+3. Commit only generated candidate or normalized JSON and source metadata.
 3. Identify every broadcast entry and its source URL.
 4. Extract title, date, video URL, order, song title, artist, and timestamp.
 5. Store the raw values unchanged.
@@ -103,7 +105,7 @@ Planned agents and scripts:
 - validation workflow
 - GitHub Pages deployment workflow
 
-Every automated run writes a report under agent-runs/ and proposes reviewable changes.
+Every automated run writes a report under agent-runs/ and proposes reviewable changes. GitHub Actions processes committed JSON only; it never fetches Setlist Index directly.
 
 ## 8. Acceptance criteria
 
