@@ -25,8 +25,18 @@ def main():
 
     root = Path(args.input_root)
     broadcasts = read_json(root / "candidates/setlist-index-broadcasts.json").get("broadcasts", [])
-    performances = read_json(root / "candidates/setlist-index-performances.json").get("performances", [])
+    performance_payload = read_json(root / "candidates/setlist-index-performances.json")
+    performances = performance_payload.get("performances", [])
+    source_page = performance_payload.get("source")
     dates = {item["id"]: item.get("date") for item in broadcasts}
+
+    normalized_broadcasts = []
+    for item in broadcasts:
+        normalized_broadcasts.append({
+            **item,
+            "sources": item.get("sources", [source_page]),
+            "evidence": [{"type": "setlist-index", "url": source_page}] if source_page else [],
+        })
 
     normalized = []
     for item in performances:
@@ -40,6 +50,8 @@ def main():
             "artist": None,
             "timestampCandidate": item["timestampCandidate"],
             "sourceUrl": item["sourceUrl"],
+            "sources": [item["sourceUrl"]],
+            "evidence": [{"type": "setlist-index", "url": source_page}] if source_page else [],
             "status": "source-confirmed",
             "notes": [
                 "Title is preserved as displayed by Setlist Index.",
@@ -47,7 +59,13 @@ def main():
             ]
         })
 
-    write_json(Path(args.output), {
+    output_path = Path(args.output)
+    write_json(output_path.parent / "broadcasts.json", {
+        "schemaVersion": 1,
+        "source": "data/karaoke/candidates/setlist-index-broadcasts.json",
+        "broadcasts": normalized_broadcasts
+    })
+    write_json(output_path, {
         "schemaVersion": 1,
         "source": "data/karaoke/candidates/setlist-index-performances.json",
         "performances": normalized
