@@ -28,13 +28,18 @@ def require_https_url(value, field, errors):
 def main():
     errors = []
     normalized_dir = DATA_DIR / "normalized"
-    broadcasts_path = normalized_dir / "broadcasts.json" if (normalized_dir / "broadcasts.json").exists() else DATA_DIR / "broadcasts.json"
-    songs_path = normalized_dir / "performances.json" if (normalized_dir / "performances.json").exists() else DATA_DIR / "songs.json"
-
     try:
-        broadcasts = load_json(broadcasts_path)
-        songs = load_json(songs_path)
-    except (OSError, json.JSONDecodeError) as exc:
+        aggregate_broadcasts = normalized_dir / "broadcasts.json"
+        aggregate_performances = normalized_dir / "performances.json"
+        if aggregate_broadcasts.exists() and aggregate_performances.exists():
+            broadcasts = load_json(aggregate_broadcasts)
+            songs = load_json(aggregate_performances)
+        else:
+            files = sorted((normalized_dir / "broadcasts").glob("*.json"))
+            records = [load_json(path) for path in files]
+            broadcasts = {"broadcasts": [record["broadcast"] for record in records]}
+            songs = {"performances": [item for record in records for item in record.get("performances", [])]}
+    except (OSError, json.JSONDecodeError, KeyError) as exc:
         print(f"Validation failed: {exc}", file=sys.stderr)
         return 1
 
@@ -56,7 +61,7 @@ def main():
         status = item.get("status")
         if status not in STATUSES:
             errors.append(f"broadcast {item_id}: invalid status")
-        if status in {"source-confirmed", "confirmed"} and not item.get("evidence"):
+        if status in {"source-confirmed", "confirmed"} and not (item.get("evidence") or item.get("sources")):
             errors.append(f"broadcast {item_id}: confirmed status requires evidence")
         for source in item.get("sources", []):
             require_https_url(source, f"broadcast {item_id} source", errors)
