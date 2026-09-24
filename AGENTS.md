@@ -19,6 +19,7 @@ The first activity is a catalogue of Kanade karaoke broadcasts, their set lists,
 9. Keep unrelated activities out of data/karaoke/.
 10. Generated site files must be reproducible from source data and build scripts.
 11. Automated collection must propose changes for review; it must not silently write directly to the default branch.
+12. The daily ChatGPT check may compare public structured source data, but it must upload only derived data and metadata.
 
 ## Evidence and confidence
 
@@ -51,6 +52,10 @@ Setlist Index timestamps are useful candidates but are not automatically exact s
 - Show the source and confidence status for dashboard records.
 - Do not include candidate records in confirmed-only summaries without clearly labelling them.
 
+## Daily ChatGPT update
+
+The daily heartbeat may read the public Setlist Index page and compare structured rows with committed metadata. It must identify only new or changed broadcasts and performances, preserve source URLs, and create a reviewable Pull Request. No source HTML is uploaded and no direct main-branch write is allowed.
+
 ## Local source preservation
 
 Raw or source-shaped Setlist Index data belongs under local-only data/karaoke/raw/setlist-index/. Commit only source metadata and generated JSON. GitHub Actions must process committed JSON and must not depend on direct access to the external site. Do not overwrite a previous source snapshot; preserve retrieval date and source URL.
@@ -81,7 +86,7 @@ Before submitting a change, check:
 - valid YouTube and evidence URLs
 - timestamp format and timestamp links
 - status/evidence consistency
-- source snapshots have retrieval date and source URL
+- source metadata has retrieval date, source URL, extraction mode, and comparison summary
 - generated pages build from source data
 
 If validation cannot be run yet because the scripts do not exist, state that clearly in the change report.
