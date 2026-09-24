@@ -1,0 +1,404 @@
+{
+  "schemaVersion": 1,
+  "broadcastCount": 66,
+  "performanceCount": 911,
+  "broadcasts": [
+    {
+      "id": "8JNJ8GYgTQk",
+      "date": "2026-08-07",
+      "title": "【 縦型歌枠 】呼吸！！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/8JNJ8GYgTQk.json"
+    },
+    {
+      "id": "4flP14V9uRI",
+      "date": "2026-06-29",
+      "title": "【 縦型歌枠 】今日はセンチメンタルな気分・・・【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/4flP14V9uRI.json"
+    },
+    {
+      "id": "a8GYotCWqxs",
+      "date": "2026-05-21",
+      "title": "【 歌枠 】久しぶりの横長歌枠！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/a8GYotCWqxs.json"
+    },
+    {
+      "id": "cM9H5jKzU1g",
+      "date": "2026-05-02",
+      "title": "【 耐久歌枠 】GW企画！80万人いけるかな？！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/cM9H5jKzU1g.json"
+    },
+    {
+      "id": "fO2ejfMaS4Q",
+      "date": "2026-03-04",
+      "title": "【 縦型歌枠 】REC帰りののんびり歌枠【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/fO2ejfMaS4Q.json"
+    },
+    {
+      "id": "qF7kD6MbBdk",
+      "date": "2026-02-11",
+      "title": "【 縦型歌枠 】お昼ののんびり歌枠🎵【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/qF7kD6MbBdk.json"
+    },
+    {
+      "id": "zi60qBQOoxQ",
+      "date": "2026-01-31",
+      "title": "【 縦型歌枠 】777,777人目指して歌おうかなって【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/zi60qBQOoxQ.json"
+    },
+    {
+      "id": "KURAzY1Z7eM",
+      "date": "2026-01-22",
+      "title": "【 縦型歌枠 】うたうよん【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/KURAzY1Z7eM.json"
+    },
+    {
+      "id": "bTNx6xRYLrQ",
+      "date": "2025-12-29",
+      "title": "【 縦型歌枠 】【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/bTNx6xRYLrQ.json"
+    },
+    {
+      "id": "GoNEvx4LU7U",
+      "date": "2025-12-24",
+      "title": "【 #ホロクリスマス歌枠リレー 】【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/GoNEvx4LU7U.json"
+    },
+    {
+      "id": "KgEDxIOyQ78",
+      "date": "2025-12-04",
+      "title": "【 縦型歌枠 】とりあえず歌を歌いたいなと思っている【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/KgEDxIOyQ78.json"
+    },
+    {
+      "id": "VUtZTWnGiKY",
+      "date": "2025-11-22",
+      "title": "【 縦型歌枠 】お歌を歌っていくんだ？！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/VUtZTWnGiKY.json"
+    },
+    {
+      "id": "nHu9HRo-wXM",
+      "date": "2025-11-06",
+      "title": "【 縦型歌枠 】リクエスト募集中！深夜のノリノリゲリラ歌枠【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/nHu9HRo-wXM.json"
+    },
+    {
+      "id": "CCjz0q-Rbwk",
+      "date": "2025-10-06",
+      "title": "【 縦型歌枠 】レッスン帰りで超眠い歌枠【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/CCjz0q-Rbwk.json"
+    },
+    {
+      "id": "BJCv-gDPdzQ",
+      "date": "2025-08-28",
+      "title": "【 縦型歌枠 】ノープランだぁ；；【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/BJCv-gDPdzQ.json"
+    },
+    {
+      "id": "Wreee0go3s4",
+      "date": "2025-08-17",
+      "title": "【 縦型歌枠 】楽しく歌いたいなって思っています【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/Wreee0go3s4.json"
+    },
+    {
+      "id": "z1bLSEcoo7E",
+      "date": "2025-08-09",
+      "title": "【 縦型歌枠 】ゆったりしゃべったり歌ったりします【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/z1bLSEcoo7E.json"
+    },
+    {
+      "id": "6TQEyFUOX1Y",
+      "date": "2025-08-05",
+      "title": "【 縦型歌枠 】ゲリラをやりたがっている【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/6TQEyFUOX1Y.json"
+    },
+    {
+      "id": "FuXiow-eVF8",
+      "date": "2025-08-04",
+      "title": "【 歌枠 】アニソン多め～このあと上がる動画を待つ歌枠ｿﾜｿﾜ【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/FuXiow-eVF8.json"
+    },
+    {
+      "id": "pfgyOvyp600",
+      "date": "2025-07-30",
+      "title": "【 縦型歌枠 】ゆるゆる～と歌います【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/pfgyOvyp600.json"
+    },
+    {
+      "id": "k0CMRZ5cYO4",
+      "date": "2025-07-25",
+      "title": "【 #ホロナツ歌枠リレー 】ジャパンの夏アツすぎるよぉ～【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/k0CMRZ5cYO4.json"
+    },
+    {
+      "id": "eUkFxmnIIOA",
+      "date": "2025-07-21",
+      "title": "【 縦型歌枠 】ノープランすぎる歌枠をやりたいと思います【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/eUkFxmnIIOA.json"
+    },
+    {
+      "id": "vXA6u6L_quw",
+      "date": "2025-07-20",
+      "title": "【 #ドラマソング歌枠リレー 】たのしく歌います🎵【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/vXA6u6L_quw.json"
+    },
+    {
+      "id": "gT1ARDYPxPs",
+      "date": "2025-06-07",
+      "title": "【 歌枠 】70万人を目指しましょうの歌枠【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/gT1ARDYPxPs.json"
+    },
+    {
+      "id": "_Q3feRXFUbI",
+      "date": "2025-05-30",
+      "title": "【 歌枠 】自己満【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/_Q3feRXFUbI.json"
+    },
+    {
+      "id": "mt8AyISL9Ig",
+      "date": "2025-04-20",
+      "title": "【 3D LIVE 】The First Note【 #⁠音乃瀬奏生誕祭2025 】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/mt8AyISL9Ig.json"
+    },
+    {
+      "id": "Qw3m2ysjEkA",
+      "date": "2025-04-17",
+      "title": "【 歌枠 】ノープラン歌枠だｧ＾＿＾【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/Qw3m2ysjEkA.json"
+    },
+    {
+      "id": "iLbRY5jwGoE",
+      "date": "2025-04-13",
+      "title": "【 重大告知 】歌います！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/iLbRY5jwGoE.json"
+    },
+    {
+      "id": "m0gb_Xt8AsE",
+      "date": "2025-04-07",
+      "title": "【 歌枠 / 縦型 】ボイトレ帰りの歌枠！🎵【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/m0gb_Xt8AsE.json"
+    },
+    {
+      "id": "9wtCB53TKo4",
+      "date": "2025-02-21",
+      "title": "【 歌枠 / 縦型 】【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/9wtCB53TKo4.json"
+    },
+    {
+      "id": "T4tyP1lqd_E",
+      "date": "2025-01-27",
+      "title": "【 歌枠 / 縦型 】60万人目指して歌うよー！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/T4tyP1lqd_E.json"
+    },
+    {
+      "id": "sjJUx-I2Rro",
+      "date": "2025-01-16",
+      "title": "【 歌枠 / 縦型 】収録帰りのゆるゆる衝動的歌枠～【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/sjJUx-I2Rro.json"
+    },
+    {
+      "id": "oc2y-TNCA-g",
+      "date": "2025-01-05",
+      "title": "【 歌枠 】椎名林檎&東京事変縛りの歌枠【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/oc2y-TNCA-g.json"
+    },
+    {
+      "id": "3Utxr_XKd4c",
+      "date": "2024-12-25",
+      "title": "【 #ホロクリスマス歌枠リレー 】クリスマスに全力で失恋ソングを歌います＾＿＾【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/3Utxr_XKd4c.json"
+    },
+    {
+      "id": "7yd-jMk7lIs",
+      "date": "2024-11-15",
+      "title": "【縦型 / 歌枠】5曲ホロ曲を歌って去る歌枠！腹から声出せ！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/7yd-jMk7lIs.json"
+    },
+    {
+      "id": "6MrRFAKM814",
+      "date": "2024-11-13",
+      "title": "【縦型 / 歌枠】張り切って歌いましょう【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/6MrRFAKM814.json"
+    },
+    {
+      "id": "BILMZyLkaKA",
+      "date": "2024-10-07",
+      "title": "【歌枠】50万人耐久！！歌います！！縦型です！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/BILMZyLkaKA.json"
+    },
+    {
+      "id": "IuoVrIn4OcM",
+      "date": "2024-07-07",
+      "title": "【 #ReGLOSS歌枠リレー 】七夕記念、リクエスト曲を歌います！リレー最後まで盛り上がって行こ～！🎵【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/IuoVrIn4OcM.json"
+    },
+    {
+      "id": "CTlYjh1Gy6k",
+      "date": "2024-06-12",
+      "title": "【歌枠】このあと歌ってみたがあがる歌枠【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/CTlYjh1Gy6k.json"
+    },
+    {
+      "id": "IiVnwOy_CP0",
+      "date": "2024-05-08",
+      "title": "【縦型歌枠】ちょっぴりとおしゃれな曲を歌いたい気持ち【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/IiVnwOy_CP0.json"
+    },
+    {
+      "id": "0O36pmT9TBw",
+      "date": "2024-05-05",
+      "title": "【 #ReGLOSS歌枠リレー 】最後まで楽しんでいこう！歌います！✨【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/0O36pmT9TBw.json"
+    },
+    {
+      "id": "OJM1IyrwAbk",
+      "date": "2024-03-09",
+      "title": "【ハフバ記念歌枠】歌いながらハフアニバーサリーを祝う！🎉🎉【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/OJM1IyrwAbk.json"
+    },
+    {
+      "id": "14p3fI3IiRU",
+      "date": "2024-02-21",
+      "title": "【歌枠】春っぽい曲を歌いたい【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/14p3fI3IiRU.json"
+    },
+    {
+      "id": "l8Qp7LVPY0Y",
+      "date": "2024-02-14",
+      "title": "【歌枠】うそだろ、、、30万人耐久、、、返せ、、、【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/l8Qp7LVPY0Y.json"
+    },
+    {
+      "id": "WQxK0NEam2E",
+      "date": "2024-02-07",
+      "title": "【歌枠】うたうたう♪【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/WQxK0NEam2E.json"
+    },
+    {
+      "id": "DNeSpgRTzbU",
+      "date": "2024-01-31",
+      "title": "【歌枠】アニソン縛り🌼【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/DNeSpgRTzbU.json"
+    },
+    {
+      "id": "yi18oU52mgk",
+      "date": "2024-01-24",
+      "title": "【歌枠】おまえらのリクエストにこたえていく歌枠【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/yi18oU52mgk.json"
+    },
+    {
+      "id": "Y7GEnWttyoo",
+      "date": "2024-01-17",
+      "title": "【歌枠】うたう♪【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/Y7GEnWttyoo.json"
+    },
+    {
+      "id": "uzE5rmdBkK0",
+      "date": "2024-01-10",
+      "title": "【歌枠】歌ってみた公開までドキドキ歌枠！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/uzE5rmdBkK0.json"
+    },
+    {
+      "id": "d7iaRrAImto",
+      "date": "2024-01-02",
+      "title": "【歌枠 / Singing】2023年に流行った曲を歌う歌枠【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/d7iaRrAImto.json"
+    },
+    {
+      "id": "RO5OaSqjGOc",
+      "date": "2023-12-25",
+      "title": "【 #ホロクリスマス歌枠リレー 】めりめり～！！🎄 奏のターン！！✨✨【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/RO5OaSqjGOc.json"
+    },
+    {
+      "id": "gg4-SvzmMBg",
+      "date": "2023-12-05",
+      "title": "【歌枠 / Singing】リレー、トップバッターでーす！✨ るんるん ReGLOSS歌枠リレー【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/gg4-SvzmMBg.json"
+    },
+    {
+      "id": "MfIv_g9PYSw",
+      "date": "2023-11-29",
+      "title": "【歌枠 / Singing】メンバーシップ解禁記念歌枠！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/MfIv_g9PYSw.json"
+    },
+    {
+      "id": "yPhXfmeiqas",
+      "date": "2023-11-22",
+      "title": "【歌枠 / Singing】アカペラ有り！歌います！！るん！🎵【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/yPhXfmeiqas.json"
+    },
+    {
+      "id": "vAY6SsOvceU",
+      "date": "2023-11-15",
+      "title": "【歌枠 / Singing】告知アリの歌枠♪【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/vAY6SsOvceU.json"
+    },
+    {
+      "id": "E5_kcFeb4w8",
+      "date": "2023-11-08",
+      "title": "【歌枠 / Singing】収録用マイクで歌います【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/E5_kcFeb4w8.json"
+    },
+    {
+      "id": "HFY3mVm9fPg",
+      "date": "2023-11-01",
+      "title": "【歌枠 / Singing】11月になったね【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/HFY3mVm9fPg.json"
+    },
+    {
+      "id": "R7WkWL1zk2g",
+      "date": "2023-10-29",
+      "title": "【歌枠 / Singing】ボカロ縛り ReGLOSS歌枠リレー【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/R7WkWL1zk2g.json"
+    },
+    {
+      "id": "4vNBqHltAXs",
+      "date": "2023-10-25",
+      "title": "【歌枠 / Singing】夜に聞きたい歌【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/4vNBqHltAXs.json"
+    },
+    {
+      "id": "XT6ITvtd3TA",
+      "date": "2023-10-18",
+      "title": "【歌枠 / Singing】しっとり、歌います【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/XT6ITvtd3TA.json"
+    },
+    {
+      "id": "r23hvAEALr4",
+      "date": "2023-10-11",
+      "title": "【歌枠 / Singing】たのしく歌います！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/r23hvAEALr4.json"
+    },
+    {
+      "id": "HIIR1KROS9w",
+      "date": "2023-10-04",
+      "title": "【歌枠 / Singing】ボカロ縛りの歌枠【音乃瀬奏】",
+      "file": "broadcasts/HIIR1KROS9w.json"
+    },
+    {
+      "id": "gZIS-GATJFw",
+      "date": "2023-09-28",
+      "title": "【収益化/歌枠】おまえらありがとうございます🙇‍♀️😢【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "file": "broadcasts/gZIS-GATJFw.json"
+    },
+    {
+      "id": "NIYGzltMSdw",
+      "date": "2023-09-20",
+      "title": "【歌枠 / Singing】おしとやかな歌枠【音乃瀬奏】",
+      "file": "broadcasts/NIYGzltMSdw.json"
+    },
+    {
+      "id": "OSnR4RVn99c",
+      "date": "2023-09-17",
+      "title": "【歌枠 / Singing】歌います！！！ReGLOSS歌枠リレー【音乃瀬奏】",
+      "file": "broadcasts/OSnR4RVn99c.json"
+    },
+    {
+      "id": "U-Cs4R1yM3g",
+      "date": "2023-09-12",
+      "title": "【歌枠 / Singing】たのしく！【音乃瀬奏】",
+      "file": "broadcasts/U-Cs4R1yM3g.json"
+    }
+  ]
+}
+
