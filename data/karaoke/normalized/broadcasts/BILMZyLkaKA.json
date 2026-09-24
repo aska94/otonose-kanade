@@ -1,0 +1,434 @@
+{
+  "broadcast": {
+    "id": "BILMZyLkaKA",
+    "title": "【歌枠】50万人耐久！！歌います！！縦型です！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+    "date": "2024-10-07",
+    "youtubeUrl": "https://youtube.com/watch?v=BILMZyLkaKA",
+    "broadcastUrl": "https://youtube.com/watch?v=BILMZyLkaKA",
+    "sources": [
+      "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+    ],
+    "status": "source-confirmed"
+  },
+  "performances": [
+    {
+      "id": "BILMZyLkaKA-01",
+      "broadcastId": "BILMZyLkaKA",
+      "date": "2024-10-07",
+      "order": 1,
+      "title": "bvdiz",
+      "normalizedTitle": "bvdiz",
+      "artist": "ReGLOSS",
+      "timestamp": "3:35",
+      "timestampSeconds": 215,
+      "sourceUrl": "https://youtube.com/watch?v=BILMZyLkaKA&t=215s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "BILMZyLkaKA-02",
+      "broadcastId": "BILMZyLkaKA",
+      "date": "2024-10-07",
+      "order": 2,
+      "title": "いかないで",
+      "normalizedTitle": "いかないで",
+      "artist": "想太feat.歌愛ユキ",
+      "timestamp": "14:44",
+      "timestampSeconds": 884,
+      "sourceUrl": "https://youtube.com/watch?v=BILMZyLkaKA&t=884s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "BILMZyLkaKA-03",
+      "broadcastId": "BILMZyLkaKA",
+      "date": "2024-10-07",
+      "order": 3,
+      "title": "白金ディスコ",
+      "normalizedTitle": "白金ディスコ",
+      "artist": "阿良々木月火",
+      "timestamp": "19:18",
+      "timestampSeconds": 1158,
+      "sourceUrl": "https://youtube.com/watch?v=BILMZyLkaKA&t=1158s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "BILMZyLkaKA-04",
+      "broadcastId": "BILMZyLkaKA",
+      "date": "2024-10-07",
+      "order": 4,
+      "title": "シンメトリー",
+      "normalizedTitle": "シンメトリー",
+      "artist": "ReGLOSS",
+      "timestamp": "25:36",
+      "timestampSeconds": 1536,
+      "sourceUrl": "https://youtube.com/watch?v=BILMZyLkaKA&t=1536s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "BILMZyLkaKA-05",
+      "broadcastId": "BILMZyLkaKA",
+      "date": "2024-10-07",
+      "order": 5,
+      "title": "シャンティ",
+      "normalizedTitle": "シャンティ",
+      "artist": "",
+      "timestamp": "30:51",
+      "timestampSeconds": 1851,
+      "sourceUrl": "https://youtube.com/watch?v=BILMZyLkaKA&t=1851s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "BILMZyLkaKA-06",
+      "broadcastId": "BILMZyLkaKA",
+      "date": "2024-10-07",
+      "order": 6,
+      "title": "CHA4NGE",
+      "normalizedTitle": "CHA4NGE",
+      "artist": "",
+      "timestamp": "34:40",
+      "timestampSeconds": 2080,
+      "sourceUrl": "https://youtube.com/watch?v=BILMZyLkaKA&t=2080s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "BILMZyLkaKA-07",
+      "broadcastId": "BILMZyLkaKA",
+      "date": "2024-10-07",
+      "order": 7,
+      "title": "モエチャッカファイア",
+      "normalizedTitle": "モエチャッカファイア",
+      "artist": "弌誠",
+      "timestamp": "38:17",
+      "timestampSeconds": 2297,
+      "sourceUrl": "https://youtube.com/watch?v=BILMZyLkaKA&t=2297s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "BILMZyLkaKA-08",
+      "broadcastId": "BILMZyLkaKA",
+      "date": "2024-10-07",
+      "order": 8,
+      "title": "イガク",
+      "normalizedTitle": "イガク",
+      "artist": "原口沙輔",
+      "timestamp": "42:05",
+      "timestampSeconds": 2525,
+      "sourceUrl": "https://youtube.com/watch?v=BILMZyLkaKA&t=2525s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "BILMZyLkaKA-09",
+      "broadcastId": "BILMZyLkaKA",
+      "date": "2024-10-07",
+      "order": 9,
+      "title": "ビビデバ",
+      "normalizedTitle": "ビビデバ",
+      "artist": "星街すいせい",
+      "timestamp": "47:10",
+      "timestampSeconds": 2830,
+      "sourceUrl": "https://youtube.com/watch?v=BILMZyLkaKA&t=2830s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "BILMZyLkaKA-10",
+      "broadcastId": "BILMZyLkaKA",
+      "date": "2024-10-07",
+      "order": 10,
+      "title": "BANDAGE",
+      "normalizedTitle": "BANDAGE",
+      "artist": "Ayumu Imazu",
+      "timestamp": "56:03",
+      "timestampSeconds": 3363,
+      "sourceUrl": "https://youtube.com/watch?v=BILMZyLkaKA&t=3363s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "BILMZyLkaKA-11",
+      "broadcastId": "BILMZyLkaKA",
+      "date": "2024-10-07",
+      "order": 11,
+      "title": "UNDEAD",
+      "normalizedTitle": "UNDEAD",
+      "artist": "YOASOBI",
+      "timestamp": "1:00:44",
+      "timestampSeconds": 3644,
+      "sourceUrl": "https://youtube.com/watch?v=BILMZyLkaKA&t=3644s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "BILMZyLkaKA-12",
+      "broadcastId": "BILMZyLkaKA",
+      "date": "2024-10-07",
+      "order": 12,
+      "title": "はいよろこんで",
+      "normalizedTitle": "はいよろこんで",
+      "artist": "こっちのけんと",
+      "timestamp": "1:06:19",
+      "timestampSeconds": 3979,
+      "sourceUrl": "https://youtube.com/watch?v=BILMZyLkaKA&t=3979s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "BILMZyLkaKA-13",
+      "broadcastId": "BILMZyLkaKA",
+      "date": "2024-10-07",
+      "order": 13,
+      "title": "カタオモイ",
+      "normalizedTitle": "カタオモイ",
+      "artist": "Aimer",
+      "timestamp": "1:10:25",
+      "timestampSeconds": 4225,
+      "sourceUrl": "https://youtube.com/watch?v=BILMZyLkaKA&t=4225s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "BILMZyLkaKA-14",
+      "broadcastId": "BILMZyLkaKA",
+      "date": "2024-10-07",
+      "order": 14,
+      "title": "ただ君に晴れ",
+      "normalizedTitle": "ただ君に晴れ",
+      "artist": "ヨルシカ",
+      "timestamp": "1:15:41",
+      "timestampSeconds": 4541,
+      "sourceUrl": "https://youtube.com/watch?v=BILMZyLkaKA&t=4541s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "BILMZyLkaKA-15",
+      "broadcastId": "BILMZyLkaKA",
+      "date": "2024-10-07",
+      "order": 15,
+      "title": "だから僕は音楽を辞めた",
+      "normalizedTitle": "だから僕は音楽を辞めた",
+      "artist": "ヨルシカ",
+      "timestamp": "1:19:56",
+      "timestampSeconds": 4796,
+      "sourceUrl": "https://youtube.com/watch?v=BILMZyLkaKA&t=4796s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "BILMZyLkaKA-16",
+      "broadcastId": "BILMZyLkaKA",
+      "date": "2024-10-07",
+      "order": 16,
+      "title": "花に亡霊",
+      "normalizedTitle": "花に亡霊",
+      "artist": "ヨルシカ",
+      "timestamp": "1:26:28",
+      "timestampSeconds": 5188,
+      "sourceUrl": "https://youtube.com/watch?v=BILMZyLkaKA&t=5188s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "BILMZyLkaKA-17",
+      "broadcastId": "BILMZyLkaKA",
+      "date": "2024-10-07",
+      "order": 17,
+      "title": "プラチナ",
+      "normalizedTitle": "プラチナ",
+      "artist": "坂本真綾",
+      "timestamp": "1:32:41",
+      "timestampSeconds": 5561,
+      "sourceUrl": "https://youtube.com/watch?v=BILMZyLkaKA&t=5561s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "BILMZyLkaKA-18",
+      "broadcastId": "BILMZyLkaKA",
+      "date": "2024-10-07",
+      "order": 18,
+      "title": "地球儀",
+      "normalizedTitle": "地球儀",
+      "artist": "米津玄師",
+      "timestamp": "1:38:13",
+      "timestampSeconds": 5893,
+      "sourceUrl": "https://youtube.com/watch?v=BILMZyLkaKA&t=5893s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "BILMZyLkaKA-19",
+      "broadcastId": "BILMZyLkaKA",
+      "date": "2024-10-07",
+      "order": 19,
+      "title": "恋愛サーキュレーション",
+      "normalizedTitle": "恋愛サーキュレーション",
+      "artist": "千石撫子",
+      "timestamp": "1:46:15",
+      "timestampSeconds": 6375,
+      "sourceUrl": "https://youtube.com/watch?v=BILMZyLkaKA&t=6375s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    }
+  ]
+}
+
