@@ -27,8 +27,9 @@ def require_https_url(value, field, errors):
 
 def main():
     errors = []
-    broadcasts_path = DATA_DIR / "broadcasts.json"
-    songs_path = DATA_DIR / "songs.json"
+    normalized_dir = DATA_DIR / "normalized"
+    broadcasts_path = normalized_dir / "broadcasts.json" if (normalized_dir / "broadcasts.json").exists() else DATA_DIR / "broadcasts.json"
+    songs_path = normalized_dir / "performances.json" if (normalized_dir / "performances.json").exists() else DATA_DIR / "songs.json"
 
     try:
         broadcasts = load_json(broadcasts_path)
@@ -59,6 +60,8 @@ def main():
             errors.append(f"broadcast {item_id}: confirmed status requires evidence")
         for source in item.get("sources", []):
             require_https_url(source, f"broadcast {item_id} source", errors)
+        for evidence in item.get("evidence", []):
+            require_https_url(evidence.get("url"), f"broadcast {item_id} evidence", errors)
 
     performance_ids = set()
     for item in songs.get("performances", []):
@@ -85,6 +88,8 @@ def main():
 
         for source in item.get("sources", []):
             require_https_url(source, f"performance {item_id} source", errors)
+        for evidence in item.get("evidence", []):
+            require_https_url(evidence.get("url"), f"performance {item_id} evidence", errors)
 
     if errors:
         print("\n".join(errors), file=sys.stderr)
