@@ -23,7 +23,7 @@
       ],
       "status": "source-confirmed",
       "notes": [
-        "Setlist Index-derived candidate; Holodex comment and video timeline verification pending."
+        "Setlist Index source row imported as displayed."
       ]
     },
     {
@@ -47,7 +47,7 @@
       ],
       "status": "source-confirmed",
       "notes": [
-        "Setlist Index-derived candidate; Holodex comment and video timeline verification pending."
+        "Setlist Index source row imported as displayed."
       ]
     },
     {
@@ -71,7 +71,7 @@
       ],
       "status": "source-confirmed",
       "notes": [
-        "Setlist Index-derived candidate; Holodex comment and video timeline verification pending."
+        "Setlist Index source row imported as displayed."
       ]
     },
     {
@@ -95,7 +95,7 @@
       ],
       "status": "source-confirmed",
       "notes": [
-        "Setlist Index-derived candidate; Holodex comment and video timeline verification pending."
+        "Setlist Index source row imported as displayed."
       ]
     },
     {
@@ -119,7 +119,7 @@
       ],
       "status": "source-confirmed",
       "notes": [
-        "Setlist Index-derived candidate; Holodex comment and video timeline verification pending."
+        "Setlist Index source row imported as displayed."
       ]
     },
     {
@@ -143,7 +143,7 @@
       ],
       "status": "source-confirmed",
       "notes": [
-        "Setlist Index-derived candidate; Holodex comment and video timeline verification pending."
+        "Setlist Index source row imported as displayed."
       ]
     },
     {
@@ -167,7 +167,7 @@
       ],
       "status": "source-confirmed",
       "notes": [
-        "Setlist Index-derived candidate; Holodex comment and video timeline verification pending."
+        "Setlist Index source row imported as displayed."
       ]
     },
     {
@@ -191,7 +191,7 @@
       ],
       "status": "source-confirmed",
       "notes": [
-        "Setlist Index-derived candidate; Holodex comment and video timeline verification pending."
+        "Setlist Index source row imported as displayed."
       ]
     },
     {
@@ -215,7 +215,7 @@
       ],
       "status": "source-confirmed",
       "notes": [
-        "Setlist Index-derived candidate; Holodex comment and video timeline verification pending."
+        "Setlist Index source row imported as displayed."
       ]
     },
     {
@@ -237,10 +237,11 @@
           "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
         }
       ],
-      "status": "needs-review",
+      "status": "source-confirmed",
       "notes": [
-        "Setlist Index-derived candidate; Holodex comment and video timeline verification pending."
-      ]
+        "Setlist Index source row retained as an extra segment."
+      ],
+      "kind": "extra"
     }
   ]
 }
