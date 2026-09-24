@@ -1,0 +1,148 @@
+{
+  "broadcast": {
+    "id": "vXA6u6L_quw",
+    "title": "【 #ドラマソング歌枠リレー 】たのしく歌います🎵【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+    "date": "2025-07-20",
+    "youtubeUrl": "https://youtube.com/watch?v=vXA6u6L_quw",
+    "broadcastUrl": "https://youtube.com/watch?v=vXA6u6L_quw",
+    "sources": [
+      "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+    ],
+    "status": "source-confirmed"
+  },
+  "performances": [
+    {
+      "id": "vXA6u6L_quw-01",
+      "broadcastId": "vXA6u6L_quw",
+      "date": "2025-07-20",
+      "order": 1,
+      "title": "ブルーアンバー",
+      "normalizedTitle": "ブルーアンバー",
+      "artist": "back number",
+      "timestamp": "1:15",
+      "timestampSeconds": 75,
+      "sourceUrl": "https://youtube.com/watch?v=vXA6u6L_quw&t=75s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "vXA6u6L_quw-02",
+      "broadcastId": "vXA6u6L_quw",
+      "date": "2025-07-20",
+      "order": 2,
+      "title": "Subtitle",
+      "normalizedTitle": "Subtitle",
+      "artist": "Official髭男dism",
+      "timestamp": "6:04",
+      "timestampSeconds": 364,
+      "sourceUrl": "https://youtube.com/watch?v=vXA6u6L_quw&t=364s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "vXA6u6L_quw-03",
+      "broadcastId": "vXA6u6L_quw",
+      "date": "2025-07-20",
+      "order": 3,
+      "title": "Lemon",
+      "normalizedTitle": "Lemon",
+      "artist": "米津玄師",
+      "timestamp": "11:54",
+      "timestampSeconds": 714,
+      "sourceUrl": "https://youtube.com/watch?v=vXA6u6L_quw&t=714s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "vXA6u6L_quw-04",
+      "broadcastId": "vXA6u6L_quw",
+      "date": "2025-07-20",
+      "order": 4,
+      "title": "さよーならまたいつか！",
+      "normalizedTitle": "さよーならまたいつか！",
+      "artist": "米津玄師",
+      "timestamp": "17:21",
+      "timestampSeconds": 1041,
+      "sourceUrl": "https://youtube.com/watch?v=vXA6u6L_quw&t=1041s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "vXA6u6L_quw-05",
+      "broadcastId": "vXA6u6L_quw",
+      "date": "2025-07-20",
+      "order": 5,
+      "title": "ノーダウト",
+      "normalizedTitle": "ノーダウト",
+      "artist": "Official髭男dism",
+      "timestamp": "22:24",
+      "timestampSeconds": 1344,
+      "sourceUrl": "https://youtube.com/watch?v=vXA6u6L_quw&t=1344s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "vXA6u6L_quw-06",
+      "broadcastId": "vXA6u6L_quw",
+      "date": "2025-07-20",
+      "order": 6,
+      "title": "ベテルギウス",
+      "normalizedTitle": "ベテルギウス",
+      "artist": "優里",
+      "timestamp": "26:55",
+      "timestampSeconds": 1615,
+      "sourceUrl": "https://youtube.com/watch?v=vXA6u6L_quw&t=1615s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    }
+  ]
+}
+
