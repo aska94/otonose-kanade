@@ -1,0 +1,104 @@
+{
+  "broadcast": {
+    "id": "RO5OaSqjGOc",
+    "title": "【 #ホロクリスマス歌枠リレー 】めりめり～！！🎄 奏のターン！！✨✨【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+    "date": "2023-12-25",
+    "youtubeUrl": "https://youtube.com/watch?v=RO5OaSqjGOc",
+    "broadcastUrl": "https://youtube.com/watch?v=RO5OaSqjGOc",
+    "sources": [
+      "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+    ],
+    "status": "source-confirmed"
+  },
+  "performances": [
+    {
+      "id": "RO5OaSqjGOc-01",
+      "broadcastId": "RO5OaSqjGOc",
+      "date": "2023-12-25",
+      "order": 1,
+      "title": "Subtitle",
+      "normalizedTitle": "Subtitle",
+      "artist": "Official髭男dism",
+      "timestamp": "1:35",
+      "timestampSeconds": 95,
+      "sourceUrl": "https://youtube.com/watch?v=RO5OaSqjGOc&t=95s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "RO5OaSqjGOc-02",
+      "broadcastId": "RO5OaSqjGOc",
+      "date": "2023-12-25",
+      "order": 2,
+      "title": "美少女無罪♡パイレーツ",
+      "normalizedTitle": "美少女無罪♡パイレーツ",
+      "artist": "宝鐘マリン",
+      "timestamp": "8:29",
+      "timestampSeconds": 509,
+      "sourceUrl": "https://youtube.com/watch?v=RO5OaSqjGOc&t=509s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "RO5OaSqjGOc-03",
+      "broadcastId": "RO5OaSqjGOc",
+      "date": "2023-12-25",
+      "order": 3,
+      "title": "クリスマスソング",
+      "normalizedTitle": "クリスマスソング",
+      "artist": "back number",
+      "timestamp": "13:38",
+      "timestampSeconds": 818,
+      "sourceUrl": "https://youtube.com/watch?v=RO5OaSqjGOc&t=818s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "RO5OaSqjGOc-04",
+      "broadcastId": "RO5OaSqjGOc",
+      "date": "2023-12-25",
+      "order": 4,
+      "title": "別の人の彼女になったよ",
+      "normalizedTitle": "別の人の彼女になったよ",
+      "artist": "wacci",
+      "timestamp": "16:16",
+      "timestampSeconds": 976,
+      "sourceUrl": "https://youtube.com/watch?v=RO5OaSqjGOc&t=976s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    }
+  ]
+}
+
