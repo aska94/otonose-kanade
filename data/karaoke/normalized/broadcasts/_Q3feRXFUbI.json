@@ -1,0 +1,302 @@
+{
+  "broadcast": {
+    "id": "_Q3feRXFUbI",
+    "title": "【 歌枠 】自己満【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+    "date": "2025-05-30",
+    "youtubeUrl": "https://youtube.com/watch?v=_Q3feRXFUbI",
+    "broadcastUrl": "https://youtube.com/watch?v=_Q3feRXFUbI",
+    "sources": [
+      "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+    ],
+    "status": "source-confirmed"
+  },
+  "performances": [
+    {
+      "id": "_Q3feRXFUbI-01",
+      "broadcastId": "_Q3feRXFUbI",
+      "date": "2025-05-30",
+      "order": 1,
+      "title": "スキスキ絶頂症",
+      "normalizedTitle": "スキスキ絶頂症",
+      "artist": "koyori",
+      "timestamp": "5:11",
+      "timestampSeconds": 311,
+      "sourceUrl": "https://youtube.com/watch?v=_Q3feRXFUbI&t=311s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "_Q3feRXFUbI-02",
+      "broadcastId": "_Q3feRXFUbI",
+      "date": "2025-05-30",
+      "order": 2,
+      "title": "スキスキ絶頂症",
+      "normalizedTitle": "スキスキ絶頂症",
+      "artist": "koyori",
+      "timestamp": "6:23",
+      "timestampSeconds": 383,
+      "sourceUrl": "https://youtube.com/watch?v=_Q3feRXFUbI&t=383s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "_Q3feRXFUbI-03",
+      "broadcastId": "_Q3feRXFUbI",
+      "date": "2025-05-30",
+      "order": 3,
+      "title": "どうにかなっちゃいそう！",
+      "normalizedTitle": "どうにかなっちゃいそう！",
+      "artist": "NOMELON NOLEMON",
+      "timestamp": "11:29",
+      "timestampSeconds": 689,
+      "sourceUrl": "https://youtube.com/watch?v=_Q3feRXFUbI&t=689s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "_Q3feRXFUbI-04",
+      "broadcastId": "_Q3feRXFUbI",
+      "date": "2025-05-30",
+      "order": 4,
+      "title": "メタモリボン",
+      "normalizedTitle": "メタモリボン",
+      "artist": "emon",
+      "timestamp": "16:28",
+      "timestampSeconds": 988,
+      "sourceUrl": "https://youtube.com/watch?v=_Q3feRXFUbI&t=988s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "_Q3feRXFUbI-05",
+      "broadcastId": "_Q3feRXFUbI",
+      "date": "2025-05-30",
+      "order": 5,
+      "title": "Awake Now",
+      "normalizedTitle": "Awake Now",
+      "artist": "雄之助 feat. 初音ミク",
+      "timestamp": "21:15",
+      "timestampSeconds": 1275,
+      "sourceUrl": "https://youtube.com/watch?v=_Q3feRXFUbI&t=1275s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "_Q3feRXFUbI-06",
+      "broadcastId": "_Q3feRXFUbI",
+      "date": "2025-05-30",
+      "order": 6,
+      "title": "Gimme×Gimme",
+      "normalizedTitle": "Gimme×Gimme",
+      "artist": "",
+      "timestamp": "25:41",
+      "timestampSeconds": 1541,
+      "sourceUrl": "https://youtube.com/watch?v=_Q3feRXFUbI&t=1541s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "_Q3feRXFUbI-07",
+      "broadcastId": "_Q3feRXFUbI",
+      "date": "2025-05-30",
+      "order": 7,
+      "title": "秘密",
+      "normalizedTitle": "秘密",
+      "artist": "東京事変",
+      "timestamp": "30:18",
+      "timestampSeconds": 1818,
+      "sourceUrl": "https://youtube.com/watch?v=_Q3feRXFUbI&t=1818s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "_Q3feRXFUbI-08",
+      "broadcastId": "_Q3feRXFUbI",
+      "date": "2025-05-30",
+      "order": 8,
+      "title": "ドラ１独走",
+      "normalizedTitle": "ドラ１独走",
+      "artist": "椎名林檎と新しい学校のリーダーズ",
+      "timestamp": "35:33",
+      "timestampSeconds": 2133,
+      "sourceUrl": "https://youtube.com/watch?v=_Q3feRXFUbI&t=2133s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "_Q3feRXFUbI-09",
+      "broadcastId": "_Q3feRXFUbI",
+      "date": "2025-05-30",
+      "order": 9,
+      "title": "ドーパミント!",
+      "normalizedTitle": "ドーパミント!",
+      "artist": "東京事変",
+      "timestamp": "39:33",
+      "timestampSeconds": 2373,
+      "sourceUrl": "https://youtube.com/watch?v=_Q3feRXFUbI&t=2373s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "_Q3feRXFUbI-10",
+      "broadcastId": "_Q3feRXFUbI",
+      "date": "2025-05-30",
+      "order": 10,
+      "title": "余所事",
+      "normalizedTitle": "余所事",
+      "artist": "",
+      "timestamp": "44:00",
+      "timestampSeconds": 2640,
+      "sourceUrl": "https://youtube.com/watch?v=_Q3feRXFUbI&t=2640s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "_Q3feRXFUbI-11",
+      "broadcastId": "_Q3feRXFUbI",
+      "date": "2025-05-30",
+      "order": 11,
+      "title": "MIND CIRCUS",
+      "normalizedTitle": "MIND CIRCUS",
+      "artist": "中谷美紀",
+      "timestamp": "49:03",
+      "timestampSeconds": 2943,
+      "sourceUrl": "https://youtube.com/watch?v=_Q3feRXFUbI&t=2943s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "_Q3feRXFUbI-12",
+      "broadcastId": "_Q3feRXFUbI",
+      "date": "2025-05-30",
+      "order": 12,
+      "title": "GREATEST",
+      "normalizedTitle": "GREATEST",
+      "artist": "音乃瀬奏",
+      "timestamp": "56:34",
+      "timestampSeconds": 3394,
+      "sourceUrl": "https://youtube.com/watch?v=_Q3feRXFUbI&t=3394s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "_Q3feRXFUbI-13",
+      "broadcastId": "_Q3feRXFUbI",
+      "date": "2025-05-30",
+      "order": 13,
+      "title": "GREATEST",
+      "normalizedTitle": "GREATEST",
+      "artist": "音乃瀬奏",
+      "timestamp": "56:49",
+      "timestampSeconds": 3409,
+      "sourceUrl": "https://youtube.com/watch?v=_Q3feRXFUbI&t=3409s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    }
+  ]
+}
+
