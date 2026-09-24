@@ -4,10 +4,9 @@
   "status": "source-confirmed",
   "title": "〖歌枠 / Singing〗たのしく！〖音乃瀬奏〗",
   "date": "2023-09-12",
-  "broadcastUrl": "https://holodex.net/watch/U-Cs4R1yM3g",
+  "broadcastUrl": "https://www.youtube.com/watch?v=U-Cs4R1yM3g",
   "youtubeUrl": "https://www.youtube.com/watch?v=U-Cs4R1yM3g",
   "sources": [
-    "https://holodex.net/watch/U-Cs4R1yM3g",
     "https://setlist.kibunya.org/channel/@OtonoseKanade/"
   ],
   "evidence": [
@@ -19,9 +18,8 @@
   ],
   "discoveredAt": "2026-09-24",
   "notes": [
-    "Metadata and set-list candidates were found in a public fan-maintained set-list index.",
-    "Holodex comment evidence and direct video-timeline verification are still pending.",
-    "Timestamps are candidates, not confirmed song-start positions."
+    "Metadata and set-list values were imported from the public Setlist Index.",
+    "The Setlist Index entry is treated as the source of record; no secondary broadcast or comment verification is required."
   ],
   "performances": [
     {
@@ -92,8 +90,9 @@
       "title": "おまけ",
       "artist": null,
       "timestampCandidate": "01:01:17",
-      "status": "needs-review",
-      "notes": "The source lists this as an extra segment rather than a clearly identified song."
+      "status": "source-confirmed",
+      "notes": "The source labels this row as an extra segment.",
+      "kind": "extra"
     }
   ]
 }
