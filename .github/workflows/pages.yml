@@ -24,7 +24,7 @@ jobs:
       - name: Configure Pages
         uses: actions/configure-pages@v5
       - name: Prepare site
-        run: mkdir -p _site && cp -R site/. _site/ && mkdir -p _site/data/karaoke/normalized && cp -R data/karaoke/normalized/. _site/data/karaoke/normalized/
+        run: mkdir -p _site && cp -R site/. _site/ && mkdir -p _site/data/karaoke/normalized && python scripts/karaoke/build_site_data.py --input-dir data/karaoke/normalized/broadcasts --output-dir _site/data/karaoke/normalized
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
