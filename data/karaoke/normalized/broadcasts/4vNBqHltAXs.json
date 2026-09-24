@@ -1,0 +1,280 @@
+{
+  "broadcast": {
+    "id": "4vNBqHltAXs",
+    "title": "【歌枠 / Singing】夜に聞きたい歌【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+    "date": "2023-10-25",
+    "youtubeUrl": "https://youtube.com/watch?v=4vNBqHltAXs",
+    "broadcastUrl": "https://youtube.com/watch?v=4vNBqHltAXs",
+    "sources": [
+      "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+    ],
+    "status": "source-confirmed"
+  },
+  "performances": [
+    {
+      "id": "4vNBqHltAXs-01",
+      "broadcastId": "4vNBqHltAXs",
+      "date": "2023-10-25",
+      "order": 1,
+      "title": "四季ノ唄",
+      "normalizedTitle": "四季ノ唄",
+      "artist": "MINMI",
+      "timestamp": "4:49",
+      "timestampSeconds": 289,
+      "sourceUrl": "https://youtube.com/watch?v=4vNBqHltAXs&t=289s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "4vNBqHltAXs-02",
+      "broadcastId": "4vNBqHltAXs",
+      "date": "2023-10-25",
+      "order": 2,
+      "title": "One Last Kiss",
+      "normalizedTitle": "One Last Kiss",
+      "artist": "宇多田ヒカル",
+      "timestamp": "11:25",
+      "timestampSeconds": 685,
+      "sourceUrl": "https://youtube.com/watch?v=4vNBqHltAXs&t=685s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "4vNBqHltAXs-03",
+      "broadcastId": "4vNBqHltAXs",
+      "date": "2023-10-25",
+      "order": 3,
+      "title": "寄り酔い",
+      "normalizedTitle": "寄り酔い",
+      "artist": "和ぬか",
+      "timestamp": "18:10",
+      "timestampSeconds": 1090,
+      "sourceUrl": "https://youtube.com/watch?v=4vNBqHltAXs&t=1090s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "4vNBqHltAXs-04",
+      "broadcastId": "4vNBqHltAXs",
+      "date": "2023-10-25",
+      "order": 4,
+      "title": "Pop Virus",
+      "normalizedTitle": "Pop Virus",
+      "artist": "星野源",
+      "timestamp": "23:10",
+      "timestampSeconds": 1390,
+      "sourceUrl": "https://youtube.com/watch?v=4vNBqHltAXs&t=1390s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "4vNBqHltAXs-05",
+      "broadcastId": "4vNBqHltAXs",
+      "date": "2023-10-25",
+      "order": 5,
+      "title": "プラスティック・ラブ",
+      "normalizedTitle": "プラスティック・ラブ",
+      "artist": "竹内まりや",
+      "timestamp": "28:39",
+      "timestampSeconds": 1719,
+      "sourceUrl": "https://youtube.com/watch?v=4vNBqHltAXs&t=1719s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "4vNBqHltAXs-06",
+      "broadcastId": "4vNBqHltAXs",
+      "date": "2023-10-25",
+      "order": 6,
+      "title": "Stay With Me",
+      "normalizedTitle": "Stay With Me",
+      "artist": "Mayonaka no Door",
+      "timestamp": "34:47",
+      "timestampSeconds": 2087,
+      "sourceUrl": "https://youtube.com/watch?v=4vNBqHltAXs&t=2087s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "4vNBqHltAXs-07",
+      "broadcastId": "4vNBqHltAXs",
+      "date": "2023-10-25",
+      "order": 7,
+      "title": "真夜中のドア",
+      "normalizedTitle": "真夜中のドア",
+      "artist": "MIZUE / 中野雄太",
+      "timestamp": "34:47",
+      "timestampSeconds": 2087,
+      "sourceUrl": "https://youtube.com/watch?v=4vNBqHltAXs&t=2087s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "4vNBqHltAXs-08",
+      "broadcastId": "4vNBqHltAXs",
+      "date": "2023-10-25",
+      "order": 8,
+      "title": "真夜中のドア〜Stay With Me",
+      "normalizedTitle": "真夜中のドア〜Stay With Me",
+      "artist": "松原みき",
+      "timestamp": "34:47",
+      "timestampSeconds": 2087,
+      "sourceUrl": "https://youtube.com/watch?v=4vNBqHltAXs&t=2087s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "4vNBqHltAXs-09",
+      "broadcastId": "4vNBqHltAXs",
+      "date": "2023-10-25",
+      "order": 9,
+      "title": "RIDE ON TIME",
+      "normalizedTitle": "RIDE ON TIME",
+      "artist": "山下達郎",
+      "timestamp": "41:33",
+      "timestampSeconds": 2493,
+      "sourceUrl": "https://youtube.com/watch?v=4vNBqHltAXs&t=2493s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "4vNBqHltAXs-10",
+      "broadcastId": "4vNBqHltAXs",
+      "date": "2023-10-25",
+      "order": 10,
+      "title": "東京フラッシュ",
+      "normalizedTitle": "東京フラッシュ",
+      "artist": "Vaundy",
+      "timestamp": "47:21",
+      "timestampSeconds": 2841,
+      "sourceUrl": "https://youtube.com/watch?v=4vNBqHltAXs&t=2841s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "4vNBqHltAXs-11",
+      "broadcastId": "4vNBqHltAXs",
+      "date": "2023-10-25",
+      "order": 11,
+      "title": "春雷",
+      "normalizedTitle": "春雷",
+      "artist": "米津玄師",
+      "timestamp": "54:09",
+      "timestampSeconds": 3249,
+      "sourceUrl": "https://youtube.com/watch?v=4vNBqHltAXs&t=3249s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "4vNBqHltAXs-12",
+      "broadcastId": "4vNBqHltAXs",
+      "date": "2023-10-25",
+      "order": 12,
+      "title": "新宝島",
+      "normalizedTitle": "新宝島",
+      "artist": "サカナクション",
+      "timestamp": "1:00:03",
+      "timestampSeconds": 3603,
+      "sourceUrl": "https://youtube.com/watch?v=4vNBqHltAXs&t=3603s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    }
+  ]
+}
+
