@@ -1,0 +1,104 @@
+{
+  "broadcast": {
+    "id": "R7WkWL1zk2g",
+    "title": "【歌枠 / Singing】ボカロ縛り ReGLOSS歌枠リレー【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+    "date": "2023-10-29",
+    "youtubeUrl": "https://youtube.com/watch?v=R7WkWL1zk2g",
+    "broadcastUrl": "https://youtube.com/watch?v=R7WkWL1zk2g",
+    "sources": [
+      "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+    ],
+    "status": "source-confirmed"
+  },
+  "performances": [
+    {
+      "id": "R7WkWL1zk2g-01",
+      "broadcastId": "R7WkWL1zk2g",
+      "date": "2023-10-29",
+      "order": 1,
+      "title": "ホシアイ",
+      "normalizedTitle": "ホシアイ",
+      "artist": "",
+      "timestamp": "7:38",
+      "timestampSeconds": 458,
+      "sourceUrl": "https://youtube.com/watch?v=R7WkWL1zk2g&t=458s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "R7WkWL1zk2g-02",
+      "broadcastId": "R7WkWL1zk2g",
+      "date": "2023-10-29",
+      "order": 2,
+      "title": "心做し",
+      "normalizedTitle": "心做し",
+      "artist": "蝶々P",
+      "timestamp": "14:00",
+      "timestampSeconds": 840,
+      "sourceUrl": "https://youtube.com/watch?v=R7WkWL1zk2g&t=840s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "R7WkWL1zk2g-03",
+      "broadcastId": "R7WkWL1zk2g",
+      "date": "2023-10-29",
+      "order": 3,
+      "title": "心做し",
+      "normalizedTitle": "心做し",
+      "artist": "papiyon",
+      "timestamp": "19:58",
+      "timestampSeconds": 1198,
+      "sourceUrl": "https://youtube.com/watch?v=R7WkWL1zk2g&t=1198s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "R7WkWL1zk2g-04",
+      "broadcastId": "R7WkWL1zk2g",
+      "date": "2023-10-29",
+      "order": 4,
+      "title": "贖罪",
+      "normalizedTitle": "贖罪",
+      "artist": "",
+      "timestamp": "25:02",
+      "timestampSeconds": 1502,
+      "sourceUrl": "https://youtube.com/watch?v=R7WkWL1zk2g&t=1502s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    }
+  ]
+}
+
