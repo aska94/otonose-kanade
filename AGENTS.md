@@ -11,7 +11,7 @@ The first activity is a catalogue of Kanade karaoke broadcasts, their set lists,
 1. Read this file before changing project files.
 2. Do not add factual data without recording an evidence source.
 3. Use Setlist Index as the primary structured source for karaoke set lists when a matching broadcast entry exists.
-4. Use Holodex comments and the broadcast timeline to resolve missing or conflicting information.
+4. Treat the matching Setlist Index entry as the source of record; do not require secondary verification for its fields.
 5. Do not confuse a karaoke broadcast, a performed song, and the original song.
 6. Never mark uncertain information as confirmed.
 7. Preserve existing records unless evidence shows that they are incorrect.
@@ -26,7 +26,7 @@ The first activity is a catalogue of Kanade karaoke broadcasts, their set lists,
 Use these statuses:
 
 - candidate: discovered but not sufficiently checked
-- source-confirmed: supported by a reliable source such as Setlist Index, Holodex comments, or a broadcast description
+- source-confirmed: directly recorded by the matching Setlist Index entry
 - confirmed: checked against the broadcast or multiple independent sources
 - needs-review: conflicting or incomplete evidence
 
@@ -38,11 +38,10 @@ For every broadcast and song, preserve source URLs and, where practical, the rel
 2. Download the page locally and transform it before uploading generated JSON.
 3. Import its title, date, song order, artist, and timestamp as source-confirmed candidates.
 4. Preserve the original displayed text and source URL.
-5. Use Holodex comments and the video timeline to resolve omissions, duplicates, alternate names, and timestamp offsets.
-6. Send conflicts and low-confidence matches to needs-review.
-7. Promote records to confirmed only after broadcast-level verification or corroborating evidence.
+5. Preserve the Setlist Index values as source-confirmed, including displayed timestamps and extra segments.
+6. Send only structurally missing, unparsable, or internally contradictory source fields to needs-review.
 
-Setlist Index timestamps are useful candidates but are not automatically exact song-start positions.
+Setlist Index timestamps are source-provided navigation points and are not reclassified as unverified merely because they are not independently checked.
 
 ## Dashboard and analysis
 
@@ -54,7 +53,7 @@ Setlist Index timestamps are useful candidates but are not automatically exact s
 
 ## Daily ChatGPT update
 
-The daily heartbeat may read the public Setlist Index page and compare structured rows with committed metadata. It must identify only new or changed broadcasts and performances, preserve source URLs, and create a reviewable Pull Request. No source HTML is uploaded and no direct main-branch write is allowed.
+The daily heartbeat may read the public Setlist Index page and compare structured rows with committed metadata. It must identify only new or changed broadcasts and performances, preserve source URLs, and create a reviewable Pull Request. No source HTML is uploaded and no direct main-branch write is allowed. Only parser failures or structurally incomplete source rows require human review.
 
 ## Local source preservation
 
