@@ -1,0 +1,192 @@
+{
+  "broadcast": {
+    "id": "iLbRY5jwGoE",
+    "title": "【 重大告知 】歌います！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+    "date": "2025-04-13",
+    "youtubeUrl": "https://youtube.com/watch?v=iLbRY5jwGoE",
+    "broadcastUrl": "https://youtube.com/watch?v=iLbRY5jwGoE",
+    "sources": [
+      "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+    ],
+    "status": "source-confirmed"
+  },
+  "performances": [
+    {
+      "id": "iLbRY5jwGoE-01",
+      "broadcastId": "iLbRY5jwGoE",
+      "date": "2025-04-13",
+      "order": 1,
+      "title": "Capture the Moment",
+      "normalizedTitle": "Capture the Moment",
+      "artist": "hololive IDOL PROJECT",
+      "timestamp": "5:37",
+      "timestampSeconds": 337,
+      "sourceUrl": "https://youtube.com/watch?v=iLbRY5jwGoE&t=337s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "iLbRY5jwGoE-02",
+      "broadcastId": "iLbRY5jwGoE",
+      "date": "2025-04-13",
+      "order": 2,
+      "title": "フラジール",
+      "normalizedTitle": "フラジール",
+      "artist": "ぬゆり",
+      "timestamp": "11:07",
+      "timestampSeconds": 667,
+      "sourceUrl": "https://youtube.com/watch?v=iLbRY5jwGoE&t=667s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "iLbRY5jwGoE-03",
+      "broadcastId": "iLbRY5jwGoE",
+      "date": "2025-04-13",
+      "order": 3,
+      "title": "忘れてください",
+      "normalizedTitle": "忘れてください",
+      "artist": "ヨルシカ",
+      "timestamp": "16:29",
+      "timestampSeconds": 989,
+      "sourceUrl": "https://youtube.com/watch?v=iLbRY5jwGoE&t=989s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "iLbRY5jwGoE-04",
+      "broadcastId": "iLbRY5jwGoE",
+      "date": "2025-04-13",
+      "order": 4,
+      "title": "晴る",
+      "normalizedTitle": "晴る",
+      "artist": "ヨルシカ",
+      "timestamp": "21:03",
+      "timestampSeconds": 1263,
+      "sourceUrl": "https://youtube.com/watch?v=iLbRY5jwGoE&t=1263s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "iLbRY5jwGoE-05",
+      "broadcastId": "iLbRY5jwGoE",
+      "date": "2025-04-13",
+      "order": 5,
+      "title": "ハロ",
+      "normalizedTitle": "ハロ",
+      "artist": "",
+      "timestamp": "27:10",
+      "timestampSeconds": 1630,
+      "sourceUrl": "https://youtube.com/watch?v=iLbRY5jwGoE&t=1630s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "iLbRY5jwGoE-06",
+      "broadcastId": "iLbRY5jwGoE",
+      "date": "2025-04-13",
+      "order": 6,
+      "title": "翡翠のまち",
+      "normalizedTitle": "翡翠のまち",
+      "artist": "メル feat. 初音ミク",
+      "timestamp": "32:33",
+      "timestampSeconds": 1953,
+      "sourceUrl": "https://youtube.com/watch?v=iLbRY5jwGoE&t=1953s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "iLbRY5jwGoE-07",
+      "broadcastId": "iLbRY5jwGoE",
+      "date": "2025-04-13",
+      "order": 7,
+      "title": "カタオモイ",
+      "normalizedTitle": "カタオモイ",
+      "artist": "Aimer",
+      "timestamp": "38:01",
+      "timestampSeconds": 2281,
+      "sourceUrl": "https://youtube.com/watch?v=iLbRY5jwGoE&t=2281s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "iLbRY5jwGoE-08",
+      "broadcastId": "iLbRY5jwGoE",
+      "date": "2025-04-13",
+      "order": 8,
+      "title": "カタオモイ",
+      "normalizedTitle": "カタオモイ",
+      "artist": "Aimer",
+      "timestamp": "38:28",
+      "timestampSeconds": 2308,
+      "sourceUrl": "https://youtube.com/watch?v=iLbRY5jwGoE&t=2308s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    }
+  ]
+}
+
