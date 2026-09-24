@@ -1,0 +1,192 @@
+{
+  "broadcast": {
+    "id": "MfIv_g9PYSw",
+    "title": "【歌枠 / Singing】メンバーシップ解禁記念歌枠！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+    "date": "2023-11-29",
+    "youtubeUrl": "https://youtube.com/watch?v=MfIv_g9PYSw",
+    "broadcastUrl": "https://youtube.com/watch?v=MfIv_g9PYSw",
+    "sources": [
+      "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+    ],
+    "status": "source-confirmed"
+  },
+  "performances": [
+    {
+      "id": "MfIv_g9PYSw-01",
+      "broadcastId": "MfIv_g9PYSw",
+      "date": "2023-11-29",
+      "order": 1,
+      "title": "ヨワネハキ",
+      "normalizedTitle": "ヨワネハキ",
+      "artist": "MAISONdes feat. 和ぬか, asmi",
+      "timestamp": "21:59",
+      "timestampSeconds": 1319,
+      "sourceUrl": "https://youtube.com/watch?v=MfIv_g9PYSw&t=1319s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "MfIv_g9PYSw-02",
+      "broadcastId": "MfIv_g9PYSw",
+      "date": "2023-11-29",
+      "order": 2,
+      "title": "トウキョウ・シャンディ・ランデヴ",
+      "normalizedTitle": "トウキョウ・シャンディ・ランデヴ",
+      "artist": "MAISONdes feat. 花譜, ツミキ",
+      "timestamp": "25:48",
+      "timestampSeconds": 1548,
+      "sourceUrl": "https://youtube.com/watch?v=MfIv_g9PYSw&t=1548s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "MfIv_g9PYSw-03",
+      "broadcastId": "MfIv_g9PYSw",
+      "date": "2023-11-29",
+      "order": 3,
+      "title": "マーシャル・マキシマイザー",
+      "normalizedTitle": "マーシャル・マキシマイザー",
+      "artist": "柊マグネタイト feat. 可不",
+      "timestamp": "31:08",
+      "timestampSeconds": 1868,
+      "sourceUrl": "https://youtube.com/watch?v=MfIv_g9PYSw&t=1868s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "MfIv_g9PYSw-04",
+      "broadcastId": "MfIv_g9PYSw",
+      "date": "2023-11-29",
+      "order": 4,
+      "title": "マーシャル・マキシマイザー",
+      "normalizedTitle": "マーシャル・マキシマイザー",
+      "artist": "柊マグネタイト",
+      "timestamp": "32:02",
+      "timestampSeconds": 1922,
+      "sourceUrl": "https://youtube.com/watch?v=MfIv_g9PYSw&t=1922s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "MfIv_g9PYSw-05",
+      "broadcastId": "MfIv_g9PYSw",
+      "date": "2023-11-29",
+      "order": 5,
+      "title": "キャラクター",
+      "normalizedTitle": "キャラクター",
+      "artist": "緑黄色社会",
+      "timestamp": "35:19",
+      "timestampSeconds": 2119,
+      "sourceUrl": "https://youtube.com/watch?v=MfIv_g9PYSw&t=2119s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "MfIv_g9PYSw-06",
+      "broadcastId": "MfIv_g9PYSw",
+      "date": "2023-11-29",
+      "order": 6,
+      "title": "残酷な天使のテーゼ",
+      "normalizedTitle": "残酷な天使のテーゼ",
+      "artist": "高橋洋子",
+      "timestamp": "41:31",
+      "timestampSeconds": 2491,
+      "sourceUrl": "https://youtube.com/watch?v=MfIv_g9PYSw&t=2491s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "MfIv_g9PYSw-07",
+      "broadcastId": "MfIv_g9PYSw",
+      "date": "2023-11-29",
+      "order": 7,
+      "title": "雪の華",
+      "normalizedTitle": "雪の華",
+      "artist": "中島美嘉",
+      "timestamp": "46:28",
+      "timestampSeconds": 2788,
+      "sourceUrl": "https://youtube.com/watch?v=MfIv_g9PYSw&t=2788s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "MfIv_g9PYSw-08",
+      "broadcastId": "MfIv_g9PYSw",
+      "date": "2023-11-29",
+      "order": 8,
+      "title": "オレンジ",
+      "normalizedTitle": "オレンジ",
+      "artist": "釘宮理恵、堀江由衣、喜多村英梨",
+      "timestamp": "53:21",
+      "timestampSeconds": 3201,
+      "sourceUrl": "https://youtube.com/watch?v=MfIv_g9PYSw&t=3201s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    }
+  ]
+}
+
