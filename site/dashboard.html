@@ -100,9 +100,10 @@
         });
         document.querySelector('#yearly-songs').innerHTML = renderTable(['연도', '음원 목록 (사용 횟수)'], yearlyRows);
       })
-      .catch(() => {
-        document.querySelector('#yearly-songs').innerHTML = '<p class="muted">정규화된 데이터가 아직 없습니다.</p>';
-        document.querySelector('#top-songs').innerHTML = '<p class="muted">정규화된 데이터가 아직 없습니다.</p>';
+      .catch(error => {
+        const message = escapeHtml(error && error.message ? error.message : 'unknown error');
+        document.querySelector('#yearly-songs').innerHTML = '<p class="muted">데이터를 불러오지 못했습니다: ' + message + '</p>';
+        document.querySelector('#top-songs').innerHTML = '<p class="muted">데이터를 불러오지 못했습니다.</p>';
       });
   </script>
 </body>
