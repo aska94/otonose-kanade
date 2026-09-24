@@ -1,0 +1,412 @@
+{
+  "broadcast": {
+    "id": "a8GYotCWqxs",
+    "title": "【 歌枠 】久しぶりの横長歌枠！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+    "date": "2026-05-21",
+    "youtubeUrl": "https://youtube.com/watch?v=a8GYotCWqxs",
+    "broadcastUrl": "https://youtube.com/watch?v=a8GYotCWqxs",
+    "sources": [
+      "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+    ],
+    "status": "source-confirmed"
+  },
+  "performances": [
+    {
+      "id": "a8GYotCWqxs-01",
+      "broadcastId": "a8GYotCWqxs",
+      "date": "2026-05-21",
+      "order": 1,
+      "title": "花になって",
+      "normalizedTitle": "花になって",
+      "artist": "緑黄色社会",
+      "timestamp": "3:57",
+      "timestampSeconds": 237,
+      "sourceUrl": "https://youtube.com/watch?v=a8GYotCWqxs&t=237s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "a8GYotCWqxs-02",
+      "broadcastId": "a8GYotCWqxs",
+      "date": "2026-05-21",
+      "order": 2,
+      "title": "CH4NGE",
+      "normalizedTitle": "CH4NGE",
+      "artist": "Giga",
+      "timestamp": "9:32",
+      "timestampSeconds": 572,
+      "sourceUrl": "https://youtube.com/watch?v=a8GYotCWqxs&t=572s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "a8GYotCWqxs-03",
+      "broadcastId": "a8GYotCWqxs",
+      "date": "2026-05-21",
+      "order": 3,
+      "title": "Overdose",
+      "normalizedTitle": "Overdose",
+      "artist": "",
+      "timestamp": "12:42",
+      "timestampSeconds": 762,
+      "sourceUrl": "https://youtube.com/watch?v=a8GYotCWqxs&t=762s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "a8GYotCWqxs-04",
+      "broadcastId": "a8GYotCWqxs",
+      "date": "2026-05-21",
+      "order": 4,
+      "title": "恋風邪にのせて",
+      "normalizedTitle": "恋風邪にのせて",
+      "artist": "Vaundy",
+      "timestamp": "19:39",
+      "timestampSeconds": 1179,
+      "sourceUrl": "https://youtube.com/watch?v=a8GYotCWqxs&t=1179s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "a8GYotCWqxs-05",
+      "broadcastId": "a8GYotCWqxs",
+      "date": "2026-05-21",
+      "order": 5,
+      "title": "Merry-go-round",
+      "normalizedTitle": "Merry-go-round",
+      "artist": "",
+      "timestamp": "27:56",
+      "timestampSeconds": 1676,
+      "sourceUrl": "https://youtube.com/watch?v=a8GYotCWqxs&t=1676s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "a8GYotCWqxs-06",
+      "broadcastId": "a8GYotCWqxs",
+      "date": "2026-05-21",
+      "order": 6,
+      "title": "晩餐歌",
+      "normalizedTitle": "晩餐歌",
+      "artist": "tuki.",
+      "timestamp": "33:14",
+      "timestampSeconds": 1994,
+      "sourceUrl": "https://youtube.com/watch?v=a8GYotCWqxs&t=1994s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "a8GYotCWqxs-07",
+      "broadcastId": "a8GYotCWqxs",
+      "date": "2026-05-21",
+      "order": 7,
+      "title": "晩餐歌",
+      "normalizedTitle": "晩餐歌",
+      "artist": "tuki.",
+      "timestamp": "33:42",
+      "timestampSeconds": 2022,
+      "sourceUrl": "https://youtube.com/watch?v=a8GYotCWqxs&t=2022s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "a8GYotCWqxs-08",
+      "broadcastId": "a8GYotCWqxs",
+      "date": "2026-05-21",
+      "order": 8,
+      "title": "花に亡霊",
+      "normalizedTitle": "花に亡霊",
+      "artist": "ヨルシカ",
+      "timestamp": "37:45",
+      "timestampSeconds": 2265,
+      "sourceUrl": "https://youtube.com/watch?v=a8GYotCWqxs&t=2265s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "a8GYotCWqxs-09",
+      "broadcastId": "a8GYotCWqxs",
+      "date": "2026-05-21",
+      "order": 9,
+      "title": "夜撫でるメノウ",
+      "normalizedTitle": "夜撫でるメノウ",
+      "artist": "Ayase",
+      "timestamp": "42:14",
+      "timestampSeconds": 2534,
+      "sourceUrl": "https://youtube.com/watch?v=a8GYotCWqxs&t=2534s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "a8GYotCWqxs-10",
+      "broadcastId": "a8GYotCWqxs",
+      "date": "2026-05-21",
+      "order": 10,
+      "title": "春を告げる",
+      "normalizedTitle": "春を告げる",
+      "artist": "yama",
+      "timestamp": "46:54",
+      "timestampSeconds": 2814,
+      "sourceUrl": "https://youtube.com/watch?v=a8GYotCWqxs&t=2814s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "a8GYotCWqxs-11",
+      "broadcastId": "a8GYotCWqxs",
+      "date": "2026-05-21",
+      "order": 11,
+      "title": "心做し",
+      "normalizedTitle": "心做し",
+      "artist": "蝶々P",
+      "timestamp": "51:14",
+      "timestampSeconds": 3074,
+      "sourceUrl": "https://youtube.com/watch?v=a8GYotCWqxs&t=3074s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "a8GYotCWqxs-12",
+      "broadcastId": "a8GYotCWqxs",
+      "date": "2026-05-21",
+      "order": 12,
+      "title": "Lucky Loud",
+      "normalizedTitle": "Lucky Loud",
+      "artist": "ReGLOSS",
+      "timestamp": "57:30",
+      "timestampSeconds": 3450,
+      "sourceUrl": "https://youtube.com/watch?v=a8GYotCWqxs&t=3450s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "a8GYotCWqxs-13",
+      "broadcastId": "a8GYotCWqxs",
+      "date": "2026-05-21",
+      "order": 13,
+      "title": "四季ノ唄",
+      "normalizedTitle": "四季ノ唄",
+      "artist": "MINMI",
+      "timestamp": "1:05:07",
+      "timestampSeconds": 3907,
+      "sourceUrl": "https://youtube.com/watch?v=a8GYotCWqxs&t=3907s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "a8GYotCWqxs-14",
+      "broadcastId": "a8GYotCWqxs",
+      "date": "2026-05-21",
+      "order": 14,
+      "title": "人生は夢だらけ",
+      "normalizedTitle": "人生は夢だらけ",
+      "artist": "椎名林檎",
+      "timestamp": "1:12:57",
+      "timestampSeconds": 4377,
+      "sourceUrl": "https://youtube.com/watch?v=a8GYotCWqxs&t=4377s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "a8GYotCWqxs-15",
+      "broadcastId": "a8GYotCWqxs",
+      "date": "2026-05-21",
+      "order": 15,
+      "title": "どうにかなっちゃいそう！",
+      "normalizedTitle": "どうにかなっちゃいそう！",
+      "artist": "NOMELON NOLEMON",
+      "timestamp": "1:17:57",
+      "timestampSeconds": 4677,
+      "sourceUrl": "https://youtube.com/watch?v=a8GYotCWqxs&t=4677s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "a8GYotCWqxs-16",
+      "broadcastId": "a8GYotCWqxs",
+      "date": "2026-05-21",
+      "order": 16,
+      "title": "敗北の少年",
+      "normalizedTitle": "敗北の少年",
+      "artist": "kemu",
+      "timestamp": "1:20:52",
+      "timestampSeconds": 4852,
+      "sourceUrl": "https://youtube.com/watch?v=a8GYotCWqxs&t=4852s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "a8GYotCWqxs-17",
+      "broadcastId": "a8GYotCWqxs",
+      "date": "2026-05-21",
+      "order": 17,
+      "title": "敗北の少年",
+      "normalizedTitle": "敗北の少年",
+      "artist": "kemu",
+      "timestamp": "1:21:29",
+      "timestampSeconds": 4889,
+      "sourceUrl": "https://youtube.com/watch?v=a8GYotCWqxs&t=4889s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "a8GYotCWqxs-18",
+      "broadcastId": "a8GYotCWqxs",
+      "date": "2026-05-21",
+      "order": 18,
+      "title": "You & 合図",
+      "normalizedTitle": "You & 合図",
+      "artist": "音乃瀬奏",
+      "timestamp": "1:28:00",
+      "timestampSeconds": 5280,
+      "sourceUrl": "https://youtube.com/watch?v=a8GYotCWqxs&t=5280s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    }
+  ]
+}
+
