@@ -276,4 +276,136 @@
       "status": "source-confirmed"
     },
     {
-     
+      "id": "VUtZTWnGiKY-13",
+      "broadcastId": "VUtZTWnGiKY",
+      "date": "2025-11-22",
+      "order": 13,
+      "title": "春ひさぎ",
+      "normalizedTitle": "春ひさぎ",
+      "artist": "ヨルシカ",
+      "timestamp": "1:30:34",
+      "timestampSeconds": 5434,
+      "sourceUrl": "https://youtube.com/watch?v=VUtZTWnGiKY&t=5434s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "VUtZTWnGiKY-14",
+      "broadcastId": "VUtZTWnGiKY",
+      "date": "2025-11-22",
+      "order": 14,
+      "title": "忘れてください",
+      "normalizedTitle": "忘れてください",
+      "artist": "ヨルシカ",
+      "timestamp": "1:37:29",
+      "timestampSeconds": 5849,
+      "sourceUrl": "https://youtube.com/watch?v=VUtZTWnGiKY&t=5849s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "VUtZTWnGiKY-15",
+      "broadcastId": "VUtZTWnGiKY",
+      "date": "2025-11-22",
+      "order": 15,
+      "title": "風を食む",
+      "normalizedTitle": "風を食む",
+      "artist": "ヨルシカ",
+      "timestamp": "1:43:31",
+      "timestampSeconds": 6211,
+      "sourceUrl": "https://youtube.com/watch?v=VUtZTWnGiKY&t=6211s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "VUtZTWnGiKY-16",
+      "broadcastId": "VUtZTWnGiKY",
+      "date": "2025-11-22",
+      "order": 16,
+      "title": "晴る",
+      "normalizedTitle": "晴る",
+      "artist": "ヨルシカ",
+      "timestamp": "1:48:34",
+      "timestampSeconds": 6514,
+      "sourceUrl": "https://youtube.com/watch?v=VUtZTWnGiKY&t=6514s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "VUtZTWnGiKY-17",
+      "broadcastId": "VUtZTWnGiKY",
+      "date": "2025-11-22",
+      "order": 17,
+      "title": "Bangarang",
+      "normalizedTitle": "Bangarang",
+      "artist": "ReGLOSS",
+      "timestamp": "1:56:46",
+      "timestampSeconds": 7006,
+      "sourceUrl": "https://youtube.com/watch?v=VUtZTWnGiKY&t=7006s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "VUtZTWnGiKY-18",
+      "broadcastId": "VUtZTWnGiKY",
+      "date": "2025-11-22",
+      "order": 18,
+      "title": "Bangrang",
+      "normalizedTitle": "Bangrang",
+      "artist": "",
+      "timestamp": "1:57:44",
+      "timestampSeconds": 7064,
+      "sourceUrl": "https://youtube.com/watch?v=VUtZTWnGiKY&t=7064s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    }
+  ]
+}
