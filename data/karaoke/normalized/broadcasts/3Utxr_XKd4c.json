@@ -1,0 +1,82 @@
+{
+  "broadcast": {
+    "id": "3Utxr_XKd4c",
+    "title": "【 #ホロクリスマス歌枠リレー 】クリスマスに全力で失恋ソングを歌います＾＿＾【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+    "date": "2024-12-25",
+    "youtubeUrl": "https://youtube.com/watch?v=3Utxr_XKd4c",
+    "broadcastUrl": "https://youtube.com/watch?v=3Utxr_XKd4c",
+    "sources": [
+      "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+    ],
+    "status": "source-confirmed"
+  },
+  "performances": [
+    {
+      "id": "3Utxr_XKd4c-01",
+      "broadcastId": "3Utxr_XKd4c",
+      "date": "2024-12-25",
+      "order": 1,
+      "title": "恋人ができたんだ",
+      "normalizedTitle": "恋人ができたんだ",
+      "artist": "",
+      "timestamp": "2:36",
+      "timestampSeconds": 156,
+      "sourceUrl": "https://youtube.com/watch?v=3Utxr_XKd4c&t=156s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "3Utxr_XKd4c-02",
+      "broadcastId": "3Utxr_XKd4c",
+      "date": "2024-12-25",
+      "order": 2,
+      "title": "別の人の彼女になったよ",
+      "normalizedTitle": "別の人の彼女になったよ",
+      "artist": "wacci",
+      "timestamp": "8:49",
+      "timestampSeconds": 529,
+      "sourceUrl": "https://youtube.com/watch?v=3Utxr_XKd4c&t=529s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "3Utxr_XKd4c-03",
+      "broadcastId": "3Utxr_XKd4c",
+      "date": "2024-12-25",
+      "order": 3,
+      "title": "ドライフラワー",
+      "normalizedTitle": "ドライフラワー",
+      "artist": "優里",
+      "timestamp": "14:57",
+      "timestampSeconds": 897,
+      "sourceUrl": "https://youtube.com/watch?v=3Utxr_XKd4c&t=897s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    }
+  ]
+}
+
