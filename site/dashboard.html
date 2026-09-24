@@ -59,7 +59,7 @@
       return String(item.date || item.broadcastDate || '').slice(0, 4) || '미상';
     }
 
-    fetch(dataUrl)
+    fetch(dataUrl, { cache: 'no-store' })
       .then(response => response.ok ? response.json() : Promise.reject(new Error('data unavailable')))
       .then(payload => {
         const performances = payload.performances || [];
