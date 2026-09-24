@@ -1,0 +1,258 @@
+{
+  "broadcast": {
+    "id": "HIIR1KROS9w",
+    "title": "【歌枠 / Singing】ボカロ縛りの歌枠【音乃瀬奏】",
+    "date": "2023-10-04",
+    "youtubeUrl": "https://youtube.com/watch?v=HIIR1KROS9w",
+    "broadcastUrl": "https://youtube.com/watch?v=HIIR1KROS9w",
+    "sources": [
+      "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+    ],
+    "status": "source-confirmed"
+  },
+  "performances": [
+    {
+      "id": "HIIR1KROS9w-01",
+      "broadcastId": "HIIR1KROS9w",
+      "date": "2023-10-04",
+      "order": 1,
+      "title": "またねがあれば",
+      "normalizedTitle": "またねがあれば",
+      "artist": "risou",
+      "timestamp": "5:51",
+      "timestampSeconds": 351,
+      "sourceUrl": "https://youtube.com/watch?v=HIIR1KROS9w&t=351s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "HIIR1KROS9w-02",
+      "broadcastId": "HIIR1KROS9w",
+      "date": "2023-10-04",
+      "order": 2,
+      "title": "No Logic",
+      "normalizedTitle": "No Logic",
+      "artist": "ジミーサムP",
+      "timestamp": "12:45",
+      "timestampSeconds": 765,
+      "sourceUrl": "https://youtube.com/watch?v=HIIR1KROS9w&t=765s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "HIIR1KROS9w-03",
+      "broadcastId": "HIIR1KROS9w",
+      "date": "2023-10-04",
+      "order": 3,
+      "title": "ルーマー",
+      "normalizedTitle": "ルーマー",
+      "artist": "ポリスピカデリー",
+      "timestamp": "20:05",
+      "timestampSeconds": 1205,
+      "sourceUrl": "https://youtube.com/watch?v=HIIR1KROS9w&t=1205s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "HIIR1KROS9w-04",
+      "broadcastId": "HIIR1KROS9w",
+      "date": "2023-10-04",
+      "order": 4,
+      "title": "Love Trial",
+      "normalizedTitle": "Love Trial",
+      "artist": "浜田麻里 / 松澤浩明",
+      "timestamp": "24:56",
+      "timestampSeconds": 1496,
+      "sourceUrl": "https://youtube.com/watch?v=HIIR1KROS9w&t=1496s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "HIIR1KROS9w-05",
+      "broadcastId": "HIIR1KROS9w",
+      "date": "2023-10-04",
+      "order": 5,
+      "title": "恋愛裁判",
+      "normalizedTitle": "恋愛裁判",
+      "artist": "40mP",
+      "timestamp": "24:56",
+      "timestampSeconds": 1496,
+      "sourceUrl": "https://youtube.com/watch?v=HIIR1KROS9w&t=1496s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "HIIR1KROS9w-06",
+      "broadcastId": "HIIR1KROS9w",
+      "date": "2023-10-04",
+      "order": 6,
+      "title": "ベノム",
+      "normalizedTitle": "ベノム",
+      "artist": "かいりきベア",
+      "timestamp": "29:42",
+      "timestampSeconds": 1782,
+      "sourceUrl": "https://youtube.com/watch?v=HIIR1KROS9w&t=1782s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "HIIR1KROS9w-07",
+      "broadcastId": "HIIR1KROS9w",
+      "date": "2023-10-04",
+      "order": 7,
+      "title": "夜明けと蛍",
+      "normalizedTitle": "夜明けと蛍",
+      "artist": "n-buna",
+      "timestamp": "34:34",
+      "timestampSeconds": 2074,
+      "sourceUrl": "https://youtube.com/watch?v=HIIR1KROS9w&t=2074s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "HIIR1KROS9w-08",
+      "broadcastId": "HIIR1KROS9w",
+      "date": "2023-10-04",
+      "order": 8,
+      "title": "Meru",
+      "normalizedTitle": "Meru",
+      "artist": "Dave Santoro",
+      "timestamp": "40:59",
+      "timestampSeconds": 2459,
+      "sourceUrl": "https://youtube.com/watch?v=HIIR1KROS9w&t=2459s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "HIIR1KROS9w-09",
+      "broadcastId": "HIIR1KROS9w",
+      "date": "2023-10-04",
+      "order": 9,
+      "title": "メリュー",
+      "normalizedTitle": "メリュー",
+      "artist": "n-buna",
+      "timestamp": "40:59",
+      "timestampSeconds": 2459,
+      "sourceUrl": "https://youtube.com/watch?v=HIIR1KROS9w&t=2459s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "HIIR1KROS9w-10",
+      "broadcastId": "HIIR1KROS9w",
+      "date": "2023-10-04",
+      "order": 10,
+      "title": "ゴーストルール",
+      "normalizedTitle": "ゴーストルール",
+      "artist": "DECO*27",
+      "timestamp": "47:15",
+      "timestampSeconds": 2835,
+      "sourceUrl": "https://youtube.com/watch?v=HIIR1KROS9w&t=2835s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "HIIR1KROS9w-11",
+      "broadcastId": "HIIR1KROS9w",
+      "date": "2023-10-04",
+      "order": 11,
+      "title": "Error",
+      "normalizedTitle": "Error",
+      "artist": "",
+      "timestamp": "52:43",
+      "timestampSeconds": 3163,
+      "sourceUrl": "https://youtube.com/watch?v=HIIR1KROS9w&t=3163s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    }
+  ]
+}
+
