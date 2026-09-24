@@ -9,7 +9,7 @@ The source of truth is layered:
 1. Locally downloaded Setlist Index snapshots for structured broadcast set lists
 2. Source metadata committed to GitHub for provenance
 3. Normalized catalogue for analysis and site generation
-4. Holodex comments and broadcast timelines for conflict resolution
+4. Setlist Index as the source of record for the fields it publishes
 
 ## 2. Repository data layout
 
@@ -17,7 +17,7 @@ The karaoke data area will use:
 
 - data/karaoke/raw/setlist-index/ — local-only source snapshots, excluded from GitHub
 - data/karaoke/source-metadata/ — committed provenance metadata without source content
-- data/karaoke/candidates/ — imported but not fully verified records
+- data/karaoke/candidates/ — imported source records awaiting normalization
 - data/karaoke/review/ — conflicts and records needing human decisions
 - data/karaoke/normalized/ — normalized broadcasts, performances, original-song mappings, and tags
 - data/karaoke/playlist/ — generated playlist manifests and unmatched-song reports
@@ -57,10 +57,8 @@ Setlist Index is the primary structured source for matching Kanade karaoke broad
 6. Store the raw values unchanged.
 7. Normalize values into the analysis model.
 8. Deduplicate broadcasts and performances by stable video ID.
-9. Send missing or conflicting fields to the review queue.
+9. Send only structurally missing, unparsable, or internally contradictory source fields to the review queue.
 10. Create a report showing imported, changed, unmatched, and unresolved records.
-
-Holodex is a fallback and verification source. It is used only when Setlist Index is missing, incomplete, or inconsistent, and for checking timestamps or song identity.
 
 ## 5. Daily ChatGPT update mode
 
@@ -77,7 +75,7 @@ The daily check will:
 7. Open a reviewable GitHub Pull Request.
 8. Remain silent when no meaningful change exists.
 
-The heartbeat must not upload the source HTML, must not write directly to main, and must mark parser uncertainty or source ambiguity for human review. A semantic page summary is a comparison aid, not a cryptographic source hash.
+The heartbeat must not upload the source HTML, must not write directly to main, and must mark only parser failures or structurally incomplete source rows for human review. A semantic page summary is a comparison aid, not a cryptographic source hash.
 
 The local importer remains available for a full rebuild when web extraction is unavailable or a complete source snapshot is required.
 
@@ -157,7 +155,7 @@ Phase D — Playlists:
 
 Human review is required for:
 
-- ambiguous or conflicting set-list records
+- structurally incomplete or unparsable source rows
 - original-song matching
 - genre and mood tags when metadata is unclear
 - approval of the first complete import
