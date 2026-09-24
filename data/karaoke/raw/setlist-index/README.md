@@ -1,23 +1,12 @@
-# Setlist Index raw snapshots
+# Local-only Setlist Index snapshots
 
-Setlist Index is downloaded locally first. GitHub Actions does not access the external site directly.
+The original Setlist Index HTML is downloaded and processed locally. It is intentionally not uploaded to GitHub.
 
-## Required local upload file
+Local workflow:
 
-Upload the current page HTML as:
+1. Download the page to a local path such as data/karaoke/raw/setlist-index/latest.html.
+2. Run the importer with that local file.
+3. Upload only generated candidate or normalized JSON plus source metadata.
+4. Keep the local HTML ignored by Git.
 
-    data/karaoke/raw/setlist-index/latest.html
-
-Keep dated copies when possible, for example:
-
-    data/karaoke/raw/setlist-index/2026-09-24.html
-
-Each snapshot must include or be accompanied by:
-
-- retrieval date
-- source URL
-- source identifier or video ID
-- importer/parser version
-- retrieval result or error
-
-Do not overwrite a dated snapshot. The workflow reads latest.html, parses it, and stores the result as a reviewable artifact.
+The importer records the source URL, retrieval time, local filename, SHA-256, parser version, and record counts in data/karaoke/source-metadata/setlist-index.json.
