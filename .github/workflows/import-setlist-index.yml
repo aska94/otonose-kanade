@@ -16,6 +16,8 @@ jobs:
         uses: actions/checkout@v4
       - name: Import Setlist Index
         run: python scripts/karaoke/import_setlist_index.py
+      - name: Normalize imported candidates
+        run: python scripts/karaoke/normalize_setlist_index.py
       - name: Build statistics and playlist manifests
         run: python scripts/karaoke/build_stats.py
       - name: Upload collection artifact
@@ -25,4 +27,5 @@ jobs:
           path: |
             data/karaoke/raw/setlist-index/
             data/karaoke/candidates/
+            data/karaoke/normalized/
             data/karaoke/playlist/
