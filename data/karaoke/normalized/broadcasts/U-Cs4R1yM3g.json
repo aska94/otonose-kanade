@@ -1,0 +1,236 @@
+{
+  "broadcast": {
+    "id": "U-Cs4R1yM3g",
+    "title": "【歌枠 / Singing】たのしく！【音乃瀬奏】",
+    "date": "2023-09-12",
+    "youtubeUrl": "https://youtube.com/watch?v=U-Cs4R1yM3g",
+    "broadcastUrl": "https://youtube.com/watch?v=U-Cs4R1yM3g",
+    "sources": [
+      "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+    ],
+    "status": "source-confirmed"
+  },
+  "performances": [
+    {
+      "id": "U-Cs4R1yM3g-01",
+      "broadcastId": "U-Cs4R1yM3g",
+      "date": "2023-09-12",
+      "order": 1,
+      "title": "LADY",
+      "normalizedTitle": "LADY",
+      "artist": "米津玄師",
+      "timestamp": "5:23",
+      "timestampSeconds": 323,
+      "sourceUrl": "https://youtube.com/watch?v=U-Cs4R1yM3g&t=323s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "U-Cs4R1yM3g-02",
+      "broadcastId": "U-Cs4R1yM3g",
+      "date": "2023-09-12",
+      "order": 2,
+      "title": "ピースサイン",
+      "normalizedTitle": "ピースサイン",
+      "artist": "米津玄師",
+      "timestamp": "12:40",
+      "timestampSeconds": 760,
+      "sourceUrl": "https://youtube.com/watch?v=U-Cs4R1yM3g&t=760s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "U-Cs4R1yM3g-03",
+      "broadcastId": "U-Cs4R1yM3g",
+      "date": "2023-09-12",
+      "order": 3,
+      "title": "愛を伝えたいだとか",
+      "normalizedTitle": "愛を伝えたいだとか",
+      "artist": "あいみょん",
+      "timestamp": "18:45",
+      "timestampSeconds": 1125,
+      "sourceUrl": "https://youtube.com/watch?v=U-Cs4R1yM3g&t=1125s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "U-Cs4R1yM3g-04",
+      "broadcastId": "U-Cs4R1yM3g",
+      "date": "2023-09-12",
+      "order": 4,
+      "title": "KICK BACK",
+      "normalizedTitle": "KICK BACK",
+      "artist": "米津玄師",
+      "timestamp": "28:02",
+      "timestampSeconds": 1682,
+      "sourceUrl": "https://youtube.com/watch?v=U-Cs4R1yM3g&t=1682s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "U-Cs4R1yM3g-05",
+      "broadcastId": "U-Cs4R1yM3g",
+      "date": "2023-09-12",
+      "order": 5,
+      "title": "神っぽいな",
+      "normalizedTitle": "神っぽいな",
+      "artist": "ピノキオピー feat. 初音ミク",
+      "timestamp": "32:42",
+      "timestampSeconds": 1962,
+      "sourceUrl": "https://youtube.com/watch?v=U-Cs4R1yM3g&t=1962s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "U-Cs4R1yM3g-06",
+      "broadcastId": "U-Cs4R1yM3g",
+      "date": "2023-09-12",
+      "order": 6,
+      "title": "踊",
+      "normalizedTitle": "踊",
+      "artist": "Ado",
+      "timestamp": "37:44",
+      "timestampSeconds": 2264,
+      "sourceUrl": "https://youtube.com/watch?v=U-Cs4R1yM3g&t=2264s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "U-Cs4R1yM3g-07",
+      "broadcastId": "U-Cs4R1yM3g",
+      "date": "2023-09-12",
+      "order": 7,
+      "title": "ロキ",
+      "normalizedTitle": "ロキ",
+      "artist": "みきとｐ",
+      "timestamp": "42:36",
+      "timestampSeconds": 2556,
+      "sourceUrl": "https://youtube.com/watch?v=U-Cs4R1yM3g&t=2556s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "U-Cs4R1yM3g-08",
+      "broadcastId": "U-Cs4R1yM3g",
+      "date": "2023-09-12",
+      "order": 8,
+      "title": "アイドル",
+      "normalizedTitle": "アイドル",
+      "artist": "YOASOBI",
+      "timestamp": "50:02",
+      "timestampSeconds": 3002,
+      "sourceUrl": "https://youtube.com/watch?v=U-Cs4R1yM3g&t=3002s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "U-Cs4R1yM3g-09",
+      "broadcastId": "U-Cs4R1yM3g",
+      "date": "2023-09-12",
+      "order": 9,
+      "title": "星座になれたら",
+      "normalizedTitle": "星座になれたら",
+      "artist": "結束バンド",
+      "timestamp": "56:25",
+      "timestampSeconds": 3385,
+      "sourceUrl": "https://youtube.com/watch?v=U-Cs4R1yM3g&t=3385s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "U-Cs4R1yM3g-10",
+      "broadcastId": "U-Cs4R1yM3g",
+      "date": "2023-09-12",
+      "order": 10,
+      "title": "おまけ",
+      "normalizedTitle": "おまけ",
+      "artist": "",
+      "timestamp": "1:01:17",
+      "timestampSeconds": 3677,
+      "sourceUrl": "https://youtube.com/watch?v=U-Cs4R1yM3g&t=3677s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    }
+  ]
+}
+
