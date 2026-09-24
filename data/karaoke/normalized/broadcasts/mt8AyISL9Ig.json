@@ -1,0 +1,412 @@
+{
+  "broadcast": {
+    "id": "mt8AyISL9Ig",
+    "title": "【 3D LIVE 】The First Note【 #⁠音乃瀬奏生誕祭2025 】#hololiveDEV_IS #ReGLOSS",
+    "date": "2025-04-20",
+    "youtubeUrl": "https://youtube.com/watch?v=mt8AyISL9Ig",
+    "broadcastUrl": "https://youtube.com/watch?v=mt8AyISL9Ig",
+    "sources": [
+      "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+    ],
+    "status": "source-confirmed"
+  },
+  "performances": [
+    {
+      "id": "mt8AyISL9Ig-01",
+      "broadcastId": "mt8AyISL9Ig",
+      "date": "2025-04-20",
+      "order": 1,
+      "title": "じょいふる",
+      "normalizedTitle": "じょいふる",
+      "artist": "いきものがかり",
+      "timestamp": "6:04",
+      "timestampSeconds": 364,
+      "sourceUrl": "https://youtube.com/watch?v=mt8AyISL9Ig&t=364s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "mt8AyISL9Ig-02",
+      "broadcastId": "mt8AyISL9Ig",
+      "date": "2025-04-20",
+      "order": 2,
+      "title": "Joyfull",
+      "normalizedTitle": "Joyfull",
+      "artist": "Piet Bervoets / Patrick van der Hart",
+      "timestamp": "6:06",
+      "timestampSeconds": 366,
+      "sourceUrl": "https://youtube.com/watch?v=mt8AyISL9Ig&t=366s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "mt8AyISL9Ig-03",
+      "broadcastId": "mt8AyISL9Ig",
+      "date": "2025-04-20",
+      "order": 3,
+      "title": "群青讃歌",
+      "normalizedTitle": "群青讃歌",
+      "artist": "Eve",
+      "timestamp": "12:30",
+      "timestampSeconds": 750,
+      "sourceUrl": "https://youtube.com/watch?v=mt8AyISL9Ig&t=750s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "mt8AyISL9Ig-04",
+      "broadcastId": "mt8AyISL9Ig",
+      "date": "2025-04-20",
+      "order": 4,
+      "title": "ブレーメン",
+      "normalizedTitle": "ブレーメン",
+      "artist": "ヨルシカ",
+      "timestamp": "18:30",
+      "timestampSeconds": 1110,
+      "sourceUrl": "https://youtube.com/watch?v=mt8AyISL9Ig&t=1110s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "mt8AyISL9Ig-05",
+      "broadcastId": "mt8AyISL9Ig",
+      "date": "2025-04-20",
+      "order": 5,
+      "title": "フットワーク1",
+      "normalizedTitle": "フットワーク1",
+      "artist": "",
+      "timestamp": "19:16",
+      "timestampSeconds": 1156,
+      "sourceUrl": "https://youtube.com/watch?v=mt8AyISL9Ig&t=1156s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "mt8AyISL9Ig-06",
+      "broadcastId": "mt8AyISL9Ig",
+      "date": "2025-04-20",
+      "order": 6,
+      "title": "フットワーク2",
+      "normalizedTitle": "フットワーク2",
+      "artist": "",
+      "timestamp": "19:28",
+      "timestampSeconds": 1168,
+      "sourceUrl": "https://youtube.com/watch?v=mt8AyISL9Ig&t=1168s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "mt8AyISL9Ig-07",
+      "broadcastId": "mt8AyISL9Ig",
+      "date": "2025-04-20",
+      "order": 7,
+      "title": "フットワーク3",
+      "normalizedTitle": "フットワーク3",
+      "artist": "",
+      "timestamp": "19:43",
+      "timestampSeconds": 1183,
+      "sourceUrl": "https://youtube.com/watch?v=mt8AyISL9Ig&t=1183s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "mt8AyISL9Ig-08",
+      "broadcastId": "mt8AyISL9Ig",
+      "date": "2025-04-20",
+      "order": 8,
+      "title": "奏 (かなで)",
+      "normalizedTitle": "奏 (かなで)",
+      "artist": "音乃瀬奏",
+      "timestamp": "23:16",
+      "timestampSeconds": 1396,
+      "sourceUrl": "https://youtube.com/watch?v=mt8AyISL9Ig&t=1396s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "mt8AyISL9Ig-09",
+      "broadcastId": "mt8AyISL9Ig",
+      "date": "2025-04-20",
+      "order": 9,
+      "title": "No title",
+      "normalizedTitle": "No title",
+      "artist": "REOL",
+      "timestamp": "28:47",
+      "timestampSeconds": 1727,
+      "sourceUrl": "https://youtube.com/watch?v=mt8AyISL9Ig&t=1727s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "mt8AyISL9Ig-10",
+      "broadcastId": "mt8AyISL9Ig",
+      "date": "2025-04-20",
+      "order": 10,
+      "title": "BANG!!!",
+      "normalizedTitle": "BANG!!!",
+      "artist": "EGOIST",
+      "timestamp": "33:03",
+      "timestampSeconds": 1983,
+      "sourceUrl": "https://youtube.com/watch?v=mt8AyISL9Ig&t=1983s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "mt8AyISL9Ig-11",
+      "broadcastId": "mt8AyISL9Ig",
+      "date": "2025-04-20",
+      "order": 11,
+      "title": "いいムーヴ",
+      "normalizedTitle": "いいムーヴ",
+      "artist": "",
+      "timestamp": "33:54",
+      "timestampSeconds": 2034,
+      "sourceUrl": "https://youtube.com/watch?v=mt8AyISL9Ig&t=2034s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "mt8AyISL9Ig-12",
+      "broadcastId": "mt8AyISL9Ig",
+      "date": "2025-04-20",
+      "order": 12,
+      "title": "キック1",
+      "normalizedTitle": "キック1",
+      "artist": "",
+      "timestamp": "35:13",
+      "timestampSeconds": 2113,
+      "sourceUrl": "https://youtube.com/watch?v=mt8AyISL9Ig&t=2113s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "mt8AyISL9Ig-13",
+      "broadcastId": "mt8AyISL9Ig",
+      "date": "2025-04-20",
+      "order": 13,
+      "title": "ローリンガール",
+      "normalizedTitle": "ローリンガール",
+      "artist": "Wowaka",
+      "timestamp": "36:19",
+      "timestampSeconds": 2179,
+      "sourceUrl": "https://youtube.com/watch?v=mt8AyISL9Ig&t=2179s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "mt8AyISL9Ig-14",
+      "broadcastId": "mt8AyISL9Ig",
+      "date": "2025-04-20",
+      "order": 14,
+      "title": "ベテルギウス",
+      "normalizedTitle": "ベテルギウス",
+      "artist": "優里",
+      "timestamp": "39:50",
+      "timestampSeconds": 2390,
+      "sourceUrl": "https://youtube.com/watch?v=mt8AyISL9Ig&t=2390s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "mt8AyISL9Ig-15",
+      "broadcastId": "mt8AyISL9Ig",
+      "date": "2025-04-20",
+      "order": 15,
+      "title": "아카시아",
+      "normalizedTitle": "아카시아",
+      "artist": "윤성훈",
+      "timestamp": "43:45",
+      "timestampSeconds": 2625,
+      "sourceUrl": "https://youtube.com/watch?v=mt8AyISL9Ig&t=2625s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "mt8AyISL9Ig-16",
+      "broadcastId": "mt8AyISL9Ig",
+      "date": "2025-04-20",
+      "order": 16,
+      "title": "アカシア",
+      "normalizedTitle": "アカシア",
+      "artist": "BUMP OF CHICKEN",
+      "timestamp": "43:55",
+      "timestampSeconds": 2635,
+      "sourceUrl": "https://youtube.com/watch?v=mt8AyISL9Ig&t=2635s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "mt8AyISL9Ig-17",
+      "broadcastId": "mt8AyISL9Ig",
+      "date": "2025-04-20",
+      "order": 17,
+      "title": "Beautiful",
+      "normalizedTitle": "Beautiful",
+      "artist": "Superfly",
+      "timestamp": "53:32",
+      "timestampSeconds": 3212,
+      "sourceUrl": "https://youtube.com/watch?v=mt8AyISL9Ig&t=3212s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "mt8AyISL9Ig-18",
+      "broadcastId": "mt8AyISL9Ig",
+      "date": "2025-04-20",
+      "order": 18,
+      "title": "GREATEST",
+      "normalizedTitle": "GREATEST",
+      "artist": "音乃瀬奏",
+      "timestamp": "59:10",
+      "timestampSeconds": 3550,
+      "sourceUrl": "https://youtube.com/watch?v=mt8AyISL9Ig&t=3550s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    }
+  ]
+}
+
