@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "source": "data/karaoke/candidates/kanade-oldest-broadcast.json",
+  "broadcasts": [
+    {
+      "id": "U-Cs4R1yM3g",
+      "title": "〖歌枠 / Singing〗たのしく！〖音乃瀬奏〗",
+      "date": "2023-09-12",
+      "videoUrl": "https://www.youtube.com/watch?v=U-Cs4R1yM3g",
+      "sources": [
+        "https://holodex.net/watch/U-Cs4R1yM3g",
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    }
+  ]
+}
