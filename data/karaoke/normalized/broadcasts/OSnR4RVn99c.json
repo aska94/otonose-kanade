@@ -1,0 +1,148 @@
+{
+  "broadcast": {
+    "id": "OSnR4RVn99c",
+    "title": "【歌枠 / Singing】歌います！！！ReGLOSS歌枠リレー【音乃瀬奏】",
+    "date": "2023-09-17",
+    "youtubeUrl": "https://youtube.com/watch?v=OSnR4RVn99c",
+    "broadcastUrl": "https://youtube.com/watch?v=OSnR4RVn99c",
+    "sources": [
+      "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+    ],
+    "status": "source-confirmed"
+  },
+  "performances": [
+    {
+      "id": "OSnR4RVn99c-01",
+      "broadcastId": "OSnR4RVn99c",
+      "date": "2023-09-17",
+      "order": 1,
+      "title": "I LOVE YOU",
+      "normalizedTitle": "I LOVE YOU",
+      "artist": "クリスハート",
+      "timestamp": "8:34",
+      "timestampSeconds": 514,
+      "sourceUrl": "https://youtube.com/watch?v=OSnR4RVn99c&t=514s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "OSnR4RVn99c-02",
+      "broadcastId": "OSnR4RVn99c",
+      "date": "2023-09-17",
+      "order": 2,
+      "title": "ニア",
+      "normalizedTitle": "ニア",
+      "artist": "夏代孝明",
+      "timestamp": "18:57",
+      "timestampSeconds": 1137,
+      "sourceUrl": "https://youtube.com/watch?v=OSnR4RVn99c&t=1137s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "OSnR4RVn99c-03",
+      "broadcastId": "OSnR4RVn99c",
+      "date": "2023-09-17",
+      "order": 3,
+      "title": "ニア",
+      "normalizedTitle": "ニア",
+      "artist": "夏代孝明",
+      "timestamp": "21:49",
+      "timestampSeconds": 1309,
+      "sourceUrl": "https://youtube.com/watch?v=OSnR4RVn99c&t=1309s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "OSnR4RVn99c-04",
+      "broadcastId": "OSnR4RVn99c",
+      "date": "2023-09-17",
+      "order": 4,
+      "title": "ノーダウト",
+      "normalizedTitle": "ノーダウト",
+      "artist": "Official髭男dism",
+      "timestamp": "32:04",
+      "timestampSeconds": 1924,
+      "sourceUrl": "https://youtube.com/watch?v=OSnR4RVn99c&t=1924s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "OSnR4RVn99c-05",
+      "broadcastId": "OSnR4RVn99c",
+      "date": "2023-09-17",
+      "order": 5,
+      "title": "青空のラプソディ",
+      "normalizedTitle": "青空のラプソディ",
+      "artist": "fhána",
+      "timestamp": "38:57",
+      "timestampSeconds": 2337,
+      "sourceUrl": "https://youtube.com/watch?v=OSnR4RVn99c&t=2337s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "OSnR4RVn99c-06",
+      "broadcastId": "OSnR4RVn99c",
+      "date": "2023-09-17",
+      "order": 6,
+      "title": "Shiny Smily Story",
+      "normalizedTitle": "Shiny Smily Story",
+      "artist": "hololive IDOL PROJECT",
+      "timestamp": "48:28",
+      "timestampSeconds": 2908,
+      "sourceUrl": "https://youtube.com/watch?v=OSnR4RVn99c&t=2908s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    }
+  ]
+}
+
