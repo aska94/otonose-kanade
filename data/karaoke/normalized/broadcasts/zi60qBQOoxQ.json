@@ -1,0 +1,280 @@
+{
+  "broadcast": {
+    "id": "zi60qBQOoxQ",
+    "title": "【 縦型歌枠 】777,777人目指して歌おうかなって【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+    "date": "2026-01-31",
+    "youtubeUrl": "https://youtube.com/watch?v=zi60qBQOoxQ",
+    "broadcastUrl": "https://youtube.com/watch?v=zi60qBQOoxQ",
+    "sources": [
+      "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+    ],
+    "status": "source-confirmed"
+  },
+  "performances": [
+    {
+      "id": "zi60qBQOoxQ-01",
+      "broadcastId": "zi60qBQOoxQ",
+      "date": "2026-01-31",
+      "order": 1,
+      "title": "XOVERLINE",
+      "normalizedTitle": "XOVERLINE",
+      "artist": "ReGLOSS",
+      "timestamp": "2:48",
+      "timestampSeconds": 168,
+      "sourceUrl": "https://youtube.com/watch?v=zi60qBQOoxQ&t=168s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "zi60qBQOoxQ-02",
+      "broadcastId": "zi60qBQOoxQ",
+      "date": "2026-01-31",
+      "order": 2,
+      "title": "ワールドイズマイン",
+      "normalizedTitle": "ワールドイズマイン",
+      "artist": "ryo",
+      "timestamp": "7:13",
+      "timestampSeconds": 433,
+      "sourceUrl": "https://youtube.com/watch?v=zi60qBQOoxQ&t=433s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "zi60qBQOoxQ-03",
+      "broadcastId": "zi60qBQOoxQ",
+      "date": "2026-01-31",
+      "order": 3,
+      "title": "ロンリーユニバース",
+      "normalizedTitle": "ロンリーユニバース",
+      "artist": "Aqu3ra",
+      "timestamp": "13:31",
+      "timestampSeconds": 811,
+      "sourceUrl": "https://youtube.com/watch?v=zi60qBQOoxQ&t=811s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "zi60qBQOoxQ-04",
+      "broadcastId": "zi60qBQOoxQ",
+      "date": "2026-01-31",
+      "order": 4,
+      "title": "ray",
+      "normalizedTitle": "ray",
+      "artist": "BUMP OF CHICKEN",
+      "timestamp": "19:07",
+      "timestampSeconds": 1147,
+      "sourceUrl": "https://youtube.com/watch?v=zi60qBQOoxQ&t=1147s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "zi60qBQOoxQ-05",
+      "broadcastId": "zi60qBQOoxQ",
+      "date": "2026-01-31",
+      "order": 5,
+      "title": "Mela!",
+      "normalizedTitle": "Mela!",
+      "artist": "緑黄色社会",
+      "timestamp": "26:56",
+      "timestampSeconds": 1616,
+      "sourceUrl": "https://youtube.com/watch?v=zi60qBQOoxQ&t=1616s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "zi60qBQOoxQ-06",
+      "broadcastId": "zi60qBQOoxQ",
+      "date": "2026-01-31",
+      "order": 6,
+      "title": "JANE DOE",
+      "normalizedTitle": "JANE DOE",
+      "artist": "米津玄師, 宇多田ヒカル",
+      "timestamp": "33:19",
+      "timestampSeconds": 1999,
+      "sourceUrl": "https://youtube.com/watch?v=zi60qBQOoxQ&t=1999s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "zi60qBQOoxQ-07",
+      "broadcastId": "zi60qBQOoxQ",
+      "date": "2026-01-31",
+      "order": 7,
+      "title": "Calc.",
+      "normalizedTitle": "Calc.",
+      "artist": "ジミーサムP",
+      "timestamp": "38:41",
+      "timestampSeconds": 2321,
+      "sourceUrl": "https://youtube.com/watch?v=zi60qBQOoxQ&t=2321s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "zi60qBQOoxQ-08",
+      "broadcastId": "zi60qBQOoxQ",
+      "date": "2026-01-31",
+      "order": 8,
+      "title": "それがあなたの幸せとしても",
+      "normalizedTitle": "それがあなたの幸せとしても",
+      "artist": "Heavenz",
+      "timestamp": "43:22",
+      "timestampSeconds": 2602,
+      "sourceUrl": "https://youtube.com/watch?v=zi60qBQOoxQ&t=2602s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "zi60qBQOoxQ-09",
+      "broadcastId": "zi60qBQOoxQ",
+      "date": "2026-01-31",
+      "order": 9,
+      "title": "Bangarang",
+      "normalizedTitle": "Bangarang",
+      "artist": "ReGLOSS",
+      "timestamp": "49:40",
+      "timestampSeconds": 2980,
+      "sourceUrl": "https://youtube.com/watch?v=zi60qBQOoxQ&t=2980s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "zi60qBQOoxQ-10",
+      "broadcastId": "zi60qBQOoxQ",
+      "date": "2026-01-31",
+      "order": 10,
+      "title": "Universe",
+      "normalizedTitle": "Universe",
+      "artist": "Official髭男dism",
+      "timestamp": "54:50",
+      "timestampSeconds": 3290,
+      "sourceUrl": "https://youtube.com/watch?v=zi60qBQOoxQ&t=3290s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "zi60qBQOoxQ-11",
+      "broadcastId": "zi60qBQOoxQ",
+      "date": "2026-01-31",
+      "order": 11,
+      "title": "花降らし",
+      "normalizedTitle": "花降らし",
+      "artist": "n-buna",
+      "timestamp": "1:02:43",
+      "timestampSeconds": 3763,
+      "sourceUrl": "https://youtube.com/watch?v=zi60qBQOoxQ&t=3763s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "zi60qBQOoxQ-12",
+      "broadcastId": "zi60qBQOoxQ",
+      "date": "2026-01-31",
+      "order": 12,
+      "title": "GREATEST",
+      "normalizedTitle": "GREATEST",
+      "artist": "音乃瀬奏",
+      "timestamp": "1:08:18",
+      "timestampSeconds": 4098,
+      "sourceUrl": "https://youtube.com/watch?v=zi60qBQOoxQ&t=4098s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    }
+  ]
+}
+
