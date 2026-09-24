@@ -1,0 +1,324 @@
+{
+  "broadcast": {
+    "id": "4flP14V9uRI",
+    "title": "【 縦型歌枠 】今日はセンチメンタルな気分・・・【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+    "date": "2026-06-29",
+    "youtubeUrl": "https://youtube.com/watch?v=4flP14V9uRI",
+    "broadcastUrl": "https://youtube.com/watch?v=4flP14V9uRI",
+    "sources": [
+      "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+    ],
+    "status": "source-confirmed"
+  },
+  "performances": [
+    {
+      "id": "4flP14V9uRI-01",
+      "broadcastId": "4flP14V9uRI",
+      "date": "2026-06-29",
+      "order": 1,
+      "title": "Pretender",
+      "normalizedTitle": "Pretender",
+      "artist": "Official髭男dism",
+      "timestamp": "6:34",
+      "timestampSeconds": 394,
+      "sourceUrl": "https://youtube.com/watch?v=4flP14V9uRI&t=394s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "4flP14V9uRI-02",
+      "broadcastId": "4flP14V9uRI",
+      "date": "2026-06-29",
+      "order": 2,
+      "title": "ドライフラワー",
+      "normalizedTitle": "ドライフラワー",
+      "artist": "優里",
+      "timestamp": "13:46",
+      "timestampSeconds": 826,
+      "sourceUrl": "https://youtube.com/watch?v=4flP14V9uRI&t=826s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "4flP14V9uRI-03",
+      "broadcastId": "4flP14V9uRI",
+      "date": "2026-06-29",
+      "order": 3,
+      "title": "ブルーアンバー",
+      "normalizedTitle": "ブルーアンバー",
+      "artist": "back number",
+      "timestamp": "20:34",
+      "timestampSeconds": 1234,
+      "sourceUrl": "https://youtube.com/watch?v=4flP14V9uRI&t=1234s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "4flP14V9uRI-04",
+      "broadcastId": "4flP14V9uRI",
+      "date": "2026-06-29",
+      "order": 4,
+      "title": "奏 (かなで)",
+      "normalizedTitle": "奏 (かなで)",
+      "artist": "大橋卓弥 / 常田真太郎",
+      "timestamp": "25:07",
+      "timestampSeconds": 1507,
+      "sourceUrl": "https://youtube.com/watch?v=4flP14V9uRI&t=1507s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "4flP14V9uRI-05",
+      "broadcastId": "4flP14V9uRI",
+      "date": "2026-06-29",
+      "order": 5,
+      "title": "地球儀",
+      "normalizedTitle": "地球儀",
+      "artist": "米津玄師",
+      "timestamp": "31:13",
+      "timestampSeconds": 1873,
+      "sourceUrl": "https://youtube.com/watch?v=4flP14V9uRI&t=1873s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "4flP14V9uRI-06",
+      "broadcastId": "4flP14V9uRI",
+      "date": "2026-06-29",
+      "order": 6,
+      "title": "Subtitle",
+      "normalizedTitle": "Subtitle",
+      "artist": "Official髭男dism",
+      "timestamp": "39:06",
+      "timestampSeconds": 2346,
+      "sourceUrl": "https://youtube.com/watch?v=4flP14V9uRI&t=2346s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "4flP14V9uRI-07",
+      "broadcastId": "4flP14V9uRI",
+      "date": "2026-06-29",
+      "order": 7,
+      "title": "LADY",
+      "normalizedTitle": "LADY",
+      "artist": "米津玄師",
+      "timestamp": "49:39",
+      "timestampSeconds": 2979,
+      "sourceUrl": "https://youtube.com/watch?v=4flP14V9uRI&t=2979s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "4flP14V9uRI-08",
+      "broadcastId": "4flP14V9uRI",
+      "date": "2026-06-29",
+      "order": 8,
+      "title": "晩餐歌",
+      "normalizedTitle": "晩餐歌",
+      "artist": "tuki.",
+      "timestamp": "53:37",
+      "timestampSeconds": 3217,
+      "sourceUrl": "https://youtube.com/watch?v=4flP14V9uRI&t=3217s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "4flP14V9uRI-09",
+      "broadcastId": "4flP14V9uRI",
+      "date": "2026-06-29",
+      "order": 9,
+      "title": "別の人の彼女になったよ",
+      "normalizedTitle": "別の人の彼女になったよ",
+      "artist": "wacci",
+      "timestamp": "1:02:32",
+      "timestampSeconds": 3752,
+      "sourceUrl": "https://youtube.com/watch?v=4flP14V9uRI&t=3752s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "4flP14V9uRI-10",
+      "broadcastId": "4flP14V9uRI",
+      "date": "2026-06-29",
+      "order": 10,
+      "title": "たばこ",
+      "normalizedTitle": "たばこ",
+      "artist": "コレサワ",
+      "timestamp": "1:08:49",
+      "timestampSeconds": 4129,
+      "sourceUrl": "https://youtube.com/watch?v=4flP14V9uRI&t=4129s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "4flP14V9uRI-11",
+      "broadcastId": "4flP14V9uRI",
+      "date": "2026-06-29",
+      "order": 11,
+      "title": "Toxic Luv",
+      "normalizedTitle": "Toxic Luv",
+      "artist": "",
+      "timestamp": "1:20:03",
+      "timestampSeconds": 4803,
+      "sourceUrl": "https://youtube.com/watch?v=4flP14V9uRI&t=4803s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "4flP14V9uRI-12",
+      "broadcastId": "4flP14V9uRI",
+      "date": "2026-06-29",
+      "order": 12,
+      "title": "怪獣の花唄",
+      "normalizedTitle": "怪獣の花唄",
+      "artist": "Vaundy",
+      "timestamp": "1:23:01",
+      "timestampSeconds": 4981,
+      "sourceUrl": "https://youtube.com/watch?v=4flP14V9uRI&t=4981s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "4flP14V9uRI-13",
+      "broadcastId": "4flP14V9uRI",
+      "date": "2026-06-29",
+      "order": 13,
+      "title": "ノーチラス",
+      "normalizedTitle": "ノーチラス",
+      "artist": "ヨルシカ",
+      "timestamp": "1:29:58",
+      "timestampSeconds": 5398,
+      "sourceUrl": "https://youtube.com/watch?v=4flP14V9uRI&t=5398s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "4flP14V9uRI-14",
+      "broadcastId": "4flP14V9uRI",
+      "date": "2026-06-29",
+      "order": 14,
+      "title": "夢と葉桜",
+      "normalizedTitle": "夢と葉桜",
+      "artist": "青木月光 feat. 初音ミク",
+      "timestamp": "1:44:31",
+      "timestampSeconds": 6271,
+      "sourceUrl": "https://youtube.com/watch?v=4flP14V9uRI&t=6271s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    }
+  ]
+}
+
