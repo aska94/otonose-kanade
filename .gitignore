@@ -1,0 +1,13 @@
+site/dist/
+generated/
+.agent-tmp/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+Desktop.ini
