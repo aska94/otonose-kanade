@@ -34,7 +34,7 @@ For every broadcast and song, preserve source URLs and, where practical, the rel
 ## Set-list workflow
 
 1. Find the matching Setlist Index entry.
-2. Download the page locally and upload the source snapshot before transforming it.
+2. Download the page locally and transform it before uploading generated JSON.
 3. Import its title, date, song order, artist, and timestamp as source-confirmed candidates.
 4. Preserve the original displayed text and source URL.
 5. Use Holodex comments and the video timeline to resolve omissions, duplicates, alternate names, and timestamp offsets.
@@ -53,7 +53,7 @@ Setlist Index timestamps are useful candidates but are not automatically exact s
 
 ## Local source preservation
 
-Raw or source-shaped Setlist Index data belongs under data/karaoke/raw/setlist-index/. Normalized data belongs under data/karaoke/normalized/. GitHub Actions must process uploaded snapshots and must not depend on direct access to the external site. Do not overwrite a previous source snapshot; preserve retrieval date and source URL.
+Raw or source-shaped Setlist Index data belongs under local-only data/karaoke/raw/setlist-index/. Commit only source metadata and generated JSON. GitHub Actions must process committed JSON and must not depend on direct access to the external site. Do not overwrite a previous source snapshot; preserve retrieval date and source URL.
 
 ## Playlist generation
 
