@@ -1,0 +1,368 @@
+{
+  "broadcast": {
+    "id": "KURAzY1Z7eM",
+    "title": "【 縦型歌枠 】うたうよん【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+    "date": "2026-01-22",
+    "youtubeUrl": "https://youtube.com/watch?v=KURAzY1Z7eM",
+    "broadcastUrl": "https://youtube.com/watch?v=KURAzY1Z7eM",
+    "sources": [
+      "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+    ],
+    "status": "source-confirmed"
+  },
+  "performances": [
+    {
+      "id": "KURAzY1Z7eM-01",
+      "broadcastId": "KURAzY1Z7eM",
+      "date": "2026-01-22",
+      "order": 1,
+      "title": "花になって",
+      "normalizedTitle": "花になって",
+      "artist": "緑黄色社会",
+      "timestamp": "4:40",
+      "timestampSeconds": 280,
+      "sourceUrl": "https://youtube.com/watch?v=KURAzY1Z7eM&t=280s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "KURAzY1Z7eM-02",
+      "broadcastId": "KURAzY1Z7eM",
+      "date": "2026-01-22",
+      "order": 2,
+      "title": "ムーンライト",
+      "normalizedTitle": "ムーンライト",
+      "artist": "星街すいせい",
+      "timestamp": "13:37",
+      "timestampSeconds": 817,
+      "sourceUrl": "https://youtube.com/watch?v=KURAzY1Z7eM&t=817s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "KURAzY1Z7eM-03",
+      "broadcastId": "KURAzY1Z7eM",
+      "date": "2026-01-22",
+      "order": 3,
+      "title": "カタオモイ",
+      "normalizedTitle": "カタオモイ",
+      "artist": "Aimer",
+      "timestamp": "18:52",
+      "timestampSeconds": 1132,
+      "sourceUrl": "https://youtube.com/watch?v=KURAzY1Z7eM&t=1132s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "KURAzY1Z7eM-04",
+      "broadcastId": "KURAzY1Z7eM",
+      "date": "2026-01-22",
+      "order": 4,
+      "title": "パンダヒーロー",
+      "normalizedTitle": "パンダヒーロー",
+      "artist": "ハチ",
+      "timestamp": "25:37",
+      "timestampSeconds": 1537,
+      "sourceUrl": "https://youtube.com/watch?v=KURAzY1Z7eM&t=1537s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "KURAzY1Z7eM-05",
+      "broadcastId": "KURAzY1Z7eM",
+      "date": "2026-01-22",
+      "order": 5,
+      "title": "ミックスナッツ",
+      "normalizedTitle": "ミックスナッツ",
+      "artist": "Official髭男dism",
+      "timestamp": "33:49",
+      "timestampSeconds": 2029,
+      "sourceUrl": "https://youtube.com/watch?v=KURAzY1Z7eM&t=2029s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "KURAzY1Z7eM-06",
+      "broadcastId": "KURAzY1Z7eM",
+      "date": "2026-01-22",
+      "order": 6,
+      "title": "オトノケ",
+      "normalizedTitle": "オトノケ",
+      "artist": "Creepy Nuts",
+      "timestamp": "38:35",
+      "timestampSeconds": 2315,
+      "sourceUrl": "https://youtube.com/watch?v=KURAzY1Z7eM&t=2315s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "KURAzY1Z7eM-07",
+      "broadcastId": "KURAzY1Z7eM",
+      "date": "2026-01-22",
+      "order": 7,
+      "title": "Luna say maybe",
+      "normalizedTitle": "Luna say maybe",
+      "artist": "月村手毬",
+      "timestamp": "47:09",
+      "timestampSeconds": 2829,
+      "sourceUrl": "https://youtube.com/watch?v=KURAzY1Z7eM&t=2829s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "KURAzY1Z7eM-08",
+      "broadcastId": "KURAzY1Z7eM",
+      "date": "2026-01-22",
+      "order": 8,
+      "title": "革命道中",
+      "normalizedTitle": "革命道中",
+      "artist": "アイナ・ジ・エンド",
+      "timestamp": "53:25",
+      "timestampSeconds": 3205,
+      "sourceUrl": "https://youtube.com/watch?v=KURAzY1Z7eM&t=3205s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "KURAzY1Z7eM-09",
+      "broadcastId": "KURAzY1Z7eM",
+      "date": "2026-01-22",
+      "order": 9,
+      "title": "愛して愛して愛して",
+      "normalizedTitle": "愛して愛して愛して",
+      "artist": "きくお",
+      "timestamp": "1:00:04",
+      "timestampSeconds": 3604,
+      "sourceUrl": "https://youtube.com/watch?v=KURAzY1Z7eM&t=3604s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "KURAzY1Z7eM-10",
+      "broadcastId": "KURAzY1Z7eM",
+      "date": "2026-01-22",
+      "order": 10,
+      "title": "LADY",
+      "normalizedTitle": "LADY",
+      "artist": "米津玄師",
+      "timestamp": "1:06:47",
+      "timestampSeconds": 4007,
+      "sourceUrl": "https://youtube.com/watch?v=KURAzY1Z7eM&t=4007s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "KURAzY1Z7eM-11",
+      "broadcastId": "KURAzY1Z7eM",
+      "date": "2026-01-22",
+      "order": 11,
+      "title": "能動的三分間",
+      "normalizedTitle": "能動的三分間",
+      "artist": "椎名林檎",
+      "timestamp": "1:12:51",
+      "timestampSeconds": 4371,
+      "sourceUrl": "https://youtube.com/watch?v=KURAzY1Z7eM&t=4371s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "KURAzY1Z7eM-12",
+      "broadcastId": "KURAzY1Z7eM",
+      "date": "2026-01-22",
+      "order": 12,
+      "title": "恋をしたのは",
+      "normalizedTitle": "恋をしたのは",
+      "artist": "aiko",
+      "timestamp": "1:20:18",
+      "timestampSeconds": 4818,
+      "sourceUrl": "https://youtube.com/watch?v=KURAzY1Z7eM&t=4818s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "KURAzY1Z7eM-13",
+      "broadcastId": "KURAzY1Z7eM",
+      "date": "2026-01-22",
+      "order": 13,
+      "title": "愛じゃない",
+      "normalizedTitle": "愛じゃない",
+      "artist": "ダズビー",
+      "timestamp": "1:27:39",
+      "timestampSeconds": 5259,
+      "sourceUrl": "https://youtube.com/watch?v=KURAzY1Z7eM&t=5259s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "KURAzY1Z7eM-14",
+      "broadcastId": "KURAzY1Z7eM",
+      "date": "2026-01-22",
+      "order": 14,
+      "title": "2co1",
+      "normalizedTitle": "2co1",
+      "artist": "ReGLOSS",
+      "timestamp": "1:32:54",
+      "timestampSeconds": 5574,
+      "sourceUrl": "https://youtube.com/watch?v=KURAzY1Z7eM&t=5574s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "KURAzY1Z7eM-15",
+      "broadcastId": "KURAzY1Z7eM",
+      "date": "2026-01-22",
+      "order": 15,
+      "title": "ワールドイズマイン",
+      "normalizedTitle": "ワールドイズマイン",
+      "artist": "ryo",
+      "timestamp": "1:38:25",
+      "timestampSeconds": 5905,
+      "sourceUrl": "https://youtube.com/watch?v=KURAzY1Z7eM&t=5905s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    },
+    {
+      "id": "KURAzY1Z7eM-16",
+      "broadcastId": "KURAzY1Z7eM",
+      "date": "2026-01-22",
+      "order": 16,
+      "title": "メルト",
+      "normalizedTitle": "メルト",
+      "artist": "ryo",
+      "timestamp": "1:45:41",
+      "timestampSeconds": 6341,
+      "sourceUrl": "https://youtube.com/watch?v=KURAzY1Z7eM&t=6341s",
+      "sources": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "evidence": [
+        {
+          "type": "setlist-index",
+          "url": "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+        }
+      ],
+      "status": "source-confirmed"
+    }
+  ]
+}
+
