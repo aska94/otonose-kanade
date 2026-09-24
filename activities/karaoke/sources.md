@@ -10,5 +10,6 @@ Holodex comments are the primary source for discovering set-list candidates. A c
 ## Secondary references
 
 - [Kanade Official Songs/Covers - Musicdex](https://music.holodex.net/playlists/DTzQMI1M46/)
+- [Kanade karaoke set lists - Setlist Index](https://setlist.kibunya.org/channel/@OtonoseKanade/)
 
-Secondary references help find candidate songs and related videos. They do not automatically override broadcast evidence.
+Secondary references help find candidate songs and timestamps. They do not automatically override broadcast evidence.
