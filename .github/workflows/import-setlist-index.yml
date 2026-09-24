@@ -1,9 +1,12 @@
-name: Import Setlist Index
+name: Process local Setlist Index snapshot
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "17 3 * * 1"
+  push:
+    paths:
+      - "data/karaoke/raw/setlist-index/**"
+      - "scripts/karaoke/**"
+      - ".github/workflows/import-setlist-index.yml"
 
 permissions:
   contents: read
@@ -14,13 +17,15 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
-      - name: Import Setlist Index
-        run: python scripts/karaoke/import_setlist_index.py
+      - name: Check local snapshot
+        run: test -f data/karaoke/raw/setlist-index/latest.html
+      - name: Parse local Setlist Index snapshot
+        run: python scripts/karaoke/import_setlist_index.py --input data/karaoke/raw/setlist-index/latest.html
       - name: Normalize imported candidates
         run: python scripts/karaoke/normalize_setlist_index.py
       - name: Build statistics and playlist manifests
         run: python scripts/karaoke/build_stats.py
-      - name: Upload collection artifact
+      - name: Upload processed artifact
         uses: actions/upload-artifact@v4
         with:
           name: setlist-index-import
