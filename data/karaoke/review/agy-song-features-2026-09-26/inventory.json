@@ -1,0 +1,6884 @@
+{
+  "createdAt": "2026-09-26T14:54:03.188966+00:00",
+  "artistOverrideEvidence": "User explicitly identified 瞬間ハートビート original artist as ReGLOSS",
+  "songs": [
+    {
+      "id": "1288a4924415c81d",
+      "title": "瞬間ハートビート",
+      "artist": "ReGLOSS",
+      "count": 110,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/woCEixptAPY"
+      ],
+      "inputIds": [
+        "1288a4924415c81d",
+        "66ddb0d8ff759d2c",
+        "18e6dec51035144f"
+      ]
+    },
+    {
+      "id": "a3c88dc5a25420f5",
+      "title": "晩餐歌",
+      "artist": "tuki.",
+      "count": 13,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/7yJEHdZ2qJk",
+        "https://holodex.net/watch/Ec8OAZot2-w",
+        "https://holodex.net/watch/h-B3Qz1dL3g",
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "a3c88dc5a25420f5"
+      ]
+    },
+    {
+      "id": "fa70862b1fbae1ba",
+      "title": "GREATEST",
+      "artist": "音乃瀬奏",
+      "count": 11,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "fa70862b1fbae1ba"
+      ]
+    },
+    {
+      "id": "435e50662b18432a",
+      "title": "Mela!",
+      "artist": "緑黄色社会",
+      "count": 11,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "435e50662b18432a"
+      ]
+    },
+    {
+      "id": "536aacea82e25b97",
+      "title": "Subtitle",
+      "artist": "Official髭男dism",
+      "count": 9,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/8BsIBeZZEhY",
+        "https://holodex.net/watch/h-B3Qz1dL3g",
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "536aacea82e25b97"
+      ]
+    },
+    {
+      "id": "6f4db4f28bf20b58",
+      "title": "Universe",
+      "artist": "Official髭男dism",
+      "count": 9,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/qUaYRV2kupA",
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "6f4db4f28bf20b58"
+      ]
+    },
+    {
+      "id": "47825ccdf1e81913",
+      "title": "カタオモイ",
+      "artist": "Aimer",
+      "count": 9,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "47825ccdf1e81913"
+      ]
+    },
+    {
+      "id": "5343ec2bac4febad",
+      "title": "ソワレ",
+      "artist": "星街すいせい",
+      "count": 9,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/qUaYRV2kupA",
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "5343ec2bac4febad"
+      ]
+    },
+    {
+      "id": "81cc8d198e281aa6",
+      "title": "晴る",
+      "artist": "ヨルシカ",
+      "count": 9,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/Ec8OAZot2-w",
+        "https://holodex.net/watch/YrwsxnW-aow",
+        "https://holodex.net/watch/qUaYRV2kupA",
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "81cc8d198e281aa6"
+      ]
+    },
+    {
+      "id": "ae24965fc8e7c34e",
+      "title": "ビビデバ",
+      "artist": "星街すいせい",
+      "count": 8,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/Ec8OAZot2-w",
+        "https://holodex.net/watch/nNjpdHfB70Y",
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "ae24965fc8e7c34e"
+      ]
+    },
+    {
+      "id": "8faabe5eab7aa261",
+      "title": "Lemon",
+      "artist": "米津玄師",
+      "count": 7,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/8BsIBeZZEhY",
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "8faabe5eab7aa261"
+      ]
+    },
+    {
+      "id": "a47e33d71e25b88d",
+      "title": "Pretender",
+      "artist": "Official髭男dism",
+      "count": 7,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "a47e33d71e25b88d"
+      ]
+    },
+    {
+      "id": "0b050ece40eaacae",
+      "title": "さよーならまたいつか！",
+      "artist": "米津玄師",
+      "count": 7,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "0b050ece40eaacae"
+      ]
+    },
+    {
+      "id": "73e806edd80e5a2f",
+      "title": "ノーダウト",
+      "artist": "Official髭男dism",
+      "count": 7,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "73e806edd80e5a2f"
+      ]
+    },
+    {
+      "id": "c01a39d30b174c28",
+      "title": "ベテルギウス",
+      "artist": "優里",
+      "count": 7,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "c01a39d30b174c28"
+      ]
+    },
+    {
+      "id": "3110706d7d867ca8",
+      "title": "ワールドイズマイン",
+      "artist": "ryo",
+      "count": 7,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "3110706d7d867ca8"
+      ]
+    },
+    {
+      "id": "1986aba7e78d7ca7",
+      "title": "地球儀",
+      "artist": "米津玄師",
+      "count": 7,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "1986aba7e78d7ca7"
+      ]
+    },
+    {
+      "id": "15af8389b6407732",
+      "title": "天体観測",
+      "artist": "BUMP OF CHICKEN",
+      "count": 7,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/fzojx27z2Go",
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "15af8389b6407732"
+      ]
+    },
+    {
+      "id": "d8518928fa0941b6",
+      "title": "花になって",
+      "artist": "緑黄色社会",
+      "count": 7,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/Ec8OAZot2-w",
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "d8518928fa0941b6"
+      ]
+    },
+    {
+      "id": "31b203efb4aa4d17",
+      "title": "Luna say maybe",
+      "artist": "月村手毬",
+      "count": 6,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "31b203efb4aa4d17"
+      ]
+    },
+    {
+      "id": "7a6ab43de2b317ef",
+      "title": "サクラキミワタシ",
+      "artist": "tuki.",
+      "count": 6,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "7a6ab43de2b317ef"
+      ]
+    },
+    {
+      "id": "427316927601a101",
+      "title": "ニア",
+      "artist": "夏代孝明",
+      "count": 6,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "427316927601a101"
+      ]
+    },
+    {
+      "id": "8eb5d2a920b4dfaf",
+      "title": "人生は夢だらけ",
+      "artist": "椎名林檎",
+      "count": 6,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "8eb5d2a920b4dfaf"
+      ]
+    },
+    {
+      "id": "e60c7042b3e516c9",
+      "title": "風を食む",
+      "artist": "ヨルシカ",
+      "count": 6,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "e60c7042b3e516c9"
+      ]
+    },
+    {
+      "id": "a287513cea15e1ff",
+      "title": "Calc.",
+      "artist": "ジミーサムP",
+      "count": 5,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "a287513cea15e1ff"
+      ]
+    },
+    {
+      "id": "c031ede55077c0b6",
+      "title": "LADY",
+      "artist": "米津玄師",
+      "count": 5,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "c031ede55077c0b6"
+      ]
+    },
+    {
+      "id": "ee79f4056acc2158",
+      "title": "No Logic",
+      "artist": "ジミーサムP",
+      "count": 5,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "ee79f4056acc2158"
+      ]
+    },
+    {
+      "id": "a4bb79945eedba04",
+      "title": "Our Bright Parade",
+      "artist": "hololive IDOL PROJECT",
+      "count": 5,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "a4bb79945eedba04"
+      ]
+    },
+    {
+      "id": "c11b0ad93cadf815",
+      "title": "ray",
+      "artist": "BUMP OF CHICKEN",
+      "count": 5,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/qUaYRV2kupA",
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "c11b0ad93cadf815"
+      ]
+    },
+    {
+      "id": "6e79eacdafe24085",
+      "title": "はいよろこんで",
+      "artist": "こっちのけんと",
+      "count": 5,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/qUaYRV2kupA",
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "6e79eacdafe24085"
+      ]
+    },
+    {
+      "id": "0e54ff2e6949d046",
+      "title": "ひまわりの約束",
+      "artist": "秦 基博",
+      "count": 5,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "0e54ff2e6949d046"
+      ]
+    },
+    {
+      "id": "9373590e878689f9",
+      "title": "アイドル",
+      "artist": "YOASOBI",
+      "count": 5,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "9373590e878689f9"
+      ]
+    },
+    {
+      "id": "5bf146e0f6de212e",
+      "title": "コネクト",
+      "artist": "ClariS",
+      "count": 5,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "5bf146e0f6de212e"
+      ]
+    },
+    {
+      "id": "5278287aa6ae806b",
+      "title": "ノーチラス",
+      "artist": "ヨルシカ",
+      "count": 5,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/qUaYRV2kupA",
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "5278287aa6ae806b"
+      ]
+    },
+    {
+      "id": "0261fc1e41b88801",
+      "title": "フィーリングラデーション",
+      "artist": "ReGLOSS",
+      "count": 5,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/qUaYRV2kupA",
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "0261fc1e41b88801"
+      ]
+    },
+    {
+      "id": "6b1451e3f93717c8",
+      "title": "ホシアイ",
+      "artist": "",
+      "count": 5,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "6b1451e3f93717c8"
+      ]
+    },
+    {
+      "id": "02a1c6d740229257",
+      "title": "ミックスナッツ",
+      "artist": "Official髭男dism",
+      "count": 5,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "02a1c6d740229257"
+      ]
+    },
+    {
+      "id": "b738c565357e9e0b",
+      "title": "メフィスト",
+      "artist": "女王蜂",
+      "count": 5,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/8BsIBeZZEhY",
+        "https://holodex.net/watch/fzojx27z2Go",
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "b738c565357e9e0b"
+      ]
+    },
+    {
+      "id": "71f1d4ae20916035",
+      "title": "モニタリング",
+      "artist": "DECO*27",
+      "count": 5,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "71f1d4ae20916035"
+      ]
+    },
+    {
+      "id": "840a9cdc0ec33131",
+      "title": "別の人の彼女になったよ",
+      "artist": "wacci",
+      "count": 5,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/8BsIBeZZEhY",
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "840a9cdc0ec33131"
+      ]
+    },
+    {
+      "id": "4131f405246cce25",
+      "title": "夜明けと蛍",
+      "artist": "n-buna",
+      "count": 5,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "4131f405246cce25"
+      ]
+    },
+    {
+      "id": "ca9570d432352261",
+      "title": "小夜子",
+      "artist": "みきとP",
+      "count": 5,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/7yJEHdZ2qJk",
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "ca9570d432352261"
+      ]
+    },
+    {
+      "id": "fca9fd09a119afa1",
+      "title": "幾億光年",
+      "artist": "Omoinotake",
+      "count": 5,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "fca9fd09a119afa1"
+      ]
+    },
+    {
+      "id": "488558ecb7538974",
+      "title": "怪獣の花唄",
+      "artist": "Vaundy",
+      "count": 5,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/YrwsxnW-aow",
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "488558ecb7538974"
+      ]
+    },
+    {
+      "id": "70913f29bb90b1cc",
+      "title": "恋",
+      "artist": "星野源",
+      "count": 5,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/eOeMvjGGYoc",
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "70913f29bb90b1cc"
+      ]
+    },
+    {
+      "id": "4b52edfab0e55dd4",
+      "title": "星座になれたら",
+      "artist": "結束バンド",
+      "count": 5,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "4b52edfab0e55dd4"
+      ]
+    },
+    {
+      "id": "2594a5cc590bc0f7",
+      "title": "CH4NGE",
+      "artist": "Giga",
+      "count": 4,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/4G_l6xvI6vo",
+        "https://holodex.net/watch/YrwsxnW-aow",
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "2594a5cc590bc0f7"
+      ]
+    },
+    {
+      "id": "19cafc227f1b69af",
+      "title": "Color Rise Harmony",
+      "artist": "hololive IDOL PROJECT",
+      "count": 4,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "19cafc227f1b69af"
+      ]
+    },
+    {
+      "id": "da1853c68b4bcd9e",
+      "title": "FG ROADSTER",
+      "artist": "FLOW GLOW",
+      "count": 4,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "da1853c68b4bcd9e"
+      ]
+    },
+    {
+      "id": "96bb511f3b256ba2",
+      "title": "JANE DOE",
+      "artist": "米津玄師, 宇多田ヒカル",
+      "count": 4,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "96bb511f3b256ba2"
+      ]
+    },
+    {
+      "id": "2d0fedcf0d95a314",
+      "title": "Shiny Smily Story",
+      "artist": "hololive IDOL PROJECT",
+      "count": 4,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/nNjpdHfB70Y",
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "2d0fedcf0d95a314"
+      ]
+    },
+    {
+      "id": "dd78c83e8b41c768",
+      "title": "オリオンをなぞる",
+      "artist": "UNISON SQUARE GARDEN",
+      "count": 4,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "dd78c83e8b41c768"
+      ]
+    },
+    {
+      "id": "39900db6efb4580a",
+      "title": "シンメトリー",
+      "artist": "ReGLOSS",
+      "count": 4,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/Ec8OAZot2-w",
+        "https://holodex.net/watch/nNjpdHfB70Y",
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "39900db6efb4580a"
+      ]
+    },
+    {
+      "id": "70e1a1eb5c30291c",
+      "title": "ドライフラワー",
+      "artist": "優里",
+      "count": 4,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "70e1a1eb5c30291c"
+      ]
+    },
+    {
+      "id": "a3e38ce8742bba72",
+      "title": "ブルーアンバー",
+      "artist": "back number",
+      "count": 4,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "a3e38ce8742bba72"
+      ]
+    },
+    {
+      "id": "65cc90d11967db63",
+      "title": "プラチナ",
+      "artist": "坂本真綾",
+      "count": 4,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/eOeMvjGGYoc",
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "65cc90d11967db63"
+      ]
+    },
+    {
+      "id": "ddebb861162ecb95",
+      "title": "メルト",
+      "artist": "ryo",
+      "count": 4,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "ddebb861162ecb95"
+      ]
+    },
+    {
+      "id": "b8cf5eaa1fa6d397",
+      "title": "不可思議のカルテ",
+      "artist": "瀬戸麻沙美、東山奈央、種﨑敦美、内田真礼、久保ユリカ、水瀬いのり",
+      "count": 4,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "b8cf5eaa1fa6d397"
+      ]
+    },
+    {
+      "id": "9a7fe6c81987ce6f",
+      "title": "変わらないもの",
+      "artist": "奥 華子",
+      "count": 4,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/7yJEHdZ2qJk",
+        "https://holodex.net/watch/Ec8OAZot2-w",
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "9a7fe6c81987ce6f"
+      ]
+    },
+    {
+      "id": "0b1982e5a4c38916",
+      "title": "夜撫でるメノウ",
+      "artist": "Ayase",
+      "count": 4,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "0b1982e5a4c38916"
+      ]
+    },
+    {
+      "id": "e621fe40176395c6",
+      "title": "少女レイ",
+      "artist": "みきとP",
+      "count": 4,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/h-B3Qz1dL3g",
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "e621fe40176395c6"
+      ]
+    },
+    {
+      "id": "e66edd7974950d12",
+      "title": "忘れてください",
+      "artist": "ヨルシカ",
+      "count": 4,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "e66edd7974950d12"
+      ]
+    },
+    {
+      "id": "a0452148a79630cd",
+      "title": "恋愛裁判",
+      "artist": "40mP",
+      "count": 4,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/7yJEHdZ2qJk",
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "a0452148a79630cd"
+      ]
+    },
+    {
+      "id": "36f08d05d5278736",
+      "title": "気まぐれロマンティック",
+      "artist": "いきものがかり",
+      "count": 4,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/eOeMvjGGYoc",
+        "https://holodex.net/watch/fzojx27z2Go",
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "36f08d05d5278736"
+      ]
+    },
+    {
+      "id": "74f28d1e89839fde",
+      "title": "群青讃歌",
+      "artist": "Eve",
+      "count": 4,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/YrwsxnW-aow",
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "74f28d1e89839fde"
+      ]
+    },
+    {
+      "id": "ed46c57464e2de76",
+      "title": "青空のラプソディ",
+      "artist": "fhána",
+      "count": 4,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/h-B3Qz1dL3g",
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "ed46c57464e2de76"
+      ]
+    },
+    {
+      "id": "3041abdfcefc0a23",
+      "title": "鱗",
+      "artist": "秦 基博",
+      "count": 4,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "3041abdfcefc0a23"
+      ]
+    },
+    {
+      "id": "fc7c822f129094cd",
+      "title": "Catch the Moment",
+      "artist": "",
+      "count": 3,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "fc7c822f129094cd"
+      ]
+    },
+    {
+      "id": "9a3d9b118640ef70",
+      "title": "Happiness phenomenon",
+      "artist": "OHTORA / New K",
+      "count": 3,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "9a3d9b118640ef70"
+      ]
+    },
+    {
+      "id": "1bdaee12a5cc1904",
+      "title": "KICK BACK",
+      "artist": "米津玄師",
+      "count": 3,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "1bdaee12a5cc1904"
+      ]
+    },
+    {
+      "id": "9a461f0f3af46905",
+      "title": "LAKI MODE",
+      "artist": "ReGLOSS",
+      "count": 3,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "9a461f0f3af46905"
+      ]
+    },
+    {
+      "id": "ed44af6fab6dc551",
+      "title": "Mixed Nuts",
+      "artist": "Martin Gratton",
+      "count": 3,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "ed44af6fab6dc551"
+      ]
+    },
+    {
+      "id": "0e4f97e3ad3d7ac3",
+      "title": "One Last Kiss",
+      "artist": "宇多田ヒカル",
+      "count": 3,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "0e4f97e3ad3d7ac3"
+      ]
+    },
+    {
+      "id": "01e0c3f5538d9958",
+      "title": "Overdose",
+      "artist": "",
+      "count": 3,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "01e0c3f5538d9958"
+      ]
+    },
+    {
+      "id": "4fbf4d5cff41bddb",
+      "title": "Secret Base",
+      "artist": "",
+      "count": 3,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "4fbf4d5cff41bddb"
+      ]
+    },
+    {
+      "id": "fd893d12645e4fd0",
+      "title": "Snow halation",
+      "artist": "μ's",
+      "count": 3,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "fd893d12645e4fd0"
+      ]
+    },
+    {
+      "id": "2dfe2faf7a0073e4",
+      "title": "XOVERLINE",
+      "artist": "ReGLOSS",
+      "count": 3,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "2dfe2faf7a0073e4"
+      ]
+    },
+    {
+      "id": "9d1616f39144f65e",
+      "title": "You & 合図",
+      "artist": "音乃瀬奏",
+      "count": 3,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "9d1616f39144f65e"
+      ]
+    },
+    {
+      "id": "9523d20fa4b246b9",
+      "title": "いーあるふぁんくらぶ",
+      "artist": "みきとP",
+      "count": 3,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/7yJEHdZ2qJk",
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "9523d20fa4b246b9"
+      ]
+    },
+    {
+      "id": "809f3172232bf4bb",
+      "title": "からくりピエロ",
+      "artist": "40mP",
+      "count": 3,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/7yJEHdZ2qJk",
+        "https://holodex.net/watch/h-B3Qz1dL3g",
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "809f3172232bf4bb"
+      ]
+    },
+    {
+      "id": "71dcb32ebfb387e2",
+      "title": "ずうっといっしょ！",
+      "artist": "キタニタツヤ",
+      "count": 3,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "71dcb32ebfb387e2"
+      ]
+    },
+    {
+      "id": "d97ee8e325ab4648",
+      "title": "ただ君に晴れ",
+      "artist": "ヨルシカ",
+      "count": 3,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "d97ee8e325ab4648"
+      ]
+    },
+    {
+      "id": "f84005a0dd0d8003",
+      "title": "たばこ",
+      "artist": "コレサワ",
+      "count": 3,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "f84005a0dd0d8003"
+      ]
+    },
+    {
+      "id": "29c3f6d143a52bab",
+      "title": "だから僕は音楽を辞めた",
+      "artist": "ヨルシカ",
+      "count": 3,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "29c3f6d143a52bab"
+      ]
+    },
+    {
+      "id": "edd69561c2450e94",
+      "title": "なんでもないや",
+      "artist": "RADWIMPS",
+      "count": 3,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "edd69561c2450e94"
+      ]
+    },
+    {
+      "id": "fed65497a57171ba",
+      "title": "アワータイムイエロー",
+      "artist": "ReGLOSS",
+      "count": 3,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "fed65497a57171ba"
+      ]
+    },
+    {
+      "id": "707a83733bff5fe7",
+      "title": "オトナブルー",
+      "artist": "新しい学校のリーダーズ",
+      "count": 3,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "707a83733bff5fe7"
+      ]
+    },
+    {
+      "id": "deb82e3228cfc085",
+      "title": "カルチャ",
+      "artist": "ツミキ",
+      "count": 3,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/8GDyZ9EPPMs",
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "deb82e3228cfc085"
+      ]
+    },
+    {
+      "id": "6f42a2724fcd35ba",
+      "title": "キャラクター",
+      "artist": "緑黄色社会",
+      "count": 3,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/fzojx27z2Go",
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "6f42a2724fcd35ba"
+      ]
+    },
+    {
+      "id": "7ae6b9011a9b49c2",
+      "title": "クラクラ",
+      "artist": "Ado",
+      "count": 3,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/8BsIBeZZEhY",
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "7ae6b9011a9b49c2"
+      ]
+    },
+    {
+      "id": "08c8170bb6901dab",
+      "title": "ゴーストルール",
+      "artist": "DECO*27",
+      "count": 3,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/ZDG_F2w1z8w",
+        "https://holodex.net/watch/h-B3Qz1dL3g",
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "08c8170bb6901dab"
+      ]
+    },
+    {
+      "id": "b5c3adee7770bd66",
+      "title": "シュガーソングとビターステップ",
+      "artist": "UNISON SQUARE GARDEN",
+      "count": 3,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "b5c3adee7770bd66"
+      ]
+    },
+    {
+      "id": "4a4b736bb5d4b5e1",
+      "title": "スキスキ絶頂症",
+      "artist": "koyori",
+      "count": 3,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "4a4b736bb5d4b5e1"
+      ]
+    },
+    {
+      "id": "1ca0039aac831f4d",
+      "title": "トウキョウ・シャンディ・ランデヴ",
+      "artist": "MAISONdes",
+      "count": 3,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "1ca0039aac831f4d"
+      ]
+    },
+    {
+      "id": "243b0acb8674f33d",
+      "title": "フォニイ",
+      "artist": "ツミキ feat. 可不",
+      "count": 3,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "243b0acb8674f33d"
+      ]
+    },
+    {
+      "id": "7746c28deb9c3c6c",
+      "title": "ブレーメン",
+      "artist": "ヨルシカ",
+      "count": 3,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "7746c28deb9c3c6c"
+      ]
+    },
+    {
+      "id": "95c03e3dc825d424",
+      "title": "プロポーズ",
+      "artist": "なとり",
+      "count": 3,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "95c03e3dc825d424"
+      ]
+    },
+    {
+      "id": "6fe67f81aae282d1",
+      "title": "ミッドサマーシトラス",
+      "artist": "ReGLOSS",
+      "count": 3,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "6fe67f81aae282d1"
+      ]
+    },
+    {
+      "id": "d0f92676ebdfd25a",
+      "title": "メリュー",
+      "artist": "n-buna",
+      "count": 3,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "d0f92676ebdfd25a"
+      ]
+    },
+    {
+      "id": "1b6d417d3d38002f",
+      "title": "メーベル",
+      "artist": "バルーン",
+      "count": 3,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "1b6d417d3d38002f"
+      ]
+    },
+    {
+      "id": "9ad467087648a25f",
+      "title": "ロキ",
+      "artist": "みきとP",
+      "count": 3,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/ZDG_F2w1z8w",
+        "https://holodex.net/watch/h-B3Qz1dL3g",
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "9ad467087648a25f"
+      ]
+    },
+    {
+      "id": "416f81863236965c",
+      "title": "丸の内サディスティック",
+      "artist": "椎名林檎",
+      "count": 3,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "416f81863236965c"
+      ]
+    },
+    {
+      "id": "7af36324509af9e8",
+      "title": "光るなら",
+      "artist": "Goose house",
+      "count": 3,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "7af36324509af9e8"
+      ]
+    },
+    {
+      "id": "f1c0bfacc81192ed",
+      "title": "四季ノ唄",
+      "artist": "MINMI",
+      "count": 3,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "f1c0bfacc81192ed"
+      ]
+    },
+    {
+      "id": "cfecc09549cbed06",
+      "title": "夜に駆ける",
+      "artist": "YOASOBI",
+      "count": 3,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "cfecc09549cbed06"
+      ]
+    },
+    {
+      "id": "3157410ed238c9e1",
+      "title": "夜もすがら君想ふ",
+      "artist": "TOKOTOKO",
+      "count": 3,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "3157410ed238c9e1"
+      ]
+    },
+    {
+      "id": "cfd09ccecc32750d",
+      "title": "当事者",
+      "artist": "EGOIST",
+      "count": 3,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "cfd09ccecc32750d"
+      ]
+    },
+    {
+      "id": "70b152a7a4720cf9",
+      "title": "心做し",
+      "artist": "蝶々P",
+      "count": 3,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "70b152a7a4720cf9"
+      ]
+    },
+    {
+      "id": "cc5c173411a376d1",
+      "title": "怪獣",
+      "artist": "サカナクション",
+      "count": 3,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/qUaYRV2kupA",
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "cc5c173411a376d1"
+      ]
+    },
+    {
+      "id": "4f1d6001b5a3a2a3",
+      "title": "恋をしたのは",
+      "artist": "aiko",
+      "count": 3,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "4f1d6001b5a3a2a3"
+      ]
+    },
+    {
+      "id": "39182ea5627582c7",
+      "title": "悪魔の子",
+      "artist": "ヒグチアイ",
+      "count": 3,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "39182ea5627582c7"
+      ]
+    },
+    {
+      "id": "81a35238f52941ea",
+      "title": "愛して愛して愛して",
+      "artist": "きくお",
+      "count": 3,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "81a35238f52941ea"
+      ]
+    },
+    {
+      "id": "4ccde2b87398f9b3",
+      "title": "新宝島",
+      "artist": "サカナクション",
+      "count": 3,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/YrwsxnW-aow",
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "4ccde2b87398f9b3"
+      ]
+    },
+    {
+      "id": "2c4f24c9b7a0090a",
+      "title": "春を告げる",
+      "artist": "yama",
+      "count": 3,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/YrwsxnW-aow",
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "2c4f24c9b7a0090a"
+      ]
+    },
+    {
+      "id": "de4347d96ebf4c09",
+      "title": "残響散歌",
+      "artist": "Aimer",
+      "count": 3,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "de4347d96ebf4c09"
+      ]
+    },
+    {
+      "id": "e67a69be0caaeac5",
+      "title": "泡沫メイビー",
+      "artist": "ReGLOSS",
+      "count": 3,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/fzojx27z2Go",
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "e67a69be0caaeac5"
+      ]
+    },
+    {
+      "id": "cd9e9466597a4279",
+      "title": "炉心融解",
+      "artist": "iroha",
+      "count": 3,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "cd9e9466597a4279"
+      ]
+    },
+    {
+      "id": "ce42b2c72ab79fd8",
+      "title": "百花繚乱",
+      "artist": "幾田りら",
+      "count": 3,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "ce42b2c72ab79fd8"
+      ]
+    },
+    {
+      "id": "fd4517b80afa876b",
+      "title": "相思相愛",
+      "artist": "aiko",
+      "count": 3,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "fd4517b80afa876b"
+      ]
+    },
+    {
+      "id": "95de130572316b7f",
+      "title": "神っぽいな",
+      "artist": "ピノキオピー feat. 初音ミク",
+      "count": 3,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "95de130572316b7f"
+      ]
+    },
+    {
+      "id": "8f52589e53832deb",
+      "title": "花に亡霊",
+      "artist": "ヨルシカ",
+      "count": 3,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "8f52589e53832deb"
+      ]
+    },
+    {
+      "id": "584edf53fe00e35f",
+      "title": "鬼ノ宴",
+      "artist": "友成空",
+      "count": 3,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/Ec8OAZot2-w",
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "584edf53fe00e35f"
+      ]
+    },
+    {
+      "id": "7c5636f230468a31",
+      "title": "2co1",
+      "artist": "ReGLOSS",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "7c5636f230468a31"
+      ]
+    },
+    {
+      "id": "b201a088e4d37803",
+      "title": "Bangarang",
+      "artist": "ReGLOSS",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "b201a088e4d37803"
+      ]
+    },
+    {
+      "id": "05e35a4922453ecc",
+      "title": "Cheerful Vibes Echo",
+      "artist": "OHTORA / RYO OGAWA",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "05e35a4922453ecc"
+      ]
+    },
+    {
+      "id": "eb06185aab5a9553",
+      "title": "DADDY ! DADDY ! DO !",
+      "artist": "鈴木雅之 feat. 鈴木愛理",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "eb06185aab5a9553"
+      ]
+    },
+    {
+      "id": "434b5b2bfe2fcfab",
+      "title": "Flamingo",
+      "artist": "米津玄師",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "434b5b2bfe2fcfab"
+      ]
+    },
+    {
+      "id": "46697a095794625c",
+      "title": "Flyer!",
+      "artist": "Chinozo",
+      "count": 2,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/4G_l6xvI6vo",
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "46697a095794625c"
+      ]
+    },
+    {
+      "id": "1c316bd31d1991c8",
+      "title": "G4L",
+      "artist": "Giga",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "1c316bd31d1991c8"
+      ]
+    },
+    {
+      "id": "e1cf4190e1338ebb",
+      "title": "GHOST",
+      "artist": "星街すいせい",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "e1cf4190e1338ebb"
+      ]
+    },
+    {
+      "id": "77d23fa11f78a098",
+      "title": "God knows…",
+      "artist": "涼宮ハルヒ",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "77d23fa11f78a098"
+      ]
+    },
+    {
+      "id": "6adf32dda046c0db",
+      "title": "Hoshi Ai",
+      "artist": "",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "6adf32dda046c0db"
+      ]
+    },
+    {
+      "id": "4a0ca35049aa3586",
+      "title": "Love Trial",
+      "artist": "浜田麻里 / 松澤浩明",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "4a0ca35049aa3586"
+      ]
+    },
+    {
+      "id": "dda91e225b133446",
+      "title": "POP IN 2",
+      "artist": "B小町",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "dda91e225b133446"
+      ]
+    },
+    {
+      "id": "5639f9fa40c46787",
+      "title": "RAIN",
+      "artist": "SEKAI NO OWARI",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "5639f9fa40c46787"
+      ]
+    },
+    {
+      "id": "bf694cebca271343",
+      "title": "That's Why I Gave Up on Music",
+      "artist": "Rachie",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "bf694cebca271343"
+      ]
+    },
+    {
+      "id": "c9464e6ed22651a6",
+      "title": "XOVERLINE",
+      "artist": "OHTORA / New K",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "c9464e6ed22651a6"
+      ]
+    },
+    {
+      "id": "47d97831f5944eb0",
+      "title": "bvdiz",
+      "artist": "ReGLOSS",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "47d97831f5944eb0"
+      ]
+    },
+    {
+      "id": "0eb7326aec1cec94",
+      "title": "daze",
+      "artist": "じん",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "0eb7326aec1cec94"
+      ]
+    },
+    {
+      "id": "fd68a5be5e875ef9",
+      "title": "only my railgun",
+      "artist": "fripSide",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "fd68a5be5e875ef9"
+      ]
+    },
+    {
+      "id": "99776cbc247bf018",
+      "title": "あなたの夜が明けるまで",
+      "artist": "傘村トータ",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "99776cbc247bf018"
+      ]
+    },
+    {
+      "id": "fccbf186b0bd493a",
+      "title": "それがあなたの幸せとしても",
+      "artist": "Heavenz",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "fccbf186b0bd493a"
+      ]
+    },
+    {
+      "id": "e28eef2da81be9ec",
+      "title": "ちゅ、多様性。",
+      "artist": "ano",
+      "count": 2,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/7yJEHdZ2qJk",
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "e28eef2da81be9ec"
+      ]
+    },
+    {
+      "id": "733801cbdf2096f2",
+      "title": "どうにかなっちゃいそう！",
+      "artist": "NOMELON NOLEMON",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "733801cbdf2096f2"
+      ]
+    },
+    {
+      "id": "53508d78fc13ab9c",
+      "title": "ばかみたい",
+      "artist": "堀井亮佑 / 福山光晴",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "53508d78fc13ab9c"
+      ]
+    },
+    {
+      "id": "192a9547c623b3bb",
+      "title": "アイネクライネ",
+      "artist": "米津玄師",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "192a9547c623b3bb"
+      ]
+    },
+    {
+      "id": "c979b4ce61a63d76",
+      "title": "イガク",
+      "artist": "原口沙輔",
+      "count": 2,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/4G_l6xvI6vo",
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "c979b4ce61a63d76"
+      ]
+    },
+    {
+      "id": "0c3b7e3495ad5762",
+      "title": "オレンジ",
+      "artist": "トーマ",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "0c3b7e3495ad5762"
+      ]
+    },
+    {
+      "id": "52367921176ebad1",
+      "title": "ゴシップ",
+      "artist": "OSTER project",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "52367921176ebad1"
+      ]
+    },
+    {
+      "id": "9d3627e47fe1da85",
+      "title": "サインはB",
+      "artist": "B小町",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "9d3627e47fe1da85"
+      ]
+    },
+    {
+      "id": "27815839dc44055c",
+      "title": "シャルル",
+      "artist": "バルーン",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "27815839dc44055c"
+      ]
+    },
+    {
+      "id": "26055b0f1a6d86ba",
+      "title": "スターマイン",
+      "artist": "",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "26055b0f1a6d86ba"
+      ]
+    },
+    {
+      "id": "e1b0ffed8eac02e8",
+      "title": "ダーリンダンス",
+      "artist": "かいりきベア",
+      "count": 2,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/h-B3Qz1dL3g",
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "e1b0ffed8eac02e8"
+      ]
+    },
+    {
+      "id": "2c56cb43f7b9280c",
+      "title": "ドラマツルギー",
+      "artist": "Eve",
+      "count": 2,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/YrwsxnW-aow",
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "2c56cb43f7b9280c"
+      ]
+    },
+    {
+      "id": "8d50ee173e67c033",
+      "title": "ハイド・アンド・シーク",
+      "artist": "NOMELON NOLEMON",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "8d50ee173e67c033"
+      ]
+    },
+    {
+      "id": "8406dfe3cb977270",
+      "title": "ハロ",
+      "artist": "",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "8406dfe3cb977270"
+      ]
+    },
+    {
+      "id": "51c094ec31904702",
+      "title": "ビバハピ",
+      "artist": "Mitchie M",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "51c094ec31904702"
+      ]
+    },
+    {
+      "id": "d14fe38e756ad855",
+      "title": "フライデー・ナイト",
+      "artist": "なとり",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "d14fe38e756ad855"
+      ]
+    },
+    {
+      "id": "3b55f34801392ac2",
+      "title": "プラスティック・ラブ",
+      "artist": "竹内まりや",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "3b55f34801392ac2"
+      ]
+    },
+    {
+      "id": "e6b4fcf698237215",
+      "title": "ベノム",
+      "artist": "かいりきベア",
+      "count": 2,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/8GDyZ9EPPMs",
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "e6b4fcf698237215"
+      ]
+    },
+    {
+      "id": "b6e1e683658ba562",
+      "title": "マリーゴールド",
+      "artist": "あいみょん",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "b6e1e683658ba562"
+      ]
+    },
+    {
+      "id": "118b468c92155d3a",
+      "title": "マーシャル・マキシマイザー",
+      "artist": "柊マグネタイト",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "118b468c92155d3a"
+      ]
+    },
+    {
+      "id": "944934599cbecaaf",
+      "title": "ムーンライト",
+      "artist": "星街すいせい",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "944934599cbecaaf"
+      ]
+    },
+    {
+      "id": "2a95f02fca55076d",
+      "title": "ラビットホール",
+      "artist": "DECO*27",
+      "count": 2,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/4G_l6xvI6vo",
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "2a95f02fca55076d"
+      ]
+    },
+    {
+      "id": "85231e83a1a9ec52",
+      "title": "ルーマー",
+      "artist": "ポリスピカデリー",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "85231e83a1a9ec52"
+      ]
+    },
+    {
+      "id": "c45f7ccfd43f4044",
+      "title": "ルーマー",
+      "artist": "ポリスピカデリー feat. GUMI",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "c45f7ccfd43f4044"
+      ]
+    },
+    {
+      "id": "e168769622cb349c",
+      "title": "レッド・パージ！！！",
+      "artist": "P.I.N.A.",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "e168769622cb349c"
+      ]
+    },
+    {
+      "id": "5882dce86331e40a",
+      "title": "ロウワー",
+      "artist": "ぬゆり",
+      "count": 2,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/Ec8OAZot2-w",
+        "https://holodex.net/watch/ZDG_F2w1z8w"
+      ],
+      "inputIds": [
+        "5882dce86331e40a"
+      ]
+    },
+    {
+      "id": "6f7a35329a87bdba",
+      "title": "世界は恋に落ちている",
+      "artist": "CHiCO with HoneyWorks",
+      "count": 2,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/eOeMvjGGYoc",
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "6f7a35329a87bdba"
+      ]
+    },
+    {
+      "id": "f4d0f2df2b249448",
+      "title": "人マニア",
+      "artist": "原口沙輔",
+      "count": 2,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/4G_l6xvI6vo",
+        "https://holodex.net/watch/8GDyZ9EPPMs"
+      ],
+      "inputIds": [
+        "f4d0f2df2b249448"
+      ]
+    },
+    {
+      "id": "7215451d4bdde86b",
+      "title": "佐賀事変",
+      "artist": "フランシュシュ",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "7215451d4bdde86b"
+      ]
+    },
+    {
+      "id": "004c98704ee2b21c",
+      "title": "公然の秘密",
+      "artist": "椎名林檎",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "004c98704ee2b21c"
+      ]
+    },
+    {
+      "id": "f3e674d11bd5427a",
+      "title": "初音ミクの消失",
+      "artist": "cosMo@暴走P",
+      "count": 2,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/ZDG_F2w1z8w",
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "f3e674d11bd5427a"
+      ]
+    },
+    {
+      "id": "5eff873ec4e5585d",
+      "title": "命に嫌われている。",
+      "artist": "カンザキイオリ",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "5eff873ec4e5585d"
+      ]
+    },
+    {
+      "id": "c4b3ee1533d7f5d6",
+      "title": "夜もすがら君想ふ",
+      "artist": "TOKOTOKO(西沢さんP)",
+      "count": 2,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/4G_l6xvI6vo",
+        "https://holodex.net/watch/8GDyZ9EPPMs"
+      ],
+      "inputIds": [
+        "c4b3ee1533d7f5d6"
+      ]
+    },
+    {
+      "id": "30d66b9a45bf2d71",
+      "title": "夢と葉桜",
+      "artist": "青木月光 feat. 初音ミク",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "30d66b9a45bf2d71"
+      ]
+    },
+    {
+      "id": "c12da8c07418e34b",
+      "title": "太陽曰く燃えよカオス",
+      "artist": "後ろから這いより隊G",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "c12da8c07418e34b"
+      ]
+    },
+    {
+      "id": "f0b5a585089eb102",
+      "title": "奏 (かなで)",
+      "artist": "大橋卓弥 / 常田真太郎",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "f0b5a585089eb102"
+      ]
+    },
+    {
+      "id": "99bb9e94464c85f0",
+      "title": "女の子は誰でも",
+      "artist": "東京事変",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "99bb9e94464c85f0"
+      ]
+    },
+    {
+      "id": "b835fd1bfde549ad",
+      "title": "宣伝",
+      "artist": "",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "b835fd1bfde549ad"
+      ]
+    },
+    {
+      "id": "4e78a9da7fea06b4",
+      "title": "心予報",
+      "artist": "Eve",
+      "count": 2,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/qUaYRV2kupA",
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "4e78a9da7fea06b4"
+      ]
+    },
+    {
+      "id": "0f3104857b1087d7",
+      "title": "怪物",
+      "artist": "YOASOBI",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "0f3104857b1087d7"
+      ]
+    },
+    {
+      "id": "aabab426363e810d",
+      "title": "恋は渾沌の隷也",
+      "artist": "後ろから這いより隊G",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "aabab426363e810d"
+      ]
+    },
+    {
+      "id": "0ed5d4cde07a992e",
+      "title": "恋風邪にのせて",
+      "artist": "Vaundy",
+      "count": 2,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/eOeMvjGGYoc",
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "0ed5d4cde07a992e"
+      ]
+    },
+    {
+      "id": "03200efc8b089c53",
+      "title": "愛をこめて花束を",
+      "artist": "Superfly",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "03200efc8b089c53"
+      ]
+    },
+    {
+      "id": "cd2beeedf3a35a13",
+      "title": "愛を伝えたいだとか",
+      "artist": "あいみょん",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "cd2beeedf3a35a13"
+      ]
+    },
+    {
+      "id": "854e4fcfc23b63ec",
+      "title": "接吻",
+      "artist": "",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "854e4fcfc23b63ec"
+      ]
+    },
+    {
+      "id": "b1a812b99ac47d56",
+      "title": "敗北の少年",
+      "artist": "kemu",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "b1a812b99ac47d56"
+      ]
+    },
+    {
+      "id": "6a64489b66d4a07d",
+      "title": "本能",
+      "artist": "椎名林檎",
+      "count": 2,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/fzojx27z2Go",
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "6a64489b66d4a07d"
+      ]
+    },
+    {
+      "id": "672ef7ee7f470953",
+      "title": "残酷な天使のテーゼ",
+      "artist": "高橋洋子",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "672ef7ee7f470953"
+      ]
+    },
+    {
+      "id": "e19aae6ffc673d50",
+      "title": "白金ディスコ",
+      "artist": "阿良々木月火",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "e19aae6ffc673d50"
+      ]
+    },
+    {
+      "id": "3b54b4805736cd00",
+      "title": "瞬き",
+      "artist": "back number",
+      "count": 2,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/YrwsxnW-aow",
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "3b54b4805736cd00"
+      ]
+    },
+    {
+      "id": "3e22f9103673d30d",
+      "title": "紅蓮華",
+      "artist": "LiSA",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "3e22f9103673d30d"
+      ]
+    },
+    {
+      "id": "f8dc0578f6e2fc5d",
+      "title": "群青",
+      "artist": "YOASOBI",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "f8dc0578f6e2fc5d"
+      ]
+    },
+    {
+      "id": "5c72480b7771478e",
+      "title": "脳漿炸裂ガール",
+      "artist": "れるりり",
+      "count": 2,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/ZDG_F2w1z8w",
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "5c72480b7771478e"
+      ]
+    },
+    {
+      "id": "0c290080a148685d",
+      "title": "花降らし",
+      "artist": "n-buna",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "0c290080a148685d"
+      ]
+    },
+    {
+      "id": "bce52d203414d505",
+      "title": "薬屋のひとりごと",
+      "artist": "日向夏",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "bce52d203414d505"
+      ]
+    },
+    {
+      "id": "f838b61bc75efe4e",
+      "title": "踊",
+      "artist": "Ado",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "f838b61bc75efe4e"
+      ]
+    },
+    {
+      "id": "3e64a18d8d6e91be",
+      "title": "雨とカプチーノ",
+      "artist": "ヨルシカ",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "3e64a18d8d6e91be"
+      ]
+    },
+    {
+      "id": "a09c3e9347f0baa9",
+      "title": "雨とペトラ",
+      "artist": "バルーン",
+      "count": 2,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/h-B3Qz1dL3g"
+      ],
+      "inputIds": [
+        "a09c3e9347f0baa9"
+      ]
+    },
+    {
+      "id": "facc6b58facd27b3",
+      "title": "青のすみか",
+      "artist": "キタニタツヤ",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "facc6b58facd27b3"
+      ]
+    },
+    {
+      "id": "9c2d80978b58af40",
+      "title": "鱗",
+      "artist": "秦基博",
+      "count": 2,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "9c2d80978b58af40"
+      ]
+    },
+    {
+      "id": "4596a5fa5dfe931f",
+      "title": "Ame",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "4596a5fa5dfe931f"
+      ]
+    },
+    {
+      "id": "bf72acdbdc7f686f",
+      "title": "Answer",
+      "artist": "幾田りら",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "bf72acdbdc7f686f"
+      ]
+    },
+    {
+      "id": "a2a36b3f0b37b9a7",
+      "title": "Awake Now",
+      "artist": "雄之助 feat. 初音ミク",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "a2a36b3f0b37b9a7"
+      ]
+    },
+    {
+      "id": "c92bce00d4bafcf4",
+      "title": "BANDAGE",
+      "artist": "Ayumu Imazu",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "c92bce00d4bafcf4"
+      ]
+    },
+    {
+      "id": "d2402a6434b4f1b0",
+      "title": "BANG!!!",
+      "artist": "EGOIST",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "d2402a6434b4f1b0"
+      ]
+    },
+    {
+      "id": "b6b3d484fa8e9d10",
+      "title": "BANZAI",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "b6b3d484fa8e9d10"
+      ]
+    },
+    {
+      "id": "b130e5ccb5900b22",
+      "title": "BANZAI",
+      "artist": "轟はじめ",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "b130e5ccb5900b22"
+      ]
+    },
+    {
+      "id": "66afcb17576d8338",
+      "title": "BLUE CLAPPER",
+      "artist": "hololive IDOL PROJECT",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/nNjpdHfB70Y"
+      ],
+      "inputIds": [
+        "66afcb17576d8338"
+      ]
+    },
+    {
+      "id": "2f8e17bd1c4e8fee",
+      "title": "BOW AND ARROW",
+      "artist": "米津玄師",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "2f8e17bd1c4e8fee"
+      ]
+    },
+    {
+      "id": "77e6ed332e449224",
+      "title": "Bangrang",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "77e6ed332e449224"
+      ]
+    },
+    {
+      "id": "0e27a48f62f09c29",
+      "title": "Beautiful",
+      "artist": "Superfly",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "0e27a48f62f09c29"
+      ]
+    },
+    {
+      "id": "6dd598447672a19b",
+      "title": "Bのリベンジ",
+      "artist": "オーイシマサヨシ",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "6dd598447672a19b"
+      ]
+    },
+    {
+      "id": "6ecf110c616a22b8",
+      "title": "CHA4NGE",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "6ecf110c616a22b8"
+      ]
+    },
+    {
+      "id": "89630eb02701fcaf",
+      "title": "Caesura of Despair",
+      "artist": "IRyS",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/nNjpdHfB70Y"
+      ],
+      "inputIds": [
+        "89630eb02701fcaf"
+      ]
+    },
+    {
+      "id": "5ac60ee43601390f",
+      "title": "Calc.",
+      "artist": "ジミーサムP feat. 巡音ルカ",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/eOeMvjGGYoc"
+      ],
+      "inputIds": [
+        "5ac60ee43601390f"
+      ]
+    },
+    {
+      "id": "9694ef8f698aee9c",
+      "title": "Capture the Moment",
+      "artist": "hololive IDOL PROJECT",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "9694ef8f698aee9c"
+      ]
+    },
+    {
+      "id": "e1f7865d1b6ff131",
+      "title": "Cheerhul Vibes Echo",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "e1f7865d1b6ff131"
+      ]
+    },
+    {
+      "id": "75e7cb7ddd35c944",
+      "title": "Countach",
+      "artist": "轟はじめ",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "75e7cb7ddd35c944"
+      ]
+    },
+    {
+      "id": "cc06dc53b85688e5",
+      "title": "DADDY ! DADDY ! DO !",
+      "artist": "鈴木雅之",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "cc06dc53b85688e5"
+      ]
+    },
+    {
+      "id": "ab1eca2529aabda1",
+      "title": "DEPARTURES",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "ab1eca2529aabda1"
+      ]
+    },
+    {
+      "id": "6719e0af843e0b8a",
+      "title": "Daydream café",
+      "artist": "Petit rabbit’s",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "6719e0af843e0b8a"
+      ]
+    },
+    {
+      "id": "96a9496c0b6b62d2",
+      "title": "Deal with the devil",
+      "artist": "Tia",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "96a9496c0b6b62d2"
+      ]
+    },
+    {
+      "id": "392ed8adcd2eae75",
+      "title": "Error",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "392ed8adcd2eae75"
+      ]
+    },
+    {
+      "id": "7583225301b8f12c",
+      "title": "FACT",
+      "artist": "常闇トワ",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/nNjpdHfB70Y"
+      ],
+      "inputIds": [
+        "7583225301b8f12c"
+      ]
+    },
+    {
+      "id": "dacc786b7d7bc33f",
+      "title": "First Love",
+      "artist": "宇多田ヒカル",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/qUaYRV2kupA"
+      ],
+      "inputIds": [
+        "dacc786b7d7bc33f"
+      ]
+    },
+    {
+      "id": "3717d652c64e3681",
+      "title": "Gimme×Gimme",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "3717d652c64e3681"
+      ]
+    },
+    {
+      "id": "7039124b9ceb3914",
+      "title": "Golden",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "7039124b9ceb3914"
+      ]
+    },
+    {
+      "id": "ddb1d394e5df8df9",
+      "title": "HELP!!",
+      "artist": "Kobo Kanaeru",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/qUaYRV2kupA"
+      ],
+      "inputIds": [
+        "ddb1d394e5df8df9"
+      ]
+    },
+    {
+      "id": "ad954bb3e31c2430",
+      "title": "I I I",
+      "artist": "宝鐘マリン＆Kobo Kanaeru",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "ad954bb3e31c2430"
+      ]
+    },
+    {
+      "id": "466c8a86e9493362",
+      "title": "I LOVE YOU",
+      "artist": "クリスハート",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "466c8a86e9493362"
+      ]
+    },
+    {
+      "id": "12939c9e14daf7d6",
+      "title": "I LOVE YOU",
+      "artist": "クリス・ハート",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/8BsIBeZZEhY"
+      ],
+      "inputIds": [
+        "12939c9e14daf7d6"
+      ]
+    },
+    {
+      "id": "7fb7abac12232b7f",
+      "title": "I LOVE...",
+      "artist": "Official髭男dism",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "7fb7abac12232b7f"
+      ]
+    },
+    {
+      "id": "463b358a59fb89ec",
+      "title": "IDOL",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "463b358a59fb89ec"
+      ]
+    },
+    {
+      "id": "69345fbcb4b36f67",
+      "title": "IRIS OUT",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "69345fbcb4b36f67"
+      ]
+    },
+    {
+      "id": "791cf8a37e0a2205",
+      "title": "I’m Your Treasure Box *あなたは マリンせんちょうを たからばこからみつけた。",
+      "artist": "宝鐘マリン",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/nNjpdHfB70Y"
+      ],
+      "inputIds": [
+        "791cf8a37e0a2205"
+      ]
+    },
+    {
+      "id": "8b7124e311bd5dea",
+      "title": "JANE DOE",
+      "artist": "米津玄師,宇多田ヒカル",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "8b7124e311bd5dea"
+      ]
+    },
+    {
+      "id": "45e8cf6f09a5c200",
+      "title": "Joyfull",
+      "artist": "Piet Bervoets / Patrick van der Hart",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "45e8cf6f09a5c200"
+      ]
+    },
+    {
+      "id": "8ea6b3725cb23563",
+      "title": "KING",
+      "artist": "Kanaria",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/8GDyZ9EPPMs"
+      ],
+      "inputIds": [
+        "8ea6b3725cb23563"
+      ]
+    },
+    {
+      "id": "569c4a4a111927ba",
+      "title": "KIRARI",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "569c4a4a111927ba"
+      ]
+    },
+    {
+      "id": "c23dee339e22a7c6",
+      "title": "Kabutomushi",
+      "artist": "Mei Semones",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "c23dee339e22a7c6"
+      ]
+    },
+    {
+      "id": "f61fb58675930a9e",
+      "title": "Kids",
+      "artist": "Andrew VanWyngarden / Ben Goldwasser",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "f61fb58675930a9e"
+      ]
+    },
+    {
+      "id": "46b7f6cee66353cf",
+      "title": "Kirameki Rider",
+      "artist": "mimiko / mpi / 石濱翔",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "46b7f6cee66353cf"
+      ]
+    },
+    {
+      "id": "5a29c56c4a0dab66",
+      "title": "Knock it out!",
+      "artist": "天音かなた",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/Ec8OAZot2-w"
+      ],
+      "inputIds": [
+        "5a29c56c4a0dab66"
+      ]
+    },
+    {
+      "id": "65c57e20bc6eb36e",
+      "title": "LOAD",
+      "artist": "FLOW GLOW",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "65c57e20bc6eb36e"
+      ]
+    },
+    {
+      "id": "2f862771090f297c",
+      "title": "LOL",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "2f862771090f297c"
+      ]
+    },
+    {
+      "id": "91a4cc809946eb8f",
+      "title": "LOVEずっきゅん",
+      "artist": "相対性理論",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/7yJEHdZ2qJk"
+      ],
+      "inputIds": [
+        "91a4cc809946eb8f"
+      ]
+    },
+    {
+      "id": "4feff6f4d13b3cbb",
+      "title": "Loveit?",
+      "artist": "biz×ZERA feat.LOLUET",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "4feff6f4d13b3cbb"
+      ]
+    },
+    {
+      "id": "8685a4d0e7a1d1b7",
+      "title": "Lucky Loud",
+      "artist": "ReGLOSS",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "8685a4d0e7a1d1b7"
+      ]
+    },
+    {
+      "id": "163f7f0b568f889a",
+      "title": "MIND CIRCUS",
+      "artist": "中谷美紀",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "163f7f0b568f889a"
+      ]
+    },
+    {
+      "id": "b81af1ce224307b4",
+      "title": "Makka",
+      "artist": "ゆよゆっぺ",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "b81af1ce224307b4"
+      ]
+    },
+    {
+      "id": "69faf201b82d6d7a",
+      "title": "Merry-go-round",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "69faf201b82d6d7a"
+      ]
+    },
+    {
+      "id": "0e2dda06e5d55e54",
+      "title": "Meru",
+      "artist": "Dave Santoro",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "0e2dda06e5d55e54"
+      ]
+    },
+    {
+      "id": "61b43d6e45bc058d",
+      "title": "My song",
+      "artist": "角巻わため",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/nNjpdHfB70Y"
+      ],
+      "inputIds": [
+        "61b43d6e45bc058d"
+      ]
+    },
+    {
+      "id": "9ecc72566f8f9f61",
+      "title": "No No Girls",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "9ecc72566f8f9f61"
+      ]
+    },
+    {
+      "id": "ee08ae2312d3b665",
+      "title": "No title",
+      "artist": "REOL",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "ee08ae2312d3b665"
+      ]
+    },
+    {
+      "id": "5bc4e71e52891cc8",
+      "title": "No.1",
+      "artist": "西野カナ",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "5bc4e71e52891cc8"
+      ]
+    },
+    {
+      "id": "ba0bd9c0d509a99d",
+      "title": "OPがあったけどEDははたして?",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "ba0bd9c0d509a99d"
+      ]
+    },
+    {
+      "id": "98c9eead168224f5",
+      "title": "OSCA",
+      "artist": "東京事変",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "98c9eead168224f5"
+      ]
+    },
+    {
+      "id": "91100f373d812a7f",
+      "title": "Pool",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "91100f373d812a7f"
+      ]
+    },
+    {
+      "id": "7f06ddeee3ecadcd",
+      "title": "Pop Virus",
+      "artist": "星野源",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "7f06ddeee3ecadcd"
+      ]
+    },
+    {
+      "id": "36cdebb453409779",
+      "title": "Prince Shoutoku",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "36cdebb453409779"
+      ]
+    },
+    {
+      "id": "e4364e51513123a3",
+      "title": "REALiZE",
+      "artist": "LiSA",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "e4364e51513123a3"
+      ]
+    },
+    {
+      "id": "58ac8720201239d9",
+      "title": "RIDE ON TIME",
+      "artist": "山下達郎",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "58ac8720201239d9"
+      ]
+    },
+    {
+      "id": "6eba5290efbffe8d",
+      "title": "Ready Steady",
+      "artist": "Giga",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "6eba5290efbffe8d"
+      ]
+    },
+    {
+      "id": "5efd894109bfbdbb",
+      "title": "SCREAM",
+      "artist": "AiScReam",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "5efd894109bfbdbb"
+      ]
+    },
+    {
+      "id": "c765e176b975d996",
+      "title": "SKAVLA",
+      "artist": "ReGLOSS",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "c765e176b975d996"
+      ]
+    },
+    {
+      "id": "5a11560d1b2178a3",
+      "title": "SOULSOUP",
+      "artist": "Official髭男dism",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "5a11560d1b2178a3"
+      ]
+    },
+    {
+      "id": "37106446547288ce",
+      "title": "SPECIALZ",
+      "artist": "King gnu",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "37106446547288ce"
+      ]
+    },
+    {
+      "id": "5a8a57d103ce81d0",
+      "title": "STONE OCEAN",
+      "artist": "ichigo from 岸田教団&THE明星ロケッツ",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "5a8a57d103ce81d0"
+      ]
+    },
+    {
+      "id": "f497284a9e772f2f",
+      "title": "STONE OCEAN",
+      "artist": "ichigo from岸田教団&THE明星ロケッツ",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "f497284a9e772f2f"
+      ]
+    },
+    {
+      "id": "93e33954c5642575",
+      "title": "Seppun",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "93e33954c5642575"
+      ]
+    },
+    {
+      "id": "217682c5c29658f6",
+      "title": "Shiningray",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "217682c5c29658f6"
+      ]
+    },
+    {
+      "id": "9c9030e7f013ffb2",
+      "title": "Snow halation",
+      "artist": "μ’s",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "9c9030e7f013ffb2"
+      ]
+    },
+    {
+      "id": "97a26457c9ce0556",
+      "title": "So Cute",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "97a26457c9ce0556"
+      ]
+    },
+    {
+      "id": "e45c0c5a377454bf",
+      "title": "Star-mine",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "e45c0c5a377454bf"
+      ]
+    },
+    {
+      "id": "b8e071354d7e0f4e",
+      "title": "Stay Alive",
+      "artist": "高橋 李依",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "b8e071354d7e0f4e"
+      ]
+    },
+    {
+      "id": "e1c6194ffe7e89dc",
+      "title": "Stay With Me",
+      "artist": "Mayonaka no Door",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "e1c6194ffe7e89dc"
+      ]
+    },
+    {
+      "id": "1753c54610d934b4",
+      "title": "Stellar Stellar",
+      "artist": "星街すいせい",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "1753c54610d934b4"
+      ]
+    },
+    {
+      "id": "06148dc3e5ae10a6",
+      "title": "Stellar Stellar",
+      "artist": "星街すいせい / TAKU INOUE",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "06148dc3e5ae10a6"
+      ]
+    },
+    {
+      "id": "297e5732fa9dcb50",
+      "title": "Summertime",
+      "artist": "Pool",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "297e5732fa9dcb50"
+      ]
+    },
+    {
+      "id": "ddb8fa68cb928bcf",
+      "title": "Suspect",
+      "artist": "hololive IDOL PROJECT",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/nNjpdHfB70Y"
+      ],
+      "inputIds": [
+        "ddb8fa68cb928bcf"
+      ]
+    },
+    {
+      "id": "0d51c3b03abcbca1",
+      "title": "Tabako",
+      "artist": "Kazik Staszewski / Kult",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "0d51c3b03abcbca1"
+      ]
+    },
+    {
+      "id": "ff58b108960ae60f",
+      "title": "Take 2",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "ff58b108960ae60f"
+      ]
+    },
+    {
+      "id": "694e9b8c0ff19997",
+      "title": "This game",
+      "artist": "鈴木このみ",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "694e9b8c0ff19997"
+      ]
+    },
+    {
+      "id": "b4cd95225895be30",
+      "title": "Toxic Luv",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "b4cd95225895be30"
+      ]
+    },
+    {
+      "id": "871912595aaf3df9",
+      "title": "ULTRA C",
+      "artist": "Giga & TeddyLoid",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "871912595aaf3df9"
+      ]
+    },
+    {
+      "id": "4c1728577b9c0ee4",
+      "title": "UNDEAD",
+      "artist": "YOASOBI",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "4c1728577b9c0ee4"
+      ]
+    },
+    {
+      "id": "dcf1adfe59c05614",
+      "title": "Universe",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "dcf1adfe59c05614"
+      ]
+    },
+    {
+      "id": "147f2e1cced9260f",
+      "title": "VR機器返さなきゃ",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "147f2e1cced9260f"
+      ]
+    },
+    {
+      "id": "dd0888407e5dbd75",
+      "title": "YURIKA",
+      "artist": "菅野よう子",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "dd0888407e5dbd75"
+      ]
+    },
+    {
+      "id": "9d330bc731ec9eca",
+      "title": "drop pop candy",
+      "artist": "Reol",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "9d330bc731ec9eca"
+      ]
+    },
+    {
+      "id": "1d2171588b61785b",
+      "title": "flos",
+      "artist": "R Sound Design",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/8BsIBeZZEhY"
+      ],
+      "inputIds": [
+        "1d2171588b61785b"
+      ]
+    },
+    {
+      "id": "00cfa84761432912",
+      "title": "iCONiC",
+      "artist": "ReGLOSS, 音乃瀬奏 & 一条莉々華",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/qUaYRV2kupA"
+      ],
+      "inputIds": [
+        "00cfa84761432912"
+      ]
+    },
+    {
+      "id": "8863f9c365f8ab7d",
+      "title": "mumei",
+      "artist": "Nanashi Mumei",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/nNjpdHfB70Y"
+      ],
+      "inputIds": [
+        "8863f9c365f8ab7d"
+      ]
+    },
+    {
+      "id": "6385d68a6c5178c7",
+      "title": "orion",
+      "artist": "米津玄師",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "6385d68a6c5178c7"
+      ]
+    },
+    {
+      "id": "05e6058149a717cd",
+      "title": "p.h.",
+      "artist": "SEVENTHLINKS feat.flower",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "05e6058149a717cd"
+      ]
+    },
+    {
+      "id": "c7ed5494adac5572",
+      "title": "secret base 〜君がくれたもの〜",
+      "artist": "ZONE",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/Ec8OAZot2-w"
+      ],
+      "inputIds": [
+        "c7ed5494adac5572"
+      ]
+    },
+    {
+      "id": "500c8a7ce731dfcb",
+      "title": "summertime",
+      "artist": "cinnamons×evening cinema",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/eOeMvjGGYoc"
+      ],
+      "inputIds": [
+        "500c8a7ce731dfcb"
+      ]
+    },
+    {
+      "id": "d8a5649bf43e79c3",
+      "title": "take2 4 ray",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "d8a5649bf43e79c3"
+      ]
+    },
+    {
+      "id": "2ab70a3260e91c8f",
+      "title": "zako",
+      "artist": "Neil Cicierega",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "2ab70a3260e91c8f"
+      ]
+    },
+    {
+      "id": "1ee064f69aec7365",
+      "title": "あなたの脳内に",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "1ee064f69aec7365"
+      ]
+    },
+    {
+      "id": "0fd71570efe8d568",
+      "title": "あのバンド",
+      "artist": "ヒグチアイ / 草野華余子",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "0fd71570efe8d568"
+      ]
+    },
+    {
+      "id": "dbe6b9621fe1baec",
+      "title": "あぶく",
+      "artist": "ヨルシカ / Yorushika",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/qUaYRV2kupA"
+      ],
+      "inputIds": [
+        "dbe6b9621fe1baec"
+      ]
+    },
+    {
+      "id": "c75d1f5538555298",
+      "title": "ありがとう",
+      "artist": "いきものがかり",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "c75d1f5538555298"
+      ]
+    },
+    {
+      "id": "7d6f39eac51c73c9",
+      "title": "いいムーヴ",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "7d6f39eac51c73c9"
+      ]
+    },
+    {
+      "id": "8e867b4bd0e924b6",
+      "title": "いかないで",
+      "artist": "想太",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "8e867b4bd0e924b6"
+      ]
+    },
+    {
+      "id": "810507d8ddd69f80",
+      "title": "いかないで",
+      "artist": "想太feat.歌愛ユキ",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "810507d8ddd69f80"
+      ]
+    },
+    {
+      "id": "a602d7b8737295ae",
+      "title": "いのち",
+      "artist": "AZKi",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/nNjpdHfB70Y"
+      ],
+      "inputIds": [
+        "a602d7b8737295ae"
+      ]
+    },
+    {
+      "id": "3260abab1e59f5c2",
+      "title": "いのちの名前",
+      "artist": "平原綾香, 久石譲",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "3260abab1e59f5c2"
+      ]
+    },
+    {
+      "id": "ee04e282670da8f3",
+      "title": "いのちの名前",
+      "artist": "木村弓",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "ee04e282670da8f3"
+      ]
+    },
+    {
+      "id": "30b5e6a3b66312bb",
+      "title": "いろはすペットボトル、落ち着く奏",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "30b5e6a3b66312bb"
+      ]
+    },
+    {
+      "id": "588d5b771eeaa83e",
+      "title": "うっせぇわ",
+      "artist": "Ado",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "588d5b771eeaa83e"
+      ]
+    },
+    {
+      "id": "a688d14dbfc29a3a",
+      "title": "おねがいダーリン",
+      "artist": "P丸様。",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/qUaYRV2kupA"
+      ],
+      "inputIds": [
+        "a688d14dbfc29a3a"
+      ]
+    },
+    {
+      "id": "ac6513f42dee58af",
+      "title": "おねがいダーリン",
+      "artist": "ナナホシ管弦楽団",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "ac6513f42dee58af"
+      ]
+    },
+    {
+      "id": "ff8ab920daf07ffe",
+      "title": "おまけ",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "ff8ab920daf07ffe"
+      ]
+    },
+    {
+      "id": "6421eb612805ecaf",
+      "title": "お勉強しといてよ",
+      "artist": "ずっと真夜中でいいのに。",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/7yJEHdZ2qJk"
+      ],
+      "inputIds": [
+        "6421eb612805ecaf"
+      ]
+    },
+    {
+      "id": "b53fef5ebdaadb7c",
+      "title": "お気に召すまま",
+      "artist": "Eve",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/7yJEHdZ2qJk"
+      ],
+      "inputIds": [
+        "b53fef5ebdaadb7c"
+      ]
+    },
+    {
+      "id": "d715996693de7e40",
+      "title": "お知らせ",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "d715996693de7e40"
+      ]
+    },
+    {
+      "id": "21c8348a1553e324",
+      "title": "お返事まだカナ?おじさん構文!",
+      "artist": "吉本おじさん feat.雨衣",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "21c8348a1553e324"
+      ]
+    },
+    {
+      "id": "980117d58751463f",
+      "title": "お返事まだカナ?おじさん構文!",
+      "artist": "雨衣",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "980117d58751463f"
+      ]
+    },
+    {
+      "id": "66cefb440fa5c8e9",
+      "title": "きゅうくらりん",
+      "artist": "いよわ",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "66cefb440fa5c8e9"
+      ]
+    },
+    {
+      "id": "7d5d8cc0e7da3289",
+      "title": "きゅうくらりん (Kyu-Kurarin)",
+      "artist": "いよわ",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/ZDG_F2w1z8w"
+      ],
+      "inputIds": [
+        "7d5d8cc0e7da3289"
+      ]
+    },
+    {
+      "id": "68694b8e7e41f8d1",
+      "title": "きらり",
+      "artist": "藤井 風",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "68694b8e7e41f8d1"
+      ]
+    },
+    {
+      "id": "d2bbfac1e9937624",
+      "title": "さがじへん",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "d2bbfac1e9937624"
+      ]
+    },
+    {
+      "id": "be34a04536ab4ee0",
+      "title": "さくらんぼ",
+      "artist": "大塚 愛",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/eOeMvjGGYoc"
+      ],
+      "inputIds": [
+        "be34a04536ab4ee0"
+      ]
+    },
+    {
+      "id": "5730032f02eb9932",
+      "title": "ざぁこ",
+      "artist": "柊マグネタイト",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "5730032f02eb9932"
+      ]
+    },
+    {
+      "id": "6df1853307b52d34",
+      "title": "じょいふる",
+      "artist": "いきものがかり",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "6df1853307b52d34"
+      ]
+    },
+    {
+      "id": "35e01c692120ec8a",
+      "title": "すいちゃん先輩と3期生の先輩達のカバーでめちゃくちゃ聞いてたから...",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "35e01c692120ec8a"
+      ]
+    },
+    {
+      "id": "3203a3dc4a433b1d",
+      "title": "それがあなたの幸せとしても (Feat. 巡音ルカ)",
+      "artist": "Heavenz",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/8BsIBeZZEhY"
+      ],
+      "inputIds": [
+        "3203a3dc4a433b1d"
+      ]
+    },
+    {
+      "id": "4c167ac0a337a223",
+      "title": "ちるちる",
+      "artist": "Reol",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "4c167ac0a337a223"
+      ]
+    },
+    {
+      "id": "9baa4616299049c3",
+      "title": "どりーみんチュチュ",
+      "artist": "emon",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "9baa4616299049c3"
+      ]
+    },
+    {
+      "id": "286593f71d07ffd4",
+      "title": "にゃにゃにゃー",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "286593f71d07ffd4"
+      ]
+    },
+    {
+      "id": "089146522e86af15",
+      "title": "ねねち先輩の生誕祭ライブ",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "089146522e86af15"
+      ]
+    },
+    {
+      "id": "cb049d979cc1d9eb",
+      "title": "ふわふわ時間",
+      "artist": "放課後ティータイム",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "cb049d979cc1d9eb"
+      ]
+    },
+    {
+      "id": "30e18233a5b0cb2c",
+      "title": "ふわふわ時間",
+      "artist": "桜高軽音部",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "30e18233a5b0cb2c"
+      ]
+    },
+    {
+      "id": "648038896c8d1ca8",
+      "title": "ぼなぺてぃーと♡S",
+      "artist": "ブレンド・A",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "648038896c8d1ca8"
+      ]
+    },
+    {
+      "id": "18d76ef81726b9f3",
+      "title": "またねがあれば",
+      "artist": "risou",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "18d76ef81726b9f3"
+      ]
+    },
+    {
+      "id": "024be1cc9d4c4aef",
+      "title": "またねがあれば",
+      "artist": "當山 みれい",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/eOeMvjGGYoc"
+      ],
+      "inputIds": [
+        "024be1cc9d4c4aef"
+      ]
+    },
+    {
+      "id": "6730f50bba34f821",
+      "title": "もしかして鼻炎...?",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "6730f50bba34f821"
+      ]
+    },
+    {
+      "id": "92b90009f983b324",
+      "title": "ゆるふわ樹海ガール",
+      "artist": "石風呂",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "92b90009f983b324"
+      ]
+    },
+    {
+      "id": "4373fabbab0c43ef",
+      "title": "わたしの一番かわいいところ",
+      "artist": "FRUITS ZIPPER",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/YrwsxnW-aow"
+      ],
+      "inputIds": [
+        "4373fabbab0c43ef"
+      ]
+    },
+    {
+      "id": "8449f4481f7e1c5a",
+      "title": "アカシア",
+      "artist": "BUMP OF CHICKEN",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "8449f4481f7e1c5a"
+      ]
+    },
+    {
+      "id": "ffb457aef6c52f2a",
+      "title": "アンノウン・マザーグース",
+      "artist": "wowaka",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "ffb457aef6c52f2a"
+      ]
+    },
+    {
+      "id": "23c0a46cf6596ee5",
+      "title": "エイリアンエイリアン",
+      "artist": "ナユタン星人",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/qUaYRV2kupA"
+      ],
+      "inputIds": [
+        "23c0a46cf6596ee5"
+      ]
+    },
+    {
+      "id": "53759bd06f3d3acf",
+      "title": "オトノケ",
+      "artist": "Creepy Nuts",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "53759bd06f3d3acf"
+      ]
+    },
+    {
+      "id": "77d9ca26069e0d3b",
+      "title": "オレンジ",
+      "artist": "逢坂大河・櫛枝実乃梨・川嶋亜美",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "77d9ca26069e0d3b"
+      ]
+    },
+    {
+      "id": "4342e83127ee81f1",
+      "title": "オレンジ",
+      "artist": "釘宮理恵、堀江由衣、喜多村英梨",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "4342e83127ee81f1"
+      ]
+    },
+    {
+      "id": "eb80dcb5a9fc59bc",
+      "title": "カトラリー",
+      "artist": "有機酸",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "eb80dcb5a9fc59bc"
+      ]
+    },
+    {
+      "id": "e988de130832bedf",
+      "title": "カブトムシ",
+      "artist": "aiko",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "e988de130832bedf"
+      ]
+    },
+    {
+      "id": "54956ce3a7fd179d",
+      "title": "カワキヲアメク",
+      "artist": "美波",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "54956ce3a7fd179d"
+      ]
+    },
+    {
+      "id": "9d5f20b18f270e08",
+      "title": "ガランド",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "9d5f20b18f270e08"
+      ]
+    },
+    {
+      "id": "1acc302a61f8ae27",
+      "title": "キック1",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "1acc302a61f8ae27"
+      ]
+    },
+    {
+      "id": "ed22c6190e582cd0",
+      "title": "キッヂュ",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "ed22c6190e582cd0"
+      ]
+    },
+    {
+      "id": "6c0646838a16e320",
+      "title": "キラメキライダー",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "6c0646838a16e320"
+      ]
+    },
+    {
+      "id": "6b1b454c839645ec",
+      "title": "ギターと孤独と蒼い惑星",
+      "artist": "結束バンド",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "6b1b454c839645ec"
+      ]
+    },
+    {
+      "id": "a378336b3487beb8",
+      "title": "ギブアップ いつも何度でも",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "a378336b3487beb8"
+      ]
+    },
+    {
+      "id": "c9745b76ff9a1216",
+      "title": "ギラギラ",
+      "artist": "Ado",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "c9745b76ff9a1216"
+      ]
+    },
+    {
+      "id": "64304fabaa9ee352",
+      "title": "クノイチでも恋がしたい",
+      "artist": "みきとP",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "64304fabaa9ee352"
+      ]
+    },
+    {
+      "id": "559620bbfe614cdf",
+      "title": "クリスマスソング",
+      "artist": "back number",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "559620bbfe614cdf"
+      ]
+    },
+    {
+      "id": "9220d09e014d0e26",
+      "title": "グッバイ宣言",
+      "artist": "Chinozo",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/h-B3Qz1dL3g"
+      ],
+      "inputIds": [
+        "9220d09e014d0e26"
+      ]
+    },
+    {
+      "id": "6f4ff691bcbcfe3e",
+      "title": "ゴーストルール",
+      "artist": "DECO*27 feat. 初音ミク",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "6f4ff691bcbcfe3e"
+      ]
+    },
+    {
+      "id": "407c55c404d2284b",
+      "title": "サクラミラージュ",
+      "artist": "ReGLOSS",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "407c55c404d2284b"
+      ]
+    },
+    {
+      "id": "87bcc777f1e004c4",
+      "title": "シネマ",
+      "artist": "Ayase",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/8GDyZ9EPPMs"
+      ],
+      "inputIds": [
+        "87bcc777f1e004c4"
+      ]
+    },
+    {
+      "id": "2a141a70daafda96",
+      "title": "シャンティ",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "2a141a70daafda96"
+      ]
+    },
+    {
+      "id": "6adfc6f6075f17b5",
+      "title": "シル・ヴ・プレジデント",
+      "artist": "P丸様。",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "6adfc6f6075f17b5"
+      ]
+    },
+    {
+      "id": "95372806aa82489e",
+      "title": "ジェヘナ",
+      "artist": "wotaku",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/4G_l6xvI6vo"
+      ],
+      "inputIds": [
+        "95372806aa82489e"
+      ]
+    },
+    {
+      "id": "6e84e4c0eba803ba",
+      "title": "ステラ",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "6e84e4c0eba803ba"
+      ]
+    },
+    {
+      "id": "195b26ef24697683",
+      "title": "ステラ",
+      "artist": "Leo",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "195b26ef24697683"
+      ]
+    },
+    {
+      "id": "e7ed5377a9025d59",
+      "title": "ステラ",
+      "artist": "Leo/need",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/8BsIBeZZEhY"
+      ],
+      "inputIds": [
+        "e7ed5377a9025d59"
+      ]
+    },
+    {
+      "id": "46ef156917e78c64",
+      "title": "ステラ",
+      "artist": "じん",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "46ef156917e78c64"
+      ]
+    },
+    {
+      "id": "dae4668e0d229e7e",
+      "title": "ストリーミングハート",
+      "artist": "DECO*27",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "dae4668e0d229e7e"
+      ]
+    },
+    {
+      "id": "daa541aa437d2d47",
+      "title": "スパークル",
+      "artist": "RADWIMPS",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/YrwsxnW-aow"
+      ],
+      "inputIds": [
+        "daa541aa437d2d47"
+      ]
+    },
+    {
+      "id": "418de3713f42086c",
+      "title": "セブンティーン",
+      "artist": "YOASOBI",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/Ec8OAZot2-w"
+      ],
+      "inputIds": [
+        "418de3713f42086c"
+      ]
+    },
+    {
+      "id": "5405f8a7448e274c",
+      "title": "ダンスレッスンで嘘をw",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "5405f8a7448e274c"
+      ]
+    },
+    {
+      "id": "b2471068ea2f8f3b",
+      "title": "チアフルバイブスエコー",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "b2471068ea2f8f3b"
+      ]
+    },
+    {
+      "id": "2900cb5c37db4e32",
+      "title": "チェリーポップ",
+      "artist": "DECO*27",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "2900cb5c37db4e32"
+      ]
+    },
+    {
+      "id": "bfd893fba8728125",
+      "title": "チュルリラ・チュルリラ・ダッダッダ!",
+      "artist": "和田たけあき(くらげP)",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/8GDyZ9EPPMs"
+      ],
+      "inputIds": [
+        "bfd893fba8728125"
+      ]
+    },
+    {
+      "id": "9a1dbb0e0920b5d1",
+      "title": "ツボに刺さる縦型配信が流れてくる",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "9a1dbb0e0920b5d1"
+      ]
+    },
+    {
+      "id": "6a41f98cb5f87066",
+      "title": "テレキャスタービーボーイ",
+      "artist": "すりぃ",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/8GDyZ9EPPMs"
+      ],
+      "inputIds": [
+        "6a41f98cb5f87066"
+      ]
+    },
+    {
+      "id": "bbacadc20e7610d0",
+      "title": "デビルじゃないもん",
+      "artist": "DECO*27 & ピノキオピー",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/ZDG_F2w1z8w"
+      ],
+      "inputIds": [
+        "bbacadc20e7610d0"
+      ]
+    },
+    {
+      "id": "dc5b8cb38df63ced",
+      "title": "トウキョウ・シャンディ・ランデヴ",
+      "artist": "MAISONdes feat. 花譜, ツミキ",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "dc5b8cb38df63ced"
+      ]
+    },
+    {
+      "id": "e3ab1e9635aadea1",
+      "title": "トウキョウ・シャンディ・ランデヴ (feat. 花譜 & ツミキ)",
+      "artist": "MAISONdes",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/h-B3Qz1dL3g"
+      ],
+      "inputIds": [
+        "e3ab1e9635aadea1"
+      ]
+    },
+    {
+      "id": "c1ba01851bbaad56",
+      "title": "トンデモワンダーズ",
+      "artist": "sasakure.UK",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "c1ba01851bbaad56"
+      ]
+    },
+    {
+      "id": "2df55594048d2001",
+      "title": "ドラ１独走",
+      "artist": "椎名林檎と新しい学校のリーダーズ",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "2df55594048d2001"
+      ]
+    },
+    {
+      "id": "0e2a90be23f5e74b",
+      "title": "ドーパミント!",
+      "artist": "東京事変",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "0e2a90be23f5e74b"
+      ]
+    },
+    {
+      "id": "d762f69f9f4191c0",
+      "title": "ナーヴ・インパルス",
+      "artist": "ポリスピカデリー",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/8BsIBeZZEhY"
+      ],
+      "inputIds": [
+        "d762f69f9f4191c0"
+      ]
+    },
+    {
+      "id": "293af26d3e3984b5",
+      "title": "ノウナイディスコ",
+      "artist": "r-906",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "293af26d3e3984b5"
+      ]
+    },
+    {
+      "id": "d53793efdbce86b4",
+      "title": "バレリーコ",
+      "artist": "みきとP",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "d53793efdbce86b4"
+      ]
+    },
+    {
+      "id": "8b4223340fd07d70",
+      "title": "パンダヒーロー",
+      "artist": "ハチ",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "8b4223340fd07d70"
+      ]
+    },
+    {
+      "id": "ac7f978750249b42",
+      "title": "ヒバナ",
+      "artist": "DECO*27",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/ZDG_F2w1z8w"
+      ],
+      "inputIds": [
+        "ac7f978750249b42"
+      ]
+    },
+    {
+      "id": "f88a647326e23df7",
+      "title": "ヒビカセ",
+      "artist": "Reol official",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "f88a647326e23df7"
+      ]
+    },
+    {
+      "id": "cf6a831e803c8bc0",
+      "title": "ヒロイン育成計画",
+      "artist": "HoneyWorks",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "cf6a831e803c8bc0"
+      ]
+    },
+    {
+      "id": "e8e06145b68df902",
+      "title": "ビターチョコデコレーション",
+      "artist": "syudou",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/ZDG_F2w1z8w"
+      ],
+      "inputIds": [
+        "e8e06145b68df902"
+      ]
+    },
+    {
+      "id": "6a600e3f0561385d",
+      "title": "ビビデバ",
+      "artist": "Hoshimachi Suisei",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "6a600e3f0561385d"
+      ]
+    },
+    {
+      "id": "2eae3121c00b1a82",
+      "title": "ビビデバのカバーでめっちゃいいの見つけて",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "2eae3121c00b1a82"
+      ]
+    },
+    {
+      "id": "dd3b67ba799e5ceb",
+      "title": "ビビデバみこちver",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "dd3b67ba799e5ceb"
+      ]
+    },
+    {
+      "id": "cf1ebcf7be5dfd3c",
+      "title": "ピースサイン",
+      "artist": "米津玄師",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "cf1ebcf7be5dfd3c"
+      ]
+    },
+    {
+      "id": "ac49e92532339f23",
+      "title": "ファンサ",
+      "artist": "HoneyWorks",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "ac49e92532339f23"
+      ]
+    },
+    {
+      "id": "832193dac0b9e7ca",
+      "title": "フォニイ",
+      "artist": "ツミキ",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "832193dac0b9e7ca"
+      ]
+    },
+    {
+      "id": "0a6ce94f8441be64",
+      "title": "フォニイ (feat. 可不)",
+      "artist": "ツミキ",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/h-B3Qz1dL3g"
+      ],
+      "inputIds": [
+        "0a6ce94f8441be64"
+      ]
+    },
+    {
+      "id": "d7d353452383af3f",
+      "title": "フットワーク1",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "d7d353452383af3f"
+      ]
+    },
+    {
+      "id": "477ca3719eb5ecb4",
+      "title": "フットワーク2",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "477ca3719eb5ecb4"
+      ]
+    },
+    {
+      "id": "56f64b817afedb4e",
+      "title": "フットワーク3",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "56f64b817afedb4e"
+      ]
+    },
+    {
+      "id": "53ce48ded6edd305",
+      "title": "フラジール",
+      "artist": "ぬゆり",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "53ce48ded6edd305"
+      ]
+    },
+    {
+      "id": "05caeb1e70fae9f2",
+      "title": "プラネタリウム",
+      "artist": "大塚 愛",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "05caeb1e70fae9f2"
+      ]
+    },
+    {
+      "id": "154d07ecce705e8b",
+      "title": "プレイ",
+      "artist": "Giga",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "154d07ecce705e8b"
+      ]
+    },
+    {
+      "id": "5f2fe84b43ea1363",
+      "title": "プロポーズ",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "5f2fe84b43ea1363"
+      ]
+    },
+    {
+      "id": "738eee7267af1b71",
+      "title": "マトリョシカ",
+      "artist": "ハチ",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "738eee7267af1b71"
+      ]
+    },
+    {
+      "id": "db99a9a24639b657",
+      "title": "マーシャル・マキシマイザー",
+      "artist": "柊マグネタイト feat. 可不",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "db99a9a24639b657"
+      ]
+    },
+    {
+      "id": "44e9b1bafbce9ec4",
+      "title": "ミラクルペイント",
+      "artist": "OSTER project",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "44e9b1bafbce9ec4"
+      ]
+    },
+    {
+      "id": "b948020a5c027c20",
+      "title": "メズマライザー",
+      "artist": "サツキ",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "b948020a5c027c20"
+      ]
+    },
+    {
+      "id": "5a47507eede7a1f1",
+      "title": "メタモリボン",
+      "artist": "emon",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "5a47507eede7a1f1"
+      ]
+    },
+    {
+      "id": "202449d1024e8973",
+      "title": "メタモリボン",
+      "artist": "emon(Tes.)",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/YrwsxnW-aow"
+      ],
+      "inputIds": [
+        "202449d1024e8973"
+      ]
+    },
+    {
+      "id": "55c73940ad5a59b8",
+      "title": "メダリスト",
+      "artist": "つるの剛士 / 藤本貴則",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "55c73940ad5a59b8"
+      ]
+    },
+    {
+      "id": "497ee495d750c876",
+      "title": "メランコリック",
+      "artist": "Junky",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "497ee495d750c876"
+      ]
+    },
+    {
+      "id": "304b3b968e774fc6",
+      "title": "メランコリック",
+      "artist": "Junky feat. 鏡音リン",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "304b3b968e774fc6"
+      ]
+    },
+    {
+      "id": "922ff65d7c69144e",
+      "title": "メルト",
+      "artist": "supercell",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "922ff65d7c69144e"
+      ]
+    },
+    {
+      "id": "1445a5b1eb7f1d39",
+      "title": "モエチャッカファイア",
+      "artist": "弌誠",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "1445a5b1eb7f1d39"
+      ]
+    },
+    {
+      "id": "c38d1ce550b0a21e",
+      "title": "モザイクロール",
+      "artist": "DECO*27",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/ZDG_F2w1z8w"
+      ],
+      "inputIds": [
+        "c38d1ce550b0a21e"
+      ]
+    },
+    {
+      "id": "c84318b0cc70fc5f",
+      "title": "ヤミタイガール",
+      "artist": "れるりり",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "c84318b0cc70fc5f"
+      ]
+    },
+    {
+      "id": "f803216d7eed11cd",
+      "title": "ヨワネハキ",
+      "artist": "MAISONdes feat. 和ぬか, asmi",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "f803216d7eed11cd"
+      ]
+    },
+    {
+      "id": "1c12a8aca2f5a510",
+      "title": "ライラック",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "1c12a8aca2f5a510"
+      ]
+    },
+    {
+      "id": "7d965d3d009a08e8",
+      "title": "ラプンツェル",
+      "artist": "n-buna",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "7d965d3d009a08e8"
+      ]
+    },
+    {
+      "id": "84e5df4a9539c004",
+      "title": "ラヴィ",
+      "artist": "すりぃ",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "84e5df4a9539c004"
+      ]
+    },
+    {
+      "id": "aa176c970c223fdc",
+      "title": "リクエストが多くて",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "aa176c970c223fdc"
+      ]
+    },
+    {
+      "id": "7935eedabe6dd955",
+      "title": "ルカルカ★ナイトフィーバー",
+      "artist": "samfree",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "7935eedabe6dd955"
+      ]
+    },
+    {
+      "id": "21bcfbfcab4fea6f",
+      "title": "レコーディング中に.。o○",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "21bcfbfcab4fea6f"
+      ]
+    },
+    {
+      "id": "09926cd16dbf4fb3",
+      "title": "レッド・パージ!!!",
+      "artist": "P.I.N.A. feat. Kagamine Rin & Kagamine Len",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/h-B3Qz1dL3g"
+      ],
+      "inputIds": [
+        "09926cd16dbf4fb3"
+      ]
+    },
+    {
+      "id": "831a6eba9ab73bbf",
+      "title": "ロキ",
+      "artist": "みきとｐ",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "831a6eba9ab73bbf"
+      ]
+    },
+    {
+      "id": "7ff4560336c4d636",
+      "title": "ロストワンの号哭",
+      "artist": "Neru",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/ZDG_F2w1z8w"
+      ],
+      "inputIds": [
+        "7ff4560336c4d636"
+      ]
+    },
+    {
+      "id": "6719db2d7c02626e",
+      "title": "ロンリーユニバース",
+      "artist": "Aqu3ra",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "6719db2d7c02626e"
+      ]
+    },
+    {
+      "id": "526eb9df8a38fccc",
+      "title": "ローリンガール",
+      "artist": "Wowaka",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "526eb9df8a38fccc"
+      ]
+    },
+    {
+      "id": "4f5cce99d1c32e9c",
+      "title": "ワンルーム・オール・ザット・ジャズ",
+      "artist": "DATEKEN",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "4f5cce99d1c32e9c"
+      ]
+    },
+    {
+      "id": "fcf0627470483ba7",
+      "title": "ワールドイズマイン",
+      "artist": "ryo (supercell)",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/qUaYRV2kupA"
+      ],
+      "inputIds": [
+        "fcf0627470483ba7"
+      ]
+    },
+    {
+      "id": "de2ec4b17c21b6f8",
+      "title": "ワールドイズマイン",
+      "artist": "supercell",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/4G_l6xvI6vo"
+      ],
+      "inputIds": [
+        "de2ec4b17c21b6f8"
+      ]
+    },
+    {
+      "id": "882469f51f65046b",
+      "title": "ヴィラン",
+      "artist": "てにをは",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "882469f51f65046b"
+      ]
+    },
+    {
+      "id": "3c92210cf9093279",
+      "title": "三日月ステップ",
+      "artist": "r-906",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "3c92210cf9093279"
+      ]
+    },
+    {
+      "id": "7e736e2984c91a82",
+      "title": "不可幸力",
+      "artist": "Vaundy",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "7e736e2984c91a82"
+      ]
+    },
+    {
+      "id": "271546ae030a5586",
+      "title": "世界は恋に落ちている",
+      "artist": "CHICO with HoneyWorks",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "271546ae030a5586"
+      ]
+    },
+    {
+      "id": "930bf9fce96ce5e7",
+      "title": "乙女解剖",
+      "artist": "DECO*27",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/ZDG_F2w1z8w"
+      ],
+      "inputIds": [
+        "930bf9fce96ce5e7"
+      ]
+    },
+    {
+      "id": "a9010cda7d5dabda",
+      "title": "今日見た夢",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "a9010cda7d5dabda"
+      ]
+    },
+    {
+      "id": "f6de2a0f990f88b1",
+      "title": "余所事",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "f6de2a0f990f88b1"
+      ]
+    },
+    {
+      "id": "88b0112caee8e1e9",
+      "title": "再教育",
+      "artist": "Neru",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "88b0112caee8e1e9"
+      ]
+    },
+    {
+      "id": "836aa025a6a76da1",
+      "title": "劣等上等",
+      "artist": "Giga",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/h-B3Qz1dL3g"
+      ],
+      "inputIds": [
+        "836aa025a6a76da1"
+      ]
+    },
+    {
+      "id": "e42b02e2063afc25",
+      "title": "勇者",
+      "artist": "YOASOBI",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "e42b02e2063afc25"
+      ]
+    },
+    {
+      "id": "c7621c235df95817",
+      "title": "勘冴えて悔しいわ",
+      "artist": "ずっと真夜中でいいのに。",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "c7621c235df95817"
+      ]
+    },
+    {
+      "id": "63d93a4e4456601f",
+      "title": "千本桜",
+      "artist": "黒うさP",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "63d93a4e4456601f"
+      ]
+    },
+    {
+      "id": "622551245b9174a7",
+      "title": "原キー高い",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "622551245b9174a7"
+      ]
+    },
+    {
+      "id": "9fdf552ec4429328",
+      "title": "可愛くてごめん",
+      "artist": "HoneyWorks",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "9fdf552ec4429328"
+      ]
+    },
+    {
+      "id": "a03f7bd5412cc06b",
+      "title": "君じゃなきゃダメみたい",
+      "artist": "大石昌良",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "a03f7bd5412cc06b"
+      ]
+    },
+    {
+      "id": "3a9a20d6af5a8633",
+      "title": "君の知らない物語",
+      "artist": "ryo",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "3a9a20d6af5a8633"
+      ]
+    },
+    {
+      "id": "e2319a513cc42f12",
+      "title": "君の知らない物語",
+      "artist": "supercell",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "e2319a513cc42f12"
+      ]
+    },
+    {
+      "id": "1c683721fcb9c4f1",
+      "title": "唱",
+      "artist": "Ado",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "1c683721fcb9c4f1"
+      ]
+    },
+    {
+      "id": "01b3197792ba33c0",
+      "title": "四季折の羽",
+      "artist": "ひとしずく×やま△ feat.鏡音リン、鏡音レン",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/Ec8OAZot2-w"
+      ],
+      "inputIds": [
+        "01b3197792ba33c0"
+      ]
+    },
+    {
+      "id": "5466359912ceca3b",
+      "title": "変わらないもの",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "5466359912ceca3b"
+      ]
+    },
+    {
+      "id": "36e781c6a2c31bfe",
+      "title": "変わらないもの",
+      "artist": "奥華子",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "36e781c6a2c31bfe"
+      ]
+    },
+    {
+      "id": "08c9ddf572f6875f",
+      "title": "夏祭り",
+      "artist": "Whiteberry",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "08c9ddf572f6875f"
+      ]
+    },
+    {
+      "id": "ecdb17d7f80e809a",
+      "title": "夜の踊り子",
+      "artist": "サカナクション",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/qUaYRV2kupA"
+      ],
+      "inputIds": [
+        "ecdb17d7f80e809a"
+      ]
+    },
+    {
+      "id": "5d434bb030dbc1bd",
+      "title": "夜明けと蛍",
+      "artist": "n-buna feat. 初音ミク",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "5d434bb030dbc1bd"
+      ]
+    },
+    {
+      "id": "5f2c9376cd68bb56",
+      "title": "夢と葉桜",
+      "artist": "青木月光",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "5f2c9376cd68bb56"
+      ]
+    },
+    {
+      "id": "0420aa35462023d4",
+      "title": "天ノ弱",
+      "artist": "164",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "0420aa35462023d4"
+      ]
+    },
+    {
+      "id": "91b4579998c9088f",
+      "title": "天ノ弱",
+      "artist": "164 (feat. GUMI)",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/YrwsxnW-aow"
+      ],
+      "inputIds": [
+        "91b4579998c9088f"
+      ]
+    },
+    {
+      "id": "d19c72bed742a759",
+      "title": "天ノ弱",
+      "artist": "164 feat. GUMI",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "d19c72bed742a759"
+      ]
+    },
+    {
+      "id": "9a17294843c115d7",
+      "title": "奏 (かなで)",
+      "artist": "音乃瀬奏",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "9a17294843c115d7"
+      ]
+    },
+    {
+      "id": "1dc16347ed0d48c7",
+      "title": "好きすぎて滅！",
+      "artist": "MUTEKI DEAD SNAKE / 浅野尚志",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "1dc16347ed0d48c7"
+      ]
+    },
+    {
+      "id": "2adcba41174b9ce0",
+      "title": "妄想感傷代償連盟",
+      "artist": "DECO*27",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/h-B3Qz1dL3g"
+      ],
+      "inputIds": [
+        "2adcba41174b9ce0"
+      ]
+    },
+    {
+      "id": "984d8dcd342301c0",
+      "title": "妄想税",
+      "artist": "DECO*27",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/ZDG_F2w1z8w"
+      ],
+      "inputIds": [
+        "984d8dcd342301c0"
+      ]
+    },
+    {
+      "id": "4b64b98d79fe0114",
+      "title": "寄り酔い",
+      "artist": "和ぬか",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "4b64b98d79fe0114"
+      ]
+    },
+    {
+      "id": "261d92d7ee9e850e",
+      "title": "対象a",
+      "artist": "anNina",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "261d92d7ee9e850e"
+      ]
+    },
+    {
+      "id": "c7e584c0d45a5baf",
+      "title": "小さな恋のうた",
+      "artist": "MONGOL800",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "c7e584c0d45a5baf"
+      ]
+    },
+    {
+      "id": "67b2978cb12ba4d6",
+      "title": "帝国少女",
+      "artist": "R Sound Design",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/4G_l6xvI6vo"
+      ],
+      "inputIds": [
+        "67b2978cb12ba4d6"
+      ]
+    },
+    {
+      "id": "b7340b7f69e677f7",
+      "title": "幽霊東京",
+      "artist": "Ayase",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/8BsIBeZZEhY"
+      ],
+      "inputIds": [
+        "b7340b7f69e677f7"
+      ]
+    },
+    {
+      "id": "62c3deb67132b01e",
+      "title": "心做し",
+      "artist": "papiyon",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "62c3deb67132b01e"
+      ]
+    },
+    {
+      "id": "ea63fee8325766f9",
+      "title": "忘れられないの",
+      "artist": "サカナクション",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/YrwsxnW-aow"
+      ],
+      "inputIds": [
+        "ea63fee8325766f9"
+      ]
+    },
+    {
+      "id": "1f47caeed7c72b27",
+      "title": "恋の宅配便",
+      "artist": "瀬名航 feat. AZKi",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/Ec8OAZot2-w"
+      ],
+      "inputIds": [
+        "1f47caeed7c72b27"
+      ]
+    },
+    {
+      "id": "425f0a4867c6f0ef",
+      "title": "恋人ができたんだ",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "425f0a4867c6f0ef"
+      ]
+    },
+    {
+      "id": "7e28a43ee6c16a4d",
+      "title": "恋愛サーキュレーション",
+      "artist": "千石撫子",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "7e28a43ee6c16a4d"
+      ]
+    },
+    {
+      "id": "4c1bda5378056939",
+      "title": "恋愛サーキュレーション",
+      "artist": "花澤香菜",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "4c1bda5378056939"
+      ]
+    },
+    {
+      "id": "fd342af7624fab06",
+      "title": "恋愛裁判",
+      "artist": "40mP feat. 初音ミク",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/h-B3Qz1dL3g"
+      ],
+      "inputIds": [
+        "fd342af7624fab06"
+      ]
+    },
+    {
+      "id": "e1ae704a9dd89c69",
+      "title": "恋愛裁判",
+      "artist": "40mp",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "e1ae704a9dd89c69"
+      ]
+    },
+    {
+      "id": "825e2dc64fae66c1",
+      "title": "愛♡スクリ〜ム!",
+      "artist": "AiScReam",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "825e2dc64fae66c1"
+      ]
+    },
+    {
+      "id": "d970bcde0bbb5793",
+      "title": "愛じゃない",
+      "artist": "ダズビー",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "d970bcde0bbb5793"
+      ]
+    },
+    {
+      "id": "b57f84a4744e7c74",
+      "title": "愛包ダンスホール",
+      "artist": "HIMEHINA",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "b57f84a4744e7c74"
+      ]
+    },
+    {
+      "id": "c4372aa5a4dc359e",
+      "title": "打上花火",
+      "artist": "DAOKO × 米津玄師",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "c4372aa5a4dc359e"
+      ]
+    },
+    {
+      "id": "8ebd86c03fcbb7aa",
+      "title": "打上花火",
+      "artist": "DAOKO×米津玄師",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "8ebd86c03fcbb7aa"
+      ]
+    },
+    {
+      "id": "fc827f4e7ae04195",
+      "title": "接吻-kiss",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "fc827f4e7ae04195"
+      ]
+    },
+    {
+      "id": "54905a09468d39db",
+      "title": "星座になれたら",
+      "artist": "ヒグチアイ / 内藤英雅",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "54905a09468d39db"
+      ]
+    },
+    {
+      "id": "5f0d921d0f2cfb9f",
+      "title": "春ひさぎ",
+      "artist": "ヨルシカ",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "5f0d921d0f2cfb9f"
+      ]
+    },
+    {
+      "id": "01fcf76478362784",
+      "title": "春恋キューピット",
+      "artist": "夜崎ゆい",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "01fcf76478362784"
+      ]
+    },
+    {
+      "id": "f8013608814b9438",
+      "title": "春泥棒",
+      "artist": "ヨルシカ",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "f8013608814b9438"
+      ]
+    },
+    {
+      "id": "dd617d135a39d834",
+      "title": "春雷",
+      "artist": "米津玄師",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "dd617d135a39d834"
+      ]
+    },
+    {
+      "id": "f0fa7c7c4aea5538",
+      "title": "月に向かって撃て",
+      "artist": "ナナホシ管弦楽団 / 岩見陸",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "f0fa7c7c4aea5538"
+      ]
+    },
+    {
+      "id": "10335bf9677742bb",
+      "title": "月光",
+      "artist": "はるまきごはん×キタニタツヤ",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "10335bf9677742bb"
+      ]
+    },
+    {
+      "id": "c475158aa13426ac",
+      "title": "月陽",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "c475158aa13426ac"
+      ]
+    },
+    {
+      "id": "4a39079231571234",
+      "title": "月陽 -ツキアカリ-",
+      "artist": "みきとP",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/8GDyZ9EPPMs"
+      ],
+      "inputIds": [
+        "4a39079231571234"
+      ]
+    },
+    {
+      "id": "5113ffad6d280f2a",
+      "title": "月陽-ツキアカリ",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "5113ffad6d280f2a"
+      ]
+    },
+    {
+      "id": "8c603c60eea0231d",
+      "title": "本日20時に起きました",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "8c603c60eea0231d"
+      ]
+    },
+    {
+      "id": "a0be79dcbb69169d",
+      "title": "東京フラッシュ",
+      "artist": "Vaundy",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "a0be79dcbb69169d"
+      ]
+    },
+    {
+      "id": "7ba8bb091158ab00",
+      "title": "死んでしまったんだ",
+      "artist": "椎乃味醂",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "7ba8bb091158ab00"
+      ]
+    },
+    {
+      "id": "56d2e86a14091e82",
+      "title": "殺し屋危機一髪",
+      "artist": "SOIL&\"PIMP\"SESSIONSと椎名林檎",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "56d2e86a14091e82"
+      ]
+    },
+    {
+      "id": "6d802045229f55fe",
+      "title": "気まぐれメルシィ",
+      "artist": "八王子P",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "6d802045229f55fe"
+      ]
+    },
+    {
+      "id": "1e2ea19717d3fbe5",
+      "title": "水流のロック",
+      "artist": "日食なつこ",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/YrwsxnW-aow"
+      ],
+      "inputIds": [
+        "1e2ea19717d3fbe5"
+      ]
+    },
+    {
+      "id": "80c0655c32f3fdc0",
+      "title": "深昏睡",
+      "artist": "春野",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/8BsIBeZZEhY"
+      ],
+      "inputIds": [
+        "80c0655c32f3fdc0"
+      ]
+    },
+    {
+      "id": "c52f7d76a7791e94",
+      "title": "灰色と青",
+      "artist": "米津玄師",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "c52f7d76a7791e94"
+      ]
+    },
+    {
+      "id": "fbd56f086fabe7c7",
+      "title": "灰色と青",
+      "artist": "米津玄師ｘDAOKO",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "fbd56f086fabe7c7"
+      ]
+    },
+    {
+      "id": "204b7c6473338a21",
+      "title": "灰色と青",
+      "artist": "米津玄師ｘ菅田将暉",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "204b7c6473338a21"
+      ]
+    },
+    {
+      "id": "683d61ee226d2acc",
+      "title": "炉心融解",
+      "artist": "kuma(alfred) / iroha(sasaki)",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "683d61ee226d2acc"
+      ]
+    },
+    {
+      "id": "c611dd6ff3d02cf3",
+      "title": "煩悩遊戯",
+      "artist": "Reol",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "c611dd6ff3d02cf3"
+      ]
+    },
+    {
+      "id": "3d09e685c3c8a5f8",
+      "title": "熱愛発覚中",
+      "artist": "椎名林檎と中田ヤスタカ",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "3d09e685c3c8a5f8"
+      ]
+    },
+    {
+      "id": "47ae76b79446c251",
+      "title": "生きる",
+      "artist": "水野あつ feat. 可不",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "47ae76b79446c251"
+      ]
+    },
+    {
+      "id": "ae6967b7dad22315",
+      "title": "病名は愛だった (feat. z'5)",
+      "artist": "Neru",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/ZDG_F2w1z8w"
+      ],
+      "inputIds": [
+        "ae6967b7dad22315"
+      ]
+    },
+    {
+      "id": "3e189c703b8422e3",
+      "title": "白日",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "3e189c703b8422e3"
+      ]
+    },
+    {
+      "id": "b159479c46d76fce",
+      "title": "真夜中のドア",
+      "artist": "MIZUE / 中野雄太",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "b159479c46d76fce"
+      ]
+    },
+    {
+      "id": "46a34ba38a115732",
+      "title": "真夜中のドア〜Stay With Me",
+      "artist": "松原みき",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "46a34ba38a115732"
+      ]
+    },
+    {
+      "id": "89529923390b2dd5",
+      "title": "真赤",
+      "artist": "My Hair is Bad",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "89529923390b2dd5"
+      ]
+    },
+    {
+      "id": "a733e89ab4eff3b2",
+      "title": "眩しいDNAだけ",
+      "artist": "ずっと真夜中でいいのに。",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/7yJEHdZ2qJk"
+      ],
+      "inputIds": [
+        "a733e89ab4eff3b2"
+      ]
+    },
+    {
+      "id": "20204468b1a02f82",
+      "title": "砂の惑星",
+      "artist": "ハチ",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/8GDyZ9EPPMs"
+      ],
+      "inputIds": [
+        "20204468b1a02f82"
+      ]
+    },
+    {
+      "id": "dceb34cfa3c9bfbb",
+      "title": "神っぽいな",
+      "artist": "ピノキオピー",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/h-B3Qz1dL3g"
+      ],
+      "inputIds": [
+        "dceb34cfa3c9bfbb"
+      ]
+    },
+    {
+      "id": "3cf0a127fa450cb6",
+      "title": "神のまにまに",
+      "artist": "れるりり",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "3cf0a127fa450cb6"
+      ]
+    },
+    {
+      "id": "3bcf3b0ce761b15a",
+      "title": "神様、仏様",
+      "artist": "椎名林檎",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "3bcf3b0ce761b15a"
+      ]
+    },
+    {
+      "id": "db6058daecace850",
+      "title": "秒針を噛む",
+      "artist": "ずっと真夜中でいいのに。",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/7yJEHdZ2qJk"
+      ],
+      "inputIds": [
+        "db6058daecace850"
+      ]
+    },
+    {
+      "id": "f19f8ac7f1f0de22",
+      "title": "秘密",
+      "artist": "東京事変",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "f19f8ac7f1f0de22"
+      ]
+    },
+    {
+      "id": "b37f425bc0e4eaac",
+      "title": "第六感",
+      "artist": "Reol",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/h-B3Qz1dL3g"
+      ],
+      "inputIds": [
+        "b37f425bc0e4eaac"
+      ]
+    },
+    {
+      "id": "1e976ec4d2f95409",
+      "title": "絶頂讃歌",
+      "artist": "和ぬか",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "1e976ec4d2f95409"
+      ]
+    },
+    {
+      "id": "4d6d395e9a4624c0",
+      "title": "綺麗事",
+      "artist": "星街すいせい",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "4d6d395e9a4624c0"
+      ]
+    },
+    {
+      "id": "d89b29601c21b845",
+      "title": "練習してない!",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "d89b29601c21b845"
+      ]
+    },
+    {
+      "id": "8727977df18687f9",
+      "title": "美少女無罪♡パイレーツ",
+      "artist": "宝鐘マリン",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "8727977df18687f9"
+      ]
+    },
+    {
+      "id": "58bffe53fd39328c",
+      "title": "翡翠のまち",
+      "artist": "メル",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "58bffe53fd39328c"
+      ]
+    },
+    {
+      "id": "c6f00823a1fc0358",
+      "title": "翡翠のまち",
+      "artist": "メル feat. 初音ミク",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "c6f00823a1fc0358"
+      ]
+    },
+    {
+      "id": "31fc0808f66242bb",
+      "title": "聖徳太子",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "31fc0808f66242bb"
+      ]
+    },
+    {
+      "id": "6ff98796065e6a85",
+      "title": "能動的三分間",
+      "artist": "椎名林檎",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "6ff98796065e6a85"
+      ]
+    },
+    {
+      "id": "94cb4556e3c1e5f3",
+      "title": "脱法ロック",
+      "artist": "Neru",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/8GDyZ9EPPMs"
+      ],
+      "inputIds": [
+        "94cb4556e3c1e5f3"
+      ]
+    },
+    {
+      "id": "126904eb8a8d5dad",
+      "title": "至上主義アドトラック",
+      "artist": "hololive IDOL PROJECT",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/nNjpdHfB70Y"
+      ],
+      "inputIds": [
+        "126904eb8a8d5dad"
+      ]
+    },
+    {
+      "id": "7b9ba0b428a78ce1",
+      "title": "良いお年を",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "7b9ba0b428a78ce1"
+      ]
+    },
+    {
+      "id": "27f051863b669c33",
+      "title": "苦しんでいけ",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "27f051863b669c33"
+      ]
+    },
+    {
+      "id": "d445671a54971d9b",
+      "title": "落噺",
+      "artist": "OHTORA / maeshima soshi",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "d445671a54971d9b"
+      ]
+    },
+    {
+      "id": "79057b035c419432",
+      "title": "藍二乗",
+      "artist": "ヨルシカ",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "79057b035c419432"
+      ]
+    },
+    {
+      "id": "715385c1295ccdd0",
+      "title": "贖罪",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "715385c1295ccdd0"
+      ]
+    },
+    {
+      "id": "2d141719689d0318",
+      "title": "足",
+      "artist": "Иван Гомзиков",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "2d141719689d0318"
+      ]
+    },
+    {
+      "id": "74b700c406931981",
+      "title": "足拍手",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "74b700c406931981"
+      ]
+    },
+    {
+      "id": "80095abd8e6d63aa",
+      "title": "透明エレジー",
+      "artist": "n-buna",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "80095abd8e6d63aa"
+      ]
+    },
+    {
+      "id": "a9b4a8bae2d084ec",
+      "title": "鏡面の波",
+      "artist": "YURiKA",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "a9b4a8bae2d084ec"
+      ]
+    },
+    {
+      "id": "b2d5d650fc5fc875",
+      "title": "長く短い祭",
+      "artist": "椎名林檎",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "b2d5d650fc5fc875"
+      ]
+    },
+    {
+      "id": "b18648aa826dd926",
+      "title": "長く短い祭",
+      "artist": "椎名林檎 & 浮雲",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/eOeMvjGGYoc"
+      ],
+      "inputIds": [
+        "b18648aa826dd926"
+      ]
+    },
+    {
+      "id": "30e19d220fd9e6fb",
+      "title": "雨",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "30e19d220fd9e6fb"
+      ]
+    },
+    {
+      "id": "de4606c664691956",
+      "title": "雨音ノイズ",
+      "artist": "40mP",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "de4606c664691956"
+      ]
+    },
+    {
+      "id": "cac31b3eb7f921a9",
+      "title": "雪の華",
+      "artist": "中島美嘉",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "cac31b3eb7f921a9"
+      ]
+    },
+    {
+      "id": "6ccbe5963b18a34e",
+      "title": "革命道中",
+      "artist": "アイナ・ジ・エンド",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "6ccbe5963b18a34e"
+      ]
+    },
+    {
+      "id": "a1ae4bf24ba956c0",
+      "title": "風",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "a1ae4bf24ba956c0"
+      ]
+    },
+    {
+      "id": "5a1ce0dbb2b1a22f",
+      "title": "食虫植物",
+      "artist": "理芽",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "5a1ce0dbb2b1a22f"
+      ]
+    },
+    {
+      "id": "074f225758dd9e71",
+      "title": "高嶺の花子さん",
+      "artist": "清水依与吏",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "074f225758dd9e71"
+      ]
+    },
+    {
+      "id": "4f3af6cae91f8f04",
+      "title": "鱗(うろこ)",
+      "artist": "秦 基博",
+      "count": 1,
+      "sourceUrls": [
+        "https://holodex.net/api/v2/videos?channel_id=UCWQtYtq9EOB4-I5P-3fh8lA&topic=singing&status=past&include=songs",
+        "https://holodex.net/watch/7yJEHdZ2qJk"
+      ],
+      "inputIds": [
+        "4f3af6cae91f8f04"
+      ]
+    },
+    {
+      "id": "d855a6eefdbbafe4",
+      "title": "鼻うがいしたら",
+      "artist": "",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "d855a6eefdbbafe4"
+      ]
+    },
+    {
+      "id": "8e7aea5e270678e5",
+      "title": "아카시아",
+      "artist": "윤성훈",
+      "count": 1,
+      "sourceUrls": [
+        "https://setlist.kibunya.org/channel/@OtonoseKanade/"
+      ],
+      "inputIds": [
+        "8e7aea5e270678e5"
+      ]
+    }
+  ]
+}

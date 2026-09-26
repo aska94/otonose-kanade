@@ -1,0 +1,84 @@
+{
+  "reviewedAt": "2026-09-25",
+  "retrievedAt": "2026-09-25",
+  "scope": "performance-top-10",
+  "method": "itunes-search-and-track-match",
+  "extractionMode": "iTunes Search API, country=jp, media=music, entity=song; match song title, original artist, and non-live/non-cover version",
+  "comparisonSummary": "9 of 10 ranked songs have a matching iTunes track categorized J-Pop. World Is Mine has related live/remix results but no matched original recording; genre remains unconfirmed.",
+  "sourceUrlField": "songs[].tags[].sourceUrl",
+  "note": "Dashboard displays only genre tags. Other existing tags are retained as source records. iTunes categories describe the matched recording and may vary by version; genre candidates are labelled accordingly.",
+  "songs": [
+    {
+      "title": "瞬間ハートビート",
+      "artist": "ReGLOSS",
+      "tags": [
+        {"name": "J-Pop", "axis": "genre", "basis": "catalog-category", "status": "candidate", "sourceUrl": "https://music.apple.com/jp/album/1774207326?i=1774207327", "note": "iTunes JP: 瞬間ハートビート by ReGLOSS on ReGLOSS; primaryGenreName=J-Pop."}
+      ]
+    },
+    {
+      "title": "晩餐歌",
+      "artist": "tuki.",
+      "tags": [
+        {"name": "J-Pop", "axis": "genre", "basis": "catalog-category", "status": "candidate", "sourceUrl": "https://music.apple.com/jp/album/1705678977?i=1705678978", "note": "iTunes JP: 晩餐歌 - Bansanka by tuki. on the single; primaryGenreName=J-Pop."}
+      ]
+    },
+    {
+      "title": "GREATEST",
+      "artist": "音乃瀬奏",
+      "tags": [
+        {"name": "J-Pop", "axis": "genre", "basis": "catalog-category", "status": "candidate", "sourceUrl": "https://music.apple.com/jp/album/1808834188?i=1808834189", "note": "iTunes JP: GREATEST by 音乃瀬奏 on the single; primaryGenreName=J-Pop."}
+      ]
+    },
+    {
+      "title": "Mela!",
+      "artist": "緑黄色社会",
+      "tags": [
+        {"name": "J-Pop", "axis": "genre", "basis": "catalog-category", "status": "candidate", "sourceUrl": "https://music.apple.com/jp/album/1538137544?i=1538137547", "note": "iTunes JP: Mela! by 緑黄色社会 on SINGALONG; primaryGenreName=J-Pop."},
+        {"name": "댄스", "axis": "style", "basis": "manual-mapping", "sourceUrl": "https://yamahamusicdata.jp/data/74022", "note": "Yamaha describes the song as a ダンサブルなアップチューン; mapped to dance-oriented style, not a formal genre."}
+      ]
+    },
+    {
+      "title": "Universe",
+      "artist": "Official髭男dism",
+      "tags": [
+        {"name": "J-Pop", "axis": "genre", "basis": "catalog-category", "status": "candidate", "sourceUrl": "https://music.apple.com/jp/album/1553728283?i=1553728284", "note": "iTunes JP: Universe by Official髭男dism on the single; primaryGenreName=J-Pop."}
+      ]
+    },
+    {
+      "title": "カタオモイ",
+      "artist": "Aimer",
+      "tags": [
+        {"name": "J-Pop", "axis": "genre", "basis": "catalog-category", "status": "candidate", "sourceUrl": "https://music.apple.com/jp/album/1538258997?i=1538259004", "note": "iTunes JP: カタオモイ by Aimer on daydream; primaryGenreName=J-Pop."}
+      ]
+    },
+    {
+      "title": "Subtitle",
+      "artist": "Official髭男dism",
+      "tags": [
+        {"name": "J-Pop", "axis": "genre", "basis": "catalog-category", "status": "candidate", "sourceUrl": "https://music.apple.com/jp/album/1648108987?i=1648108988", "note": "iTunes JP: Subtitle by Official髭男dism on the single; primaryGenreName=J-Pop."}
+      ]
+    },
+    {
+      "title": "ワールドイズマイン",
+      "artist": "supercell",
+      "tags": [
+        {"name": "Vocaloid", "axis": "origin", "basis": "label-discography", "sourceUrl": "https://www.sonymusic.co.jp/artist/vocaloid_best/discography/buy/MHCL-1930", "note": "Sony Music lists supercell feat. 初音ミク on VOCALOID BEST; this describes the original song's synthesized-vocal origin, not Kanade's cover vocal."}
+      ]
+    },
+    {
+      "title": "ビビデバ",
+      "artist": "星街すいせい",
+      "tags": [
+        {"name": "J-Pop", "axis": "genre", "basis": "catalog-category", "status": "candidate", "sourceUrl": "https://music.apple.com/jp/album/1737099643?i=1737099644", "note": "iTunes JP: ビビデバ by 星街すいせい on the single; primaryGenreName=J-Pop."},
+        {"name": "댄스", "axis": "style", "basis": "source-description", "sourceUrl": "https://yamahamusicdata.jp/data/78857", "note": "Yamaha describes this song as a ダンスナンバー."}
+      ]
+    },
+    {
+      "title": "ソワレ",
+      "artist": "星街すいせい",
+      "tags": [
+        {"name": "J-Pop", "axis": "genre", "basis": "catalog-category", "status": "candidate", "sourceUrl": "https://music.apple.com/jp/album/1660201510?i=1660201511", "note": "iTunes JP: ソワレ by 星街すいせい on the single; primaryGenreName=J-Pop."}
+      ]
+    }
+  ]
+}

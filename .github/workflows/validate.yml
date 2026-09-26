@@ -23,3 +23,10 @@ jobs:
         uses: actions/checkout@v4
       - name: Validate karaoke data
         run: python scripts/validate_karaoke.py
+      - name: Test Korean feature profiles
+        run: python -B -m unittest discover -s scripts/karaoke -p test_tag_profile.py
+      - name: Verify reproducible dashboard artifacts
+        run: |
+          python -B scripts/karaoke/build_song_features.py
+          python -B scripts/karaoke/build_dashboard.py
+          git diff --exit-code -- site/data.json data/karaoke/normalized/song-features.ko.json

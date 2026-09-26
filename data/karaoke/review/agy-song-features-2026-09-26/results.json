@@ -1,0 +1,970 @@
+[
+  {
+    "title": "瞬間ハートビート",
+    "artist": "ReGLOSS",
+    "genres": [
+      "일렉트로닉",
+      "댄스 팝"
+    ],
+    "mood_tags": [
+      "세련됨",
+      "부유감",
+      "근미래적",
+      "스타일리시"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "晩餐歌",
+    "artist": "tuki.",
+    "genres": [
+      "J-POP",
+      "어쿠스틱"
+    ],
+    "mood_tags": [
+      "감성적",
+      "서정적",
+      "심플함",
+      "여백"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "GREATEST",
+    "artist": "音乃瀬奏",
+    "genres": [
+      "J-POP",
+      "오케스트럴 팝"
+    ],
+    "mood_tags": [
+      "화려함",
+      "질주감",
+      "희망적",
+      "독특한 전조"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "Mela!",
+    "artist": "緑黄色社会",
+    "genres": [
+      "댄스 록",
+      "소울 팝"
+    ],
+    "mood_tags": [
+      "캐치함",
+      "그루비",
+      "화려함",
+      "에너제틱"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "Subtitle",
+    "artist": "Official髭男dism",
+    "genres": [
+      "J-POP",
+      "발라드"
+    ],
+    "mood_tags": [
+      "드라마틱",
+      "섬세함",
+      "따뜻함",
+      "애절함"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "Universe",
+    "artist": "Official髭男dism",
+    "genres": [
+      "J-POP",
+      "ゴスペル・ポップス"
+    ],
+    "mood_tags": [
+      "壮大",
+      "ソウルフル",
+      "ドラマチック",
+      "コーラスワーク"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "カタオモイ",
+    "artist": "Aimer",
+    "genres": [
+      "J-POP",
+      "バラード"
+    ],
+    "mood_tags": [
+      "温かい",
+      "ミニマル",
+      "親密",
+      "アコースティック"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "ソワレ",
+    "artist": "星街すいせい",
+    "genres": [
+      "J-POP",
+      "ロック"
+    ],
+    "mood_tags": [
+      "ダンサブル",
+      "煌びやか",
+      "爽快感",
+      "華やか"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "晴る",
+    "artist": "ヨルシカ",
+    "genres": [
+      "J-POP",
+      "ギターロック"
+    ],
+    "mood_tags": [
+      "疾走感",
+      "清々しい",
+      "文学的",
+      "アッパー"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "ビビデバ",
+    "artist": "星街すいせい",
+    "genres": [
+      "J-POP",
+      "ディスコファンク"
+    ],
+    "mood_tags": [
+      "ダンサブル",
+      "グルーヴィー",
+      "スウィング感",
+      "トリッキー"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "Lemon",
+    "artist": "米津玄師",
+    "genres": [
+      "J-POP",
+      "팝 록"
+    ],
+    "mood_tags": [
+      "애절함",
+      "감성적",
+      "서정적",
+      "희망적"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "Pretender",
+    "artist": "Official髭男dism",
+    "genres": [
+      "J-POP",
+      "피아노 팝"
+    ],
+    "mood_tags": [
+      "애절함",
+      "감성적",
+      "드라마틱",
+      "세련됨"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "さよーならまたいつか！",
+    "artist": "米津玄師",
+    "genres": [
+      "J-POP"
+    ],
+    "mood_tags": [
+      "경쾌함",
+      "밝음",
+      "질주감",
+      "희망적"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "ノーダウト",
+    "artist": "Official髭男dism",
+    "genres": [
+      "J-POP",
+      "피아노 팝"
+    ],
+    "mood_tags": [
+      "그루비",
+      "질주감",
+      "소울풀",
+      "경쾌함"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "ベテルギウス",
+    "artist": "優里",
+    "genres": [
+      "J-POP",
+      "발라드"
+    ],
+    "mood_tags": [
+      "감성적",
+      "호소력",
+      "로맨틱",
+      "애절함"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "ワールドイズマイン",
+    "artist": "ryo",
+    "genres": [
+      "VOCALOID",
+      "J-POP"
+    ],
+    "mood_tags": [
+      "ツンデレ",
+      "かわいい",
+      "ポップ",
+      "幸福感"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "地球儀",
+    "artist": "米津玄師",
+    "genres": [
+      "J-POP"
+    ],
+    "mood_tags": [
+      "素朴",
+      "郷愁",
+      "思慮深い",
+      "希望"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "天体観測",
+    "artist": "BUMP OF CHICKEN",
+    "genres": [
+      "ロック",
+      "J-POP"
+    ],
+    "mood_tags": [
+      "疾走感",
+      "切ない",
+      "郷愁",
+      "物語性"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "花になって",
+    "artist": "緑黄色社会",
+    "genres": [
+      "ポップ・ロック",
+      "アニメソング"
+    ],
+    "mood_tags": [
+      "スリリング",
+      "アグレッシブ",
+      "ミステリアス",
+      "キャッチー"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "Luna say maybe",
+    "artist": "月村手毬",
+    "genres": [
+      "ゲーム音楽",
+      "J-POP"
+    ],
+    "mood_tags": [
+      "エモーショナル",
+      "疾走感",
+      "情熱的",
+      "葛藤"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "サクラキミワタシ",
+    "artist": "tuki.",
+    "genres": [
+      "J-POP",
+      "발라드"
+    ],
+    "mood_tags": [
+      "졸업",
+      "어쿠스틱",
+      "서정적",
+      "애틋함"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "ニア",
+    "artist": "夏代孝明",
+    "genres": [
+      "VOCALOID",
+      "J-POP"
+    ],
+    "mood_tags": [
+      "스토리텔링",
+      "따뜻함",
+      "서정적",
+      "애틋함"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "人生は夢だらけ",
+    "artist": "椎名林檎",
+    "genres": [
+      "J-POP",
+      "재즈"
+    ],
+    "mood_tags": [
+      "화려함",
+      "뮤지컬풍",
+      "드라마틱",
+      "희망적"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "風を食む",
+    "artist": "ヨルシカ",
+    "genres": [
+      "J-POP",
+      "록"
+    ],
+    "mood_tags": [
+      "어쿠스틱",
+      "서정적",
+      "잔잔함",
+      "문학적"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "Calc.",
+    "artist": "ジミーサムP",
+    "genres": [
+      "VOCAROCK",
+      "록"
+    ],
+    "mood_tags": [
+      "질주감",
+      "밴드사운드",
+      "애절함",
+      "이별"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "LADY",
+    "artist": "米津玄師",
+    "genres": [
+      "J-POP"
+    ],
+    "mood_tags": [
+      "경쾌함",
+      "편안함",
+      "일상",
+      "산뜻함"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "No Logic",
+    "artist": "ジミーサムP",
+    "genres": [
+      "록",
+      "팝"
+    ],
+    "mood_tags": [
+      "긍정적",
+      "위로",
+      "자유로움",
+      "캐치함"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "Our Bright Parade",
+    "artist": "hololive IDOL PROJECT",
+    "genres": [
+      "J-POP",
+      "아이돌송"
+    ],
+    "mood_tags": [
+      "밝음",
+      "질주감",
+      "화려함",
+      "고양감"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "ray",
+    "artist": "BUMP OF CHICKEN",
+    "genres": [
+      "록",
+      "J-POP"
+    ],
+    "mood_tags": [
+      "질주감",
+      "고양감",
+      "희망적",
+      "전자음"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "はいよろこんで",
+    "artist": "こっちのけんと",
+    "genres": [
+      "J-POP",
+      "댄스 팝"
+    ],
+    "mood_tags": [
+      "중독성",
+      "댄서블",
+      "경쾌함",
+      "레트로"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "ひまわりの約束",
+    "artist": "秦 基博",
+    "genres": [
+      "J-POP",
+      "ポップ・ロック"
+    ],
+    "mood_tags": [
+      "バラード",
+      "アコースティック",
+      "温かい",
+      "切ない"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "アイドル",
+    "artist": "YOASOBI",
+    "genres": [
+      "J-POP",
+      "アニメソング"
+    ],
+    "mood_tags": [
+      "中毒性",
+      "疾走感",
+      "多層的",
+      "転調"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "コネクト",
+    "artist": "ClariS",
+    "genres": [
+      "J-POP",
+      "シンセポップ"
+    ],
+    "mood_tags": [
+      "透明感",
+      "疾走感",
+      "明るい",
+      "切ない"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "ノーチラス",
+    "artist": "ヨルシカ",
+    "genres": [
+      "ロック",
+      "J-POP"
+    ],
+    "mood_tags": [
+      "叙情的",
+      "切ない",
+      "透明感",
+      "物語性"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "フィーリングラデーション",
+    "artist": "ReGLOSS",
+    "genres": [
+      "ダンス・ポップ",
+      "エレクトロニック"
+    ],
+    "mood_tags": [
+      "高揚感",
+      "前向き",
+      "開放的",
+      "軽快"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "ホシアイ",
+    "artist": "",
+    "genres": [
+      "피아노 록",
+      "보컬로이드"
+    ],
+    "mood_tags": [
+      "서정적",
+      "애절함",
+      "질주감",
+      "감성적"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "ミックスナッツ",
+    "artist": "Official髭男dism",
+    "genres": [
+      "J-POP",
+      "팝 록"
+    ],
+    "mood_tags": [
+      "질주감",
+      "경쾌함",
+      "화려함",
+      "중독성"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "メフィスト",
+    "artist": "女王蜂",
+    "genres": [
+      "록",
+      "J-POP"
+    ],
+    "mood_tags": [
+      "드라마틱",
+      "긴장감",
+      "다크",
+      "격정적"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "モニタリング",
+    "artist": "DECO*27",
+    "genres": [
+      "베이스 하우스",
+      "보컬로이드"
+    ],
+    "mood_tags": [
+      "중독성",
+      "캐치함",
+      "스토리텔링",
+      "키치함"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "別の人の彼女になったよ",
+    "artist": "wacci",
+    "genres": [
+      "J-POP",
+      "발라드"
+    ],
+    "mood_tags": [
+      "애절함",
+      "감성적",
+      "서정적",
+      "쓸쓸함"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "夜明けと蛍",
+    "artist": "n-buna",
+    "genres": [
+      "록 발라드",
+      "보컬로이드"
+    ],
+    "mood_tags": [
+      "서정적",
+      "차분함",
+      "애절함",
+      "여름"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "小夜子",
+    "artist": "みきとP",
+    "genres": [
+      "록 발라드",
+      "보컬로이드"
+    ],
+    "mood_tags": [
+      "우울",
+      "쓸쓸함",
+      "애절함",
+      "섬세함"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "幾億光年",
+    "artist": "Omoinotake",
+    "genres": [
+      "J-POP",
+      "소울"
+    ],
+    "mood_tags": [
+      "감성적",
+      "상쾌함",
+      "그루비",
+      "애틋함"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "怪獣の花唄",
+    "artist": "Vaundy",
+    "genres": [
+      "J-POP",
+      "록"
+    ],
+    "mood_tags": [
+      "질주감",
+      "캐치함",
+      "청춘",
+      "노스탤지어"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "恋",
+    "artist": "星野源",
+    "genres": [
+      "댄스 팝",
+      "J-POP"
+    ],
+    "mood_tags": [
+      "경쾌함",
+      "약동감",
+      "그루비",
+      "노스탤직"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "星座になれたら",
+    "artist": "結束バンド",
+    "genres": [
+      "ロック",
+      "J-POP"
+    ],
+    "mood_tags": [
+      "グルーヴィー",
+      "ファンキー",
+      "スラップベース"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "CH4NGE",
+    "artist": "Giga",
+    "genres": [
+      "エレクトロニック",
+      "ダンス"
+    ],
+    "mood_tags": [
+      "重厚なベース",
+      "攻撃的",
+      "疾走感",
+      "中毒性"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "Color Rise Harmony",
+    "artist": "hololive IDOL PROJECT",
+    "genres": [
+      "J-POP"
+    ],
+    "mood_tags": [
+      "華やか",
+      "キャッチー",
+      "賑やか",
+      "エネルギッシュ"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "FG ROADSTER",
+    "artist": "FLOW GLOW",
+    "genres": [
+      "ヒップホップ",
+      "ポップ"
+    ],
+    "mood_tags": [
+      "マイクリレー",
+      "疾走感",
+      "エネルギッシュ",
+      "力強い"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "JANE DOE",
+    "artist": "米津玄師, 宇多田ヒカル",
+    "genres": [
+      "J-POP"
+    ],
+    "mood_tags": [
+      "メランコリック",
+      "ダーク",
+      "切ない",
+      "デュエット"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "Shiny Smily Story",
+    "artist": "hololive IDOL PROJECT",
+    "genres": [
+      "J-POP",
+      "아이돌 팝"
+    ],
+    "mood_tags": [
+      "밝은",
+      "활기찬",
+      "에너제틱",
+      "희망찬"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "オリオンをなぞる",
+    "artist": "UNISON SQUARE GARDEN",
+    "genres": [
+      "J-POP",
+      "록"
+    ],
+    "mood_tags": [
+      "질주감",
+      "캐치함",
+      "에너제틱",
+      "경쾌한"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "シンメトリー",
+    "artist": "ReGLOSS",
+    "genres": [
+      "댄스 팝",
+      "일렉트로닉"
+    ],
+    "mood_tags": [
+      "그루비",
+      "세련된",
+      "리드미컬",
+      "감각적인"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "ドライフラワー",
+    "artist": "優里",
+    "genres": [
+      "J-POP",
+      "록 발라드"
+    ],
+    "mood_tags": [
+      "애절한",
+      "감성적인",
+      "쓸쓸한",
+      "호소력 있는"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "ブルーアンバー",
+    "artist": "back number",
+    "genres": [
+      "J-POP",
+      "록 발라드"
+    ],
+    "mood_tags": [
+      "애절한",
+      "서정적인",
+      "섬세한",
+      "감성적인"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "プラチナ",
+    "artist": "坂本真綾",
+    "genres": [
+      "J-POP",
+      "アニメソング"
+    ],
+    "mood_tags": [
+      "爽やか",
+      "前向き",
+      "開放感",
+      "透明感"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "メルト",
+    "artist": "ryo",
+    "genres": [
+      "VOCALOID",
+      "J-POP"
+    ],
+    "mood_tags": [
+      "爽やか",
+      "疾走感",
+      "ドラマチック",
+      "切ない"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "不可思議のカルテ",
+    "artist": "瀬戸麻沙美、東山奈央、種﨑敦美、内田真礼、久保ユリカ、水瀬いのり",
+    "genres": [
+      "アニメソング",
+      "ジャズ・ロック"
+    ],
+    "mood_tags": [
+      "ジャジー",
+      "浮遊感",
+      "切ない",
+      "ミステリアス"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "変わらないもの",
+    "artist": "奥 華子",
+    "genres": [
+      "J-POP",
+      "バラード"
+    ],
+    "mood_tags": [
+      "切ない",
+      "儚い",
+      "情緒的",
+      "繊細"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "夜撫でるメノウ",
+    "artist": "Ayase",
+    "genres": [
+      "VOCALOID",
+      "J-POP"
+    ],
+    "mood_tags": [
+      "メロウ",
+      "切ない",
+      "儚い",
+      "エモーショナル"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "少女レイ",
+    "artist": "みきとP",
+    "genres": [
+      "보컬로이드",
+      "J-POP"
+    ],
+    "mood_tags": [
+      "어쿠스틱",
+      "청량함",
+      "여름",
+      "애절함"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "忘れてください",
+    "artist": "ヨルシカ",
+    "genres": [
+      "J-POP",
+      "얼터너티브"
+    ],
+    "mood_tags": [
+      "서정적",
+      "차분함",
+      "미니멀",
+      "애절함"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "恋愛裁判",
+    "artist": "40mP",
+    "genres": [
+      "보컬로이드",
+      "J-POP"
+    ],
+    "mood_tags": [
+      "경쾌함",
+      "펑키",
+      "밝음",
+      "질주감"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "気まぐれロマンティック",
+    "artist": "いきものがかり",
+    "genres": [
+      "J-POP"
+    ],
+    "mood_tags": [
+      "업템포",
+      "캐치함",
+      "화려함",
+      "발랄함"
+    ],
+    "status": "candidate"
+  },
+  {
+    "title": "群青讃歌",
+    "artist": "Eve",
+    "genres": [
+      "J-POP",
+      "록"
+    ],
+    "mood_tags": [
+      "청량함",
+      "질주감",
+      "청춘",
+      "희망적"
+    ],
+    "status": "candidate"
+  }
+]
