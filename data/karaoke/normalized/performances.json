@@ -8649,7 +8649,7 @@
       "title": "ビビデバ / Bibbidiba",
       "normalizedTitle": "ビビデバ",
       "artist": "星街すいせい",
-      "timestamp": "1:60:44",
+      "timestamp": "59:44",
       "timestampSeconds": 3584,
       "sourceUrl": "https://youtube.com/watch?v=Ec8OAZot2-w&t=3584s",
       "sources": [
@@ -8663,7 +8663,12 @@
           "note": "Holodex topic=singing response; not Setlist Index source-confirmed."
         }
       ],
-      "status": "confirmed"
+      "status": "confirmed",
+      "timestampNormalization": {
+        "previousDisplay": "1:60:44",
+        "basis": "Existing timestampSeconds matches the sourceUrl navigation offset; display formatting only.",
+        "sourceUrl": "https://youtube.com/watch?v=Ec8OAZot2-w&t=3584s"
+      }
     },
     {
       "id": "Ec8OAZot2-w-09",
@@ -21707,7 +21712,7 @@
       "title": "瞬間ハートビート / Shunkan Heartbeat (Otonose Kanade SOLO ver.)",
       "normalizedTitle": "瞬間ハートビート",
       "artist": "音乃瀬奏 & ReGLOSS",
-      "timestamp": "2:60:49",
+      "timestamp": "1:59:49",
       "timestampSeconds": 7189,
       "sourceUrl": "https://youtube.com/watch?v=woCEixptAPY&t=7189s",
       "sources": [
@@ -21721,7 +21726,12 @@
           "note": "Holodex topic=singing response; not Setlist Index source-confirmed."
         }
       ],
-      "status": "confirmed"
+      "status": "confirmed",
+      "timestampNormalization": {
+        "previousDisplay": "2:60:49",
+        "basis": "Existing timestampSeconds matches the sourceUrl navigation offset; display formatting only.",
+        "sourceUrl": "https://youtube.com/watch?v=woCEixptAPY&t=7189s"
+      }
     },
     {
       "id": "woCEixptAPY-35",

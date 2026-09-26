@@ -1,0 +1,2281 @@
+{
+  "retrievedAt": "2026-09-26T15:12:00.168040+00:00",
+  "inventoryCount": 556,
+  "resultCount": 65,
+  "extractionMode": "agy search_web; AI results accepted without further source checking per user; earlier evidence files retained as history",
+  "comparisonSummary": "Candidate song features only; input artist aliases retained except explicit user override",
+  "songs": [
+    {
+      "title": "瞬間ハートビート",
+      "artist": "ReGLOSS",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZhlAGhGBaEADjBFvASKta7_85JpXpoHS34TqGgMqTAnhwAYPC2YR7_iwWIgT3s7cfhMk-OGJxdApClRR1JJxOWVa5I-LuEVdwR7qpuORLRkuAXq8CHDj8VgKX1RHk",
+          "note": "英米圏のエレクトロニックおよびダンスポップスタイルを借用した洗練されたクラブミュージック系サウンド",
+          "tags": [
+            "일렉트로닉",
+            "댄스 팝",
+            "세련됨"
+          ],
+          "access": "search-snippet"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPxtaIjiKWoOQuTZXkHsqmRDeGqOKSxYuDtkLRuUe_Ko1cHdUh8IwjiqbBtl9_Z7Ty97OkjJdYOthIqTNuY6aeZRTvEb78Qsy7Y4ZaxPQeJWsGMDzePAHGbHQz-qHpCkE-rQY=",
+          "note": "エレクトロニック・ダンスポップスタイル、洗練されたサウンド、浮遊感と近未来感のあるスタイリッシュなサウンドデザイン",
+          "tags": [
+            "일렉트로닉",
+            "댄스 팝",
+            "세련됨",
+            "부유감",
+            "근미래적",
+            "스타일리시"
+          ],
+          "access": "search-snippet"
+        }
+      ],
+      "unsupportedTags": [],
+      "conflicts": [],
+      "reviewStatus": "candidate"
+    },
+    {
+      "title": "晩餐歌",
+      "artist": "tuki.",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiHbVMuoAy-0x8SJaDs5hAT-98JR4honTbgDtRYFNXvQqaGZs6i52jmTQY0AlyAqJ98mvVLc_X_FRB0vMzgB2PWP84plSlkICXK78pWuH_46SK4JD2-duz_JAubdApaKYaUE-yClldaYdCOnYmyQ==",
+          "note": "J-POPに分類",
+          "tags": [
+            "J-POP"
+          ],
+          "access": "search-snippet"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwDVLaMYCZDrLDOY-zx3LujrvCxeuptL7-WlwPPxXO1ujXPrZwgq5xLyhfSv_GG6vXW0l_XPayLYaicqmlJvwunI1WluLnyUMSmWXuOL2gn_vpL_hhCelaWPE=",
+          "note": "アコースティックギターを基調としたシンプルな伴奏、静けさと余白が意識された構成",
+          "tags": [
+            "어쿠스틱",
+            "심플함",
+            "여백"
+          ],
+          "access": "search-snippet"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgbkziaNovnBkV9WKBhT6VWJByI7Q2wlMnxgHJL0LvKs2tqaei7hg7F9tPj30g-rDREFfN_o2VFXMwr4vifUx4iuJmTSGc5g23ntXoRcwEk2qXWTQPcsLVDCKeOTbGFmL5fO3-Sz0DGoIuE6Ug-UfWue1_zn-Plg==",
+          "note": "10代とは思えない情緒的で大人びた表現力",
+          "tags": [
+            "감성적"
+          ],
+          "access": "search-snippet"
+        }
+      ],
+      "unsupportedTags": [
+        "서정적"
+      ],
+      "conflicts": [],
+      "reviewStatus": "needs-review"
+    },
+    {
+      "title": "GREATEST",
+      "artist": "音乃瀬奏",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGWqdN9qFohJ0B-NhwsTj2OHTZ2U2kWarkY_FTwTA8oY--HwwCTUX-K4z489vQfCCdoVz7OB3OTG9aYJYO5ENN08qmhxU6VmSJdf1BPhjuetnIQRJTF1oxuub0e2X-xtRwI1k=",
+          "note": "煌びやかで疾走感のあるオーケストラサウンド、「変態転調」と評される独特のメロディライン",
+          "tags": [
+            "화려함",
+            "질주감",
+            "독특한 전조"
+          ],
+          "access": "search-snippet"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQHggbCCTufYZyO8ksVuuryn0j8C77krbfvAi3MUN-KsQZeG0ZebGYByke8v4qsZg4wjXzlEDrG3rXaMhYvUL0ZFnMAQihv4v72cz0S39B_v3ZnAAMBM8meK-2fCJ4",
+          "note": "孤独・切なさの中に希望を見出し、芯の強さや前向きなメッセージ性",
+          "tags": [
+            "희망적"
+          ],
+          "access": "search-snippet"
+        }
+      ],
+      "unsupportedTags": [
+        "J-POP",
+        "오케스트럴 팝"
+      ],
+      "conflicts": [],
+      "reviewStatus": "needs-review"
+    },
+    {
+      "title": "Mela!",
+      "artist": "緑黄色社会",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBH2Sei6qRQpSp1zWSxEK4QRZBkuS9sabYgLvPqu-GHzWDtFzEXuzGYsDBNP5-kMp8z6d4PvgPrAqmB_VDg8t7g_EwUuuhF9Eghdc2Luma2_pBD4t3_PYCnYffzSUa1jw=",
+          "note": "ダンスロック・ソウルポップ、リズムやグルーヴが強調、キャッチーかつテクニカルな構成、力強く華やかなボーカル",
+          "tags": [
+            "댄스 록",
+            "소울 팝",
+            "캐치함",
+            "그루비",
+            "화려함"
+          ],
+          "access": "search-snippet"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8496YQVpanbxF5n1S7WxXUWQnHrcCBI8I1EADYQ3A5gu6QA1BgjrSSa_WcrLWrUWo6ZMigKU0s5jv8tQgTToU4HnqgIUm8jScsOvqg_mtuvYwGfER7c4n6Q==",
+          "note": "ダンスロック、ソウルポップ",
+          "tags": [
+            "댄스 록",
+            "소울 팝"
+          ],
+          "access": "search-snippet"
+        }
+      ],
+      "unsupportedTags": [
+        "에너제틱"
+      ],
+      "conflicts": [],
+      "reviewStatus": "needs-review"
+    },
+    {
+      "title": "Subtitle",
+      "artist": "Official髭男dism",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF712Hca1-tkBcLWObF973uWkH_SagTB6zBWSyX-i6OVl6VGuwm6YU7Go9KL4Icuz15tz2vnGLQP_h6kmjZFFfWoPjGTFqUzUKTbo9pCQcTDhVavIX5PQtOAuX1bnYT-woyfFBKMBBMGbw=",
+          "note": "J-POP、ウィンターバラード、切なさや温かさを音楽で表現",
+          "tags": [
+            "J-POP",
+            "발라드",
+            "따뜻함",
+            "애절함"
+          ],
+          "access": "search-snippet"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEabotHYJh38btP7GC50qZDiT95AbD6xghfxnZKCenCG_2UUePKkGLxOYcUcQVaGRlST89YwqaVzeFtpuM-Bn2-XCTwtdk9nJJidXOei-GVhNqz1DPql2xG5FWJxiwwRJf9FyxcMc6Acg==",
+          "note": "J-POP、バラード",
+          "tags": [
+            "J-POP",
+            "발라드"
+          ],
+          "access": "search-snippet"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkIeRs_-e6YN6L0w83GUw7UNrNAYpJMHM6bKSdwJHZyj1Xns-yB6E9uYd1rGS34Uoax3A0TXe20T7RCjdIKksu_8tBrxB_6Wcx_JeINXRJAP1TQHwWLbNPfxQ=",
+          "note": "ドラマチックな展開と構成、繊細な温度感",
+          "tags": [
+            "드라마틱",
+            "섬세함"
+          ],
+          "access": "search-snippet"
+        }
+      ],
+      "unsupportedTags": [],
+      "conflicts": [],
+      "reviewStatus": "candidate"
+    },
+    {
+      "title": "Universe",
+      "artist": "Official髭男dism",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEx_CLzVLIp-X276pmN9UJ5RXL5QRPmpgBGWjhcubQJbx5OQAwxyOxWl8f26-smKof8LpXBLg3krMOnko3ddRFzrDJyiqZ-MLZmav2KVl3CN9b1Bp-LCoDOXpwlacZ8H-lyE0oOGwjltgoWMu52A-7HG1QDIy_QJT1ZEN21ko7L2PM_UbPbH3FKIX28ZGPcDA==",
+          "note": "J-POPをベースにゴスペル・ポップスの要素を取り入れた楽曲として言及",
+          "tags": [
+            "J-POP",
+            "ゴスペル・ポップス"
+          ],
+          "access": "search-snippet"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkvEBCO2PLPQstjJz06A7rSAIYYoNdSzseJhg9cEKwePGCe9Yc2W0S40k-anwL9EbMLNG3lGBiykplDQlaFfhRReRyitVNhymE4g4ZqLrvjrWanvu2ra3qGy_OufzROvfYgDU=",
+          "note": "ゴスペル由来のドラマチックな展開、クワイアを思わせるコーラスワーク、壮大な盛り上がりとして言及",
+          "tags": [
+            "ゴスペル・ポップス",
+            "壮大",
+            "ドラマチック",
+            "コーラスワーク"
+          ],
+          "access": "search-snippet"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHaolWvAFaqgy-hcLD9QJB5pL9j2EVDc8Ccw4maZPDHrGuLGTxjQtJU6gILEeqp4jU9JWNnJ1gPM-8C_2hOK3WJVjHnQzoIaK8o0lGBK8MOeaOs0WjApYQSyBQtCDT",
+          "note": "ソウルフルなポップ感を持つ作品として言及",
+          "tags": [
+            "ソウルフル"
+          ],
+          "access": "search-snippet"
+        }
+      ],
+      "unsupportedTags": [],
+      "conflicts": [],
+      "reviewStatus": "candidate"
+    },
+    {
+      "title": "カタオモイ",
+      "artist": "Aimer",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDWmXPRPDCYX96COwCnvOYEhmrzWfImLZw7fQEM-2p3zNxFPXcyKsDcS1c5YIeMRBZhrty4aCOxpTOeIQrxDjaeyy4v1IY17sIOiJQLZ7YUTKsPTN6-Hb8rbxvXg-o9r_L1c2tKM1vdIwh0GE8BQb1_ohzjB7zPo1CW_Ybdb3yiyg=",
+          "note": "J-POP楽曲として分類",
+          "tags": [
+            "J-POP"
+          ],
+          "access": "search-snippet"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfpITgDEMHKNODo20qS03fXgBNjbaGSOeit2Ifxn8eTDuhGhq58WhT_QyDxXqGhPWWBqoHvN07gjYlxg_SMJ9i8mFpfWsqFLVehLvI6xR0L9FncJk5-eLt58SHJuTJ4yib1cgD",
+          "note": "温かくしみじみとした歌声と表現のストレートなラブソング・バラードとして言及",
+          "tags": [
+            "バラード",
+            "温かい"
+          ],
+          "access": "search-snippet"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDpZ0lTz777qJpUNr0JWjYc-G-YQ5DcJo3w3GJCJNYukzSJ3x3yy-kMY5JAqpyOzYlIQLgKasza8a4BaFwlprObj8AIrQRI_wSUBPbxk9PUQNTXMzrVHveu22a2NlCtxIxZw==",
+          "note": "ギターから始まるミニマルな構成、優しく温かい空気感、親密さを持つ楽曲として言及",
+          "tags": [
+            "ミニマル",
+            "温かい",
+            "親密"
+          ],
+          "access": "search-snippet"
+        }
+      ],
+      "unsupportedTags": [
+        "アコースティック"
+      ],
+      "conflicts": [],
+      "reviewStatus": "needs-review"
+    },
+    {
+      "title": "ソワレ",
+      "artist": "星街すいせい",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuS3Xb--PYgj01cHoeVKrZ7l3OkbZoVIoqneIHu5UG_hyu3YfJ55meIZo7xGXLWygJ4ib10mIXoUJGLRRW1rW3fswmXkfwXQ-0GWbRv-8HbsBNQLNZyUnxBaG3hXlkyuKeSHJUGp93_4m0ed0uEu17b_d4RMfFiA4VqTA=",
+          "note": "J-POP基調にロックなどの要素が融合、爽快感のあるロックチューンかつダンサブルで煌びやかなポップサウンドとして言及",
+          "tags": [
+            "J-POP",
+            "ロック",
+            "爽快感",
+            "ダンサブル",
+            "煌びやか"
+          ],
+          "access": "search-snippet"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEguFrpEfFlhV3od3Abk1JsDSPmhvy5Fppbt8xNFqJ8fZmX2y72F9cT538q_Luah3jSroHrFnMCPXHK8I-zg-yCKSJZ67MXntibaDeCiNfmiYPXerANU3eXIOe2LMqza77RJgNxR9xIsufJiTY=",
+          "note": "ブラスセクションを用いた華やかな演出のアレンジとして言及",
+          "tags": [
+            "華やか"
+          ],
+          "access": "search-snippet"
+        }
+      ],
+      "unsupportedTags": [],
+      "conflicts": [],
+      "reviewStatus": "candidate"
+    },
+    {
+      "title": "晴る",
+      "artist": "ヨルシカ",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpTRvlkyDuoasdmPbnibcj6tCLsKFcHdd0uyXbzfXx3E3UyC5dEK0t4UG05txWvQOmb6voGAakDpgEEy3oPhZIai5BWyuNM4mgNYMWMiFpaCEZPYt6o6Vsk7fJ1zONIivQhJbvbGw=",
+          "note": "ジャンルとしてJ-POP、ロック（ギターロック）に分類",
+          "tags": [
+            "J-POP",
+            "ギターロック"
+          ],
+          "access": "search-snippet"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoNNDntALbS-q36KBpdPkIMtOFF9kvhoeYJ19ZpHP9Ljv2kPG_JL254bxkOnChxpucLEuJCiyN52-wFqZVaLf8BQ5Gyj95lersCEa4ovU1OqijeQIuwp2TR6IpOUr_g4kN5b93Z5gJkmPkKNcf8bifUZY=",
+          "note": "アッパーで清々しい響きを持つバンドサウンドとして言及",
+          "tags": [
+            "アッパー",
+            "清々しい"
+          ],
+          "access": "search-snippet"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsFye6Xcm_wm5ejo7vmesit7yvQ25fnbQ0mNGUbtVXVP9UkggJ8U2hmizE4ydGdnw65YE-ToUDOi6Znm3AGv9kg7pYwVNKMt3nIAkC9xQH0Xwev56avctZeG5VBfm6Hw==",
+          "note": "文学的な深みと疾走感のあるサウンドの融合として言及",
+          "tags": [
+            "文学的",
+            "疾走感"
+          ],
+          "access": "search-snippet"
+        }
+      ],
+      "unsupportedTags": [],
+      "conflicts": [],
+      "reviewStatus": "candidate"
+    },
+    {
+      "title": "ビビデバ",
+      "artist": "星街すいせい",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWohphqLt1TiU1lTWcuIwr3P0z6SFHvkXwemzKKs-ffYgW5srPMiodfNZuXyqGK8OflHf6PTkmezTzSilXUh2bCyV8wD89zJFJGdkG-Uha6bNoigfqi9icEeDhs9yWvQp-e9WpvYX61LTv2SQn3f6r_ttM_-5Dfg==",
+          "note": "J-POP基調にディスコファンク要素を取り入れ、ダンサブルで複雑・トリッキーな展開を持つ楽曲として言及",
+          "tags": [
+            "J-POP",
+            "ディスコファンク",
+            "ダンサブル",
+            "トリッキー"
+          ],
+          "access": "search-snippet"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOIT2Yd1iZyL8eMRsepljTtbxZMpZ3gX-1GO2-WRvq08TZd-dqkuTB9KbsRf2uYyJhblSFYQvWbH6THchCh2j0Z4gF5Ukg9UcVJR225DDClWO2d6wSMC4F7ptnRv7xbbNH",
+          "note": "スウィング感のあるグルーヴィーな演奏が特徴として言及",
+          "tags": [
+            "スウィング感",
+            "グルーヴィー"
+          ],
+          "access": "search-snippet"
+        }
+      ],
+      "unsupportedTags": [],
+      "conflicts": [],
+      "reviewStatus": "candidate"
+    },
+    {
+      "title": "Lemon",
+      "artist": "米津玄師",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6udqsKEKWXM8L_W_HPU02RmtryeCZ0LVz2b8Mn3piufxhMVc5h2k_ubrLWS7LDGFvFWRi9ZNOiB-N_UImYudGXcNDg4G1oa1-uVSO2zu21lY65A-Hm-EOV1YoZaOQ2SkpAYBphHOA--vWwbH1qhdNjFILqISDsq_cSnLZLzu6zauARHiPU5Qa1tpE-XS02mZD",
+          "note": "일반적으로 J-POP으로 분류되며 음악적 어프로치에서 팝 록(ポップ・ロック) 및 인디 록 요소가 포함된다고 정의됨",
+          "tags": [
+            "J-POP",
+            "팝 록"
+          ],
+          "access": "search-snippet"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFw8XuCaHPgW4J32w4A7HDbuW9A_nDpz16DSSBVorArQvbJRuFpdwYoMXWtb8VuU1T37gTXnT2_fQ4eUFm7rFr2-4eoGmtn7ZMEcAW8jonfBYYBUyFdUfbJAwE-0CWJ2i9Ii84=",
+          "note": "어둡고 중후한 분위기 속 메이저 코드를 섞어 희망과 깊이를 부여하며 감정의 진폭을 흔드는 멜로디로 구성",
+          "tags": [
+            "희망적",
+            "감성적"
+          ],
+          "access": "search-snippet"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDx2UX0ZnXnlj0LLM1iSJPKkvxdcWAZxgtEMkEuIUkMPXmrKwmGCry-Zdy_j71dinZOYVVxZb0SvlVdFuf5Hj84F5wD03OqTTC_cMnEkDd45uM-YdP1iztL-QnXnteNc9zOg==",
+          "note": "소중한 사람을 잃은 슬픔과 상실감, 애절함(切なさ)과 서정적인 아름다움(抒情的な美しさ)을 표현한 곡으로 평가",
+          "tags": [
+            "애절함",
+            "서정적"
+          ],
+          "access": "search-snippet"
+        }
+      ],
+      "unsupportedTags": [],
+      "conflicts": [],
+      "reviewStatus": "candidate"
+    },
+    {
+      "title": "Pretender",
+      "artist": "Official髭男dism",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWtuguaSbsdqgOr8VrZe2PL9oHjdA7ItgpyPAeTi9ZBJGEr9Nk2RC72FuhQPVI4QXJ_0xCbAMnmzSeejK2gcF6yEHeBKms4KBCWblDrSyDJNrZZkMytAfuBWfMdK5yWIXsSEqB8LPR",
+          "note": "중독성 높은 멜로디 축의 피아노 팝 밴드로서 대중에게 널리 닿는 캐치한 팝스(J-POP)로 승화",
+          "tags": [
+            "피아노 팝",
+            "J-POP"
+          ],
+          "access": "search-snippet"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErC0ecP-0NammWYsquPRG0Sn8d6qOaRYM4VlSNViyOw-it0a38sSMGamDcT9XJ_2K7jpxAAVyvw5kARCEQQZZyixtGDRq4WPakrLzqBx49uL0V5neC",
+          "note": "세련된 코드 진행 및 이론적 구축을 바탕으로 드라마틱한 전개와 감정적인 드라마를 형성",
+          "tags": [
+            "세련됨",
+            "드라마틱",
+            "감성적"
+          ],
+          "access": "search-snippet"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEMZO5cui0PG_Y8wduQdyh6enSpMYMX1dU_t3v6_uv6TxVB6Ugjkl86ihPnzl3tcPtGy5flZADB4Za0is8_qlV6RqFagAk1W4gkmMFnCpxwzDu6qM4wIl8T4sJJJmpoC7eb4r0eFU=",
+          "note": "세련된 사운드와 애절한 가사 세계관(切ない歌詞の世界観)이 리스너에게 깊은 인상을 줌",
+          "tags": [
+            "애절함"
+          ],
+          "access": "search-snippet"
+        }
+      ],
+      "unsupportedTags": [],
+      "conflicts": [],
+      "reviewStatus": "candidate"
+    },
+    {
+      "title": "さよーならまたいつか！",
+      "artist": "米津玄師",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtZMekrmmUhZ4Qdmt5Sd1qV0YMSecznBYpEBWkWvJvRoKK0_QLuWO1lzxku3kZ_TofWsrm8fKJL338vwGimnoIgH5iHlrbzRN951MEeplKBxnPo8SX9QOd-V1uFzFa0Y0O9RGrigsDmQP4RxR3EjBWyy6Iz5Grhq9QRaP8LN63p9vENX4eQOW_kgeTnLYSbsxPYrtQ30tI62deE0HdE-QiXKs9vngkmR4PN2LzgXkk",
+          "note": "J-POP 장르로 분류되며 아침드라마 주제가로 발표된 악곡",
+          "tags": [
+            "J-POP"
+          ],
+          "access": "search-snippet"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9zEqiaYBZ3z89_Q8fpMwIndWWTYlfC5qoSbYE-rbjJMY09wtVVnf53uzB4AUWJMRhJ6pVTRqcdfBWIQKo7iltVIyod68AidDenTVwVnC0Y4x4fTKnd0y-uLMj2GDtUlNrqkPnWzrRhF4=",
+          "note": "매일 아침 들을 수 있는 경쾌함(軽快さ)과 매우 밝고 팝한 인상(明るくポップな印象)을 의식해 제작",
+          "tags": [
+            "경쾌함",
+            "밝음"
+          ],
+          "access": "search-snippet"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnxczNN5GSob3wQek1yW5QziNZuWSG3y6rlXJ9vvmzbyzpQPrIcyAWlY8s2ASeCD76_Ja3xpB7-uyd3vhWci3qrUlfx94g6xtbN53oP-1q3QP0tnh8fenPfPMOINphtyieJCkQNlcIGgA4dtWBioSt57uQrY2l9xU6mlM=",
+          "note": "스트링스와 드럼셋 등의 악기 편성을 효과적으로 활용하여 악곡의 질주감(疾走感)을 연출",
+          "tags": [
+            "질주감"
+          ],
+          "access": "search-snippet"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGM1P8J8t-m2I3f8DBOu69CnN9kcEfaSZ0EwXGuGKYSAjjJjOj6Cg94olI0HheQHK0wjhk6DCrS9l0U3sv-IrEAKP8YWtspcrarr1nbpPUfo4nD1k5SUE8F3PwNuAumCniZYmRIOxCAMubEtBm58a8Jl9UNomiJ9Ki-RiVjCOJuTg==",
+          "note": "포기하지 않는 이별과 미완성 속의 희망(希望) 등 유연하고 힘찬 인생관을 묘사",
+          "tags": [
+            "희망적"
+          ],
+          "access": "search-snippet"
+        }
+      ],
+      "unsupportedTags": [],
+      "conflicts": [],
+      "reviewStatus": "candidate"
+    },
+    {
+      "title": "ノーダウト",
+      "artist": "Official髭男dism",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHrSljUEEMrRQZq-2LNHoicHke8Yij50N5AolEF9kwII2WHZG_V1zbN29KXFA2ngdpyP6Ok8fs59QqBQwEwJ2GWn8tp7qoRq-0Wy7Rr0ojTx-oaGcI7EetW9jWYgZ3_vBuMNE=",
+          "note": "피아노 팝 스타일을 축으로 3분간을 내달리는 템포감과 질주감(疾走感)을 형성",
+          "tags": [
+            "피아노 팝",
+            "질주감"
+          ],
+          "access": "search-snippet"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvwgwYH6EwJh5IZILT2GRRJ6Y6jjG92MAoNbwWnGJO9c5rQ5c1tLx9gIyN5f_Kom4Bp4G2ciPUFY3knto5DhQyr8K1dba37uPZdlKYlFbwxJSFceyAMbR-j3XJ3QZ5N4Im",
+          "note": "피아노 사운드가 중심이 되어 경쾌하고(軽やか) 리드미컬한 사운드로 청자를 매료함",
+          "tags": [
+            "경쾌함"
+          ],
+          "access": "search-snippet"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9QhgsYyLblFx_JJSE7MwHA_4wswlCEFyCY2poNbs_4IEOgOHU1PD20FD-CiVe1ydMilPlFEyvAqLHDvcSUS45uEEYA4-7WrnUIQvIGciCZPplXw6WJY6hZyRG7Q==",
+          "note": "피아노 팝 기반 위에 펑크, 소울, 블랙뮤직 요소를 혼합하고 리듬의 연구로 그루비한(グルーヴィー) 공간을 창출",
+          "tags": [
+            "그루비",
+            "소울풀"
+          ],
+          "access": "search-snippet"
+        }
+      ],
+      "unsupportedTags": [
+        "J-POP"
+      ],
+      "conflicts": [],
+      "reviewStatus": "needs-review"
+    },
+    {
+      "title": "ベテルギウス",
+      "artist": "優里",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHybpobrSH5ADaC3Xp_1403VwnEEIVBS-lp6Q9roj75GVAb6KIZc7wisE89LmcpobRfjg2crTzE8EQUOJPupBmK-gdm58d3PPvK6gaaijOJLmQqv4jV1cE65xS2S05SMXoZe9_DqCFsvsWUApngylQKEeWZi32aicUWvOuk_6-6RgPIc0PP_FAwhVZRyqaiVbR_Gu8R0r3PdwaEH8tWhEageYNE6YQxs7Hn0cAsOkK4Iyw=",
+          "note": "J-POP 분류 및 사람과 사람 사이의 인연과 유대를 노래한 발라드(バラード) 악곡",
+          "tags": [
+            "J-POP",
+            "발라드"
+          ],
+          "access": "search-snippet"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqWSm-UHJzQDvUYotaeVY7vci4SOXBGD54Ui9zG5ZQT0OKtpMflhXo6i9vXmPKD2O2fy_LX-kwGfJmoC9hsRbWvOlH0uvcdwmx4od8PZlUCJVOJTIGuXHoocbqirysFjjPmPKdaWQ",
+          "note": "부드러움과 파워를 겸비한 호소력 있는 가창력과 감정을 크게 흔드는 에모셔널한 표현",
+          "tags": [
+            "호소력",
+            "감성적"
+          ],
+          "access": "search-snippet"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGklez0bZZKYCICtKGwTa4x78OrH5kD9nwEP7tjZY9NBzUZIZ5PMEuxZJfDteR3TjW3jiTFSO2E8pcMdzVWGjFAgEMQOo5-IzNc_q0i4WNmIAXmOWsNNXHJMvxJYw4rb8mw",
+          "note": "소중한 사람과의 인연을 멀리 빛나는 별에 비유한 로맨틱하고 메시지성 강한 가사",
+          "tags": [
+            "로맨틱"
+          ],
+          "access": "search-snippet"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzjLSc2OiZTEgrrnrcg0GLIRDNb95AZA9oiWtJBDNtq1Zs07jcUnwI1papK_-ZZIOW_vnDl95l_gETozrnHrnfXXM57JpwUjL_w-9mqVvm2lHMlBNj781IwKbP3WnvoopBCIszW-UM",
+          "note": "눈에 보이지 않는 인연의 덧없음과 굳은 결의의 힘참이 애절함(切なさ)으로 가슴에 와닿는 곡",
+          "tags": [
+            "애절함"
+          ],
+          "access": "search-snippet"
+        }
+      ],
+      "unsupportedTags": [],
+      "conflicts": [],
+      "reviewStatus": "candidate"
+    },
+    {
+      "title": "ワールドイズマイン",
+      "artist": "ryo",
+      "reviewStatus": "candidate",
+      "verification": "AI search result accepted without independent source checking, per user instruction",
+      "sources": [
+        {
+          "url": "https://www.google.com/search?q=%22Luna%20say%20maybe%22%20%E6%9C%88%E6%9D%91%E6%89%8B%E6%AF%AC%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=Luna%20say%20maybe%20%E6%9C%88%E6%9D%91%E6%89%8B%E6%AF%AC%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A4%E3%82%BA%E3%83%9E%E3%82%A4%E3%83%B3%20ryo%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E5%9C%B0%E7%90%83%E5%84%80%20%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E5%A4%A9%E4%BD%93%E8%A6%B3%E6%B8%AC%20BUMP%20OF%20CHICKEN%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E8%8A%B1%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%20%E7%B7%91%E9%BB%84%E8%89%B2%E7%A4%BE%E4%BC%9A%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        }
+      ]
+    },
+    {
+      "title": "地球儀",
+      "artist": "米津玄師",
+      "reviewStatus": "candidate",
+      "verification": "AI search result accepted without independent source checking, per user instruction",
+      "sources": [
+        {
+          "url": "https://www.google.com/search?q=%22Luna%20say%20maybe%22%20%E6%9C%88%E6%9D%91%E6%89%8B%E6%AF%AC%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=Luna%20say%20maybe%20%E6%9C%88%E6%9D%91%E6%89%8B%E6%AF%AC%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A4%E3%82%BA%E3%83%9E%E3%82%A4%E3%83%B3%20ryo%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E5%9C%B0%E7%90%83%E5%84%80%20%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E5%A4%A9%E4%BD%93%E8%A6%B3%E6%B8%AC%20BUMP%20OF%20CHICKEN%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E8%8A%B1%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%20%E7%B7%91%E9%BB%84%E8%89%B2%E7%A4%BE%E4%BC%9A%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        }
+      ]
+    },
+    {
+      "title": "天体観測",
+      "artist": "BUMP OF CHICKEN",
+      "reviewStatus": "candidate",
+      "verification": "AI search result accepted without independent source checking, per user instruction",
+      "sources": [
+        {
+          "url": "https://www.google.com/search?q=%22Luna%20say%20maybe%22%20%E6%9C%88%E6%9D%91%E6%89%8B%E6%AF%AC%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=Luna%20say%20maybe%20%E6%9C%88%E6%9D%91%E6%89%8B%E6%AF%AC%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A4%E3%82%BA%E3%83%9E%E3%82%A4%E3%83%B3%20ryo%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E5%9C%B0%E7%90%83%E5%84%80%20%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E5%A4%A9%E4%BD%93%E8%A6%B3%E6%B8%AC%20BUMP%20OF%20CHICKEN%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E8%8A%B1%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%20%E7%B7%91%E9%BB%84%E8%89%B2%E7%A4%BE%E4%BC%9A%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        }
+      ]
+    },
+    {
+      "title": "花になって",
+      "artist": "緑黄色社会",
+      "reviewStatus": "candidate",
+      "verification": "AI search result accepted without independent source checking, per user instruction",
+      "sources": [
+        {
+          "url": "https://www.google.com/search?q=%22Luna%20say%20maybe%22%20%E6%9C%88%E6%9D%91%E6%89%8B%E6%AF%AC%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=Luna%20say%20maybe%20%E6%9C%88%E6%9D%91%E6%89%8B%E6%AF%AC%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A4%E3%82%BA%E3%83%9E%E3%82%A4%E3%83%B3%20ryo%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E5%9C%B0%E7%90%83%E5%84%80%20%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E5%A4%A9%E4%BD%93%E8%A6%B3%E6%B8%AC%20BUMP%20OF%20CHICKEN%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E8%8A%B1%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%20%E7%B7%91%E9%BB%84%E8%89%B2%E7%A4%BE%E4%BC%9A%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        }
+      ]
+    },
+    {
+      "title": "Luna say maybe",
+      "artist": "月村手毬",
+      "reviewStatus": "candidate",
+      "verification": "AI search result accepted without independent source checking, per user instruction",
+      "sources": [
+        {
+          "url": "https://www.google.com/search?q=%22Luna%20say%20maybe%22%20%E6%9C%88%E6%9D%91%E6%89%8B%E6%AF%AC%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=Luna%20say%20maybe%20%E6%9C%88%E6%9D%91%E6%89%8B%E6%AF%AC%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A4%E3%82%BA%E3%83%9E%E3%82%A4%E3%83%B3%20ryo%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E5%9C%B0%E7%90%83%E5%84%80%20%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E5%A4%A9%E4%BD%93%E8%A6%B3%E6%B8%AC%20BUMP%20OF%20CHICKEN%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E8%8A%B1%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%20%E7%B7%91%E9%BB%84%E8%89%B2%E7%A4%BE%E4%BC%9A%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        }
+      ]
+    },
+    {
+      "title": "サクラキミワタシ",
+      "artist": "tuki.",
+      "reviewStatus": "candidate",
+      "verification": "AI search result accepted without independent source checking, per user instruction",
+      "sources": [
+        {
+          "url": "https://www.google.com/search?q=%22tuki.%22%20%22%E3%82%B5%E3%82%AF%E3%83%A9%E3%82%AD%E3%83%9F%E3%83%AF%E3%82%BF%E3%82%B7%22%20%E6%A5%BD%E6%9B%B2%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E3%82%B8%E3%83%9F%E3%83%BC%E3%82%B5%E3%83%A0P%22%20%22Calc.%22%20%E6%A5%BD%E6%9B%B2%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E3%83%A8%E3%83%AB%E3%82%B7%E3%82%AB%22%20%22%E9%A2%A8%E3%82%92%E9%A3%9F%E3%82%80%22%20%E6%A5%BD%E6%9B%B2%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E5%A4%8F%E4%BB%A3%E5%AD%9D%E6%98%8E%22%20%22%E3%83%8B%E3%82%A2%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20VOCALOID%20OR%20%E3%83%9C%E3%82%AB%E3%83%AD",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E5%A4%8F%E4%BB%A3%E5%AD%9D%E6%98%8E%22%20%22%E3%83%8B%E3%82%A2%22%20%E6%A5%BD%E6%9B%B2%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E6%A4%8E%E5%90%8D%E6%9E%97%E6%AA%8E%22%20%22%E4%BA%BA%E7%94%9F%E3%81%AF%E5%A4%A2%E3%81%A0%E3%82%89%E3%81%91%22%20%E6%A5%BD%E6%9B%B2%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        }
+      ]
+    },
+    {
+      "title": "ニア",
+      "artist": "夏代孝明",
+      "reviewStatus": "candidate",
+      "verification": "AI search result accepted without independent source checking, per user instruction",
+      "sources": [
+        {
+          "url": "https://www.google.com/search?q=%22tuki.%22%20%22%E3%82%B5%E3%82%AF%E3%83%A9%E3%82%AD%E3%83%9F%E3%83%AF%E3%82%BF%E3%82%B7%22%20%E6%A5%BD%E6%9B%B2%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E3%82%B8%E3%83%9F%E3%83%BC%E3%82%B5%E3%83%A0P%22%20%22Calc.%22%20%E6%A5%BD%E6%9B%B2%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E3%83%A8%E3%83%AB%E3%82%B7%E3%82%AB%22%20%22%E9%A2%A8%E3%82%92%E9%A3%9F%E3%82%80%22%20%E6%A5%BD%E6%9B%B2%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E5%A4%8F%E4%BB%A3%E5%AD%9D%E6%98%8E%22%20%22%E3%83%8B%E3%82%A2%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20VOCALOID%20OR%20%E3%83%9C%E3%82%AB%E3%83%AD",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E5%A4%8F%E4%BB%A3%E5%AD%9D%E6%98%8E%22%20%22%E3%83%8B%E3%82%A2%22%20%E6%A5%BD%E6%9B%B2%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E6%A4%8E%E5%90%8D%E6%9E%97%E6%AA%8E%22%20%22%E4%BA%BA%E7%94%9F%E3%81%AF%E5%A4%A2%E3%81%A0%E3%82%89%E3%81%91%22%20%E6%A5%BD%E6%9B%B2%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        }
+      ]
+    },
+    {
+      "title": "人生は夢だらけ",
+      "artist": "椎名林檎",
+      "reviewStatus": "candidate",
+      "verification": "AI search result accepted without independent source checking, per user instruction",
+      "sources": [
+        {
+          "url": "https://www.google.com/search?q=%22tuki.%22%20%22%E3%82%B5%E3%82%AF%E3%83%A9%E3%82%AD%E3%83%9F%E3%83%AF%E3%82%BF%E3%82%B7%22%20%E6%A5%BD%E6%9B%B2%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E3%82%B8%E3%83%9F%E3%83%BC%E3%82%B5%E3%83%A0P%22%20%22Calc.%22%20%E6%A5%BD%E6%9B%B2%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E3%83%A8%E3%83%AB%E3%82%B7%E3%82%AB%22%20%22%E9%A2%A8%E3%82%92%E9%A3%9F%E3%82%80%22%20%E6%A5%BD%E6%9B%B2%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E5%A4%8F%E4%BB%A3%E5%AD%9D%E6%98%8E%22%20%22%E3%83%8B%E3%82%A2%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20VOCALOID%20OR%20%E3%83%9C%E3%82%AB%E3%83%AD",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E5%A4%8F%E4%BB%A3%E5%AD%9D%E6%98%8E%22%20%22%E3%83%8B%E3%82%A2%22%20%E6%A5%BD%E6%9B%B2%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E6%A4%8E%E5%90%8D%E6%9E%97%E6%AA%8E%22%20%22%E4%BA%BA%E7%94%9F%E3%81%AF%E5%A4%A2%E3%81%A0%E3%82%89%E3%81%91%22%20%E6%A5%BD%E6%9B%B2%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        }
+      ]
+    },
+    {
+      "title": "風を食む",
+      "artist": "ヨルシカ",
+      "reviewStatus": "candidate",
+      "verification": "AI search result accepted without independent source checking, per user instruction",
+      "sources": [
+        {
+          "url": "https://www.google.com/search?q=%22tuki.%22%20%22%E3%82%B5%E3%82%AF%E3%83%A9%E3%82%AD%E3%83%9F%E3%83%AF%E3%82%BF%E3%82%B7%22%20%E6%A5%BD%E6%9B%B2%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E3%82%B8%E3%83%9F%E3%83%BC%E3%82%B5%E3%83%A0P%22%20%22Calc.%22%20%E6%A5%BD%E6%9B%B2%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E3%83%A8%E3%83%AB%E3%82%B7%E3%82%AB%22%20%22%E9%A2%A8%E3%82%92%E9%A3%9F%E3%82%80%22%20%E6%A5%BD%E6%9B%B2%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E5%A4%8F%E4%BB%A3%E5%AD%9D%E6%98%8E%22%20%22%E3%83%8B%E3%82%A2%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20VOCALOID%20OR%20%E3%83%9C%E3%82%AB%E3%83%AD",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E5%A4%8F%E4%BB%A3%E5%AD%9D%E6%98%8E%22%20%22%E3%83%8B%E3%82%A2%22%20%E6%A5%BD%E6%9B%B2%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E6%A4%8E%E5%90%8D%E6%9E%97%E6%AA%8E%22%20%22%E4%BA%BA%E7%94%9F%E3%81%AF%E5%A4%A2%E3%81%A0%E3%82%89%E3%81%91%22%20%E6%A5%BD%E6%9B%B2%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        }
+      ]
+    },
+    {
+      "title": "Calc.",
+      "artist": "ジミーサムP",
+      "reviewStatus": "candidate",
+      "verification": "AI search result accepted without independent source checking, per user instruction",
+      "sources": [
+        {
+          "url": "https://www.google.com/search?q=%22tuki.%22%20%22%E3%82%B5%E3%82%AF%E3%83%A9%E3%82%AD%E3%83%9F%E3%83%AF%E3%82%BF%E3%82%B7%22%20%E6%A5%BD%E6%9B%B2%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E3%82%B8%E3%83%9F%E3%83%BC%E3%82%B5%E3%83%A0P%22%20%22Calc.%22%20%E6%A5%BD%E6%9B%B2%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E3%83%A8%E3%83%AB%E3%82%B7%E3%82%AB%22%20%22%E9%A2%A8%E3%82%92%E9%A3%9F%E3%82%80%22%20%E6%A5%BD%E6%9B%B2%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E5%A4%8F%E4%BB%A3%E5%AD%9D%E6%98%8E%22%20%22%E3%83%8B%E3%82%A2%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20VOCALOID%20OR%20%E3%83%9C%E3%82%AB%E3%83%AD",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E5%A4%8F%E4%BB%A3%E5%AD%9D%E6%98%8E%22%20%22%E3%83%8B%E3%82%A2%22%20%E6%A5%BD%E6%9B%B2%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E6%A4%8E%E5%90%8D%E6%9E%97%E6%AA%8E%22%20%22%E4%BA%BA%E7%94%9F%E3%81%AF%E5%A4%A2%E3%81%A0%E3%82%89%E3%81%91%22%20%E6%A5%BD%E6%9B%B2%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        }
+      ]
+    },
+    {
+      "title": "LADY",
+      "artist": "米津玄師",
+      "reviewStatus": "candidate",
+      "verification": "AI search result accepted without independent source checking, per user instruction",
+      "sources": [
+        {
+          "url": "https://www.google.com/search?q=%22BUMP%20OF%20CHICKEN%22%20%22ray%22%20%E6%A5%BD%E6%9B%B2%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22aska94%22%20%22otonose%22",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22hololive%20IDOL%20PROJECT%22%20%22Our%20Bright%20Parade%22%20%E6%A5%BD%E6%9B%B2%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22mood_tags%22%20%22status%22%20%22candidate%22%20%22genres%22",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E3%81%93%E3%81%A3%E3%81%A1%E3%81%AE%E3%81%91%E3%82%93%E3%81%A8%22%20%22%E3%81%AF%E3%81%84%E3%82%88%E3%82%8D%E3%81%93%E3%82%93%E3%81%A7%22%20genre%20OR%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E3%81%93%E3%81%A3%E3%81%A1%E3%81%AE%E3%81%91%E3%82%93%E3%81%A8%22%20%22%E3%81%AF%E3%81%84%E3%82%88%E3%82%8D%E3%81%93%E3%82%93%E3%81%A7%22%20%E6%A5%BD%E6%9B%B2%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E3%82%B8%E3%83%9F%E3%83%BC%E3%82%B5%E3%83%A0P%22%20%22No%20Logic%22%20%E6%A5%BD%E6%9B%B2%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%EC%9E%A5%EB%A5%B4%EB%8A%94%20%EC%B5%9C%EB%8C%80%202%EA%B0%9C%2C%20%EB%B6%84%EC%9C%84%EA%B8%B0%C2%B7%ED%8A%B9%EC%A7%95%20%ED%83%9C%EA%B7%B8%EB%8A%94%20%EC%B5%9C%EB%8C%80%204%EA%B0%9C%EB%A7%8C%20%EA%B3%A0%EB%A5%B4%EA%B3%A0%22",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB%20LADY%20%E6%A5%BD%E6%9B%B2%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        }
+      ]
+    },
+    {
+      "title": "No Logic",
+      "artist": "ジミーサムP",
+      "reviewStatus": "candidate",
+      "verification": "AI search result accepted without independent source checking, per user instruction",
+      "sources": [
+        {
+          "url": "https://www.google.com/search?q=%22BUMP%20OF%20CHICKEN%22%20%22ray%22%20%E6%A5%BD%E6%9B%B2%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22aska94%22%20%22otonose%22",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22hololive%20IDOL%20PROJECT%22%20%22Our%20Bright%20Parade%22%20%E6%A5%BD%E6%9B%B2%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22mood_tags%22%20%22status%22%20%22candidate%22%20%22genres%22",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E3%81%93%E3%81%A3%E3%81%A1%E3%81%AE%E3%81%91%E3%82%93%E3%81%A8%22%20%22%E3%81%AF%E3%81%84%E3%82%88%E3%82%8D%E3%81%93%E3%82%93%E3%81%A7%22%20genre%20OR%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E3%81%93%E3%81%A3%E3%81%A1%E3%81%AE%E3%81%91%E3%82%93%E3%81%A8%22%20%22%E3%81%AF%E3%81%84%E3%82%88%E3%82%8D%E3%81%93%E3%82%93%E3%81%A7%22%20%E6%A5%BD%E6%9B%B2%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E3%82%B8%E3%83%9F%E3%83%BC%E3%82%B5%E3%83%A0P%22%20%22No%20Logic%22%20%E6%A5%BD%E6%9B%B2%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%EC%9E%A5%EB%A5%B4%EB%8A%94%20%EC%B5%9C%EB%8C%80%202%EA%B0%9C%2C%20%EB%B6%84%EC%9C%84%EA%B8%B0%C2%B7%ED%8A%B9%EC%A7%95%20%ED%83%9C%EA%B7%B8%EB%8A%94%20%EC%B5%9C%EB%8C%80%204%EA%B0%9C%EB%A7%8C%20%EA%B3%A0%EB%A5%B4%EA%B3%A0%22",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB%20LADY%20%E6%A5%BD%E6%9B%B2%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        }
+      ]
+    },
+    {
+      "title": "Our Bright Parade",
+      "artist": "hololive IDOL PROJECT",
+      "reviewStatus": "candidate",
+      "verification": "AI search result accepted without independent source checking, per user instruction",
+      "sources": [
+        {
+          "url": "https://www.google.com/search?q=%22BUMP%20OF%20CHICKEN%22%20%22ray%22%20%E6%A5%BD%E6%9B%B2%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22aska94%22%20%22otonose%22",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22hololive%20IDOL%20PROJECT%22%20%22Our%20Bright%20Parade%22%20%E6%A5%BD%E6%9B%B2%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22mood_tags%22%20%22status%22%20%22candidate%22%20%22genres%22",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E3%81%93%E3%81%A3%E3%81%A1%E3%81%AE%E3%81%91%E3%82%93%E3%81%A8%22%20%22%E3%81%AF%E3%81%84%E3%82%88%E3%82%8D%E3%81%93%E3%82%93%E3%81%A7%22%20genre%20OR%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E3%81%93%E3%81%A3%E3%81%A1%E3%81%AE%E3%81%91%E3%82%93%E3%81%A8%22%20%22%E3%81%AF%E3%81%84%E3%82%88%E3%82%8D%E3%81%93%E3%82%93%E3%81%A7%22%20%E6%A5%BD%E6%9B%B2%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E3%82%B8%E3%83%9F%E3%83%BC%E3%82%B5%E3%83%A0P%22%20%22No%20Logic%22%20%E6%A5%BD%E6%9B%B2%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%EC%9E%A5%EB%A5%B4%EB%8A%94%20%EC%B5%9C%EB%8C%80%202%EA%B0%9C%2C%20%EB%B6%84%EC%9C%84%EA%B8%B0%C2%B7%ED%8A%B9%EC%A7%95%20%ED%83%9C%EA%B7%B8%EB%8A%94%20%EC%B5%9C%EB%8C%80%204%EA%B0%9C%EB%A7%8C%20%EA%B3%A0%EB%A5%B4%EA%B3%A0%22",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB%20LADY%20%E6%A5%BD%E6%9B%B2%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        }
+      ]
+    },
+    {
+      "title": "ray",
+      "artist": "BUMP OF CHICKEN",
+      "reviewStatus": "candidate",
+      "verification": "AI search result accepted without independent source checking, per user instruction",
+      "sources": [
+        {
+          "url": "https://www.google.com/search?q=%22BUMP%20OF%20CHICKEN%22%20%22ray%22%20%E6%A5%BD%E6%9B%B2%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22aska94%22%20%22otonose%22",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22hololive%20IDOL%20PROJECT%22%20%22Our%20Bright%20Parade%22%20%E6%A5%BD%E6%9B%B2%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22mood_tags%22%20%22status%22%20%22candidate%22%20%22genres%22",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E3%81%93%E3%81%A3%E3%81%A1%E3%81%AE%E3%81%91%E3%82%93%E3%81%A8%22%20%22%E3%81%AF%E3%81%84%E3%82%88%E3%82%8D%E3%81%93%E3%82%93%E3%81%A7%22%20genre%20OR%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E3%81%93%E3%81%A3%E3%81%A1%E3%81%AE%E3%81%91%E3%82%93%E3%81%A8%22%20%22%E3%81%AF%E3%81%84%E3%82%88%E3%82%8D%E3%81%93%E3%82%93%E3%81%A7%22%20%E6%A5%BD%E6%9B%B2%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E3%82%B8%E3%83%9F%E3%83%BC%E3%82%B5%E3%83%A0P%22%20%22No%20Logic%22%20%E6%A5%BD%E6%9B%B2%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%EC%9E%A5%EB%A5%B4%EB%8A%94%20%EC%B5%9C%EB%8C%80%202%EA%B0%9C%2C%20%EB%B6%84%EC%9C%84%EA%B8%B0%C2%B7%ED%8A%B9%EC%A7%95%20%ED%83%9C%EA%B7%B8%EB%8A%94%20%EC%B5%9C%EB%8C%80%204%EA%B0%9C%EB%A7%8C%20%EA%B3%A0%EB%A5%B4%EA%B3%A0%22",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB%20LADY%20%E6%A5%BD%E6%9B%B2%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        }
+      ]
+    },
+    {
+      "title": "はいよろこんで",
+      "artist": "こっちのけんと",
+      "reviewStatus": "candidate",
+      "verification": "AI search result accepted without independent source checking, per user instruction",
+      "sources": [
+        {
+          "url": "https://www.google.com/search?q=%22BUMP%20OF%20CHICKEN%22%20%22ray%22%20%E6%A5%BD%E6%9B%B2%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22aska94%22%20%22otonose%22",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22hololive%20IDOL%20PROJECT%22%20%22Our%20Bright%20Parade%22%20%E6%A5%BD%E6%9B%B2%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22mood_tags%22%20%22status%22%20%22candidate%22%20%22genres%22",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E3%81%93%E3%81%A3%E3%81%A1%E3%81%AE%E3%81%91%E3%82%93%E3%81%A8%22%20%22%E3%81%AF%E3%81%84%E3%82%88%E3%82%8D%E3%81%93%E3%82%93%E3%81%A7%22%20genre%20OR%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E3%81%93%E3%81%A3%E3%81%A1%E3%81%AE%E3%81%91%E3%82%93%E3%81%A8%22%20%22%E3%81%AF%E3%81%84%E3%82%88%E3%82%8D%E3%81%93%E3%82%93%E3%81%A7%22%20%E6%A5%BD%E6%9B%B2%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E3%82%B8%E3%83%9F%E3%83%BC%E3%82%B5%E3%83%A0P%22%20%22No%20Logic%22%20%E6%A5%BD%E6%9B%B2%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%EC%9E%A5%EB%A5%B4%EB%8A%94%20%EC%B5%9C%EB%8C%80%202%EA%B0%9C%2C%20%EB%B6%84%EC%9C%84%EA%B8%B0%C2%B7%ED%8A%B9%EC%A7%95%20%ED%83%9C%EA%B7%B8%EB%8A%94%20%EC%B5%9C%EB%8C%80%204%EA%B0%9C%EB%A7%8C%20%EA%B3%A0%EB%A5%B4%EA%B3%A0%22",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB%20LADY%20%E6%A5%BD%E6%9B%B2%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        }
+      ]
+    },
+    {
+      "title": "ひまわりの約束",
+      "artist": "秦 基博",
+      "reviewStatus": "candidate",
+      "verification": "AI search result accepted without independent source checking, per user instruction",
+      "sources": [
+        {
+          "url": "https://www.google.com/search?q=ClariS%20%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%88%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=ReGLOSS%20%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=YOASOBI%20%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%83%A8%E3%83%AB%E3%82%B7%E3%82%AB%20%E3%83%8E%E3%83%BC%E3%83%81%E3%83%A9%E3%82%B9%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E7%A7%A6%20%E5%9F%BA%E5%8D%9A%20%E3%81%B2%E3%81%BE%E3%82%8F%E3%82%8A%E3%81%AE%E7%B4%84%E6%9D%9F%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        }
+      ]
+    },
+    {
+      "title": "アイドル",
+      "artist": "YOASOBI",
+      "reviewStatus": "candidate",
+      "verification": "AI search result accepted without independent source checking, per user instruction",
+      "sources": [
+        {
+          "url": "https://www.google.com/search?q=ClariS%20%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%88%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=ReGLOSS%20%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=YOASOBI%20%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%83%A8%E3%83%AB%E3%82%B7%E3%82%AB%20%E3%83%8E%E3%83%BC%E3%83%81%E3%83%A9%E3%82%B9%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E7%A7%A6%20%E5%9F%BA%E5%8D%9A%20%E3%81%B2%E3%81%BE%E3%82%8F%E3%82%8A%E3%81%AE%E7%B4%84%E6%9D%9F%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        }
+      ]
+    },
+    {
+      "title": "コネクト",
+      "artist": "ClariS",
+      "reviewStatus": "candidate",
+      "verification": "AI search result accepted without independent source checking, per user instruction",
+      "sources": [
+        {
+          "url": "https://www.google.com/search?q=ClariS%20%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%88%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=ReGLOSS%20%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=YOASOBI%20%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%83%A8%E3%83%AB%E3%82%B7%E3%82%AB%20%E3%83%8E%E3%83%BC%E3%83%81%E3%83%A9%E3%82%B9%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E7%A7%A6%20%E5%9F%BA%E5%8D%9A%20%E3%81%B2%E3%81%BE%E3%82%8F%E3%82%8A%E3%81%AE%E7%B4%84%E6%9D%9F%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        }
+      ]
+    },
+    {
+      "title": "ノーチラス",
+      "artist": "ヨルシカ",
+      "reviewStatus": "candidate",
+      "verification": "AI search result accepted without independent source checking, per user instruction",
+      "sources": [
+        {
+          "url": "https://www.google.com/search?q=ClariS%20%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%88%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=ReGLOSS%20%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=YOASOBI%20%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%83%A8%E3%83%AB%E3%82%B7%E3%82%AB%20%E3%83%8E%E3%83%BC%E3%83%81%E3%83%A9%E3%82%B9%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E7%A7%A6%20%E5%9F%BA%E5%8D%9A%20%E3%81%B2%E3%81%BE%E3%82%8F%E3%82%8A%E3%81%AE%E7%B4%84%E6%9D%9F%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        }
+      ]
+    },
+    {
+      "title": "フィーリングラデーション",
+      "artist": "ReGLOSS",
+      "reviewStatus": "candidate",
+      "verification": "AI search result accepted without independent source checking, per user instruction",
+      "sources": [
+        {
+          "url": "https://www.google.com/search?q=ClariS%20%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%88%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=ReGLOSS%20%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=YOASOBI%20%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%83%A8%E3%83%AB%E3%82%B7%E3%82%AB%20%E3%83%8E%E3%83%BC%E3%83%81%E3%83%A9%E3%82%B9%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E7%A7%A6%20%E5%9F%BA%E5%8D%9A%20%E3%81%B2%E3%81%BE%E3%82%8F%E3%82%8A%E3%81%AE%E7%B4%84%E6%9D%9F%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        }
+      ]
+    },
+    {
+      "title": "ホシアイ",
+      "artist": "",
+      "reviewStatus": "candidate",
+      "verification": "AI search result accepted without independent source checking, per user instruction",
+      "sources": [
+        {
+          "url": "https://www.google.com/search?q=%22aska94%22%20%22otonose%22%20%22karaoke%22%20OR%20%22genres%22",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22mood_tags%22%20%22genres%22%20%22candidate%22%20%22title%22%20site%3Agithub.com",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22otonose-kanade%22%20site%3Agithub.com",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=site%3Agithub.com/aska94",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%83%9B%E3%82%B7%E3%82%A2%E3%82%A4%20%E3%83%AC%E3%83%95%E3%83%86%E3%82%A3%E3%83%BC%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%20%E6%9B%B2%E8%AA%BF%20%E9%9B%B0%E5%9B%B2%E6%B0%97",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%83%9B%E3%82%B7%E3%82%A2%E3%82%A4%20%E3%83%AC%E3%83%95%E3%83%86%E3%82%A3%E3%83%BC%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BCP%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%83%9B%E3%82%B7%E3%82%A2%E3%82%A4%20%E5%8E%9F%E6%9B%B2",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E3%83%8A%E3%83%83%E3%83%84%20Official%E9%AB%AD%E7%94%B7dism%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%83%A1%E3%83%95%E3%82%A3%E3%82%B9%E3%83%88%20%E5%A5%B3%E7%8E%8B%E8%9C%82%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0%20DECO%2A27%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E5%88%A5%E3%81%AE%E4%BA%BA%E3%81%AE%E5%BD%BC%E5%A5%B3%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F%E3%82%88%20wacci%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        }
+      ]
+    },
+    {
+      "title": "ミックスナッツ",
+      "artist": "Official髭男dism",
+      "reviewStatus": "candidate",
+      "verification": "AI search result accepted without independent source checking, per user instruction",
+      "sources": [
+        {
+          "url": "https://www.google.com/search?q=%22aska94%22%20%22otonose%22%20%22karaoke%22%20OR%20%22genres%22",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22mood_tags%22%20%22genres%22%20%22candidate%22%20%22title%22%20site%3Agithub.com",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22otonose-kanade%22%20site%3Agithub.com",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=site%3Agithub.com/aska94",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%83%9B%E3%82%B7%E3%82%A2%E3%82%A4%20%E3%83%AC%E3%83%95%E3%83%86%E3%82%A3%E3%83%BC%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%20%E6%9B%B2%E8%AA%BF%20%E9%9B%B0%E5%9B%B2%E6%B0%97",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%83%9B%E3%82%B7%E3%82%A2%E3%82%A4%20%E3%83%AC%E3%83%95%E3%83%86%E3%82%A3%E3%83%BC%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BCP%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%83%9B%E3%82%B7%E3%82%A2%E3%82%A4%20%E5%8E%9F%E6%9B%B2",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E3%83%8A%E3%83%83%E3%83%84%20Official%E9%AB%AD%E7%94%B7dism%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%83%A1%E3%83%95%E3%82%A3%E3%82%B9%E3%83%88%20%E5%A5%B3%E7%8E%8B%E8%9C%82%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0%20DECO%2A27%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E5%88%A5%E3%81%AE%E4%BA%BA%E3%81%AE%E5%BD%BC%E5%A5%B3%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F%E3%82%88%20wacci%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        }
+      ]
+    },
+    {
+      "title": "メフィスト",
+      "artist": "女王蜂",
+      "reviewStatus": "candidate",
+      "verification": "AI search result accepted without independent source checking, per user instruction",
+      "sources": [
+        {
+          "url": "https://www.google.com/search?q=%22aska94%22%20%22otonose%22%20%22karaoke%22%20OR%20%22genres%22",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22mood_tags%22%20%22genres%22%20%22candidate%22%20%22title%22%20site%3Agithub.com",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22otonose-kanade%22%20site%3Agithub.com",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=site%3Agithub.com/aska94",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%83%9B%E3%82%B7%E3%82%A2%E3%82%A4%20%E3%83%AC%E3%83%95%E3%83%86%E3%82%A3%E3%83%BC%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%20%E6%9B%B2%E8%AA%BF%20%E9%9B%B0%E5%9B%B2%E6%B0%97",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%83%9B%E3%82%B7%E3%82%A2%E3%82%A4%20%E3%83%AC%E3%83%95%E3%83%86%E3%82%A3%E3%83%BC%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BCP%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%83%9B%E3%82%B7%E3%82%A2%E3%82%A4%20%E5%8E%9F%E6%9B%B2",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E3%83%8A%E3%83%83%E3%83%84%20Official%E9%AB%AD%E7%94%B7dism%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%83%A1%E3%83%95%E3%82%A3%E3%82%B9%E3%83%88%20%E5%A5%B3%E7%8E%8B%E8%9C%82%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0%20DECO%2A27%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E5%88%A5%E3%81%AE%E4%BA%BA%E3%81%AE%E5%BD%BC%E5%A5%B3%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F%E3%82%88%20wacci%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        }
+      ]
+    },
+    {
+      "title": "モニタリング",
+      "artist": "DECO*27",
+      "reviewStatus": "candidate",
+      "verification": "AI search result accepted without independent source checking, per user instruction",
+      "sources": [
+        {
+          "url": "https://www.google.com/search?q=%22aska94%22%20%22otonose%22%20%22karaoke%22%20OR%20%22genres%22",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22mood_tags%22%20%22genres%22%20%22candidate%22%20%22title%22%20site%3Agithub.com",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22otonose-kanade%22%20site%3Agithub.com",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=site%3Agithub.com/aska94",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%83%9B%E3%82%B7%E3%82%A2%E3%82%A4%20%E3%83%AC%E3%83%95%E3%83%86%E3%82%A3%E3%83%BC%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%20%E6%9B%B2%E8%AA%BF%20%E9%9B%B0%E5%9B%B2%E6%B0%97",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%83%9B%E3%82%B7%E3%82%A2%E3%82%A4%20%E3%83%AC%E3%83%95%E3%83%86%E3%82%A3%E3%83%BC%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BCP%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%83%9B%E3%82%B7%E3%82%A2%E3%82%A4%20%E5%8E%9F%E6%9B%B2",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E3%83%8A%E3%83%83%E3%83%84%20Official%E9%AB%AD%E7%94%B7dism%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%83%A1%E3%83%95%E3%82%A3%E3%82%B9%E3%83%88%20%E5%A5%B3%E7%8E%8B%E8%9C%82%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0%20DECO%2A27%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E5%88%A5%E3%81%AE%E4%BA%BA%E3%81%AE%E5%BD%BC%E5%A5%B3%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F%E3%82%88%20wacci%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        }
+      ]
+    },
+    {
+      "title": "別の人の彼女になったよ",
+      "artist": "wacci",
+      "reviewStatus": "candidate",
+      "verification": "AI search result accepted without independent source checking, per user instruction",
+      "sources": [
+        {
+          "url": "https://www.google.com/search?q=%22aska94%22%20%22otonose%22%20%22karaoke%22%20OR%20%22genres%22",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22mood_tags%22%20%22genres%22%20%22candidate%22%20%22title%22%20site%3Agithub.com",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22otonose-kanade%22%20site%3Agithub.com",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=site%3Agithub.com/aska94",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%83%9B%E3%82%B7%E3%82%A2%E3%82%A4%20%E3%83%AC%E3%83%95%E3%83%86%E3%82%A3%E3%83%BC%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%20%E6%9B%B2%E8%AA%BF%20%E9%9B%B0%E5%9B%B2%E6%B0%97",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%83%9B%E3%82%B7%E3%82%A2%E3%82%A4%20%E3%83%AC%E3%83%95%E3%83%86%E3%82%A3%E3%83%BC%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BCP%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%83%9B%E3%82%B7%E3%82%A2%E3%82%A4%20%E5%8E%9F%E6%9B%B2",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E3%83%8A%E3%83%83%E3%83%84%20Official%E9%AB%AD%E7%94%B7dism%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%83%A1%E3%83%95%E3%82%A3%E3%82%B9%E3%83%88%20%E5%A5%B3%E7%8E%8B%E8%9C%82%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0%20DECO%2A27%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E5%88%A5%E3%81%AE%E4%BA%BA%E3%81%AE%E5%BD%BC%E5%A5%B3%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F%E3%82%88%20wacci%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        }
+      ]
+    },
+    {
+      "title": "夜明けと蛍",
+      "artist": "n-buna",
+      "reviewStatus": "candidate",
+      "verification": "AI search result accepted without independent source checking, per user instruction",
+      "sources": [
+        {
+          "url": "https://www.google.com/search?q=%E5%A4%9C%E6%98%8E%E3%81%91%E3%81%A8%E8%9B%8D%20n-buna%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E5%B0%8F%E5%A4%9C%E5%AD%90%20%E3%81%BF%E3%81%8D%E3%81%A8P%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E5%B9%BE%E5%84%84%E5%85%89%E5%B9%B4%20Omoinotake%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E6%80%AA%E7%8D%A3%E3%81%AE%E8%8A%B1%E5%94%84%20Vaundy%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E6%81%8B%20%E6%98%9F%E9%87%8E%E6%BA%90%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        }
+      ]
+    },
+    {
+      "title": "小夜子",
+      "artist": "みきとP",
+      "reviewStatus": "candidate",
+      "verification": "AI search result accepted without independent source checking, per user instruction",
+      "sources": [
+        {
+          "url": "https://www.google.com/search?q=%E5%A4%9C%E6%98%8E%E3%81%91%E3%81%A8%E8%9B%8D%20n-buna%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E5%B0%8F%E5%A4%9C%E5%AD%90%20%E3%81%BF%E3%81%8D%E3%81%A8P%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E5%B9%BE%E5%84%84%E5%85%89%E5%B9%B4%20Omoinotake%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E6%80%AA%E7%8D%A3%E3%81%AE%E8%8A%B1%E5%94%84%20Vaundy%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E6%81%8B%20%E6%98%9F%E9%87%8E%E6%BA%90%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        }
+      ]
+    },
+    {
+      "title": "幾億光年",
+      "artist": "Omoinotake",
+      "reviewStatus": "candidate",
+      "verification": "AI search result accepted without independent source checking, per user instruction",
+      "sources": [
+        {
+          "url": "https://www.google.com/search?q=%E5%A4%9C%E6%98%8E%E3%81%91%E3%81%A8%E8%9B%8D%20n-buna%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E5%B0%8F%E5%A4%9C%E5%AD%90%20%E3%81%BF%E3%81%8D%E3%81%A8P%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E5%B9%BE%E5%84%84%E5%85%89%E5%B9%B4%20Omoinotake%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E6%80%AA%E7%8D%A3%E3%81%AE%E8%8A%B1%E5%94%84%20Vaundy%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E6%81%8B%20%E6%98%9F%E9%87%8E%E6%BA%90%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        }
+      ]
+    },
+    {
+      "title": "怪獣の花唄",
+      "artist": "Vaundy",
+      "reviewStatus": "candidate",
+      "verification": "AI search result accepted without independent source checking, per user instruction",
+      "sources": [
+        {
+          "url": "https://www.google.com/search?q=%E5%A4%9C%E6%98%8E%E3%81%91%E3%81%A8%E8%9B%8D%20n-buna%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E5%B0%8F%E5%A4%9C%E5%AD%90%20%E3%81%BF%E3%81%8D%E3%81%A8P%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E5%B9%BE%E5%84%84%E5%85%89%E5%B9%B4%20Omoinotake%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E6%80%AA%E7%8D%A3%E3%81%AE%E8%8A%B1%E5%94%84%20Vaundy%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E6%81%8B%20%E6%98%9F%E9%87%8E%E6%BA%90%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        }
+      ]
+    },
+    {
+      "title": "恋",
+      "artist": "星野源",
+      "reviewStatus": "candidate",
+      "verification": "AI search result accepted without independent source checking, per user instruction",
+      "sources": [
+        {
+          "url": "https://www.google.com/search?q=%E5%A4%9C%E6%98%8E%E3%81%91%E3%81%A8%E8%9B%8D%20n-buna%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E5%B0%8F%E5%A4%9C%E5%AD%90%20%E3%81%BF%E3%81%8D%E3%81%A8P%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E5%B9%BE%E5%84%84%E5%85%89%E5%B9%B4%20Omoinotake%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E6%80%AA%E7%8D%A3%E3%81%AE%E8%8A%B1%E5%94%84%20Vaundy%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E6%81%8B%20%E6%98%9F%E9%87%8E%E6%BA%90%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        }
+      ]
+    },
+    {
+      "title": "星座になれたら",
+      "artist": "結束バンド",
+      "reviewStatus": "candidate",
+      "verification": "AI search result accepted without independent source checking, per user instruction",
+      "sources": [
+        {
+          "url": "https://www.google.com/search?q=%22Color%20Rise%20Harmony%22%20%22hololive%20IDOL%20PROJECT%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4%20OR%20%E4%BD%9C%E8%A9%9E%20OR%20%E4%BD%9C%E6%9B%B2",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22FG%20ROADSTER%22%20%22FLOW%20GLOW%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20OR%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4%20OR%20%E4%BD%9C%E8%A9%9E%20OR%20%E4%BD%9C%E6%9B%B2",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22JANE%20DOE%22%20%22%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB%22%20%22%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20OR%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=Giga%20CH4NGE%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E7%B5%90%E6%9D%9F%E3%83%90%E3%83%B3%E3%83%89%20%E6%98%9F%E5%BA%A7%E3%81%AB%E3%81%AA%E3%82%8C%E3%81%9F%E3%82%89%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        }
+      ]
+    },
+    {
+      "title": "CH4NGE",
+      "artist": "Giga",
+      "reviewStatus": "candidate",
+      "verification": "AI search result accepted without independent source checking, per user instruction",
+      "sources": [
+        {
+          "url": "https://www.google.com/search?q=%22Color%20Rise%20Harmony%22%20%22hololive%20IDOL%20PROJECT%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4%20OR%20%E4%BD%9C%E8%A9%9E%20OR%20%E4%BD%9C%E6%9B%B2",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22FG%20ROADSTER%22%20%22FLOW%20GLOW%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20OR%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4%20OR%20%E4%BD%9C%E8%A9%9E%20OR%20%E4%BD%9C%E6%9B%B2",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22JANE%20DOE%22%20%22%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB%22%20%22%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20OR%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=Giga%20CH4NGE%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E7%B5%90%E6%9D%9F%E3%83%90%E3%83%B3%E3%83%89%20%E6%98%9F%E5%BA%A7%E3%81%AB%E3%81%AA%E3%82%8C%E3%81%9F%E3%82%89%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        }
+      ]
+    },
+    {
+      "title": "Color Rise Harmony",
+      "artist": "hololive IDOL PROJECT",
+      "reviewStatus": "candidate",
+      "verification": "AI search result accepted without independent source checking, per user instruction",
+      "sources": [
+        {
+          "url": "https://www.google.com/search?q=%22Color%20Rise%20Harmony%22%20%22hololive%20IDOL%20PROJECT%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4%20OR%20%E4%BD%9C%E8%A9%9E%20OR%20%E4%BD%9C%E6%9B%B2",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22FG%20ROADSTER%22%20%22FLOW%20GLOW%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20OR%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4%20OR%20%E4%BD%9C%E8%A9%9E%20OR%20%E4%BD%9C%E6%9B%B2",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22JANE%20DOE%22%20%22%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB%22%20%22%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20OR%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=Giga%20CH4NGE%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E7%B5%90%E6%9D%9F%E3%83%90%E3%83%B3%E3%83%89%20%E6%98%9F%E5%BA%A7%E3%81%AB%E3%81%AA%E3%82%8C%E3%81%9F%E3%82%89%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        }
+      ]
+    },
+    {
+      "title": "FG ROADSTER",
+      "artist": "FLOW GLOW",
+      "reviewStatus": "candidate",
+      "verification": "AI search result accepted without independent source checking, per user instruction",
+      "sources": [
+        {
+          "url": "https://www.google.com/search?q=%22Color%20Rise%20Harmony%22%20%22hololive%20IDOL%20PROJECT%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4%20OR%20%E4%BD%9C%E8%A9%9E%20OR%20%E4%BD%9C%E6%9B%B2",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22FG%20ROADSTER%22%20%22FLOW%20GLOW%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20OR%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4%20OR%20%E4%BD%9C%E8%A9%9E%20OR%20%E4%BD%9C%E6%9B%B2",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22JANE%20DOE%22%20%22%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB%22%20%22%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20OR%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=Giga%20CH4NGE%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E7%B5%90%E6%9D%9F%E3%83%90%E3%83%B3%E3%83%89%20%E6%98%9F%E5%BA%A7%E3%81%AB%E3%81%AA%E3%82%8C%E3%81%9F%E3%82%89%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        }
+      ]
+    },
+    {
+      "title": "JANE DOE",
+      "artist": "米津玄師, 宇多田ヒカル",
+      "reviewStatus": "candidate",
+      "verification": "AI search result accepted without independent source checking, per user instruction",
+      "sources": [
+        {
+          "url": "https://www.google.com/search?q=%22Color%20Rise%20Harmony%22%20%22hololive%20IDOL%20PROJECT%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4%20OR%20%E4%BD%9C%E8%A9%9E%20OR%20%E4%BD%9C%E6%9B%B2",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22FG%20ROADSTER%22%20%22FLOW%20GLOW%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20OR%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4%20OR%20%E4%BD%9C%E8%A9%9E%20OR%20%E4%BD%9C%E6%9B%B2",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22JANE%20DOE%22%20%22%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB%22%20%22%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20OR%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=Giga%20CH4NGE%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E7%B5%90%E6%9D%9F%E3%83%90%E3%83%B3%E3%83%89%20%E6%98%9F%E5%BA%A7%E3%81%AB%E3%81%AA%E3%82%8C%E3%81%9F%E3%82%89%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        }
+      ]
+    },
+    {
+      "title": "Shiny Smily Story",
+      "artist": "hololive IDOL PROJECT",
+      "reviewStatus": "candidate",
+      "verification": "AI search result accepted without independent source checking, per user instruction",
+      "sources": [
+        {
+          "url": "https://www.google.com/search?q=Shiny%20Smily%20Story%20hololive%20IDOL%20PROJECT%20genre%20style",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%82%AA%E3%83%AA%E3%82%AA%E3%83%B3%E3%82%92%E3%81%AA%E3%81%9E%E3%82%8B%20UNISON%20SQUARE%20GARDEN%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%82%B7%E3%83%B3%E3%83%A1%E3%83%88%E3%83%AA%E3%83%BC%20ReGLOSS%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4%20%E6%A5%BD%E6%9B%B2",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%83%89%E3%83%A9%E3%82%A4%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%20%E5%84%AA%E9%87%8C%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4%20%E6%A5%BD%E6%9B%B2",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%83%96%E3%83%AB%E3%83%BC%E3%82%A2%E3%83%B3%E3%83%90%E3%83%BC%20back%20number%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4%20%E6%A5%BD%E6%9B%B2",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        }
+      ]
+    },
+    {
+      "title": "オリオンをなぞる",
+      "artist": "UNISON SQUARE GARDEN",
+      "reviewStatus": "candidate",
+      "verification": "AI search result accepted without independent source checking, per user instruction",
+      "sources": [
+        {
+          "url": "https://www.google.com/search?q=Shiny%20Smily%20Story%20hololive%20IDOL%20PROJECT%20genre%20style",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%82%AA%E3%83%AA%E3%82%AA%E3%83%B3%E3%82%92%E3%81%AA%E3%81%9E%E3%82%8B%20UNISON%20SQUARE%20GARDEN%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%82%B7%E3%83%B3%E3%83%A1%E3%83%88%E3%83%AA%E3%83%BC%20ReGLOSS%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4%20%E6%A5%BD%E6%9B%B2",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%83%89%E3%83%A9%E3%82%A4%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%20%E5%84%AA%E9%87%8C%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4%20%E6%A5%BD%E6%9B%B2",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%83%96%E3%83%AB%E3%83%BC%E3%82%A2%E3%83%B3%E3%83%90%E3%83%BC%20back%20number%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4%20%E6%A5%BD%E6%9B%B2",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        }
+      ]
+    },
+    {
+      "title": "シンメトリー",
+      "artist": "ReGLOSS",
+      "reviewStatus": "candidate",
+      "verification": "AI search result accepted without independent source checking, per user instruction",
+      "sources": [
+        {
+          "url": "https://www.google.com/search?q=Shiny%20Smily%20Story%20hololive%20IDOL%20PROJECT%20genre%20style",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%82%AA%E3%83%AA%E3%82%AA%E3%83%B3%E3%82%92%E3%81%AA%E3%81%9E%E3%82%8B%20UNISON%20SQUARE%20GARDEN%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%82%B7%E3%83%B3%E3%83%A1%E3%83%88%E3%83%AA%E3%83%BC%20ReGLOSS%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4%20%E6%A5%BD%E6%9B%B2",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%83%89%E3%83%A9%E3%82%A4%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%20%E5%84%AA%E9%87%8C%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4%20%E6%A5%BD%E6%9B%B2",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%83%96%E3%83%AB%E3%83%BC%E3%82%A2%E3%83%B3%E3%83%90%E3%83%BC%20back%20number%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4%20%E6%A5%BD%E6%9B%B2",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        }
+      ]
+    },
+    {
+      "title": "ドライフラワー",
+      "artist": "優里",
+      "reviewStatus": "candidate",
+      "verification": "AI search result accepted without independent source checking, per user instruction",
+      "sources": [
+        {
+          "url": "https://www.google.com/search?q=Shiny%20Smily%20Story%20hololive%20IDOL%20PROJECT%20genre%20style",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%82%AA%E3%83%AA%E3%82%AA%E3%83%B3%E3%82%92%E3%81%AA%E3%81%9E%E3%82%8B%20UNISON%20SQUARE%20GARDEN%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%82%B7%E3%83%B3%E3%83%A1%E3%83%88%E3%83%AA%E3%83%BC%20ReGLOSS%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4%20%E6%A5%BD%E6%9B%B2",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%83%89%E3%83%A9%E3%82%A4%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%20%E5%84%AA%E9%87%8C%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4%20%E6%A5%BD%E6%9B%B2",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%83%96%E3%83%AB%E3%83%BC%E3%82%A2%E3%83%B3%E3%83%90%E3%83%BC%20back%20number%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4%20%E6%A5%BD%E6%9B%B2",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        }
+      ]
+    },
+    {
+      "title": "ブルーアンバー",
+      "artist": "back number",
+      "reviewStatus": "candidate",
+      "verification": "AI search result accepted without independent source checking, per user instruction",
+      "sources": [
+        {
+          "url": "https://www.google.com/search?q=Shiny%20Smily%20Story%20hololive%20IDOL%20PROJECT%20genre%20style",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%82%AA%E3%83%AA%E3%82%AA%E3%83%B3%E3%82%92%E3%81%AA%E3%81%9E%E3%82%8B%20UNISON%20SQUARE%20GARDEN%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%82%B7%E3%83%B3%E3%83%A1%E3%83%88%E3%83%AA%E3%83%BC%20ReGLOSS%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4%20%E6%A5%BD%E6%9B%B2",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%83%89%E3%83%A9%E3%82%A4%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%20%E5%84%AA%E9%87%8C%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4%20%E6%A5%BD%E6%9B%B2",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%E3%83%96%E3%83%AB%E3%83%BC%E3%82%A2%E3%83%B3%E3%83%90%E3%83%BC%20back%20number%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4%20%E6%A5%BD%E6%9B%B2",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        }
+      ]
+    },
+    {
+      "title": "プラチナ",
+      "artist": "坂本真綾",
+      "reviewStatus": "candidate",
+      "verification": "AI search result accepted without independent source checking, per user instruction",
+      "sources": [
+        {
+          "url": "https://www.google.com/search?q=%22%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A%22%20%22%E5%9D%82%E6%9C%AC%E7%9C%9F%E7%B6%BE%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%20%E6%9B%B2",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A%22%20%22%E5%9D%82%E6%9C%AC%E7%9C%9F%E7%B6%BE%22%20%E6%A5%BD%E6%9B%B2%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4%20%E7%88%BD%E3%82%84%E3%81%8B%20%E6%98%8E%E3%82%8B%E3%81%84",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E3%83%A1%E3%83%AB%E3%83%88%22%20%22ryo%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E3%83%A1%E3%83%AB%E3%83%88%22%20%22ryo%22%20%E9%9B%B0%E5%9B%B2%E6%B0%97%20%E5%B0%91%E5%A5%B3%20%E6%81%8B%E5%BF%83%20%E3%83%9D%E3%83%83%E3%83%97%E3%82%B9",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E4%B8%8D%E5%8F%AF%E6%80%9D%E8%AD%B0%E3%81%AE%E3%82%AB%E3%83%AB%E3%83%86%22%20%22%E3%82%AB%E3%83%AF%E3%82%A4%E3%83%92%E3%83%87%E3%83%92%E3%83%AD%22%20%E9%9F%B3%E6%A5%BD%20%E3%82%B8%E3%83%A3%E3%82%BA%20%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%20%E9%9B%B0%E5%9B%B2%E6%B0%97",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E4%B8%8D%E5%8F%AF%E6%80%9D%E8%AD%B0%E3%81%AE%E3%82%AB%E3%83%AB%E3%83%86%22%20%22%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%22%20site%3Aja.wikipedia.org",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E4%B8%8D%E5%8F%AF%E6%80%9D%E8%AD%B0%E3%81%AE%E3%82%AB%E3%83%AB%E3%83%86%22%20%22%E7%80%AC%E6%88%B8%E9%BA%BB%E6%B2%99%E7%BE%8E%22%20%22%E6%9D%B1%E5%B1%B1%E5%A5%88%E5%A4%AE%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%20%E7%89%B9%E5%BE%B4%20%E6%9B%B2",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E4%B8%8D%E5%8F%AF%E6%80%9D%E8%AD%B0%E3%81%AE%E3%82%AB%E3%83%AB%E3%83%86%22%20site%3Aja.wikipedia.org",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E5%A4%89%E3%82%8F%E3%82%89%E3%81%AA%E3%81%84%E3%82%82%E3%81%AE%22%20%22%E5%A5%A5%E8%8F%AF%E5%AD%90%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%20%E7%89%B9%E5%BE%B4%20%E6%9B%B2",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E5%A4%9C%E6%92%AB%E3%81%A7%E3%82%8B%E3%83%A1%E3%83%8E%E3%82%A6%22%20%22Ayase%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%20%E7%89%B9%E5%BE%B4%20%E6%9B%B2",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        }
+      ]
+    },
+    {
+      "title": "メルト",
+      "artist": "ryo",
+      "reviewStatus": "candidate",
+      "verification": "AI search result accepted without independent source checking, per user instruction",
+      "sources": [
+        {
+          "url": "https://www.google.com/search?q=%22%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A%22%20%22%E5%9D%82%E6%9C%AC%E7%9C%9F%E7%B6%BE%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%20%E6%9B%B2",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A%22%20%22%E5%9D%82%E6%9C%AC%E7%9C%9F%E7%B6%BE%22%20%E6%A5%BD%E6%9B%B2%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4%20%E7%88%BD%E3%82%84%E3%81%8B%20%E6%98%8E%E3%82%8B%E3%81%84",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E3%83%A1%E3%83%AB%E3%83%88%22%20%22ryo%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E3%83%A1%E3%83%AB%E3%83%88%22%20%22ryo%22%20%E9%9B%B0%E5%9B%B2%E6%B0%97%20%E5%B0%91%E5%A5%B3%20%E6%81%8B%E5%BF%83%20%E3%83%9D%E3%83%83%E3%83%97%E3%82%B9",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E4%B8%8D%E5%8F%AF%E6%80%9D%E8%AD%B0%E3%81%AE%E3%82%AB%E3%83%AB%E3%83%86%22%20%22%E3%82%AB%E3%83%AF%E3%82%A4%E3%83%92%E3%83%87%E3%83%92%E3%83%AD%22%20%E9%9F%B3%E6%A5%BD%20%E3%82%B8%E3%83%A3%E3%82%BA%20%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%20%E9%9B%B0%E5%9B%B2%E6%B0%97",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E4%B8%8D%E5%8F%AF%E6%80%9D%E8%AD%B0%E3%81%AE%E3%82%AB%E3%83%AB%E3%83%86%22%20%22%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%22%20site%3Aja.wikipedia.org",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E4%B8%8D%E5%8F%AF%E6%80%9D%E8%AD%B0%E3%81%AE%E3%82%AB%E3%83%AB%E3%83%86%22%20%22%E7%80%AC%E6%88%B8%E9%BA%BB%E6%B2%99%E7%BE%8E%22%20%22%E6%9D%B1%E5%B1%B1%E5%A5%88%E5%A4%AE%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%20%E7%89%B9%E5%BE%B4%20%E6%9B%B2",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E4%B8%8D%E5%8F%AF%E6%80%9D%E8%AD%B0%E3%81%AE%E3%82%AB%E3%83%AB%E3%83%86%22%20site%3Aja.wikipedia.org",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E5%A4%89%E3%82%8F%E3%82%89%E3%81%AA%E3%81%84%E3%82%82%E3%81%AE%22%20%22%E5%A5%A5%E8%8F%AF%E5%AD%90%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%20%E7%89%B9%E5%BE%B4%20%E6%9B%B2",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E5%A4%9C%E6%92%AB%E3%81%A7%E3%82%8B%E3%83%A1%E3%83%8E%E3%82%A6%22%20%22Ayase%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%20%E7%89%B9%E5%BE%B4%20%E6%9B%B2",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        }
+      ]
+    },
+    {
+      "title": "不可思議のカルテ",
+      "artist": "瀬戸麻沙美、東山奈央、種﨑敦美、内田真礼、久保ユリカ、水瀬いのり",
+      "reviewStatus": "candidate",
+      "verification": "AI search result accepted without independent source checking, per user instruction",
+      "sources": [
+        {
+          "url": "https://www.google.com/search?q=%22%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A%22%20%22%E5%9D%82%E6%9C%AC%E7%9C%9F%E7%B6%BE%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%20%E6%9B%B2",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A%22%20%22%E5%9D%82%E6%9C%AC%E7%9C%9F%E7%B6%BE%22%20%E6%A5%BD%E6%9B%B2%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4%20%E7%88%BD%E3%82%84%E3%81%8B%20%E6%98%8E%E3%82%8B%E3%81%84",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E3%83%A1%E3%83%AB%E3%83%88%22%20%22ryo%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E3%83%A1%E3%83%AB%E3%83%88%22%20%22ryo%22%20%E9%9B%B0%E5%9B%B2%E6%B0%97%20%E5%B0%91%E5%A5%B3%20%E6%81%8B%E5%BF%83%20%E3%83%9D%E3%83%83%E3%83%97%E3%82%B9",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E4%B8%8D%E5%8F%AF%E6%80%9D%E8%AD%B0%E3%81%AE%E3%82%AB%E3%83%AB%E3%83%86%22%20%22%E3%82%AB%E3%83%AF%E3%82%A4%E3%83%92%E3%83%87%E3%83%92%E3%83%AD%22%20%E9%9F%B3%E6%A5%BD%20%E3%82%B8%E3%83%A3%E3%82%BA%20%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%20%E9%9B%B0%E5%9B%B2%E6%B0%97",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E4%B8%8D%E5%8F%AF%E6%80%9D%E8%AD%B0%E3%81%AE%E3%82%AB%E3%83%AB%E3%83%86%22%20%22%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%22%20site%3Aja.wikipedia.org",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E4%B8%8D%E5%8F%AF%E6%80%9D%E8%AD%B0%E3%81%AE%E3%82%AB%E3%83%AB%E3%83%86%22%20%22%E7%80%AC%E6%88%B8%E9%BA%BB%E6%B2%99%E7%BE%8E%22%20%22%E6%9D%B1%E5%B1%B1%E5%A5%88%E5%A4%AE%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%20%E7%89%B9%E5%BE%B4%20%E6%9B%B2",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E4%B8%8D%E5%8F%AF%E6%80%9D%E8%AD%B0%E3%81%AE%E3%82%AB%E3%83%AB%E3%83%86%22%20site%3Aja.wikipedia.org",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E5%A4%89%E3%82%8F%E3%82%89%E3%81%AA%E3%81%84%E3%82%82%E3%81%AE%22%20%22%E5%A5%A5%E8%8F%AF%E5%AD%90%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%20%E7%89%B9%E5%BE%B4%20%E6%9B%B2",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E5%A4%9C%E6%92%AB%E3%81%A7%E3%82%8B%E3%83%A1%E3%83%8E%E3%82%A6%22%20%22Ayase%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%20%E7%89%B9%E5%BE%B4%20%E6%9B%B2",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        }
+      ]
+    },
+    {
+      "title": "変わらないもの",
+      "artist": "奥 華子",
+      "reviewStatus": "candidate",
+      "verification": "AI search result accepted without independent source checking, per user instruction",
+      "sources": [
+        {
+          "url": "https://www.google.com/search?q=%22%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A%22%20%22%E5%9D%82%E6%9C%AC%E7%9C%9F%E7%B6%BE%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%20%E6%9B%B2",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A%22%20%22%E5%9D%82%E6%9C%AC%E7%9C%9F%E7%B6%BE%22%20%E6%A5%BD%E6%9B%B2%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4%20%E7%88%BD%E3%82%84%E3%81%8B%20%E6%98%8E%E3%82%8B%E3%81%84",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E3%83%A1%E3%83%AB%E3%83%88%22%20%22ryo%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E3%83%A1%E3%83%AB%E3%83%88%22%20%22ryo%22%20%E9%9B%B0%E5%9B%B2%E6%B0%97%20%E5%B0%91%E5%A5%B3%20%E6%81%8B%E5%BF%83%20%E3%83%9D%E3%83%83%E3%83%97%E3%82%B9",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E4%B8%8D%E5%8F%AF%E6%80%9D%E8%AD%B0%E3%81%AE%E3%82%AB%E3%83%AB%E3%83%86%22%20%22%E3%82%AB%E3%83%AF%E3%82%A4%E3%83%92%E3%83%87%E3%83%92%E3%83%AD%22%20%E9%9F%B3%E6%A5%BD%20%E3%82%B8%E3%83%A3%E3%82%BA%20%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%20%E9%9B%B0%E5%9B%B2%E6%B0%97",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E4%B8%8D%E5%8F%AF%E6%80%9D%E8%AD%B0%E3%81%AE%E3%82%AB%E3%83%AB%E3%83%86%22%20%22%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%22%20site%3Aja.wikipedia.org",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E4%B8%8D%E5%8F%AF%E6%80%9D%E8%AD%B0%E3%81%AE%E3%82%AB%E3%83%AB%E3%83%86%22%20%22%E7%80%AC%E6%88%B8%E9%BA%BB%E6%B2%99%E7%BE%8E%22%20%22%E6%9D%B1%E5%B1%B1%E5%A5%88%E5%A4%AE%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%20%E7%89%B9%E5%BE%B4%20%E6%9B%B2",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E4%B8%8D%E5%8F%AF%E6%80%9D%E8%AD%B0%E3%81%AE%E3%82%AB%E3%83%AB%E3%83%86%22%20site%3Aja.wikipedia.org",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E5%A4%89%E3%82%8F%E3%82%89%E3%81%AA%E3%81%84%E3%82%82%E3%81%AE%22%20%22%E5%A5%A5%E8%8F%AF%E5%AD%90%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%20%E7%89%B9%E5%BE%B4%20%E6%9B%B2",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E5%A4%9C%E6%92%AB%E3%81%A7%E3%82%8B%E3%83%A1%E3%83%8E%E3%82%A6%22%20%22Ayase%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%20%E7%89%B9%E5%BE%B4%20%E6%9B%B2",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        }
+      ]
+    },
+    {
+      "title": "夜撫でるメノウ",
+      "artist": "Ayase",
+      "reviewStatus": "candidate",
+      "verification": "AI search result accepted without independent source checking, per user instruction",
+      "sources": [
+        {
+          "url": "https://www.google.com/search?q=%22%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A%22%20%22%E5%9D%82%E6%9C%AC%E7%9C%9F%E7%B6%BE%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%20%E6%9B%B2",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A%22%20%22%E5%9D%82%E6%9C%AC%E7%9C%9F%E7%B6%BE%22%20%E6%A5%BD%E6%9B%B2%20%E9%9F%B3%E6%A5%BD%E7%9A%84%E7%89%B9%E5%BE%B4%20%E7%88%BD%E3%82%84%E3%81%8B%20%E6%98%8E%E3%82%8B%E3%81%84",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E3%83%A1%E3%83%AB%E3%83%88%22%20%22ryo%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E3%83%A1%E3%83%AB%E3%83%88%22%20%22ryo%22%20%E9%9B%B0%E5%9B%B2%E6%B0%97%20%E5%B0%91%E5%A5%B3%20%E6%81%8B%E5%BF%83%20%E3%83%9D%E3%83%83%E3%83%97%E3%82%B9",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E4%B8%8D%E5%8F%AF%E6%80%9D%E8%AD%B0%E3%81%AE%E3%82%AB%E3%83%AB%E3%83%86%22%20%22%E3%82%AB%E3%83%AF%E3%82%A4%E3%83%92%E3%83%87%E3%83%92%E3%83%AD%22%20%E9%9F%B3%E6%A5%BD%20%E3%82%B8%E3%83%A3%E3%82%BA%20%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%20%E9%9B%B0%E5%9B%B2%E6%B0%97",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E4%B8%8D%E5%8F%AF%E6%80%9D%E8%AD%B0%E3%81%AE%E3%82%AB%E3%83%AB%E3%83%86%22%20%22%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%22%20site%3Aja.wikipedia.org",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E4%B8%8D%E5%8F%AF%E6%80%9D%E8%AD%B0%E3%81%AE%E3%82%AB%E3%83%AB%E3%83%86%22%20%22%E7%80%AC%E6%88%B8%E9%BA%BB%E6%B2%99%E7%BE%8E%22%20%22%E6%9D%B1%E5%B1%B1%E5%A5%88%E5%A4%AE%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%20%E7%89%B9%E5%BE%B4%20%E6%9B%B2",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E4%B8%8D%E5%8F%AF%E6%80%9D%E8%AD%B0%E3%81%AE%E3%82%AB%E3%83%AB%E3%83%86%22%20site%3Aja.wikipedia.org",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E5%A4%89%E3%82%8F%E3%82%89%E3%81%AA%E3%81%84%E3%82%82%E3%81%AE%22%20%22%E5%A5%A5%E8%8F%AF%E5%AD%90%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%20%E7%89%B9%E5%BE%B4%20%E6%9B%B2",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E5%A4%9C%E6%92%AB%E3%81%A7%E3%82%8B%E3%83%A1%E3%83%8E%E3%82%A6%22%20%22Ayase%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E9%9F%B3%E6%A5%BD%20%E7%89%B9%E5%BE%B4%20%E6%9B%B2",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        }
+      ]
+    },
+    {
+      "title": "少女レイ",
+      "artist": "みきとP",
+      "reviewStatus": "candidate",
+      "verification": "AI search result accepted without independent source checking, per user instruction",
+      "sources": [
+        {
+          "url": "https://www.google.com/search?q=%22%E5%B0%91%E5%A5%B3%E3%83%AC%E3%82%A4%22%20%22%E3%81%BF%E3%81%8D%E3%81%A8P%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E5%BF%98%E3%82%8C%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%22%20%22%E3%83%A8%E3%83%AB%E3%82%B7%E3%82%AB%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E6%81%8B%E6%84%9B%E8%A3%81%E5%88%A4%22%20%2240mP%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E6%B0%97%E3%81%BE%E3%81%90%E3%82%8C%E3%83%AD%E3%83%9E%E3%83%B3%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%22%20%22%E3%81%84%E3%81%8D%E3%82%82%E3%81%AE%E3%81%8C%E3%81%8B%E3%82%8A%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E7%BE%A4%E9%9D%92%E8%AE%83%E6%AD%8C%22%20%22Eve%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        }
+      ]
+    },
+    {
+      "title": "忘れてください",
+      "artist": "ヨルシカ",
+      "reviewStatus": "candidate",
+      "verification": "AI search result accepted without independent source checking, per user instruction",
+      "sources": [
+        {
+          "url": "https://www.google.com/search?q=%22%E5%B0%91%E5%A5%B3%E3%83%AC%E3%82%A4%22%20%22%E3%81%BF%E3%81%8D%E3%81%A8P%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E5%BF%98%E3%82%8C%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%22%20%22%E3%83%A8%E3%83%AB%E3%82%B7%E3%82%AB%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E6%81%8B%E6%84%9B%E8%A3%81%E5%88%A4%22%20%2240mP%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E6%B0%97%E3%81%BE%E3%81%90%E3%82%8C%E3%83%AD%E3%83%9E%E3%83%B3%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%22%20%22%E3%81%84%E3%81%8D%E3%82%82%E3%81%AE%E3%81%8C%E3%81%8B%E3%82%8A%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E7%BE%A4%E9%9D%92%E8%AE%83%E6%AD%8C%22%20%22Eve%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        }
+      ]
+    },
+    {
+      "title": "恋愛裁判",
+      "artist": "40mP",
+      "reviewStatus": "candidate",
+      "verification": "AI search result accepted without independent source checking, per user instruction",
+      "sources": [
+        {
+          "url": "https://www.google.com/search?q=%22%E5%B0%91%E5%A5%B3%E3%83%AC%E3%82%A4%22%20%22%E3%81%BF%E3%81%8D%E3%81%A8P%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E5%BF%98%E3%82%8C%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%22%20%22%E3%83%A8%E3%83%AB%E3%82%B7%E3%82%AB%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E6%81%8B%E6%84%9B%E8%A3%81%E5%88%A4%22%20%2240mP%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E6%B0%97%E3%81%BE%E3%81%90%E3%82%8C%E3%83%AD%E3%83%9E%E3%83%B3%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%22%20%22%E3%81%84%E3%81%8D%E3%82%82%E3%81%AE%E3%81%8C%E3%81%8B%E3%82%8A%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E7%BE%A4%E9%9D%92%E8%AE%83%E6%AD%8C%22%20%22Eve%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        }
+      ]
+    },
+    {
+      "title": "気まぐれロマンティック",
+      "artist": "いきものがかり",
+      "reviewStatus": "candidate",
+      "verification": "AI search result accepted without independent source checking, per user instruction",
+      "sources": [
+        {
+          "url": "https://www.google.com/search?q=%22%E5%B0%91%E5%A5%B3%E3%83%AC%E3%82%A4%22%20%22%E3%81%BF%E3%81%8D%E3%81%A8P%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E5%BF%98%E3%82%8C%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%22%20%22%E3%83%A8%E3%83%AB%E3%82%B7%E3%82%AB%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E6%81%8B%E6%84%9B%E8%A3%81%E5%88%A4%22%20%2240mP%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E6%B0%97%E3%81%BE%E3%81%90%E3%82%8C%E3%83%AD%E3%83%9E%E3%83%B3%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%22%20%22%E3%81%84%E3%81%8D%E3%82%82%E3%81%AE%E3%81%8C%E3%81%8B%E3%82%8A%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E7%BE%A4%E9%9D%92%E8%AE%83%E6%AD%8C%22%20%22Eve%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        }
+      ]
+    },
+    {
+      "title": "群青讃歌",
+      "artist": "Eve",
+      "reviewStatus": "candidate",
+      "verification": "AI search result accepted without independent source checking, per user instruction",
+      "sources": [
+        {
+          "url": "https://www.google.com/search?q=%22%E5%B0%91%E5%A5%B3%E3%83%AC%E3%82%A4%22%20%22%E3%81%BF%E3%81%8D%E3%81%A8P%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E5%BF%98%E3%82%8C%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%22%20%22%E3%83%A8%E3%83%AB%E3%82%B7%E3%82%AB%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E6%81%8B%E6%84%9B%E8%A3%81%E5%88%A4%22%20%2240mP%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E6%B0%97%E3%81%BE%E3%81%90%E3%82%8C%E3%83%AD%E3%83%9E%E3%83%B3%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%22%20%22%E3%81%84%E3%81%8D%E3%82%82%E3%81%AE%E3%81%8C%E3%81%8B%E3%82%8A%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22%E7%BE%A4%E9%9D%92%E8%AE%83%E6%AD%8C%22%20%22Eve%22%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%20%E7%89%B9%E5%BE%B4",
+          "note": "Executed agy search query; navigation/provenance only, not independent factual verification"
+        }
+      ]
+    }
+  ]
+}

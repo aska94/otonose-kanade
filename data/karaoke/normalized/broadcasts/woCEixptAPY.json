@@ -819,7 +819,7 @@
       "title": "瞬間ハートビート / Shunkan Heartbeat (Otonose Kanade SOLO ver.)",
       "normalizedTitle": "瞬間ハートビート",
       "artist": "音乃瀬奏 & ReGLOSS",
-      "timestamp": "2:60:49",
+      "timestamp": "1:59:49",
       "timestampSeconds": 7189,
       "sourceUrl": "https://youtube.com/watch?v=woCEixptAPY&t=7189s",
       "sources": [
@@ -833,7 +833,12 @@
           "note": "Holodex topic=singing response; not Setlist Index source-confirmed."
         }
       ],
-      "status": "confirmed"
+      "status": "confirmed",
+      "timestampNormalization": {
+        "previousDisplay": "2:60:49",
+        "basis": "Existing timestampSeconds matches the sourceUrl navigation offset; display formatting only.",
+        "sourceUrl": "https://youtube.com/watch?v=woCEixptAPY&t=7189s"
+      }
     },
     {
       "id": "woCEixptAPY-35",

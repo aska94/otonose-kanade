@@ -105,6 +105,1918 @@
       "count": 6
     }
   ],
+  "tagProfile": {
+    "scope": "collected-ai-candidates",
+    "language": "ko",
+    "denominator": 65,
+    "inventoryCount": 556,
+    "taggedSongCount": 65,
+    "retrievedAt": "2026-09-26T15:12:00.168040+00:00",
+    "tags": [
+      {
+        "axis": "genre",
+        "name": "제이팝",
+        "songCount": 51,
+        "percent": 78
+      },
+      {
+        "axis": "mood",
+        "name": "애절함",
+        "songCount": 22,
+        "percent": 34
+      },
+      {
+        "axis": "mood",
+        "name": "질주감",
+        "songCount": 20,
+        "percent": 31
+      },
+      {
+        "axis": "genre",
+        "name": "록",
+        "songCount": 12,
+        "percent": 18
+      },
+      {
+        "axis": "mood",
+        "name": "감성적",
+        "songCount": 12,
+        "percent": 18
+      },
+      {
+        "axis": "mood",
+        "name": "서정적",
+        "songCount": 11,
+        "percent": 17
+      },
+      {
+        "axis": "genre",
+        "name": "보컬로이드",
+        "songCount": 10,
+        "percent": 15
+      },
+      {
+        "axis": "mood",
+        "name": "경쾌함",
+        "songCount": 9,
+        "percent": 14
+      },
+      {
+        "axis": "mood",
+        "name": "캐치함",
+        "songCount": 8,
+        "percent": 12
+      },
+      {
+        "axis": "mood",
+        "name": "화려함",
+        "songCount": 8,
+        "percent": 12
+      },
+      {
+        "axis": "mood",
+        "name": "희망적",
+        "songCount": 8,
+        "percent": 12
+      },
+      {
+        "axis": "mood",
+        "name": "그루비",
+        "songCount": 7,
+        "percent": 11
+      },
+      {
+        "axis": "genre",
+        "name": "발라드",
+        "songCount": 6,
+        "percent": 9
+      },
+      {
+        "axis": "mood",
+        "name": "드라마틱",
+        "songCount": 6,
+        "percent": 9
+      },
+      {
+        "axis": "genre",
+        "name": "댄스 팝",
+        "songCount": 5,
+        "percent": 8
+      },
+      {
+        "axis": "mood",
+        "name": "밝음",
+        "songCount": 5,
+        "percent": 8
+      },
+      {
+        "axis": "mood",
+        "name": "상쾌함",
+        "songCount": 5,
+        "percent": 8
+      },
+      {
+        "axis": "mood",
+        "name": "어쿠스틱",
+        "songCount": 5,
+        "percent": 8
+      },
+      {
+        "axis": "mood",
+        "name": "에너제틱",
+        "songCount": 5,
+        "percent": 8
+      },
+      {
+        "axis": "mood",
+        "name": "중독성",
+        "songCount": 5,
+        "percent": 8
+      },
+      {
+        "axis": "genre",
+        "name": "록 발라드",
+        "songCount": 4,
+        "percent": 6
+      },
+      {
+        "axis": "genre",
+        "name": "애니메이션 음악",
+        "songCount": 4,
+        "percent": 6
+      },
+      {
+        "axis": "genre",
+        "name": "일렉트로닉",
+        "songCount": 4,
+        "percent": 6
+      },
+      {
+        "axis": "genre",
+        "name": "팝 록",
+        "songCount": 4,
+        "percent": 6
+      },
+      {
+        "axis": "mood",
+        "name": "고양감",
+        "songCount": 4,
+        "percent": 6
+      },
+      {
+        "axis": "mood",
+        "name": "따뜻함",
+        "songCount": 4,
+        "percent": 6
+      },
+      {
+        "axis": "mood",
+        "name": "섬세함",
+        "songCount": 4,
+        "percent": 6
+      },
+      {
+        "axis": "mood",
+        "name": "이야기성",
+        "songCount": 4,
+        "percent": 6
+      },
+      {
+        "axis": "mood",
+        "name": "향수",
+        "songCount": 4,
+        "percent": 6
+      },
+      {
+        "axis": "mood",
+        "name": "긍정적",
+        "songCount": 3,
+        "percent": 5
+      },
+      {
+        "axis": "mood",
+        "name": "댄서블",
+        "songCount": 3,
+        "percent": 5
+      },
+      {
+        "axis": "mood",
+        "name": "세련됨",
+        "songCount": 3,
+        "percent": 5
+      },
+      {
+        "axis": "mood",
+        "name": "쓸쓸함",
+        "songCount": 3,
+        "percent": 5
+      },
+      {
+        "axis": "mood",
+        "name": "애틋함",
+        "songCount": 3,
+        "percent": 5
+      },
+      {
+        "axis": "mood",
+        "name": "투명감",
+        "songCount": 3,
+        "percent": 5
+      },
+      {
+        "axis": "genre",
+        "name": "팝",
+        "songCount": 2,
+        "percent": 3
+      },
+      {
+        "axis": "genre",
+        "name": "피아노 팝",
+        "songCount": 2,
+        "percent": 3
+      },
+      {
+        "axis": "mood",
+        "name": "개방감",
+        "songCount": 2,
+        "percent": 3
+      },
+      {
+        "axis": "mood",
+        "name": "공격적",
+        "songCount": 2,
+        "percent": 3
+      },
+      {
+        "axis": "mood",
+        "name": "긴장감",
+        "songCount": 2,
+        "percent": 3
+      },
+      {
+        "axis": "mood",
+        "name": "덧없음",
+        "songCount": 2,
+        "percent": 3
+      },
+      {
+        "axis": "mood",
+        "name": "문학적",
+        "songCount": 2,
+        "percent": 3
+      },
+      {
+        "axis": "mood",
+        "name": "미니멀",
+        "songCount": 2,
+        "percent": 3
+      },
+      {
+        "axis": "mood",
+        "name": "부유감",
+        "songCount": 2,
+        "percent": 3
+      },
+      {
+        "axis": "mood",
+        "name": "소울풀",
+        "songCount": 2,
+        "percent": 3
+      },
+      {
+        "axis": "mood",
+        "name": "신비로움",
+        "songCount": 2,
+        "percent": 3
+      },
+      {
+        "axis": "mood",
+        "name": "어두움",
+        "songCount": 2,
+        "percent": 3
+      },
+      {
+        "axis": "mood",
+        "name": "여름",
+        "songCount": 2,
+        "percent": 3
+      },
+      {
+        "axis": "mood",
+        "name": "우울함",
+        "songCount": 2,
+        "percent": 3
+      },
+      {
+        "axis": "mood",
+        "name": "차분함",
+        "songCount": 2,
+        "percent": 3
+      },
+      {
+        "axis": "mood",
+        "name": "청량함",
+        "songCount": 2,
+        "percent": 3
+      },
+      {
+        "axis": "mood",
+        "name": "청춘",
+        "songCount": 2,
+        "percent": 3
+      },
+      {
+        "axis": "mood",
+        "name": "펑키",
+        "songCount": 2,
+        "percent": 3
+      },
+      {
+        "axis": "mood",
+        "name": "호소력",
+        "songCount": 2,
+        "percent": 3
+      },
+      {
+        "axis": "mood",
+        "name": "활기참",
+        "songCount": 2,
+        "percent": 3
+      },
+      {
+        "axis": "genre",
+        "name": "가스펠 팝",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "genre",
+        "name": "게임 음악",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "genre",
+        "name": "기타 록",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "genre",
+        "name": "댄스",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "genre",
+        "name": "댄스 록",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "genre",
+        "name": "디스코 펑크",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "genre",
+        "name": "베이스 하우스",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "genre",
+        "name": "보컬로이드 록",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "genre",
+        "name": "소울",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "genre",
+        "name": "소울 팝",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "genre",
+        "name": "신스팝",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "genre",
+        "name": "아이돌 팝",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "genre",
+        "name": "아이돌송",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "genre",
+        "name": "어쿠스틱",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "genre",
+        "name": "얼터너티브",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "genre",
+        "name": "오케스트럴 팝",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "genre",
+        "name": "재즈",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "genre",
+        "name": "재즈 록",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "genre",
+        "name": "피아노 록",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "genre",
+        "name": "힙합",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "mood",
+        "name": "갈등",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "mood",
+        "name": "감각적",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "mood",
+        "name": "격정적",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "mood",
+        "name": "귀여움",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "mood",
+        "name": "근미래적",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "mood",
+        "name": "다층적",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "mood",
+        "name": "독특한 전조",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "mood",
+        "name": "듀엣",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "mood",
+        "name": "레트로",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "mood",
+        "name": "로맨틱",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "mood",
+        "name": "리드미컬",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "mood",
+        "name": "마이크 릴레이",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "mood",
+        "name": "묵직한 베이스",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "mood",
+        "name": "뮤지컬풍",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "mood",
+        "name": "발라드",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "mood",
+        "name": "발랄함",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "mood",
+        "name": "밴드 사운드",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "mood",
+        "name": "변칙적",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "mood",
+        "name": "부드러움",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "mood",
+        "name": "사색적",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "mood",
+        "name": "산뜻함",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "mood",
+        "name": "소박함",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "mood",
+        "name": "스윙감",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "mood",
+        "name": "스타일리시",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "mood",
+        "name": "슬랩 베이스",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "mood",
+        "name": "심플함",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "mood",
+        "name": "약동감",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "mood",
+        "name": "업템포",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "mood",
+        "name": "여백",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "mood",
+        "name": "열정적",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "mood",
+        "name": "웅장함",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "mood",
+        "name": "위로",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "mood",
+        "name": "이별",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "mood",
+        "name": "일상",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "mood",
+        "name": "자유로움",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "mood",
+        "name": "잔잔함",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "mood",
+        "name": "재즈풍",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "mood",
+        "name": "전자음",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "mood",
+        "name": "전조",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "mood",
+        "name": "졸업",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "mood",
+        "name": "츤데레",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "mood",
+        "name": "친밀함",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "mood",
+        "name": "코러스 구성",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "mood",
+        "name": "키치함",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "mood",
+        "name": "팝",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "mood",
+        "name": "편안함",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "mood",
+        "name": "행복감",
+        "songCount": 1,
+        "percent": 2
+      },
+      {
+        "axis": "mood",
+        "name": "힘참",
+        "songCount": 1,
+        "percent": 2
+      }
+    ],
+    "songs": [
+      {
+        "id": "1288a4924415c81d",
+        "title": "瞬間ハートビート",
+        "artist": "ReGLOSS",
+        "genres": [
+          "일렉트로닉",
+          "댄스 팝"
+        ],
+        "mood_tags": [
+          "세련됨",
+          "부유감",
+          "근미래적",
+          "스타일리시"
+        ],
+        "status": "candidate",
+        "count": 110,
+        "sourceUrl": "https://www.google.com/search?q=%E7%9E%AC%E9%96%93%E3%83%8F%E3%83%BC%E3%83%88%E3%83%93%E3%83%BC%E3%83%88%20ReGLOSS"
+      },
+      {
+        "id": "a3c88dc5a25420f5",
+        "title": "晩餐歌",
+        "artist": "tuki.",
+        "genres": [
+          "제이팝",
+          "어쿠스틱"
+        ],
+        "mood_tags": [
+          "감성적",
+          "서정적",
+          "심플함",
+          "여백"
+        ],
+        "status": "candidate",
+        "count": 13,
+        "sourceUrl": "https://www.google.com/search?q=%E6%99%A9%E9%A4%90%E6%AD%8C%20tuki."
+      },
+      {
+        "id": "fa70862b1fbae1ba",
+        "title": "GREATEST",
+        "artist": "音乃瀬奏",
+        "genres": [
+          "제이팝",
+          "오케스트럴 팝"
+        ],
+        "mood_tags": [
+          "화려함",
+          "질주감",
+          "희망적",
+          "독특한 전조"
+        ],
+        "status": "candidate",
+        "count": 11,
+        "sourceUrl": "https://www.google.com/search?q=GREATEST%20%E9%9F%B3%E4%B9%83%E7%80%AC%E5%A5%8F"
+      },
+      {
+        "id": "435e50662b18432a",
+        "title": "Mela!",
+        "artist": "緑黄色社会",
+        "genres": [
+          "댄스 록",
+          "소울 팝"
+        ],
+        "mood_tags": [
+          "캐치함",
+          "그루비",
+          "화려함",
+          "에너제틱"
+        ],
+        "status": "candidate",
+        "count": 11,
+        "sourceUrl": "https://www.google.com/search?q=Mela%21%20%E7%B7%91%E9%BB%84%E8%89%B2%E7%A4%BE%E4%BC%9A"
+      },
+      {
+        "id": "536aacea82e25b97",
+        "title": "Subtitle",
+        "artist": "Official髭男dism",
+        "genres": [
+          "제이팝",
+          "발라드"
+        ],
+        "mood_tags": [
+          "드라마틱",
+          "섬세함",
+          "따뜻함",
+          "애절함"
+        ],
+        "status": "candidate",
+        "count": 9,
+        "sourceUrl": "https://www.google.com/search?q=Subtitle%20Official%E9%AB%AD%E7%94%B7dism"
+      },
+      {
+        "id": "6f4db4f28bf20b58",
+        "title": "Universe",
+        "artist": "Official髭男dism",
+        "genres": [
+          "제이팝",
+          "가스펠 팝"
+        ],
+        "mood_tags": [
+          "웅장함",
+          "소울풀",
+          "드라마틱",
+          "코러스 구성"
+        ],
+        "status": "candidate",
+        "count": 9,
+        "sourceUrl": "https://www.google.com/search?q=Universe%20Official%E9%AB%AD%E7%94%B7dism"
+      },
+      {
+        "id": "47825ccdf1e81913",
+        "title": "カタオモイ",
+        "artist": "Aimer",
+        "genres": [
+          "제이팝",
+          "발라드"
+        ],
+        "mood_tags": [
+          "따뜻함",
+          "미니멀",
+          "친밀함",
+          "어쿠스틱"
+        ],
+        "status": "candidate",
+        "count": 9,
+        "sourceUrl": "https://www.google.com/search?q=%E3%82%AB%E3%82%BF%E3%82%AA%E3%83%A2%E3%82%A4%20Aimer"
+      },
+      {
+        "id": "5343ec2bac4febad",
+        "title": "ソワレ",
+        "artist": "星街すいせい",
+        "genres": [
+          "제이팝",
+          "록"
+        ],
+        "mood_tags": [
+          "댄서블",
+          "화려함",
+          "상쾌함"
+        ],
+        "status": "candidate",
+        "count": 9,
+        "sourceUrl": "https://www.google.com/search?q=%E3%82%BD%E3%83%AF%E3%83%AC%20%E6%98%9F%E8%A1%97%E3%81%99%E3%81%84%E3%81%9B%E3%81%84"
+      },
+      {
+        "id": "81cc8d198e281aa6",
+        "title": "晴る",
+        "artist": "ヨルシカ",
+        "genres": [
+          "제이팝",
+          "기타 록"
+        ],
+        "mood_tags": [
+          "질주감",
+          "상쾌함",
+          "문학적",
+          "고양감"
+        ],
+        "status": "candidate",
+        "count": 9,
+        "sourceUrl": "https://www.google.com/search?q=%E6%99%B4%E3%82%8B%20%E3%83%A8%E3%83%AB%E3%82%B7%E3%82%AB"
+      },
+      {
+        "id": "ae24965fc8e7c34e",
+        "title": "ビビデバ",
+        "artist": "星街すいせい",
+        "genres": [
+          "제이팝",
+          "디스코 펑크"
+        ],
+        "mood_tags": [
+          "댄서블",
+          "그루비",
+          "스윙감",
+          "변칙적"
+        ],
+        "status": "candidate",
+        "count": 8,
+        "sourceUrl": "https://www.google.com/search?q=%E3%83%93%E3%83%93%E3%83%87%E3%83%90%20%E6%98%9F%E8%A1%97%E3%81%99%E3%81%84%E3%81%9B%E3%81%84"
+      },
+      {
+        "id": "8faabe5eab7aa261",
+        "title": "Lemon",
+        "artist": "米津玄師",
+        "genres": [
+          "제이팝",
+          "팝 록"
+        ],
+        "mood_tags": [
+          "애절함",
+          "감성적",
+          "서정적",
+          "희망적"
+        ],
+        "status": "candidate",
+        "count": 7,
+        "sourceUrl": "https://www.google.com/search?q=Lemon%20%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB"
+      },
+      {
+        "id": "a47e33d71e25b88d",
+        "title": "Pretender",
+        "artist": "Official髭男dism",
+        "genres": [
+          "제이팝",
+          "피아노 팝"
+        ],
+        "mood_tags": [
+          "애절함",
+          "감성적",
+          "드라마틱",
+          "세련됨"
+        ],
+        "status": "candidate",
+        "count": 7,
+        "sourceUrl": "https://www.google.com/search?q=Pretender%20Official%E9%AB%AD%E7%94%B7dism"
+      },
+      {
+        "id": "0b050ece40eaacae",
+        "title": "さよーならまたいつか！",
+        "artist": "米津玄師",
+        "genres": [
+          "제이팝"
+        ],
+        "mood_tags": [
+          "경쾌함",
+          "밝음",
+          "질주감",
+          "희망적"
+        ],
+        "status": "candidate",
+        "count": 7,
+        "sourceUrl": "https://www.google.com/search?q=%E3%81%95%E3%82%88%E3%83%BC%E3%81%AA%E3%82%89%E3%81%BE%E3%81%9F%E3%81%84%E3%81%A4%E3%81%8B%EF%BC%81%20%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB"
+      },
+      {
+        "id": "73e806edd80e5a2f",
+        "title": "ノーダウト",
+        "artist": "Official髭男dism",
+        "genres": [
+          "제이팝",
+          "피아노 팝"
+        ],
+        "mood_tags": [
+          "그루비",
+          "질주감",
+          "소울풀",
+          "경쾌함"
+        ],
+        "status": "candidate",
+        "count": 7,
+        "sourceUrl": "https://www.google.com/search?q=%E3%83%8E%E3%83%BC%E3%83%80%E3%82%A6%E3%83%88%20Official%E9%AB%AD%E7%94%B7dism"
+      },
+      {
+        "id": "c01a39d30b174c28",
+        "title": "ベテルギウス",
+        "artist": "優里",
+        "genres": [
+          "제이팝",
+          "발라드"
+        ],
+        "mood_tags": [
+          "감성적",
+          "호소력",
+          "로맨틱",
+          "애절함"
+        ],
+        "status": "candidate",
+        "count": 7,
+        "sourceUrl": "https://www.google.com/search?q=%E3%83%99%E3%83%86%E3%83%AB%E3%82%AE%E3%82%A6%E3%82%B9%20%E5%84%AA%E9%87%8C"
+      },
+      {
+        "id": "3110706d7d867ca8",
+        "title": "ワールドイズマイン",
+        "artist": "ryo",
+        "genres": [
+          "보컬로이드",
+          "제이팝"
+        ],
+        "mood_tags": [
+          "츤데레",
+          "귀여움",
+          "팝",
+          "행복감"
+        ],
+        "status": "candidate",
+        "count": 7,
+        "sourceUrl": "https://www.google.com/search?q=%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A4%E3%82%BA%E3%83%9E%E3%82%A4%E3%83%B3%20ryo"
+      },
+      {
+        "id": "1986aba7e78d7ca7",
+        "title": "地球儀",
+        "artist": "米津玄師",
+        "genres": [
+          "제이팝"
+        ],
+        "mood_tags": [
+          "소박함",
+          "향수",
+          "사색적",
+          "희망적"
+        ],
+        "status": "candidate",
+        "count": 7,
+        "sourceUrl": "https://www.google.com/search?q=%E5%9C%B0%E7%90%83%E5%84%80%20%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB"
+      },
+      {
+        "id": "15af8389b6407732",
+        "title": "天体観測",
+        "artist": "BUMP OF CHICKEN",
+        "genres": [
+          "록",
+          "제이팝"
+        ],
+        "mood_tags": [
+          "질주감",
+          "애절함",
+          "향수",
+          "이야기성"
+        ],
+        "status": "candidate",
+        "count": 7,
+        "sourceUrl": "https://www.google.com/search?q=%E5%A4%A9%E4%BD%93%E8%A6%B3%E6%B8%AC%20BUMP%20OF%20CHICKEN"
+      },
+      {
+        "id": "d8518928fa0941b6",
+        "title": "花になって",
+        "artist": "緑黄色社会",
+        "genres": [
+          "팝 록",
+          "애니메이션 음악"
+        ],
+        "mood_tags": [
+          "긴장감",
+          "공격적",
+          "신비로움",
+          "캐치함"
+        ],
+        "status": "candidate",
+        "count": 7,
+        "sourceUrl": "https://www.google.com/search?q=%E8%8A%B1%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%20%E7%B7%91%E9%BB%84%E8%89%B2%E7%A4%BE%E4%BC%9A"
+      },
+      {
+        "id": "31b203efb4aa4d17",
+        "title": "Luna say maybe",
+        "artist": "月村手毬",
+        "genres": [
+          "게임 음악",
+          "제이팝"
+        ],
+        "mood_tags": [
+          "감성적",
+          "질주감",
+          "열정적",
+          "갈등"
+        ],
+        "status": "candidate",
+        "count": 6,
+        "sourceUrl": "https://www.google.com/search?q=Luna%20say%20maybe%20%E6%9C%88%E6%9D%91%E6%89%8B%E6%AF%AC"
+      },
+      {
+        "id": "7a6ab43de2b317ef",
+        "title": "サクラキミワタシ",
+        "artist": "tuki.",
+        "genres": [
+          "제이팝",
+          "발라드"
+        ],
+        "mood_tags": [
+          "졸업",
+          "어쿠스틱",
+          "서정적",
+          "애틋함"
+        ],
+        "status": "candidate",
+        "count": 6,
+        "sourceUrl": "https://www.google.com/search?q=%E3%82%B5%E3%82%AF%E3%83%A9%E3%82%AD%E3%83%9F%E3%83%AF%E3%82%BF%E3%82%B7%20tuki."
+      },
+      {
+        "id": "427316927601a101",
+        "title": "ニア",
+        "artist": "夏代孝明",
+        "genres": [
+          "보컬로이드",
+          "제이팝"
+        ],
+        "mood_tags": [
+          "이야기성",
+          "따뜻함",
+          "서정적",
+          "애틋함"
+        ],
+        "status": "candidate",
+        "count": 6,
+        "sourceUrl": "https://www.google.com/search?q=%E3%83%8B%E3%82%A2%20%E5%A4%8F%E4%BB%A3%E5%AD%9D%E6%98%8E"
+      },
+      {
+        "id": "8eb5d2a920b4dfaf",
+        "title": "人生は夢だらけ",
+        "artist": "椎名林檎",
+        "genres": [
+          "제이팝",
+          "재즈"
+        ],
+        "mood_tags": [
+          "화려함",
+          "뮤지컬풍",
+          "드라마틱",
+          "희망적"
+        ],
+        "status": "candidate",
+        "count": 6,
+        "sourceUrl": "https://www.google.com/search?q=%E4%BA%BA%E7%94%9F%E3%81%AF%E5%A4%A2%E3%81%A0%E3%82%89%E3%81%91%20%E6%A4%8E%E5%90%8D%E6%9E%97%E6%AA%8E"
+      },
+      {
+        "id": "e60c7042b3e516c9",
+        "title": "風を食む",
+        "artist": "ヨルシカ",
+        "genres": [
+          "제이팝",
+          "록"
+        ],
+        "mood_tags": [
+          "어쿠스틱",
+          "서정적",
+          "잔잔함",
+          "문학적"
+        ],
+        "status": "candidate",
+        "count": 6,
+        "sourceUrl": "https://www.google.com/search?q=%E9%A2%A8%E3%82%92%E9%A3%9F%E3%82%80%20%E3%83%A8%E3%83%AB%E3%82%B7%E3%82%AB"
+      },
+      {
+        "id": "a287513cea15e1ff",
+        "title": "Calc.",
+        "artist": "ジミーサムP",
+        "genres": [
+          "보컬로이드 록",
+          "록"
+        ],
+        "mood_tags": [
+          "질주감",
+          "밴드 사운드",
+          "애절함",
+          "이별"
+        ],
+        "status": "candidate",
+        "count": 5,
+        "sourceUrl": "https://www.google.com/search?q=Calc.%20%E3%82%B8%E3%83%9F%E3%83%BC%E3%82%B5%E3%83%A0P"
+      },
+      {
+        "id": "c031ede55077c0b6",
+        "title": "LADY",
+        "artist": "米津玄師",
+        "genres": [
+          "제이팝"
+        ],
+        "mood_tags": [
+          "경쾌함",
+          "편안함",
+          "일상",
+          "산뜻함"
+        ],
+        "status": "candidate",
+        "count": 5,
+        "sourceUrl": "https://www.google.com/search?q=LADY%20%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB"
+      },
+      {
+        "id": "ee79f4056acc2158",
+        "title": "No Logic",
+        "artist": "ジミーサムP",
+        "genres": [
+          "록",
+          "팝"
+        ],
+        "mood_tags": [
+          "긍정적",
+          "위로",
+          "자유로움",
+          "캐치함"
+        ],
+        "status": "candidate",
+        "count": 5,
+        "sourceUrl": "https://www.google.com/search?q=No%20Logic%20%E3%82%B8%E3%83%9F%E3%83%BC%E3%82%B5%E3%83%A0P"
+      },
+      {
+        "id": "a4bb79945eedba04",
+        "title": "Our Bright Parade",
+        "artist": "hololive IDOL PROJECT",
+        "genres": [
+          "제이팝",
+          "아이돌송"
+        ],
+        "mood_tags": [
+          "밝음",
+          "질주감",
+          "화려함",
+          "고양감"
+        ],
+        "status": "candidate",
+        "count": 5,
+        "sourceUrl": "https://www.google.com/search?q=Our%20Bright%20Parade%20hololive%20IDOL%20PROJECT"
+      },
+      {
+        "id": "c11b0ad93cadf815",
+        "title": "ray",
+        "artist": "BUMP OF CHICKEN",
+        "genres": [
+          "록",
+          "제이팝"
+        ],
+        "mood_tags": [
+          "질주감",
+          "고양감",
+          "희망적",
+          "전자음"
+        ],
+        "status": "candidate",
+        "count": 5,
+        "sourceUrl": "https://www.google.com/search?q=ray%20BUMP%20OF%20CHICKEN"
+      },
+      {
+        "id": "6e79eacdafe24085",
+        "title": "はいよろこんで",
+        "artist": "こっちのけんと",
+        "genres": [
+          "제이팝",
+          "댄스 팝"
+        ],
+        "mood_tags": [
+          "중독성",
+          "댄서블",
+          "경쾌함",
+          "레트로"
+        ],
+        "status": "candidate",
+        "count": 5,
+        "sourceUrl": "https://www.google.com/search?q=%E3%81%AF%E3%81%84%E3%82%88%E3%82%8D%E3%81%93%E3%82%93%E3%81%A7%20%E3%81%93%E3%81%A3%E3%81%A1%E3%81%AE%E3%81%91%E3%82%93%E3%81%A8"
+      },
+      {
+        "id": "0e54ff2e6949d046",
+        "title": "ひまわりの約束",
+        "artist": "秦 基博",
+        "genres": [
+          "제이팝",
+          "팝 록"
+        ],
+        "mood_tags": [
+          "발라드",
+          "어쿠스틱",
+          "따뜻함",
+          "애절함"
+        ],
+        "status": "candidate",
+        "count": 5,
+        "sourceUrl": "https://www.google.com/search?q=%E3%81%B2%E3%81%BE%E3%82%8F%E3%82%8A%E3%81%AE%E7%B4%84%E6%9D%9F%20%E7%A7%A6%20%E5%9F%BA%E5%8D%9A"
+      },
+      {
+        "id": "9373590e878689f9",
+        "title": "アイドル",
+        "artist": "YOASOBI",
+        "genres": [
+          "제이팝",
+          "애니메이션 음악"
+        ],
+        "mood_tags": [
+          "중독성",
+          "질주감",
+          "다층적",
+          "전조"
+        ],
+        "status": "candidate",
+        "count": 5,
+        "sourceUrl": "https://www.google.com/search?q=%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%20YOASOBI"
+      },
+      {
+        "id": "5bf146e0f6de212e",
+        "title": "コネクト",
+        "artist": "ClariS",
+        "genres": [
+          "제이팝",
+          "신스팝"
+        ],
+        "mood_tags": [
+          "투명감",
+          "질주감",
+          "밝음",
+          "애절함"
+        ],
+        "status": "candidate",
+        "count": 5,
+        "sourceUrl": "https://www.google.com/search?q=%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%88%20ClariS"
+      },
+      {
+        "id": "5278287aa6ae806b",
+        "title": "ノーチラス",
+        "artist": "ヨルシカ",
+        "genres": [
+          "록",
+          "제이팝"
+        ],
+        "mood_tags": [
+          "서정적",
+          "애절함",
+          "투명감",
+          "이야기성"
+        ],
+        "status": "candidate",
+        "count": 5,
+        "sourceUrl": "https://www.google.com/search?q=%E3%83%8E%E3%83%BC%E3%83%81%E3%83%A9%E3%82%B9%20%E3%83%A8%E3%83%AB%E3%82%B7%E3%82%AB"
+      },
+      {
+        "id": "0261fc1e41b88801",
+        "title": "フィーリングラデーション",
+        "artist": "ReGLOSS",
+        "genres": [
+          "댄스 팝",
+          "일렉트로닉"
+        ],
+        "mood_tags": [
+          "고양감",
+          "긍정적",
+          "개방감",
+          "경쾌함"
+        ],
+        "status": "candidate",
+        "count": 5,
+        "sourceUrl": "https://www.google.com/search?q=%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20ReGLOSS"
+      },
+      {
+        "id": "6b1451e3f93717c8",
+        "title": "ホシアイ",
+        "artist": "",
+        "genres": [
+          "피아노 록",
+          "보컬로이드"
+        ],
+        "mood_tags": [
+          "서정적",
+          "애절함",
+          "질주감",
+          "감성적"
+        ],
+        "status": "candidate",
+        "count": 5,
+        "sourceUrl": "https://www.google.com/search?q=%E3%83%9B%E3%82%B7%E3%82%A2%E3%82%A4%20"
+      },
+      {
+        "id": "02a1c6d740229257",
+        "title": "ミックスナッツ",
+        "artist": "Official髭男dism",
+        "genres": [
+          "제이팝",
+          "팝 록"
+        ],
+        "mood_tags": [
+          "질주감",
+          "경쾌함",
+          "화려함",
+          "중독성"
+        ],
+        "status": "candidate",
+        "count": 5,
+        "sourceUrl": "https://www.google.com/search?q=%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E3%83%8A%E3%83%83%E3%83%84%20Official%E9%AB%AD%E7%94%B7dism"
+      },
+      {
+        "id": "b738c565357e9e0b",
+        "title": "メフィスト",
+        "artist": "女王蜂",
+        "genres": [
+          "록",
+          "제이팝"
+        ],
+        "mood_tags": [
+          "드라마틱",
+          "긴장감",
+          "어두움",
+          "격정적"
+        ],
+        "status": "candidate",
+        "count": 5,
+        "sourceUrl": "https://www.google.com/search?q=%E3%83%A1%E3%83%95%E3%82%A3%E3%82%B9%E3%83%88%20%E5%A5%B3%E7%8E%8B%E8%9C%82"
+      },
+      {
+        "id": "71f1d4ae20916035",
+        "title": "モニタリング",
+        "artist": "DECO*27",
+        "genres": [
+          "베이스 하우스",
+          "보컬로이드"
+        ],
+        "mood_tags": [
+          "중독성",
+          "캐치함",
+          "이야기성",
+          "키치함"
+        ],
+        "status": "candidate",
+        "count": 5,
+        "sourceUrl": "https://www.google.com/search?q=%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0%20DECO%2A27"
+      },
+      {
+        "id": "840a9cdc0ec33131",
+        "title": "別の人の彼女になったよ",
+        "artist": "wacci",
+        "genres": [
+          "제이팝",
+          "발라드"
+        ],
+        "mood_tags": [
+          "애절함",
+          "감성적",
+          "서정적",
+          "쓸쓸함"
+        ],
+        "status": "candidate",
+        "count": 5,
+        "sourceUrl": "https://www.google.com/search?q=%E5%88%A5%E3%81%AE%E4%BA%BA%E3%81%AE%E5%BD%BC%E5%A5%B3%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F%E3%82%88%20wacci"
+      },
+      {
+        "id": "4131f405246cce25",
+        "title": "夜明けと蛍",
+        "artist": "n-buna",
+        "genres": [
+          "록 발라드",
+          "보컬로이드"
+        ],
+        "mood_tags": [
+          "서정적",
+          "차분함",
+          "애절함",
+          "여름"
+        ],
+        "status": "candidate",
+        "count": 5,
+        "sourceUrl": "https://www.google.com/search?q=%E5%A4%9C%E6%98%8E%E3%81%91%E3%81%A8%E8%9B%8D%20n-buna"
+      },
+      {
+        "id": "ca9570d432352261",
+        "title": "小夜子",
+        "artist": "みきとP",
+        "genres": [
+          "록 발라드",
+          "보컬로이드"
+        ],
+        "mood_tags": [
+          "우울함",
+          "쓸쓸함",
+          "애절함",
+          "섬세함"
+        ],
+        "status": "candidate",
+        "count": 5,
+        "sourceUrl": "https://www.google.com/search?q=%E5%B0%8F%E5%A4%9C%E5%AD%90%20%E3%81%BF%E3%81%8D%E3%81%A8P"
+      },
+      {
+        "id": "fca9fd09a119afa1",
+        "title": "幾億光年",
+        "artist": "Omoinotake",
+        "genres": [
+          "제이팝",
+          "소울"
+        ],
+        "mood_tags": [
+          "감성적",
+          "상쾌함",
+          "그루비",
+          "애틋함"
+        ],
+        "status": "candidate",
+        "count": 5,
+        "sourceUrl": "https://www.google.com/search?q=%E5%B9%BE%E5%84%84%E5%85%89%E5%B9%B4%20Omoinotake"
+      },
+      {
+        "id": "488558ecb7538974",
+        "title": "怪獣の花唄",
+        "artist": "Vaundy",
+        "genres": [
+          "제이팝",
+          "록"
+        ],
+        "mood_tags": [
+          "질주감",
+          "캐치함",
+          "청춘",
+          "향수"
+        ],
+        "status": "candidate",
+        "count": 5,
+        "sourceUrl": "https://www.google.com/search?q=%E6%80%AA%E7%8D%A3%E3%81%AE%E8%8A%B1%E5%94%84%20Vaundy"
+      },
+      {
+        "id": "70913f29bb90b1cc",
+        "title": "恋",
+        "artist": "星野源",
+        "genres": [
+          "댄스 팝",
+          "제이팝"
+        ],
+        "mood_tags": [
+          "경쾌함",
+          "약동감",
+          "그루비",
+          "향수"
+        ],
+        "status": "candidate",
+        "count": 5,
+        "sourceUrl": "https://www.google.com/search?q=%E6%81%8B%20%E6%98%9F%E9%87%8E%E6%BA%90"
+      },
+      {
+        "id": "4b52edfab0e55dd4",
+        "title": "星座になれたら",
+        "artist": "結束バンド",
+        "genres": [
+          "록",
+          "제이팝"
+        ],
+        "mood_tags": [
+          "그루비",
+          "펑키",
+          "슬랩 베이스"
+        ],
+        "status": "candidate",
+        "count": 5,
+        "sourceUrl": "https://www.google.com/search?q=%E6%98%9F%E5%BA%A7%E3%81%AB%E3%81%AA%E3%82%8C%E3%81%9F%E3%82%89%20%E7%B5%90%E6%9D%9F%E3%83%90%E3%83%B3%E3%83%89"
+      },
+      {
+        "id": "2594a5cc590bc0f7",
+        "title": "CH4NGE",
+        "artist": "Giga",
+        "genres": [
+          "일렉트로닉",
+          "댄스"
+        ],
+        "mood_tags": [
+          "묵직한 베이스",
+          "공격적",
+          "질주감",
+          "중독성"
+        ],
+        "status": "candidate",
+        "count": 4,
+        "sourceUrl": "https://www.google.com/search?q=CH4NGE%20Giga"
+      },
+      {
+        "id": "19cafc227f1b69af",
+        "title": "Color Rise Harmony",
+        "artist": "hololive IDOL PROJECT",
+        "genres": [
+          "제이팝"
+        ],
+        "mood_tags": [
+          "화려함",
+          "캐치함",
+          "활기참",
+          "에너제틱"
+        ],
+        "status": "candidate",
+        "count": 4,
+        "sourceUrl": "https://www.google.com/search?q=Color%20Rise%20Harmony%20hololive%20IDOL%20PROJECT"
+      },
+      {
+        "id": "da1853c68b4bcd9e",
+        "title": "FG ROADSTER",
+        "artist": "FLOW GLOW",
+        "genres": [
+          "힙합",
+          "팝"
+        ],
+        "mood_tags": [
+          "마이크 릴레이",
+          "질주감",
+          "에너제틱",
+          "힘참"
+        ],
+        "status": "candidate",
+        "count": 4,
+        "sourceUrl": "https://www.google.com/search?q=FG%20ROADSTER%20FLOW%20GLOW"
+      },
+      {
+        "id": "96bb511f3b256ba2",
+        "title": "JANE DOE",
+        "artist": "米津玄師, 宇多田ヒカル",
+        "genres": [
+          "제이팝"
+        ],
+        "mood_tags": [
+          "우울함",
+          "어두움",
+          "애절함",
+          "듀엣"
+        ],
+        "status": "candidate",
+        "count": 4,
+        "sourceUrl": "https://www.google.com/search?q=JANE%20DOE%20%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB%2C%20%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB"
+      },
+      {
+        "id": "2d0fedcf0d95a314",
+        "title": "Shiny Smily Story",
+        "artist": "hololive IDOL PROJECT",
+        "genres": [
+          "제이팝",
+          "아이돌 팝"
+        ],
+        "mood_tags": [
+          "밝음",
+          "활기참",
+          "에너제틱",
+          "희망적"
+        ],
+        "status": "candidate",
+        "count": 4,
+        "sourceUrl": "https://www.google.com/search?q=Shiny%20Smily%20Story%20hololive%20IDOL%20PROJECT"
+      },
+      {
+        "id": "dd78c83e8b41c768",
+        "title": "オリオンをなぞる",
+        "artist": "UNISON SQUARE GARDEN",
+        "genres": [
+          "제이팝",
+          "록"
+        ],
+        "mood_tags": [
+          "질주감",
+          "캐치함",
+          "에너제틱",
+          "경쾌함"
+        ],
+        "status": "candidate",
+        "count": 4,
+        "sourceUrl": "https://www.google.com/search?q=%E3%82%AA%E3%83%AA%E3%82%AA%E3%83%B3%E3%82%92%E3%81%AA%E3%81%9E%E3%82%8B%20UNISON%20SQUARE%20GARDEN"
+      },
+      {
+        "id": "39900db6efb4580a",
+        "title": "シンメトリー",
+        "artist": "ReGLOSS",
+        "genres": [
+          "댄스 팝",
+          "일렉트로닉"
+        ],
+        "mood_tags": [
+          "그루비",
+          "세련됨",
+          "리드미컬",
+          "감각적"
+        ],
+        "status": "candidate",
+        "count": 4,
+        "sourceUrl": "https://www.google.com/search?q=%E3%82%B7%E3%83%B3%E3%83%A1%E3%83%88%E3%83%AA%E3%83%BC%20ReGLOSS"
+      },
+      {
+        "id": "70e1a1eb5c30291c",
+        "title": "ドライフラワー",
+        "artist": "優里",
+        "genres": [
+          "제이팝",
+          "록 발라드"
+        ],
+        "mood_tags": [
+          "애절함",
+          "감성적",
+          "쓸쓸함",
+          "호소력"
+        ],
+        "status": "candidate",
+        "count": 4,
+        "sourceUrl": "https://www.google.com/search?q=%E3%83%89%E3%83%A9%E3%82%A4%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%20%E5%84%AA%E9%87%8C"
+      },
+      {
+        "id": "a3e38ce8742bba72",
+        "title": "ブルーアンバー",
+        "artist": "back number",
+        "genres": [
+          "제이팝",
+          "록 발라드"
+        ],
+        "mood_tags": [
+          "애절함",
+          "서정적",
+          "섬세함",
+          "감성적"
+        ],
+        "status": "candidate",
+        "count": 4,
+        "sourceUrl": "https://www.google.com/search?q=%E3%83%96%E3%83%AB%E3%83%BC%E3%82%A2%E3%83%B3%E3%83%90%E3%83%BC%20back%20number"
+      },
+      {
+        "id": "65cc90d11967db63",
+        "title": "プラチナ",
+        "artist": "坂本真綾",
+        "genres": [
+          "제이팝",
+          "애니메이션 음악"
+        ],
+        "mood_tags": [
+          "상쾌함",
+          "긍정적",
+          "개방감",
+          "투명감"
+        ],
+        "status": "candidate",
+        "count": 4,
+        "sourceUrl": "https://www.google.com/search?q=%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A%20%E5%9D%82%E6%9C%AC%E7%9C%9F%E7%B6%BE"
+      },
+      {
+        "id": "ddebb861162ecb95",
+        "title": "メルト",
+        "artist": "ryo",
+        "genres": [
+          "보컬로이드",
+          "제이팝"
+        ],
+        "mood_tags": [
+          "상쾌함",
+          "질주감",
+          "드라마틱",
+          "애절함"
+        ],
+        "status": "candidate",
+        "count": 4,
+        "sourceUrl": "https://www.google.com/search?q=%E3%83%A1%E3%83%AB%E3%83%88%20ryo"
+      },
+      {
+        "id": "b8cf5eaa1fa6d397",
+        "title": "不可思議のカルテ",
+        "artist": "瀬戸麻沙美、東山奈央、種﨑敦美、内田真礼、久保ユリカ、水瀬いのり",
+        "genres": [
+          "애니메이션 음악",
+          "재즈 록"
+        ],
+        "mood_tags": [
+          "재즈풍",
+          "부유감",
+          "애절함",
+          "신비로움"
+        ],
+        "status": "candidate",
+        "count": 4,
+        "sourceUrl": "https://www.google.com/search?q=%E4%B8%8D%E5%8F%AF%E6%80%9D%E8%AD%B0%E3%81%AE%E3%82%AB%E3%83%AB%E3%83%86%20%E7%80%AC%E6%88%B8%E9%BA%BB%E6%B2%99%E7%BE%8E%E3%80%81%E6%9D%B1%E5%B1%B1%E5%A5%88%E5%A4%AE%E3%80%81%E7%A8%AE%EF%A8%91%E6%95%A6%E7%BE%8E%E3%80%81%E5%86%85%E7%94%B0%E7%9C%9F%E7%A4%BC%E3%80%81%E4%B9%85%E4%BF%9D%E3%83%A6%E3%83%AA%E3%82%AB%E3%80%81%E6%B0%B4%E7%80%AC%E3%81%84%E3%81%AE%E3%82%8A"
+      },
+      {
+        "id": "9a7fe6c81987ce6f",
+        "title": "変わらないもの",
+        "artist": "奥 華子",
+        "genres": [
+          "제이팝",
+          "발라드"
+        ],
+        "mood_tags": [
+          "애절함",
+          "덧없음",
+          "감성적",
+          "섬세함"
+        ],
+        "status": "candidate",
+        "count": 4,
+        "sourceUrl": "https://www.google.com/search?q=%E5%A4%89%E3%82%8F%E3%82%89%E3%81%AA%E3%81%84%E3%82%82%E3%81%AE%20%E5%A5%A5%20%E8%8F%AF%E5%AD%90"
+      },
+      {
+        "id": "0b1982e5a4c38916",
+        "title": "夜撫でるメノウ",
+        "artist": "Ayase",
+        "genres": [
+          "보컬로이드",
+          "제이팝"
+        ],
+        "mood_tags": [
+          "부드러움",
+          "애절함",
+          "덧없음",
+          "감성적"
+        ],
+        "status": "candidate",
+        "count": 4,
+        "sourceUrl": "https://www.google.com/search?q=%E5%A4%9C%E6%92%AB%E3%81%A7%E3%82%8B%E3%83%A1%E3%83%8E%E3%82%A6%20Ayase"
+      },
+      {
+        "id": "e621fe40176395c6",
+        "title": "少女レイ",
+        "artist": "みきとP",
+        "genres": [
+          "보컬로이드",
+          "제이팝"
+        ],
+        "mood_tags": [
+          "어쿠스틱",
+          "청량함",
+          "여름",
+          "애절함"
+        ],
+        "status": "candidate",
+        "count": 4,
+        "sourceUrl": "https://www.google.com/search?q=%E5%B0%91%E5%A5%B3%E3%83%AC%E3%82%A4%20%E3%81%BF%E3%81%8D%E3%81%A8P"
+      },
+      {
+        "id": "e66edd7974950d12",
+        "title": "忘れてください",
+        "artist": "ヨルシカ",
+        "genres": [
+          "제이팝",
+          "얼터너티브"
+        ],
+        "mood_tags": [
+          "서정적",
+          "차분함",
+          "미니멀",
+          "애절함"
+        ],
+        "status": "candidate",
+        "count": 4,
+        "sourceUrl": "https://www.google.com/search?q=%E5%BF%98%E3%82%8C%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%20%E3%83%A8%E3%83%AB%E3%82%B7%E3%82%AB"
+      },
+      {
+        "id": "a0452148a79630cd",
+        "title": "恋愛裁判",
+        "artist": "40mP",
+        "genres": [
+          "보컬로이드",
+          "제이팝"
+        ],
+        "mood_tags": [
+          "경쾌함",
+          "펑키",
+          "밝음",
+          "질주감"
+        ],
+        "status": "candidate",
+        "count": 4,
+        "sourceUrl": "https://www.google.com/search?q=%E6%81%8B%E6%84%9B%E8%A3%81%E5%88%A4%2040mP"
+      },
+      {
+        "id": "36f08d05d5278736",
+        "title": "気まぐれロマンティック",
+        "artist": "いきものがかり",
+        "genres": [
+          "제이팝"
+        ],
+        "mood_tags": [
+          "업템포",
+          "캐치함",
+          "화려함",
+          "발랄함"
+        ],
+        "status": "candidate",
+        "count": 4,
+        "sourceUrl": "https://www.google.com/search?q=%E6%B0%97%E3%81%BE%E3%81%90%E3%82%8C%E3%83%AD%E3%83%9E%E3%83%B3%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%20%E3%81%84%E3%81%8D%E3%82%82%E3%81%AE%E3%81%8C%E3%81%8B%E3%82%8A"
+      },
+      {
+        "id": "74f28d1e89839fde",
+        "title": "群青讃歌",
+        "artist": "Eve",
+        "genres": [
+          "제이팝",
+          "록"
+        ],
+        "mood_tags": [
+          "청량함",
+          "질주감",
+          "청춘",
+          "희망적"
+        ],
+        "status": "candidate",
+        "count": 4,
+        "sourceUrl": "https://www.google.com/search?q=%E7%BE%A4%E9%9D%92%E8%AE%83%E6%AD%8C%20Eve"
+      }
+    ]
+  },
   "years": [
     {
       "year": "2026",

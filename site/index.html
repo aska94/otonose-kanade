@@ -36,6 +36,29 @@
         <ol id="top-songs" class="ranking-list" aria-label="Most played songs"></ol>
       </section>
 
+      <section class="content-section tag-section" aria-labelledby="tag-heading">
+        <div class="section-heading">
+          <p class="section-kicker">Song genre</p>
+          <h2 id="tag-heading">장르와 음악적 특징</h2>
+          <p>수집된 AI 검색 결과 · 한국어 태그</p>
+        </div>
+        <div class="tag-overview">
+          <p class="tag-coverage"><strong id="tag-coverage">–</strong><span>곡명·아티스트 기준 조회 완료</span></p>
+          <p id="tag-explanation" class="tag-explanation"></p>
+        </div>
+        <h3 class="tag-chart-heading">주요 장르</h3>
+        <div id="tag-chart" class="tag-chart" aria-label="수집된 곡의 주요 장르 분포"></div>
+        <h3 class="tag-chart-heading">주요 분위기·특징</h3>
+        <div id="mood-chart" class="tag-chart" aria-label="수집된 곡의 주요 분위기와 특징 분포"></div>
+        <p id="tag-genre-note" class="tag-genre-note"></p>
+        <div class="tag-list-toolbar">
+          <h3 class="tag-list-heading">곡별 장르와 특징 <span id="feature-result-count"></span></h3>
+          <label class="feature-search">곡·아티스트·태그 검색<input id="feature-search" type="search" placeholder="예: 발라드, 질주감, ReGLOSS" /></label>
+        </div>
+        <p id="feature-empty" class="tag-empty" hidden>일치하는 곡이 없습니다.</p>
+        <ol id="tag-songs" class="tag-song-list"></ol>
+      </section>
+
       <section class="content-section year-section">
         <div class="section-heading">
           <p class="section-kicker">By year</p>
